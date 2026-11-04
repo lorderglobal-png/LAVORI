@@ -1,0 +1,794 @@
+{
+ "cfg": {
+  "slug": "azienda-immobiliare",
+  "nome": "Azienda Immobiliare",
+  "home": "https://www.aziendaimmobiliare.it/",
+  "index": [
+   "https://www.aziendaimmobiliare.it/residenziali/"
+  ],
+  "rx": "aziendaimmobiliare[.]it/immobili/[a-z0-9-]+/?$",
+  "n": 6,
+  "contact": "https://www.aziendaimmobiliare.it/contatti/"
+ },
+ "home": {
+  "title": "Azienda Immobiliare - Affitto e vendita immobili a San Lazzaro e Bologna",
+  "desc": "L'agenzia immobiliare n.1 di San Lazzaro, Bologna. Cerca tra decine di case, appartamenti, uffici e negozi in affitto e in vendita. Trova il tuo immobile!",
+  "emails": [
+   "jussi@aziendaimmobiliare.it",
+   "emilia@aziendaimmobiliare.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.aziendaimmobiliare.it/wp-content/uploads/2017/01/logo-rettangolare-medium.png",
+   "https://www.aziendaimmobiliare.it/wp-content/uploads/2017/01/logo-rettangolare-small.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Roboto, sans-serif"
+  },
+  "header": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Roboto, sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Roboto, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Montserrat, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(85, 85, 85)",
+   "font": "Roboto, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgb(230, 50, 31)",
+    9
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    7
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    275
+   ],
+   [
+    "rgb(0, 0, 0)",
+    18
+   ],
+   [
+    "rgb(255, 255, 255)",
+    13
+   ],
+   [
+    "rgb(51, 51, 51)",
+    8
+   ],
+   [
+    "rgb(230, 50, 31)",
+    8
+   ],
+   [
+    "rgb(36, 36, 36)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "rgb(0, 174, 239)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(119, 119, 119)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 0, 0)",
+    24
+   ],
+   [
+    "rgb(255, 255, 255)",
+    20
+   ],
+   [
+    "rgb(85, 85, 85)",
+    1
+   ],
+   [
+    "rgb(10, 10, 10)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Roboto, sans-serif",
+    93
+   ],
+   [
+    "Montserrat, sans-serif",
+    28
+   ]
+  ],
+  "heads": [
+   "Valutazioni Online",
+   "Residenziali recenti",
+   "Commerciali recenti",
+   "Cantieri recenti",
+   "Valutazione Immobile",
+   "Affitto",
+   "Lavora con Noi",
+   "Informativa"
+  ],
+  "addr": "Via Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | ",
+  "final": "https://www.aziendaimmobiliare.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.aziendaimmobiliare.it/contatti/",
+  "emails": [
+   "jussi@aziendaimmobiliare.it",
+   "emilia@aziendaimmobiliare.it"
+  ],
+  "tels": [],
+  "addr": "Via Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | "
+ },
+ "candidates": [
+  "https://www.aziendaimmobiliare.it/immobili/bologna-centro-via-lame/",
+  "https://www.aziendaimmobiliare.it/immobili/villa-a-schiera-con-doppio-giardino-privato/",
+  "https://www.aziendaimmobiliare.it/immobili/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano/",
+  "https://www.aziendaimmobiliare.it/immobili/negozio-san-lazzaro-di-savena/",
+  "https://www.aziendaimmobiliare.it/immobili/ufficio-a-reddito-bologna-centergross/",
+  "https://www.aziendaimmobiliare.it/immobili/capannone-a-reddito-anzola-dellemilia-centro-ca-doro/",
+  "https://www.aziendaimmobiliare.it/immobili/residenza-neoclassica-in-emilia-ponente/",
+  "https://www.aziendaimmobiliare.it/immobili/nuova-costruzione-pianoro/",
+  "https://www.aziendaimmobiliare.it/immobili/appartamento-in-vendita-san-lazzaro-centro-oasi-di-tranquillita-e-comfort/",
+  "https://www.aziendaimmobiliare.it/immobili/appartamento-luminoso-bologna-quartiere-savena/",
+  "https://www.aziendaimmobiliare.it/immobili/ponticella-ultimo-piano-tranquillita-e-comfort-a-due-passi-da-bologna/",
+  "https://www.aziendaimmobiliare.it/immobili/elegante-dimora-dal-fascino-senza-tempo-bologna-centro/",
+  "https://www.aziendaimmobiliare.it/immobili/attico-via-venezia-con-terrazzo-di-40mq/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.aziendaimmobiliare.it/immobili/bologna-centro-via-lame/",
+   "title": "Bologna centro via Lame - Azienda Immobiliare",
+   "h1": "Bologna centro via Lame",
+   "h2": [
+    "Descrizione",
+    "Bologna centro via Lame",
+    "Dettagli",
+    "Caratteristiche",
+    "Visti di recente",
+    "San Lazzaro centro piano alto"
+   ],
+   "ogTitle": "Bologna centro via Lame - Azienda Immobiliare",
+   "ogImage": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13.jpg",
+   "ogDesc": "Bologna centro via Lame, al 2° piano con ascensore appartamento di ingresso, cucina abitabile, sala, due bagni, due camere, lavanderia balcone",
+   "desc": "Bologna centro via Lame, al 2° piano con ascensore appartamento di ingresso, cucina abitabile, sala, due bagni, due camere, lavanderia balcone",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/\",\"name\":\"Bologna centro via Lame - Azienda Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/11\\/13.jpg\",\"datePublished\":\"2026-11-03T16:29:39+00:00\",\"dateModified\":\"2026-11-03T16:34:08+00:00\",\"description\":\"Bologna centro via Lame, al 2° piano con ascensore appartamento di ingresso, cucina abitabile, sala, due bagni, due camere, lavanderia balcone\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/#primaryimage\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/11\\/13.jpg\",\"contentUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/11\\/13.jpg\",\"width\":1448,\"height\":1086},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/bologna-centro-via-lame\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incarichi\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bologna centro via Lame\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\",\"name\":\"Azienda Immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.aziendaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/15-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/16-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/1-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/2-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/3-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/4-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    }
+   ],
+   "bgs": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/16-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/1-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/2-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/3-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/4-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/5-810x430.jpg"
+   ],
+   "dataSrc": [
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fbologna-centro-via-lame%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13-1024x768.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fbologna-centro-via-lame%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13-1024x768.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fbologna-centro-via-lame%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13-1024x768.jpg"
+   ],
+   "descBlock": "Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                            Tutte le Città Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Vendita / Affitto Affitto Vendita                                        Vendita / Affitto Vendita / Affitto Affitto Vendita                                                                                                                                                                                                                                                                                           Tipologia Cantieri Commerciali Residenziali                                        Tipologia Tipologia Cantieri Commerciali Residenziali                                                                                                                                                                                                                                  Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                        Tutti i tipi Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Prezzo Da €200 a €2.500.000                                                                                                                                                                                                                                                                                                                                                                                                                                      Altre caratteristiche                                                                                                                                                                                          ArredatoAscensoreBalconeGarageGiardinoTerrazzo                                                                                                                                                                 Cerca",
+   "text": "RESIDENZIALI\nCOMMERCIALI\nCANTIERI\nCHI SIAMO\nSERVIZI\nVALUTAZIONI\nRECENSIONI\nCONTATTI\nTutte le Città\n \nTipologia\n \nTutti i tipi\n \nVendita / Affitto\n \nEspandi ricerca\nCERCA\nConfronta\nHomeAppartamentoResidenzialiBologna centro via Lame\nBologna centro via Lame\n\tVENDITA\n \n€430.000\nPrevious\nNext\n \nDescrizione\nBologna centro via Lame\n\nBologna centro via Lame, nel quartiere Lame, in una zona residenziale particolarmente comoda ai servizi, ai supermercati, proponiamo un appartamento di 100 mq, situato al secondo piano di una palazzina servita da ascensore.\n\nL’abitazione si presenta in ottimo stato di manutenzione, con ambienti ben distribuiti e una piacevole luminosità naturale grazie all’esposizione a est-ovest. La zona giorno comprende un soggiorno con ampia cucina abitabile, organizzato per offrire uno spazio accogliente e funzionale, mentre la zona notte dispone di due camere matrimoniali e due bagni oltre ad un pratico ripostiglio lavanderia. Completa gli spazi abitativi un balcone, che permette di godere di un piacevole affaccio esterno, ed una cantina.\n\nL’appartamento è stato interessato da diversi interventi di ristrutturazione, tra cui l’installazione di infissi a basso emissivo, nuove tapparelle e cassonetti. Rifacimento totale dei bagni, gli impianti sono a norma e dotati delle relative certificazioni, mentre il sistema di climatizzazione caldo/freddo consente di gestire il comfort degli ambienti nelle diverse stagioni. Il riscaldamento è centralizzato con contabilizzazione individuale dei consumi.\n\nCompletano la proprietà una cantina sempre comoda come spazio di stoccaggio.\n\nUna soluzione interessante per chi cerca un appartamento luminoso, già in ottime condizioni e con importanti aggiornamenti tecnici, in un quartiere che offre la praticità dei servizi cittadini e le comodità che offre il centro di Bologna.\n\nCertificazione energetica Classe D EP gl,nren 115,04 Kwh/mq/anno\n\nVuoi vendere o permutare il tuo immobile. Vorresti conoscere il valore di casa tua? Chiedi ai nostri professionisti una valutazione. Il servizio comprende una accurata analisi comparativa degli immobili recentemente venduti nella zona oltre a quelli già in vendita. Vi daremo una consulenza dettagliata scegliendo insieme a voi la migliore strategia di promozione. Puoi provare il nostro servizio di valutazione on-line cliccando su www.aziendaimmobiliare.it  Ti chiediamo di compilare i campi richiesti e riceverai subito un valore, che potrai affinare chiamando i nostri agenti.\n\nDettagli\nID Immobile: 23626\nPrezzo: €430.000\nDimensioni: 100 m²\nLocali 4\nCaratteristiche\nAscensore\nBalcone\n Damiano Spedicato\n051 454133\njussi@aziendaimmobiliare.it\nVedi le Mie Proprietà\nRichiedi info\nVisti di recente\n\t\nSan Lazzaro centro piano alto\n€290.000\n\n80 m²\n\nAppartamento, Residenziali\n\n\t\nVilla Storica con Parco e Piscina e depandance a Bologna-San Lazzaro\n€ 1.950.000\n\n850 m²\n\nResidenziali, Ville\n\n\t\nBologna zona Fossolo loft con terrazzo abitabile\n€170.000\n\n45 m²\n\nAppartamento, Residenziali\n\nAzienda Immobiliare\n\nDal settembre del 1987, lo Studio San Lazzaro s.r.l. è presente sul territorio di San Lazzaro di Savena.\n\nScopri di più \n\nSeguici su:\n  \nContatti Sede Via Jussi\n Via Jussi 79/d – San Lazzaro di Savena (BO)\n +39 051 45 41 33\n jussi@aziendaimmobiliare.it\n\nScrivici \n\nContatti Sede Via Emilia\n Via Emilia 54 – San Lazzaro di Savena (BO)\n +39 051 45 56 98\n emilia@aziendaimmobiliare.it\n\nScrivici \n\nVia Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | P.IVA: 00678031204 C.F. 03927990378 | REA: BO-325975 | Cap. Soc.: €10.400,00 i.v.\n\n© 2017-2026 Studio San Lazzaro S.r.l. Tutti i diritti riservati. | Sviluppato da Babini Mazzari\nPrivacy Policy | Cookie Policy | Sviluppato da D4",
+   "parsed": {
+    "prezzo": "€430.000",
+    "mq": "100",
+    "locali": "4",
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "D",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/15-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/16-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/1-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/2-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/3-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/4-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/16-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/1-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/2-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/3-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/4-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/5-810x430.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fbologna-centro-via-lame%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13-1024x768.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fbologna-centro-via-lame%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13-1024x768.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fbologna-centro-via-lame%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13-1024x768.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/13.jpg"
+  },
+  {
+   "url": "https://www.aziendaimmobiliare.it/immobili/villa-a-schiera-con-doppio-giardino-privato/",
+   "title": "Villa a schiera con doppio giardino privato - Azienda Immobiliare",
+   "h1": "Villa a schiera con doppio giardino privato",
+   "h2": [
+    "Descrizione",
+    "Dettagli",
+    "Caratteristiche",
+    "Planimetrie",
+    "Piano terra",
+    "Primo piano"
+   ],
+   "ogTitle": "Villa a schiera con doppio giardino privato - Azienda Immobiliare",
+   "ogImage": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979.jpg",
+   "ogDesc": "VILLA A SCHIERA CON DOPPIO GIARDINO PRIVATO, CAMINO E POSSIBILITÀ DI RICAVARE DUE APPARTAMENTI Indipendenza, comfort e versatilità: una proprietà dalle molteplici possibilità abitative. Proponiamo in vendita una particolare villa a schiera, caratterizzata da una peculiarità decisamente interessante: pur inserita in un contesto residenziale a schiera, non presenta pareti confinanti con altre abitazioni, offrendo un […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/\",\"name\":\"Villa a schiera con doppio giardino privato - Azienda Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/11\\/ANE7979.jpg\",\"datePublished\":\"2026-11-03T14:20:18+00:00\",\"dateModified\":\"2026-11-03T14:22:05+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/#primaryimage\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/11\\/ANE7979.jpg\",\"contentUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/11\\/ANE7979.jpg\",\"width\":1899,\"height\":1266},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/villa-a-schiera-con-doppio-giardino-privato\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incarichi\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Villa a schiera con doppio giardino privato\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\",\"name\":\"Azienda Immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.aziendaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7992-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7993-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7982-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7987-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7989-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    }
+   ],
+   "bgs": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7993-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7982-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7987-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7989-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7990-810x430.jpg"
+   ],
+   "dataSrc": [
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fvilla-a-schiera-con-doppio-giardino-privato%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1024x683.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fvilla-a-schiera-con-doppio-giardino-privato%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1024x683.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/PIANO-TERRA.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/PRIMO-PIANO.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/PIANO-INTERRATO.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fvilla-a-schiera-con-doppio-giardino-privato%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1024x683.jpg"
+   ],
+   "descBlock": "Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                            Tutte le Città Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Vendita / Affitto Affitto Vendita                                        Vendita / Affitto Vendita / Affitto Affitto Vendita                                                                                                                                                                                                                                                                                           Tipologia Cantieri Commerciali Residenziali                                        Tipologia Tipologia Cantieri Commerciali Residenziali                                                                                                                                                                                                                                  Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                        Tutti i tipi Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Prezzo Da €200 a €2.500.000                                                                                                                                                                                                                                                                                                                                                                                                                                      Altre caratteristiche                                                                                                                                                                                          ArredatoAscensoreBalconeGarageGiardinoTerrazzo                                                                                                                                                                 Cerca",
+   "text": "RESIDENZIALI\nCOMMERCIALI\nCANTIERI\nCHI SIAMO\nSERVIZI\nVALUTAZIONI\nRECENSIONI\nCONTATTI\nTutte le Città\n \nTipologia\n \nTutti i tipi\n \nVendita / Affitto\n \nEspandi ricerca\nCERCA\nConfronta\nHomeResidenzialiVilleVilla a schiera con doppio giardino privato\nVilla a schiera con doppio giardino privato\n\tVENDITA\n \n€460.000\nPrevious\nNext\nDescrizione\nVILLA A SCHIERA CON DOPPIO GIARDINO PRIVATO, CAMINO E POSSIBILITÀ DI RICAVARE DUE APPARTAMENTI\nIndipendenza, comfort e versatilità: una proprietà dalle molteplici possibilità abitative. Proponiamo in vendita una particolare villa a schiera, caratterizzata da una peculiarità decisamente interessante: pur inserita in un contesto residenziale a schiera, non presenta pareti confinanti con altre abitazioni, offrendo un piacevole senso di privacy e indipendenza. La proprietà si sviluppa su tre livelli e dispone di due giardini privati, quattro camere potenziali e ambienti accessori che ne valorizzano ulteriormente la funzionalità.\nPIANO TERRA: L’ingresso introduce al soggiorno con camino, cucina abitabile, una camera aggiuntiva ideale anche come studio o stanza per gli ospiti, un bagno e l’accesso diretto al primo giardino privato completano questo livello.\nPRIMO PIANO: Il piano superiore ospita tre camere da letto, un bagno, un balcone e l’accesso al secondo giardino privato, un ulteriore spazio esterno.\nPIANO INTERRATO: La proprietà dispone inoltre di un piano interrato organizzato con una zona adibita a taverna, lavanderia e cantina.\nCOMFORT E INTERVENTI DI MIGLIORIA Nel corso degli anni l’immobile è stato interessato da alcuni interventi di miglioramento: una ristrutturazione parziale eseguita nel 2007 e la realizzazione del cappotto termico nel 2001. Vi è un impianto di climatizzazione e tapparelle elettriche. Uno degli aspetti più interessanti di questa villa è la possibilità di valutare una diversa organizzazione degli spazi interni, con l’eventuale realizzazione di due unità abitative dotate di ingressi indipendenti. Una soluzione particolarmente interessante per famiglie con genitori e figli.\nCARATTERISTICHE PRINCIPALI:\nVilla a schiera senza pareti confinanti con altre abitazioni\nSviluppo su tre livelli\nDue giardini privati\nQuattro camere potenziali\nSoggiorno con camino\nCucina abitabile\nDue bagni\nBalcone Taverna, lavanderia e cantina\nRistrutturazione parziale nel 2007\nCappotto termico realizzato nel 2001\nImpianto di climatizzazione\nTapparelle elettriche\nPossibilità di valutare la realizzazione di due unità abitative con ingressi indipendenti\nCertificazione energetica in fase di rilascio\nDettagli\nID Immobile: 23644\nPrezzo: €460.000\nDimensioni: 200 m²\nLocali 5\nCaratteristiche\nBalcone\nGarage\nGiardino\nPlanimetrie\nPiano terra\n» Mostra\nPrimo piano\n» Mostra\nPiano interrato\n» Mostra\n Filippo Ghelli\n051 454133\njussi@aziendaimmobiliare.it\nVedi le Mie Proprietà\nRichiedi info\nVisti di recente\n\t\nNegozio a Rastignano con canna fumaria\n€1.000\n\n60 m²\n\nCommerciali, Negozio\n\n\t\nSan Lazzaro centro piano alto\n€290.000\n\n80 m²\n\nAppartamento, Residenziali\n\n\t\nVilla Storica con Parco e Piscina e depandance a Bologna-San Lazzaro\n€ 1.950.000\n\n850 m²\n\nResidenziali, Ville\n\nAzienda Immobiliare\n\nDal settembre del 1987, lo Studio San Lazzaro s.r.l. è presente sul territorio di San Lazzaro di Savena.\n\nScopri di più \n\nSeguici su:\n  \nContatti Sede Via Jussi\n Via Jussi 79/d – San Lazzaro di Savena (BO)\n +39 051 45 41 33\n jussi@aziendaimmobiliare.it\n\nScrivici \n\nContatti Sede Via Emilia\n Via Emilia 54 – San Lazzaro di Savena (BO)\n +39 051 45 56 98\n emilia@aziendaimmobiliare.it\n\nScrivici \n\nVia Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | P.IVA: 00678031204 C.F. 03927990378 | REA: BO-325975 | Cap. Soc.: €10.400,00 i.v.\n\n© 2017-2026 Studio San Lazzaro S.r.l. Tutti i diritti riservati. | Sviluppato da Babini Mazzari\nPrivacy Policy | Cookie Policy | Sviluppato da D4",
+   "parsed": {
+    "prezzo": "€460.000",
+    "mq": "200",
+    "locali": "5",
+    "camere": null,
+    "bagni": null,
+    "piano": "terra",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7992-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7993-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7982-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7987-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7989-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7993-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7982-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7987-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7989-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7990-810x430.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fvilla-a-schiera-con-doppio-giardino-privato%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1024x683.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fvilla-a-schiera-con-doppio-giardino-privato%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1024x683.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/PIANO-TERRA.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/PRIMO-PIANO.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/PIANO-INTERRATO.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fvilla-a-schiera-con-doppio-giardino-privato%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979-1024x683.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/11/ANE7979.jpg"
+  },
+  {
+   "url": "https://www.aziendaimmobiliare.it/immobili/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano/",
+   "title": "Luminosità 4°piano spazi da personalizzare - Azienda Immobiliare",
+   "h1": "Luminosità 4°piano spazi da personalizzare",
+   "h2": [
+    "Descrizione",
+    "Dettagli",
+    "Caratteristiche",
+    "Planimetrie",
+    "Planimetria",
+    "Proprietà Simili"
+   ],
+   "ogTitle": "Luminosità 4°piano spazi da personalizzare - Azienda Immobiliare",
+   "ogImage": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-1024x683.png",
+   "ogDesc": "AMPIA METRATURA, LUMINOSITÀ E SPAZI DA PERSONALIZZARE – 110 MQ AL QUARTO PIANO In vendita appartamento di 110 mq al quarto piano, caratterizzato da un’ottima esposizione, ambienti luminosi e spazi ampi e ben distribuiti. L’ingresso conduce alla zona giorno, composta da una spaziosa sala e da una cucina abitabile, ambienti comodi e ben proporzionati, con […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/\",\"name\":\"Luminosità 4°piano spazi da personalizzare - Azienda Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF.png\",\"datePublished\":\"2026-10-27T11:06:46+00:00\",\"dateModified\":\"2026-10-27T14:52:51+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/#primaryimage\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF.png\",\"contentUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF.png\",\"width\":1536,\"height\":1024},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ampia-metratura-luminosita-e-spazi-da-personalizzare-110-mq-al-quarto-piano\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incarichi\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Luminosità 4°piano spazi da personalizzare\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\",\"name\":\"Azienda Immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.aziendaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-1170x738.png",
+     "w": 1170,
+     "h": 738,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7968-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7966-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7948-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7939-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7940-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/PIANTA-1-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-810x430.png",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7968-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7966-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7948-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7939-810x430.jpg"
+   ],
+   "dataSrc": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/PIANTA-1.jpg"
+   ],
+   "descBlock": "Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                            Tutte le Città Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Vendita / Affitto Affitto Vendita                                        Vendita / Affitto Vendita / Affitto Affitto Vendita                                                                                                                                                                                                                                                                                           Tipologia Cantieri Commerciali Residenziali                                        Tipologia Tipologia Cantieri Commerciali Residenziali                                                                                                                                                                                                                                  Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                        Tutti i tipi Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Prezzo Da €200 a €2.500.000                                                                                                                                                                                                                                                                                                                                                                                                                                      Altre caratteristiche                                                                                                                                                                                          ArredatoAscensoreBalconeGarageGiardinoTerrazzo                                                                                                                                                                 Cerca",
+   "text": "RESIDENZIALI\nCOMMERCIALI\nCANTIERI\nCHI SIAMO\nSERVIZI\nVALUTAZIONI\nRECENSIONI\nCONTATTI\nTutte le Città\n \nTipologia\n \nTutti i tipi\n \nVendita / Affitto\n \nEspandi ricerca\nCERCA\nConfronta\nHomeAppartamentoResidenzialiLuminosità 4°piano spazi da personalizzare\nLuminosità 4°piano spazi da personalizzare\n\tVENDITA\n \n€390.000\nPrevious\nNext\n \nDescrizione\nAMPIA METRATURA, LUMINOSITÀ E SPAZI DA PERSONALIZZARE – 110 MQ AL QUARTO PIANO\nIn vendita appartamento di 110 mq al quarto piano, caratterizzato da un’ottima esposizione, ambienti luminosi e spazi ampi e ben distribuiti. L’ingresso conduce alla zona giorno, composta da una spaziosa sala e da una cucina abitabile, ambienti comodi e ben proporzionati, con accesso a un ampio balcone che offre uno sfogo esterno. La zona notte è separata da un pratico disimpegno e comprende due camere matrimoniali e due bagni finestrati. La metratura generosa e la disposizione interna rappresentano un importante valore aggiunto: la distribuzione degli ambienti consente di valutare una diversa organizzazione degli spazi, con la possibilità di ricavare una terza camera. Il piano alto, la luminosità e l’ottima esposizione rendono gli ambienti particolarmente piacevoli, mentre l’assenza di barriere architettoniche facilita l’accesso all’abitazione. Completano la proprietà una cantina e un garage a € 30.000 Alcune immagini presenti nell’annuncio sono state rielaborate con l’ausilio della intelligenza artificiale, per mostrare una possibile idea di ammodernamento e valorizzazione degli ambienti.\nClasse Energetica E EP gl,nren 168,22 Kw h/mq anno\nDettagli\nID Immobile: 23587\nPrezzo: €390.000\nDimensioni: 110 m²\nLocali 3\nCaratteristiche\nAscensore\nBalcone\nGarage\nPlanimetrie\nPlanimetria\n» Mostra\nProprietà Simili\nVENDITA\n€340.000\n \nAppartamento in Vendita San Lazzaro centro – Oasi di Tranquillità e Comfort\n\nm²: 95\n\nAppartamento, Residenziali\n\n\t\nDettagli \n\n Massimo Di Girolamo\n\nVENDITA\n€360.000\n \nAmpio appartamento 104 mq zona Fossolo Bologna\n\nm²: 104\n\nAppartamento, Residenziali\n\n\t\nDettagli \n\n Alessandro Vannini\n\n Filippo Ghelli\n051 454133\njussi@aziendaimmobiliare.it\nVedi le Mie Proprietà\nRichiedi info\nVisti di recente\n\t\nSan Lazzaro centro piano alto\n€290.000\n\n80 m²\n\nAppartamento, Residenziali\n\n\t\nVilla Storica con Parco e Piscina e depandance a Bologna-San Lazzaro\n€ 1.950.000\n\n850 m²\n\nResidenziali, Ville\n\n\t\nBologna zona Fossolo loft con terrazzo abitabile\n€170.000\n\n45 m²\n\nAppartamento, Residenziali\n\nAzienda Immobiliare\n\nDal settembre del 1987, lo Studio San Lazzaro s.r.l. è presente sul territorio di San Lazzaro di Savena.\n\nScopri di più \n\nSeguici su:\n  \nContatti Sede Via Jussi\n Via Jussi 79/d – San Lazzaro di Savena (BO)\n +39 051 45 41 33\n jussi@aziendaimmobiliare.it\n\nScrivici \n\nContatti Sede Via Emilia\n Via Emilia 54 – San Lazzaro di Savena (BO)\n +39 051 45 56 98\n emilia@aziendaimmobiliare.it\n\nScrivici \n\nVia Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | P.IVA: 00678031204 C.F. 03927990378 | REA: BO-325975 | Cap. Soc.: €10.400,00 i.v.\n\n© 2017-2026 Studio San Lazzaro S.r.l. Tutti i diritti riservati. | Sviluppato da Babini Mazzari\nPrivacy Policy | Cookie Policy | Sviluppato da D4",
+   "parsed": {
+    "prezzo": "€390.000",
+    "mq": "110",
+    "locali": "3",
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "E EP gl,nren 168,22 Kw h/mq anno",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-1024x683.png",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-1170x738.png",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7968-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7966-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7948-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7939-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7940-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/PIANTA-1-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-810x430.png",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7968-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7966-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7948-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/ANE7939-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/PIANTA-1.jpg"
+   ],
+   "foto": "foto-3.png",
+   "foto_src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/20596A0A-4DB6-4C2F-A121-E2D9DEDF0AEF-1024x683.png"
+  },
+  {
+   "url": "https://www.aziendaimmobiliare.it/immobili/negozio-san-lazzaro-di-savena/",
+   "title": "Negozio San Lazzaro di Savena - Azienda Immobiliare",
+   "h1": "Negozio San Lazzaro di Savena",
+   "h2": [
+    "Descrizione",
+    "Dettagli",
+    "Planimetrie",
+    "Planimetria",
+    "Proprietà Simili",
+    "Negozio a Rastignano con canna fumaria"
+   ],
+   "ogTitle": "Negozio San Lazzaro di Savena - Azienda Immobiliare",
+   "ogImage": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+   "ogDesc": "In posizione strategica, comoda ai servizi e a soli 20 metri dai mezzi di trasporto, proponiamo in affitto luminoso negozio d’angolo. L’immobile, che vanta un’ottima visibilità grazie a 4 ampie vetrine fronte strada, ha una superficie di circa 80 mq. ed è già funzionalmente diviso in due ambienti, completi di antibagno e bagno. Facilità di […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/\",\"name\":\"Negozio San Lazzaro di Savena - Azienda Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG-20261008-WA0003.jpg\",\"datePublished\":\"2026-10-08T14:48:55+00:00\",\"dateModified\":\"2026-10-08T14:50:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/#primaryimage\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG-20261008-WA0003.jpg\",\"contentUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG-20261008-WA0003.jpg\",\"width\":1024,\"height\":577},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/negozio-san-lazzaro-di-savena\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incarichi\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Negozio San Lazzaro di Savena\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\",\"name\":\"Azienda Immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.aziendaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.jpg",
+     "w": 960,
+     "h": 679,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+     "w": 1024,
+     "h": 577,
+     "rw": 1024
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0002.jpg",
+     "w": 1024,
+     "h": 577,
+     "rw": 1024
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0000.jpg",
+     "w": 1024,
+     "h": 577,
+     "rw": 1024
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+     "w": 1024,
+     "h": 577,
+     "rw": 1024
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0002.jpg",
+     "w": 1024,
+     "h": 577,
+     "rw": 1024
+    }
+   ],
+   "bgs": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0001-577x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0002-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0000-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0004-577x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0010-577x430.jpg"
+   ],
+   "dataSrc": [
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fnegozio-san-lazzaro-di-savena%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fnegozio-san-lazzaro-di-savena%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fnegozio-san-lazzaro-di-savena%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg"
+   ],
+   "descBlock": "Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                            Tutte le Città Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Vendita / Affitto Affitto Vendita                                        Vendita / Affitto Vendita / Affitto Affitto Vendita                                                                                                                                                                                                                                                                                           Tipologia Cantieri Commerciali Residenziali                                        Tipologia Tipologia Cantieri Commerciali Residenziali                                                                                                                                                                                                                                  Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                        Tutti i tipi Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Prezzo Da €200 a €2.500.000                                                                                                                                                                                                                                                                                                                                                                                                                                      Altre caratteristiche                                                                                                                                                                                          ArredatoAscensoreBalconeGarageGiardinoTerrazzo                                                                                                                                                                 Cerca",
+   "text": "RESIDENZIALI\nCOMMERCIALI\nCANTIERI\nCHI SIAMO\nSERVIZI\nVALUTAZIONI\nRECENSIONI\nCONTATTI\nTutte le Città\n \nTipologia\n \nTutti i tipi\n \nVendita / Affitto\n \nEspandi ricerca\nCERCA\nConfronta\nHomeCommercialiNegozioNegozio San Lazzaro di Savena\nNegozio San Lazzaro di Savena\n\tAFFITTO\n \n€1.600\nPrevious\nNext\nDescrizione\n\nIn posizione strategica, comoda ai servizi e a soli 20 metri dai mezzi di trasporto, proponiamo in affitto luminoso negozio d’angolo.\n\nL’immobile, che vanta un’ottima visibilità grazie a 4 ampie vetrine fronte strada, ha una superficie di circa 80 mq. ed è già funzionalmente diviso in due ambienti, completi di antibagno e bagno.\n\nFacilità di parcheggio.\n\nDisponibile da subito.\n\nSi specifica che il canone di locazione è per il primo anno contrattuale.\n\nChiamaci per qualsiasi informazione o per fissare una visita.\n\nCertificazione Energetica Classe G EP gl,nren 212 Kwh/mq anno.\n\nDettagli\nID Immobile: 23491\nPrezzo: €1.600\nDimensioni: 80 m²\nPlanimetrie\nPlanimetria\n» Mostra\nProprietà Simili\nAFFITTO\n€1.000\n \nNegozio a Rastignano con canna fumaria\n\nm²: 60\n\nCommerciali, Negozio\n\n\t\nDettagli \n\n Alessandro Rinaldi\n\nVENDITA\n€210.000\n \nBOLOGNA SAVENA – LOCALE USO PALESTRA (RARISSIMO)\n\nm²: 180\n\nCommerciali, Negozio\n\n\t\nDettagli \n\n Massimiliano Orlando\n\n Massimo Di Girolamo\n051 455698\nemilia@aziendaimmobiliare.it\nVedi le Mie Proprietà\nRichiedi info\nVisti di recente\n\t\nSan Lazzaro centro piano alto\n€290.000\n\n80 m²\n\nAppartamento, Residenziali\n\n\t\nVilla Storica con Parco e Piscina e depandance a Bologna-San Lazzaro\n€ 1.950.000\n\n850 m²\n\nResidenziali, Ville\n\n\t\nBologna zona Fossolo loft con terrazzo abitabile\n€170.000\n\n45 m²\n\nAppartamento, Residenziali\n\nAzienda Immobiliare\n\nDal settembre del 1987, lo Studio San Lazzaro s.r.l. è presente sul territorio di San Lazzaro di Savena.\n\nScopri di più \n\nSeguici su:\n  \nContatti Sede Via Jussi\n Via Jussi 79/d – San Lazzaro di Savena (BO)\n +39 051 45 41 33\n jussi@aziendaimmobiliare.it\n\nScrivici \n\nContatti Sede Via Emilia\n Via Emilia 54 – San Lazzaro di Savena (BO)\n +39 051 45 56 98\n emilia@aziendaimmobiliare.it\n\nScrivici \n\nVia Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | P.IVA: 00678031204 C.F. 03927990378 | REA: BO-325975 | Cap. Soc.: €10.400,00 i.v.\n\n© 2017-2026 Studio San Lazzaro S.r.l. Tutti i diritti riservati. | Sviluppato da Babini Mazzari\nPrivacy Policy | Cookie Policy | Sviluppato da D4",
+   "parsed": {
+    "prezzo": "€1.600",
+    "mq": "80",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0002.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0000.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0002.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0001-577x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0002-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0000-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0004-577x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0010-577x430.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fnegozio-san-lazzaro-di-savena%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fnegozio-san-lazzaro-di-savena%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fnegozio-san-lazzaro-di-savena%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/10/IMG-20261008-WA0003.jpg"
+  },
+  {
+   "url": "https://www.aziendaimmobiliare.it/immobili/ufficio-a-reddito-bologna-centergross/",
+   "title": "Ufficio a reddito Bologna Centergross - Azienda Immobiliare",
+   "h1": "Ufficio a reddito Bologna Centergross",
+   "h2": [
+    "Descrizione",
+    "Dettagli",
+    "Caratteristiche",
+    "Planimetrie",
+    "Planimetria",
+    "Proprietà Simili"
+   ],
+   "ogTitle": "Ufficio a reddito Bologna Centergross - Azienda Immobiliare",
+   "ogImage": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413.jpg",
+   "ogDesc": "Ufficio a reddito Bologna Centergross: interessante investimento, proponiamo in vendita ampio ufficio di 470 mq. più magazzino di 120 mq.. Attualmente è locato ad importante azienda con contratto commerciale recentemente stipulato. L’immobile è in ottimo stato, completamente arredato e suddiviso con pareti mobili. Composto da 7 uffici, archivio, ripostiglio. I 5 bagni e l’impianto di […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/\",\"name\":\"Ufficio a reddito Bologna Centergross - Azienda Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/09\\/20260615_093413.jpg\",\"datePublished\":\"2026-09-09T09:30:31+00:00\",\"dateModified\":\"2026-09-09T09:58:37+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/#primaryimage\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/09\\/20260615_093413.jpg\",\"contentUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/09\\/20260615_093413.jpg\",\"width\":1958,\"height\":1468},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/ufficio-a-reddito-bologna-centergross\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incarichi\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ufficio a reddito Bologna Centergross\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\",\"name\":\"Azienda Immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.aziendaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/Planimetria.jpg",
+     "w": 2279,
+     "h": 903,
+     "rw": 0
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093857-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093916-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093015-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093320-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093402-1170x738.jpg",
+     "w": 1170,
+     "h": 738,
+     "rw": 951.21875
+    }
+   ],
+   "bgs": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093916-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093015-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093320-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093402-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093553-810x430.jpg"
+   ],
+   "dataSrc": [
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fufficio-a-reddito-bologna-centergross%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-1024x768.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fufficio-a-reddito-bologna-centergross%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-1024x768.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/Planimetria.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fufficio-a-reddito-bologna-centergross%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-1024x768.jpg"
+   ],
+   "descBlock": "Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                            Tutte le Città Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Vendita / Affitto Affitto Vendita                                        Vendita / Affitto Vendita / Affitto Affitto Vendita                                                                                                                                                                                                                                                                                           Tipologia Cantieri Commerciali Residenziali                                        Tipologia Tipologia Cantieri Commerciali Residenziali                                                                                                                                                                                                                                  Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                        Tutti i tipi Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Prezzo Da €200 a €2.500.000                                                                                                                                                                                                                                                                                                                                                                                                                                      Altre caratteristiche                                                                                                                                                                                          ArredatoAscensoreBalconeGarageGiardinoTerrazzo                                                                                                                                                                 Cerca",
+   "text": "RESIDENZIALI\nCOMMERCIALI\nCANTIERI\nCHI SIAMO\nSERVIZI\nVALUTAZIONI\nRECENSIONI\nCONTATTI\nTutte le Città\n \nTipologia\n \nTutti i tipi\n \nVendita / Affitto\n \nEspandi ricerca\nCERCA\nConfronta\nHomeCommercialiUfficioUfficio a reddito Bologna Centergross\nUfficio a reddito Bologna Centergross\n\tVENDITA\n \n€250.000\nPrevious\nNext\nDescrizione\n\nUfficio a reddito Bologna Centergross: interessante investimento, proponiamo in vendita ampio ufficio di 470 mq. più magazzino di 120 mq.. Attualmente è locato ad importante azienda con contratto commerciale recentemente stipulato. L’immobile è in ottimo stato, completamente arredato e suddiviso con pareti mobili. Composto da 7 uffici, archivio, ripostiglio. I 5 bagni e l’impianto di condizionamento sono nuovi.\n\nDettagli\nID Immobile: 23210\nPrezzo: €250.000\nDimensioni: 470 m²\nLocali 7\nCaratteristiche\nArredato\nAscensore\nPlanimetrie\nPlanimetria\n» Mostra\nProprietà Simili\nAFFITTO\n€1.700\n \nUfficio Bologna zona Via Due Madonne\n\nm²: 118\n\nCommerciali, Ufficio\n\n\t\nDettagli \n\n Alessandro Rinaldi\n\nVENDITA\n€1.200.000\n \nVendesi Fabbricato Cielo-Terra a Benevento\n\nm²: 1100\n\nCommerciali, Ufficio\n\n\t\nDettagli \n\n Damiano Spedicato\n\n Alessandro Rinaldi\n051 454133\njussi@aziendaimmobiliare.it\nVedi le Mie Proprietà\nRichiedi info\nVisti di recente\n\t\nSan Lazzaro centro piano alto\n€290.000\n\n80 m²\n\nAppartamento, Residenziali\n\n\t\nVilla Storica con Parco e Piscina e depandance a Bologna-San Lazzaro\n€ 1.950.000\n\n850 m²\n\nResidenziali, Ville\n\n\t\nBologna zona Fossolo loft con terrazzo abitabile\n€170.000\n\n45 m²\n\nAppartamento, Residenziali\n\nAzienda Immobiliare\n\nDal settembre del 1987, lo Studio San Lazzaro s.r.l. è presente sul territorio di San Lazzaro di Savena.\n\nScopri di più \n\nSeguici su:\n  \nContatti Sede Via Jussi\n Via Jussi 79/d – San Lazzaro di Savena (BO)\n +39 051 45 41 33\n jussi@aziendaimmobiliare.it\n\nScrivici \n\nContatti Sede Via Emilia\n Via Emilia 54 – San Lazzaro di Savena (BO)\n +39 051 45 56 98\n emilia@aziendaimmobiliare.it\n\nScrivici \n\nVia Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | P.IVA: 00678031204 C.F. 03927990378 | REA: BO-325975 | Cap. Soc.: €10.400,00 i.v.\n\n© 2017-2026 Studio San Lazzaro S.r.l. Tutti i diritti riservati. | Sviluppato da Babini Mazzari\nPrivacy Policy | Cookie Policy | Sviluppato da D4",
+   "parsed": {
+    "prezzo": "€250.000",
+    "mq": "470",
+    "locali": "7",
+    "camere": null,
+    "bagni": "5",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/Planimetria.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093857-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093916-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093015-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093320-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093402-1170x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093916-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093015-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093320-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093402-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093553-810x430.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fufficio-a-reddito-bologna-centergross%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-1024x768.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fufficio-a-reddito-bologna-centergross%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-1024x768.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/Planimetria.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fufficio-a-reddito-bologna-centergross%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413-1024x768.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/09/20260615_093413.jpg"
+  },
+  {
+   "url": "https://www.aziendaimmobiliare.it/immobili/capannone-a-reddito-anzola-dellemilia-centro-ca-doro/",
+   "title": "CAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO) - Azienda Immobiliare",
+   "h1": "CAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO)",
+   "h2": [
+    "Descrizione",
+    "Dettagli",
+    "Caratteristiche",
+    "Proprietà Simili",
+    "Ampio capannone in vendita Cento di Budrio",
+    "Visti di recente"
+   ],
+   "ogTitle": "CAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO) - Azienda Immobiliare",
+   "ogImage": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg",
+   "ogDesc": "Proponiamo in vendita interessante capannone situato nella strategica zona Centro Ca’ D’Oro di Anzola dell’Emilia, area ben collegata alle principali arterie stradali e autostradali del territorio bolognese. La zona è particolarmente apprezzata per la sua vocazione produttiva e logistica. Attrezzato di carroponte. L’immobile dispone di una superficie di 360 mq, oltre ad area cortiliva esclusiva […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/\",\"name\":\"CAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO) - Azienda Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/06\\/file_000000005b1472468d46188c9989d47a.jpg\",\"datePublished\":\"2026-06-24T10:11:58+00:00\",\"dateModified\":\"2026-07-30T09:24:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/#primaryimage\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/06\\/file_000000005b1472468d46188c9989d47a.jpg\",\"contentUrl\":\"https:\\/\\/www.aziendaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/06\\/file_000000005b1472468d46188c9989d47a.jpg\",\"width\":1024,\"height\":768},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/capannone-a-reddito-anzola-dellemilia-centro-ca-doro\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incarichi\",\"item\":\"https:\\/\\/www.aziendaimmobiliare.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"CAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.aziendaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.aziendaimmobiliare.it\\/\",\"name\":\"Azienda Immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.aziendaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_121136-1024x738.jpg",
+     "w": 1024,
+     "h": 738,
+     "rw": 832.515625
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a-1024x738.jpg",
+     "w": 1024,
+     "h": 738,
+     "rw": 832.515625
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120707-1024x738.jpg",
+     "w": 1024,
+     "h": 738,
+     "rw": 832.515625
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120715-1024x738.jpg",
+     "w": 1024,
+     "h": 738,
+     "rw": 832.515625
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120726-1024x738.jpg",
+     "w": 1024,
+     "h": 738,
+     "rw": 832.515625
+    },
+    {
+     "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120739-1024x738.jpg",
+     "w": 1024,
+     "h": 738,
+     "rw": 832.515625
+    }
+   ],
+   "bgs": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_1206491-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_1206551-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120707-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_1207081-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120715-810x430.jpg"
+   ],
+   "dataSrc": [
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fcapannone-a-reddito-anzola-dellemilia-centro-ca-doro%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fcapannone-a-reddito-anzola-dellemilia-centro-ca-doro%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fcapannone-a-reddito-anzola-dellemilia-centro-ca-doro%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg"
+   ],
+   "descBlock": "Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                            Tutte le Città Tutte le Città Anzola dell'Emilia Argelato Benevento Bologna-  Bologna Centro-  Bologna Est-  Bologna Ovest Bologna Centro Bologna Est Budrio Ozzano dell'Emilia Pianoro San Lazzaro di Savena                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Vendita / Affitto Affitto Vendita                                        Vendita / Affitto Vendita / Affitto Affitto Vendita                                                                                                                                                                                                                                                                                           Tipologia Cantieri Commerciali Residenziali                                        Tipologia Tipologia Cantieri Commerciali Residenziali                                                                                                                                                                                                                                  Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                        Tutti i tipi Tutti i tipi Appartamento Box/Posto Auto Rustici/Case Terreno Ville Capannone Laboratorio Licenza Negozio Terreno Ufficio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Prezzo Da €200 a €2.500.000                                                                                                                                                                                                                                                                                                                                                                                                                                      Altre caratteristiche                                                                                                                                                                                          ArredatoAscensoreBalconeGarageGiardinoTerrazzo                                                                                                                                                                 Cerca",
+   "text": "RESIDENZIALI\nCOMMERCIALI\nCANTIERI\nCHI SIAMO\nSERVIZI\nVALUTAZIONI\nRECENSIONI\nCONTATTI\nTutte le Città\n \nTipologia\n \nTutti i tipi\n \nVendita / Affitto\n \nEspandi ricerca\nCERCA\nConfronta\nHomeCapannoneCommercialiCAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO)\nCAPANNONE A REDDITO – ANZOLA DELL’EMILIA (CENTRO CA’ D’ORO)\n\tVENDITA\n \n€183.000\nPrevious\nNext\n \nDescrizione\n\nProponiamo in vendita interessante capannone situato nella strategica zona Centro Ca’ D’Oro di Anzola dell’Emilia, area ben collegata alle principali arterie stradali e autostradali del territorio bolognese.\n\nLa zona è particolarmente apprezzata per la sua vocazione produttiva e logistica.\n\nAttrezzato di carroponte.\n\nL’immobile dispone di una superficie di 360 mq, oltre ad area cortiliva esclusiva di circa 60 mq. Completano la proprietà la possibilità di parcheggio e la comodità di accesso ideale per operazioni di carico/scarico o utilizzo pertinenziale Caratteristiche principali: Superficie coperta: 360 mq Area cortiliva privata: circa 60 mq Possibilità di parcheggio Zona artigianale/commerciale strategica Ottimi collegamenti viari Immobile attualmente locato, ideale per investitori alla ricerca di una rendita immediata. Una soluzione interessante per chi desidera investire in un immobile produttivo già a reddito, in una delle aree più richieste dell’hinterland bolognese.\n\nPer maggiori informazioni e per fissare un appuntamento, contattaci.\n\nContattaci per maggiori informazioni e per prenotare una visita! Dal settembre del 1987, Azienda Immobiliare è presente sul territorio di San Lazzaro di Savena. Un trentennio di attività portato avanti con lo stesso entusiasmo ed emozione del primo giorno. Azienda Immobiliare, dapprima al vostro servizio all’interno di un gruppo, si rinnova nel nome e nell’aspetto diventando il punto di riferimento immobiliare non solo della cittadina di San Lazzaro ma del più vasto territorio della città di Bologna. La consapevolezza e la maturità professionale che ci contraddistingue ci porta ad essere sempre attivi nella ricerca del miglior servizio per il cliente con cui condividiamo la gioia della realizzazione del personale progetto Casa.\n\nDettagli\nID Immobile: 23059\nPrezzo: €183.000\nDimensioni: 360 m²\nLocali 3\nCaratteristiche\nGiardino\nProprietà Simili\nVENDITA\n€260.000\n \nAmpio capannone in vendita Cento di Budrio\n\nm²: 400\n\nCapannone, Commerciali\n\n\t\nDettagli \n\n Massimo Di Girolamo\n\n Massimiliano Orlando\n051 455698\nemilia@aziendaimmobiliare.it\nVedi le Mie Proprietà\nRichiedi info\nVisti di recente\n\t\nNegozio a Rastignano con canna fumaria\n€1.000\n\n60 m²\n\nCommerciali, Negozio\n\n\t\nSan Lazzaro centro piano alto\n€290.000\n\n80 m²\n\nAppartamento, Residenziali\n\n\t\nVilla Storica con Parco e Piscina e depandance a Bologna-San Lazzaro\n€ 1.950.000\n\n850 m²\n\nResidenziali, Ville\n\nAzienda Immobiliare\n\nDal settembre del 1987, lo Studio San Lazzaro s.r.l. è presente sul territorio di San Lazzaro di Savena.\n\nScopri di più \n\nSeguici su:\n  \nContatti Sede Via Jussi\n Via Jussi 79/d – San Lazzaro di Savena (BO)\n +39 051 45 41 33\n jussi@aziendaimmobiliare.it\n\nScrivici \n\nContatti Sede Via Emilia\n Via Emilia 54 – San Lazzaro di Savena (BO)\n +39 051 45 56 98\n emilia@aziendaimmobiliare.it\n\nScrivici \n\nVia Jussi, 79/D - 40068 San Lazzaro di Savena (BO) | P.IVA: 00678031204 C.F. 03927990378 | REA: BO-325975 | Cap. Soc.: €10.400,00 i.v.\n\n© 2017-2026 Studio San Lazzaro S.r.l. Tutti i diritti riservati. | Sviluppato da Babini Mazzari\nPrivacy Policy | Cookie Policy | Sviluppato da D4",
+   "parsed": {
+    "prezzo": "€183.000",
+    "mq": "360",
+    "locali": "3",
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_121136-1024x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a-1024x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120707-1024x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120715-1024x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120726-1024x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120739-1024x738.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_1206491-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_1206551-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120707-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_1207081-810x430.jpg",
+    "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/20260623_120715-810x430.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fcapannone-a-reddito-anzola-dellemilia-centro-ca-doro%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fcapannone-a-reddito-anzola-dellemilia-centro-ca-doro%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg",
+    "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aziendaimmobiliare.it%2Fimmobili%2Fcapannone-a-reddito-anzola-dellemilia-centro-ca-doro%2F&media=https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2026/06/file_000000005b1472468d46188c9989d47a.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.aziendaimmobiliare.it/wp-content/uploads/2017/01/logo-rettangolare-medium.png",
+  "size": 7853
+ }
+}

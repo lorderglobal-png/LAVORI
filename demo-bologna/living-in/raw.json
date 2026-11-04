@@ -1,0 +1,731 @@
+{
+ "cfg": {
+  "slug": "living-in",
+  "nome": "Living-in",
+  "home": "https://living-in.it/",
+  "index": [],
+  "rx": "/listings/[0-9]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Living-in La Tua Agenzia Immobiliare – Agenzia Immobiliare a Pianoro",
+  "desc": null,
+  "emails": [
+   "info@living-in.it"
+  ],
+  "tels": [
+   "051 093 4860 - 373 7697636"
+  ],
+  "logos": [
+   "https://living-in.it/wp-content/uploads/2020/11/logo_living_in_2x.jpg"
+  ],
+  "svgLogo": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"16\" height=\"16\" viewBox=\"0 0 20 20\">\n<path d=\"M17.5 18h-1c-0.276 0-0.5-0.224-0.5-0.5s0.224-0.5 0.5-0.5h1c0.276 0 0.5 0.224 0.5 0.5s-0.224 0.5-0.5 0.5z\" fill=\"#878c92\"></path>\n<path d=\"M2.5 18h-1c-0.276 0-0.5-0.224-0.5-0.5s0.224-0.5 0.5-0.5h1c0.276 0 0.5 0.224 0.5 0.5s-0.224 0.5-0.5 0.5z\" fill=\"#878c92\"></path>\n<path d=\"M18.658 11.393l-2.368-7.103c-0.199-0.596-0.768-1.086-1.388-1.24-0.022-0.095-0.046-0.186-0.074-0.27-0.227-0.68-0.616-0.781-0.828-0.781h-4c-0.127 0-0.318 0.037-0.5 0.213-0.182-0.176-0.373-0.213-0.5-0.213h-4c-0.212 0-0.601 0.102-0.828 0.781-0.028 0.084-0.053 0.174-0.074 0.27-0.621 0.154-1.19 0.643-1.388 1.24l-2.368 7.103c-0.192 0.575-0.342 1.501-0.342 2.107v2c0 0.827 0.673 1.5 1.5 1.5h16c0.827 0 1.5-0.673 1.5-1.5v-2c0-0.606-0.15-1.532-0.342-2.107zM10.157 3h3.686c0.070 0.157 0.157 0.514 0.157 1s-0.087 0.843-0.157 1h-3.686c-0.070-0.157-0.157-0.514-0.157-1s0.087-0.843 0.157-1zM5.157 3h3.686c0.070 0.157 0.157 0.514 0.157 1s-0.087 0.843-0.157 1h-3.686c-0.070-0.157-0.157-0.514-0.157-1s0.087-0.843 0.157-1zM3.658 4.607c0.054-0.162 0.185-0.317 0.345-0.429 0.014 0.388 0.072 0.752 0.169 1.041 0.227 0.68 0.616 0.781 0.828 0.781h4c0.127 0 0.318-0.037 0.5-0.213 0.182 0.176 0.373 0.213 0.5 0.213h4c0.212 0 0.601-0.102 0.828-0.781 0.096-0.289 0.155-0.654 0.169-1.041 0.16 0.113 0.291 0.267 0.345 0.429l0.798 2.393h-13.279l0.798-2.393zM2.527 8h13.946l1.236 3.709c0.032 0.095 0.062 0.204 0.091 0.321-0.097-0.020-0.197-0.030-0.3-0.030h-16c-0.103 0-0.203 0.010-0.3 0.030 0.029-0.117 0.059-0.226 0.091-0.321l1.237-3.709zM18 15.5c0 0.276-0.224 0.5-0.5 0.5h-16c-0.276 0-0.5-0.224-0.5-0.5v-2c0-0.276 0.224-0.5 0.5-0.5h16c0.276 0 0.5 0.224 0.5 0.5v2z\" fill=\"#878c92\"></path>\n</svg>",
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(25, 25, 25)",
+   "font": "Lato, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(25, 25, 25)",
+   "font": "Lato, sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Lato, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Roboto, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Lato, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    12
+   ],
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(0, 162, 222)",
+    7
+   ],
+   [
+    "rgba(29, 37, 45, 0.65)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    292
+   ],
+   [
+    "rgba(0, 0, 0, 0.8)",
+    30
+   ],
+   [
+    "rgb(255, 255, 255)",
+    20
+   ],
+   [
+    "rgb(0, 0, 0)",
+    10
+   ],
+   [
+    "rgb(18, 18, 18)",
+    10
+   ],
+   [
+    "rgb(0, 162, 222)",
+    4
+   ],
+   [
+    "rgb(43, 33, 92)",
+    1
+   ],
+   [
+    "rgb(237, 237, 237)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(38, 38, 36)",
+    4
+   ],
+   [
+    "rgb(43, 33, 92)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(89, 162, 207)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 0, 0)",
+    38
+   ],
+   [
+    "rgb(3, 181, 195)",
+    10
+   ],
+   [
+    "rgb(74, 85, 104)",
+    10
+   ],
+   [
+    "rgb(25, 25, 25)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    7
+   ],
+   [
+    "rgb(26, 32, 44)",
+    5
+   ]
+  ],
+  "fonts": [
+   [
+    "Lato, sans-serif",
+    177
+   ],
+   [
+    "Montserrat, sans-serif",
+    14
+   ],
+   [
+    "Roboto, sans-serif",
+    1
+   ]
+  ],
+  "heads": [
+   "Pianoro e dintorni",
+   "Incontra il Team"
+  ],
+  "addr": null,
+  "final": "https://living-in.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://living-in.it/listings/9987/",
+  "https://living-in.it/listings/10373/",
+  "https://living-in.it/listings/10442/",
+  "https://living-in.it/listings/10190/",
+  "https://living-in.it/listings/9562/",
+  "https://living-in.it/listings/9960/",
+  "https://living-in.it/listings/10131/",
+  "https://living-in.it/listings/10172/",
+  "https://living-in.it/listings/10077/",
+  "https://living-in.it/listings/10268/"
+ ],
+ "listings": [
+  {
+   "url": "https://living-in.it/listings/9987/",
+   "title": "Living-in La Tua Agenzia Immobiliare",
+   "h1": "Appartamento, 3 Locali",
+   "h2": [],
+   "ogTitle": "Appartamento, 3 locali",
+   "ogImage": "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52.jpg",
+   "ogDesc": "In località Trasasso ( Monzuno ), immerso nel verde e nella tranquillità, proponiamo in vendita appartamento al piano rialzato con ingresso indipendente, inserito in soluzione bifamiliare senza spese condominiali.\r \r L’immobile si apre su un accogliente soggiorno arricchito da un caratteristico camino in stile rustico, che dona calore e atmosfera all’ambiente. Completano la zona giorno […]",
+   "desc": null,
+   "ld": "\n{\n\"@context\" : \"http://schema.org\",\n\"@type\" : \"Product\",\n\"name\" : \"Appartamento, 3 Locali Monzuno, BO \",\n\"description\" : \"In località Trasasso ( Monzuno ), immerso nel verde e nella tranquillità, proponiamo in vendita appartamento al piano rialzato con ingresso indipendente, inserito in soluzione bifamiliare senza spese condominiali.&#013;\n&#013;\nL’immobile si apre su un accogliente soggiorno arricchito da un caratteristico camino in stile rustico, che dona calore e atmosfera all’ambiente. Completano la zona giorno una sala ( che potrebbe essere anche la seconda camera ) e un pratico cucinotto,  camera matrimoniale e un bagno.&#013;\n&#013;\nLa proprietà è inoltre dotata di spazi accessori ad uso cantina e garage  e beneficia di un giardino di circa  300 mq in comune con l\\'altra abitazione.www.living-in.it&#013;\n&quot; Living In la Tua agenzia immobiliare&quot;.&#013;\nLe presenti informazioni non costituiscono elemento contrattuale.\",\n\"offers\" : {\n\"@type\" : \"Offer\",\n\"price\" : \"<span class='listing-price'>€59.000</span>\"\n}\n}\n",
+   "imgs": [
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/654d1e6336db65aab9733f1733a2541845b95626-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/d23f314aabd172a188017be641516d9e15e63068-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/5c2fff29937d824693ee49e8faa792039bbd9292-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/ce92f83064acd2e3d1bfbaabc348e3effa5dcfa9.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/f93224d7453ac81e72a4b9af595fc87f47232e97.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/654d1e6336db65aab9733f1733a2541845b95626.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/d23f314aabd172a188017be641516d9e15e63068.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/5c2fff29937d824693ee49e8faa792039bbd9292.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/5748ab68fd73295a6778a15850b83bcc00e1a49b.jpg"
+   ],
+   "descBlock": "­                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                              }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }",
+   "text": "Home\nChi Siamo\nDicono Di Noi\nIl Nostro Ufficio\nContattaci\nHome\nChi siamo\nDicono di noi\nIl nostro ufficio\nContattaci\nTipo\nTipo\nAppartamento\nCapannoni\nCasa Indipendente\nNegozio\nCittà\nCittà\nBologna\nMonzuno\nPianoro\nSan Benedetto Val Di Sambro\nAnnunci\nCasaAnnunciAppartamento, 3 Locali\nIN VETRINA\nVENDITA\nAppartamento, 3 Locali\n\nMonzuno, BO\n\n€59.000\n2\n1\n67 m2\nAppartamento\nProperty ID #\n70843\nNext\nNext\nCaratteristicheTourMappaContatto\n\nIn località Trasasso ( Monzuno ), immerso nel verde e nella tranquillità, proponiamo in vendita appartamento al piano rialzato con ingresso indipendente, inserito in soluzione bifamiliare senza spese condominiali.\n\nL’immobile si apre su un accogliente soggiorno arricchito da un caratteristico camino in stile rustico, che dona calore e atmosfera all’ambiente. Completano la zona giorno una sala ( che potrebbe essere anche la seconda camera ) e un pratico cucinotto, camera matrimoniale e un bagno.\n\nLa proprietà è inoltre dotata di spazi accessori ad uso cantina e garage e beneficia di un giardino di circa 300 mq in comune con l’altra abitazione.www.living-in.it\n\" Living In la Tua agenzia immobiliare\".\nLe presenti informazioni non costituiscono elemento contrattuale.\n\nEfficienza Energetica\nClasse Energetica\nG\nPrestazione Energetica Globale\nN\nLa Struttura Dispone Di\nBox 0\nCondizioni: 2\nCucina 3\nGiardino 0\nPiano: 6\nRiscaldamento autonomo\nVisita Virtuale\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\n3 SETTIMANE FA\nGianluca Grande\n+39 373 769 7636\nEmail\nRichiesta Di Ulteriori Informazioni\n\nIl tuo nome\n\n\nLa tua email\n\n\nIl tuo telefono\n\n\nMessaggio (facoltativo)\n\n\nVia Nazionale 130/A\nPianoro Nuovo, BO 40065\n\n051 093 4860 - 373 7697636\ninfo@living-in.it\n  \nSitemap\n\n© 2026 Living-in La Tua Agenzia Immobiliare, Tutti I Diritti Riservati.\n\nCONFRONTA ANNUNCI\n\nSelezionato",
+   "parsed": {
+    "prezzo": "€59.000",
+    "mq": "67",
+    "locali": "3",
+    "camere": null,
+    "bagni": null,
+    "piano": "ro",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/654d1e6336db65aab9733f1733a2541845b95626-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/d23f314aabd172a188017be641516d9e15e63068-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/5c2fff29937d824693ee49e8faa792039bbd9292-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ce92f83064acd2e3d1bfbaabc348e3effa5dcfa9.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/f93224d7453ac81e72a4b9af595fc87f47232e97.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/654d1e6336db65aab9733f1733a2541845b95626.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/d23f314aabd172a188017be641516d9e15e63068.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/5c2fff29937d824693ee49e8faa792039bbd9292.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/5748ab68fd73295a6778a15850b83bcc00e1a49b.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://living-in.it/wp-content/uploads/2026/10/ebe02a348ddf565ddbea935f8c39dd4a19b4dd52.jpg"
+  },
+  {
+   "url": "https://living-in.it/listings/10373/",
+   "title": "Living-in La Tua Agenzia Immobiliare",
+   "h1": "Appartamento, 5 Locali",
+   "h2": [],
+   "ogTitle": "Appartamento, 5 locali",
+   "ogImage": "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51.jpg",
+   "ogDesc": "Pianoro: proponiamo in affitto luminoso appartamento dagli ampi spazi, in piccola palazzina ubicata sulla via Nazionale tra Pianoro Nuovo e Pianoro Vecchio. L’appartamento completamente arredato è composto da soggiorno, sala da pranzo, cucinotto, tre camere da letto, bagno, balcone e cantina ciclabile. Primo piano senza ascensore con riscaldamento autonomo ed irrisorie spese condominiali. Possibilità di […]",
+   "desc": null,
+   "ld": "\n{\n\"@context\" : \"http://schema.org\",\n\"@type\" : \"Product\",\n\"name\" : \"Appartamento, 5 Locali Pianoro, BO \",\n\"description\" : \"Pianoro: proponiamo in affitto luminoso appartamento dagli ampi spazi, in piccola palazzina ubicata sulla via Nazionale tra Pianoro Nuovo e Pianoro Vecchio. L\\'appartamento completamente arredato è composto da soggiorno, sala da pranzo, cucinotto, tre camere da letto, bagno, balcone e cantina ciclabile. Primo piano senza ascensore con riscaldamento autonomo ed irrisorie spese condominiali. Possibilità di posto auto nel cortile condominiale. Richieste garanzie reddituali (due contratti di lavoro a tempo indeterminato). \nwww.living-in.it La Tua agenzia immobiliare. – Le presenti informazioni non costituiscono elemento contrattuale –\",\n\"offers\" : {\n\"@type\" : \"Offer\",\n\"price\" : \"<span class='listing-price'>€800</span>\"\n}\n}\n",
+   "imgs": [
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51-1200x832.jpg",
+     "w": 1200,
+     "h": 832,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/1d13753aa60f30d05d701367455430ef130ee5ef-1200x832.jpg",
+     "w": 1200,
+     "h": 832,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/8b2f046f46f1c6983629ab66ab10e4058cdb5008-1200x832.jpg",
+     "w": 1200,
+     "h": 832,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/fd706291c22383323305fc2f6516070a2bb34fde-1200x832.jpg",
+     "w": 1200,
+     "h": 832,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/cf24fde91203959e1419ff4ae78efe9422b189e1-1200x832.jpg",
+     "w": 1200,
+     "h": 832,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/c310e869b96267b7141e4a21f16fd11b7729114c-1200x832.jpg",
+     "w": 1200,
+     "h": 832,
+     "rw": 921.796875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1d13753aa60f30d05d701367455430ef130ee5ef.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/8b2f046f46f1c6983629ab66ab10e4058cdb5008.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/fd706291c22383323305fc2f6516070a2bb34fde.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/cf24fde91203959e1419ff4ae78efe9422b189e1.jpg"
+   ],
+   "descBlock": "­                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                              }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }",
+   "text": "Home\nChi Siamo\nDicono Di Noi\nIl Nostro Ufficio\nContattaci\nHome\nChi siamo\nDicono di noi\nIl nostro ufficio\nContattaci\nTipo\nTipo\nAppartamento\nCapannoni\nCasa Indipendente\nNegozio\nCittà\nCittà\nBologna\nMonzuno\nPianoro\nSan Benedetto Val Di Sambro\nAnnunci\nCasaAnnunciAppartamento, 5 Locali\nIN VETRINA\nAFFITTO\nAppartamento, 5 Locali\n\nPianoro, BO\n\n€800\n3\n1\n125 m2\nAppartamento\nProperty ID #\n50861.pianoro.Appartame\nNext\nNext\nCaratteristicheMappaContatto\n\nPianoro: proponiamo in affitto luminoso appartamento dagli ampi spazi, in piccola palazzina ubicata sulla via Nazionale tra Pianoro Nuovo e Pianoro Vecchio. L’appartamento completamente arredato è composto da soggiorno, sala da pranzo, cucinotto, tre camere da letto, bagno, balcone e cantina ciclabile. Primo piano senza ascensore con riscaldamento autonomo ed irrisorie spese condominiali. Possibilità di posto auto nel cortile condominiale. Richieste garanzie reddituali (due contratti di lavoro a tempo indeterminato).\nwww.living-in.it La Tua agenzia immobiliare. – Le presenti informazioni non costituiscono elemento contrattuale –\n\nEfficienza Energetica\nClasse Energetica\nG\nPrestazione Energetica Globale\nN\nLa Struttura Dispone Di\nBalcone\nBox 0\nCantina\nCondizioni: 2\nCucina 3\nGiardino 0\nRiscaldamento autonomo\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\n3 SETTIMANE FA\nDavide Sapori\n+39 373 7697636\nEmail\nRichiesta Di Ulteriori Informazioni\n\nIl tuo nome\n\n\nLa tua email\n\n\nIl tuo telefono\n\n\nMessaggio (facoltativo)\n\n\nVia Nazionale 130/A\nPianoro Nuovo, BO 40065\n\n051 093 4860 - 373 7697636\ninfo@living-in.it\n  \nSitemap\n\n© 2026 Living-in La Tua Agenzia Immobiliare, Tutti I Diritti Riservati.\n\nCONFRONTA ANNUNCI\n\nSelezionato",
+   "parsed": {
+    "prezzo": "€800",
+    "mq": "125",
+    "locali": "5",
+    "camere": null,
+    "bagni": null,
+    "piano": "ro",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51-1200x832.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1d13753aa60f30d05d701367455430ef130ee5ef-1200x832.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/8b2f046f46f1c6983629ab66ab10e4058cdb5008-1200x832.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/fd706291c22383323305fc2f6516070a2bb34fde-1200x832.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/cf24fde91203959e1419ff4ae78efe9422b189e1-1200x832.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c310e869b96267b7141e4a21f16fd11b7729114c-1200x832.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1d13753aa60f30d05d701367455430ef130ee5ef.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/8b2f046f46f1c6983629ab66ab10e4058cdb5008.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/fd706291c22383323305fc2f6516070a2bb34fde.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/cf24fde91203959e1419ff4ae78efe9422b189e1.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://living-in.it/wp-content/uploads/2026/10/decf90cff9e8a4cb4a96266831fd6d407a532c51.jpg"
+  },
+  {
+   "url": "https://living-in.it/listings/10442/",
+   "title": "Living-in La Tua Agenzia Immobiliare",
+   "h1": "Capannoni, 2 Locali",
+   "h2": [],
+   "ogTitle": "Capannoni, 2 locali",
+   "ogImage": "https://living-in.it/wp-content/uploads/2026/10/1c24a0d27ea6b1ae54c3751a22b1b42ed1b3aa2b.jpg",
+   "ogDesc": "A Pianoro, in zona Carteria di Sesto, proponiamo in affitto una porzione di capannone industriale di circa 250 mq, ideale per attività produttive che necessitano di spazi funzionali proponiamo immobile, in buono stato di manutenzione, dispone di un portone carraio largo 3,77 m e alto 3,73 m, che facilita l’ingresso dei mezzi. La zona di […]",
+   "desc": null,
+   "ld": "\n{\n\"@context\" : \"http://schema.org\",\n\"@type\" : \"Product\",\n\"name\" : \"Capannoni, 2 Locali Pianoro, BO \",\n\"description\" : \"A Pianoro, in zona Carteria di Sesto, proponiamo in affitto una porzione di capannone industriale di circa 250 mq, ideale per attività produttive che necessitano di spazi funzionali proponiamo immobile, in buono stato di manutenzione, dispone di un portone carraio largo 3,77 m e alto 3,73 m, che facilita l’ingresso dei mezzi. La zona di lavoro presenta un’altezza interna di 6 m, con un’altezza laterale di 4,15 m, offrendo ambienti adatti a diverse esigenze operative. Completa la soluzione una corte privata recintata con posti auto, un comodo valore aggiunto per la gestione quotidiana dell’attività.\nUna proposta interessante per chi cerca uno spazio produttivo funzionale, con accesso carrabile e parcheggio privato, nel territorio di Pianoro.\nwww.living-in.it – La Tua agenzia immobiliare.\nLe presenti informazioni non costituiscono elemento contrattuale.\",\n\"offers\" : {\n\"@type\" : \"Offer\",\n\"price\" : \"<span class='listing-price'>€1.000</span>\"\n}\n}\n",
+   "imgs": [
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/04aefa8667881f8d9ba506ace1ec81a27fc74f51-1200x1000.jpg",
+     "w": 1200,
+     "h": 1000,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/2af7e8f2ca4f31546f6543525ac729092d47ef08-1200x941.jpg",
+     "w": 1200,
+     "h": 941,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/e000af4565e9ce5fa0ecd8add4aa9c329c8fec43-1200x941.jpg",
+     "w": 1200,
+     "h": 941,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/c99adc8d0bc94799aee0756550d88b7078ccf93d-1200x941.jpg",
+     "w": 1200,
+     "h": 941,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/0075f2ef61a97692c673343ae59ae8e2d6a16fee-1200x941.jpg",
+     "w": 1200,
+     "h": 941,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/27a199e6e37251c7f67d5c2b018c80b60b021cfd-1200x941.jpg",
+     "w": 1200,
+     "h": 941,
+     "rw": 921.796875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1c24a0d27ea6b1ae54c3751a22b1b42ed1b3aa2b.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/2af7e8f2ca4f31546f6543525ac729092d47ef08.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/e000af4565e9ce5fa0ecd8add4aa9c329c8fec43.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c99adc8d0bc94799aee0756550d88b7078ccf93d.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/0075f2ef61a97692c673343ae59ae8e2d6a16fee.jpg"
+   ],
+   "descBlock": "­                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                              }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }",
+   "text": "Home\nChi Siamo\nDicono Di Noi\nIl Nostro Ufficio\nContattaci\nHome\nChi siamo\nDicono di noi\nIl nostro ufficio\nContattaci\nTipo\nTipo\nAppartamento\nCapannoni\nCasa Indipendente\nNegozio\nCittà\nCittà\nBologna\nMonzuno\nPianoro\nSan Benedetto Val Di Sambro\nAnnunci\nCasaAnnunciCapannoni, 2 Locali\nIN VETRINA\nAFFITTO\nCapannoni, 2 Locali\n\nPianoro, BO\n\n€1.000\n2\n250 m2\nCapannoni\nProperty ID #\n60240.pianoro.Capannoni\nNext\nPrevious\nCaratteristicheTourMappaContatto\n\nA Pianoro, in zona Carteria di Sesto, proponiamo in affitto una porzione di capannone industriale di circa 250 mq, ideale per attività produttive che necessitano di spazi funzionali proponiamo immobile, in buono stato di manutenzione, dispone di un portone carraio largo 3,77 m e alto 3,73 m, che facilita l’ingresso dei mezzi. La zona di lavoro presenta un’altezza interna di 6 m, con un’altezza laterale di 4,15 m, offrendo ambienti adatti a diverse esigenze operative. Completa la soluzione una corte privata recintata con posti auto, un comodo valore aggiunto per la gestione quotidiana dell’attività.\n\nUna proposta interessante per chi cerca uno spazio produttivo funzionale, con accesso carrabile e parcheggio privato, nel territorio di Pianoro.\n\nwww.living-in.it – La Tua agenzia immobiliare.\n\nLe presenti informazioni non costituiscono elemento contrattuale.\n\nEfficienza Energetica\nClasse Energetica\nG\nPrestazione Energetica Globale\nN\nLa Struttura Dispone Di\nBox 0\nCondizioni: 2\nGiardino 0\nPiano: 2\nRiscaldamento autonomo\nVisita Virtuale\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\n5 GIORNI FA\nGianluca Grande\n+39 373 769 7636\nEmail\nRichiesta Di Ulteriori Informazioni\n\nIl tuo nome\n\n\nLa tua email\n\n\nIl tuo telefono\n\n\nMessaggio (facoltativo)\n\n\nVia Nazionale 130/A\nPianoro Nuovo, BO 40065\n\n051 093 4860 - 373 7697636\ninfo@living-in.it\n  \nSitemap\n\n© 2026 Living-in La Tua Agenzia Immobiliare, Tutti I Diritti Riservati.\n\nCONFRONTA ANNUNCI\n\nSelezionato",
+   "parsed": {
+    "prezzo": "€1.000",
+    "mq": "250",
+    "locali": "2",
+    "camere": null,
+    "bagni": null,
+    "piano": "ro",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://living-in.it/wp-content/uploads/2026/10/1c24a0d27ea6b1ae54c3751a22b1b42ed1b3aa2b.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/04aefa8667881f8d9ba506ace1ec81a27fc74f51-1200x1000.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/2af7e8f2ca4f31546f6543525ac729092d47ef08-1200x941.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/e000af4565e9ce5fa0ecd8add4aa9c329c8fec43-1200x941.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c99adc8d0bc94799aee0756550d88b7078ccf93d-1200x941.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/0075f2ef61a97692c673343ae59ae8e2d6a16fee-1200x941.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/27a199e6e37251c7f67d5c2b018c80b60b021cfd-1200x941.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1c24a0d27ea6b1ae54c3751a22b1b42ed1b3aa2b.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/2af7e8f2ca4f31546f6543525ac729092d47ef08.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/e000af4565e9ce5fa0ecd8add4aa9c329c8fec43.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c99adc8d0bc94799aee0756550d88b7078ccf93d.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/0075f2ef61a97692c673343ae59ae8e2d6a16fee.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://living-in.it/wp-content/uploads/2026/10/1c24a0d27ea6b1ae54c3751a22b1b42ed1b3aa2b.jpg"
+  },
+  {
+   "url": "https://living-in.it/listings/10190/",
+   "title": "Living-in La Tua Agenzia Immobiliare",
+   "h1": "Negozio, 1 Locali",
+   "h2": [],
+   "ogTitle": "Negozio, 1 locali",
+   "ogImage": "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6.jpg",
+   "ogDesc": "Bologna – Via San Donato\r \r Proponiamo in locazione negozio con due vetrine affacciate sulla via principale di Via San Donato, situato a circa 400 metri dal ponte.\r \r L’immobile ha una superficie di circa 50 mq ed è composto da ambiente principale, bagno e vano seminterrato ad uso deposito.\r \r Il locale è inoltre […]",
+   "desc": null,
+   "ld": "\n{\n\"@context\" : \"http://schema.org\",\n\"@type\" : \"Product\",\n\"name\" : \"Negozio, 1 Locali Bologna, BO \",\n\"description\" : \"Bologna – Via San Donato&#013;\n&#013;\nProponiamo in locazione negozio con due vetrine affacciate sulla via principale di Via San Donato, situato a circa 400 metri dal ponte.&#013;\n&#013;\nL’immobile ha una superficie di circa 50 mq ed è composto da ambiente principale, bagno e vano seminterrato ad uso deposito.&#013;\n&#013;\nIl locale è inoltre predisposto per la canna fumaria, caratteristica che lo rende adatto a diverse tipologie di attività.&#013;\n&#013;\nwww.living-in.it La Tua agenzia immobiliare. Le presenti informazioni non costituiscono elemento contrattuale.\",\n\"offers\" : {\n\"@type\" : \"Offer\",\n\"price\" : \"<span class='listing-price'>€800</span>\"\n}\n}\n",
+   "imgs": [
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/51d5ec5510ca9d34c15165c6793a62a0e074c996-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/1acb0075dbcf0dbf3ab05e850390c2b0ba63d739-1200x884.jpg",
+     "w": 1200,
+     "h": 884,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/2c42159794ebdf2dd2ae7f92af8954d446e0d704-1200x884.jpg",
+     "w": 1200,
+     "h": 884,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/f30b78b41f9ba455d27c13695434298045538566-742x1000.jpg",
+     "w": 742,
+     "h": 1000,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/828064b42b84158a0f163a167fecdcbe38d649c0-590x1000.jpg",
+     "w": 590,
+     "h": 1000,
+     "rw": 921.796875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1acb0075dbcf0dbf3ab05e850390c2b0ba63d739.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/828064b42b84158a0f163a167fecdcbe38d649c0.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/51d5ec5510ca9d34c15165c6793a62a0e074c996.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/2c42159794ebdf2dd2ae7f92af8954d446e0d704.jpg"
+   ],
+   "descBlock": "­                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                              }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }",
+   "text": "Home\nChi Siamo\nDicono Di Noi\nIl Nostro Ufficio\nContattaci\nHome\nChi siamo\nDicono di noi\nIl nostro ufficio\nContattaci\nTipo\nTipo\nAppartamento\nCapannoni\nCasa Indipendente\nNegozio\nCittà\nCittà\nBologna\nMonzuno\nPianoro\nSan Benedetto Val Di Sambro\nAnnunci\nCasaAnnunciNegozio, 1 Locali\nIN VETRINA\nAFFITTO\nNegozio, 1 Locali\n\nBologna, BO , San Donato\n\n€800\n1\n50 m2\nNegozio\nProperty ID #\n50836\nNext\nCaratteristicheMappaContatto\n\nBologna – Via San Donato\n\nProponiamo in locazione negozio con due vetrine affacciate sulla via principale di Via San Donato, situato a circa 400 metri dal ponte.\n\nL’immobile ha una superficie di circa 50 mq ed è composto da ambiente principale, bagno e vano seminterrato ad uso deposito.\n\nIl locale è inoltre predisposto per la canna fumaria, caratteristica che lo rende adatto a diverse tipologie di attività.\n\nwww.living-in.it La Tua agenzia immobiliare. Le presenti informazioni non costituiscono elemento contrattuale.\n\nEfficienza Energetica\nClasse Energetica\nG\nPrestazione Energetica Globale\nN\nLa Struttura Dispone Di\nBox 0\nCondizioni: 2\nGiardino 0\nRiscaldamento autonomo\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\n3 GIORNI FA\nGianluca Grande\n+39 373 769 7636\nEmail\nRichiesta Di Ulteriori Informazioni\n\nIl tuo nome\n\n\nLa tua email\n\n\nIl tuo telefono\n\n\nMessaggio (facoltativo)\n\n\nVia Nazionale 130/A\nPianoro Nuovo, BO 40065\n\n051 093 4860 - 373 7697636\ninfo@living-in.it\n  \nSitemap\n\n© 2026 Living-in La Tua Agenzia Immobiliare, Tutti I Diritti Riservati.\n\nCONFRONTA ANNUNCI\n\nSelezionato",
+   "parsed": {
+    "prezzo": "€800",
+    "mq": "50",
+    "locali": "1",
+    "camere": null,
+    "bagni": null,
+    "piano": "ro",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/51d5ec5510ca9d34c15165c6793a62a0e074c996-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1acb0075dbcf0dbf3ab05e850390c2b0ba63d739-1200x884.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/2c42159794ebdf2dd2ae7f92af8954d446e0d704-1200x884.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/f30b78b41f9ba455d27c13695434298045538566-742x1000.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/828064b42b84158a0f163a167fecdcbe38d649c0-590x1000.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1acb0075dbcf0dbf3ab05e850390c2b0ba63d739.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/828064b42b84158a0f163a167fecdcbe38d649c0.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/51d5ec5510ca9d34c15165c6793a62a0e074c996.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/2c42159794ebdf2dd2ae7f92af8954d446e0d704.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://living-in.it/wp-content/uploads/2026/10/ba4ecbe3fdf0b06fddf6e59e4b9258a32d6221e6.jpg"
+  },
+  {
+   "url": "https://living-in.it/listings/9562/",
+   "title": "Living-in La Tua Agenzia Immobiliare",
+   "h1": "Appartamento, 5 Locali",
+   "h2": [],
+   "ogTitle": "Appartamento, 5 locali",
+   "ogImage": "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg",
+   "ogDesc": "San Benedetto Val di Sambro (località La Villa di Cedrecchia): in un angolo di Paradiso, immerso nel bosco, proponiamo appartamento al piano terra in bifamiliare, con finiture originali anni ’70. Internamente composto da ingresso su ampio soggiorno dotato di camino e stufa a legna, cucina abitabile, 3 camere matrimoniali, di cui una con balcone, ed […]",
+   "desc": null,
+   "ld": "\n{\n\"@context\" : \"http://schema.org\",\n\"@type\" : \"Product\",\n\"name\" : \"Appartamento, 5 Locali San Benedetto Val di Sambro, BO \",\n\"description\" : \"San Benedetto Val di Sambro (località La Villa di Cedrecchia): in un angolo di Paradiso, immerso nel bosco, proponiamo appartamento al piano terra in bifamiliare, con finiture originali anni \\'70. Internamente composto da ingresso su ampio soggiorno dotato di camino e stufa a legna, cucina abitabile, 3 camere matrimoniali, di cui una con balcone, ed un bagno finestrato con vasca. Dispone, inoltre, di una cantina e di un fabbricato accessorio adibito a legnaia. Il riscaldamento, alimentato a GPL, è autonomo e non sono presenti spese condominiali. La presenza di un cortile, del giardino e di una porzione di bosco di ben 3000 mq, rendono questo appartamento unico per chi vuole allontanarsi dalla caotica routine.                                                                                                                                                                                                                                                               &#013;\nwww.living-in.it La Tua agenzia immobiliare. – Le presenti informazioni non costituiscono elemento contrattuale –\",\n\"offers\" : {\n\"@type\" : \"Offer\",\n\"price\" : \"<span class='listing-price'>€55.000</span>\"\n}\n}\n",
+   "imgs": [
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/75d5950cc2b4d48f0ef7400dc0bd1b4d3b135ec0.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/fac91b13979a45cddaba2c7e7f180506188505f7.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/c8222376bf77ca8c214c6709199910c9a359cadc.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/a7ba42282ba6011e35003bc95634c5788be336ad.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/be8c229211945c9b619a3d841ff0661f8098db1c.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/75d5950cc2b4d48f0ef7400dc0bd1b4d3b135ec0.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/fac91b13979a45cddaba2c7e7f180506188505f7.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c8222376bf77ca8c214c6709199910c9a359cadc.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/a7ba42282ba6011e35003bc95634c5788be336ad.jpg"
+   ],
+   "descBlock": "­                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                              }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }",
+   "text": "Home\nChi Siamo\nDicono Di Noi\nIl Nostro Ufficio\nContattaci\nHome\nChi siamo\nDicono di noi\nIl nostro ufficio\nContattaci\nTipo\nTipo\nAppartamento\nCapannoni\nCasa Indipendente\nNegozio\nCittà\nCittà\nBologna\nMonzuno\nPianoro\nSan Benedetto Val Di Sambro\nAnnunci\nCasaAnnunciAppartamento, 5 Locali\nIN VETRINA\nVENDITA\nAppartamento, 5 Locali\n\nSan Benedetto Val di Sambro, BO , San Benedetto Val di Sambro\n\n€55.000\n3\n1\n115 m2\nAppartamento\nProperty ID #\n30639.Villa\nNext\nPrevious\nNext\nCaratteristicheTourMappaContatto\n\nSan Benedetto Val di Sambro (località La Villa di Cedrecchia): in un angolo di Paradiso, immerso nel bosco, proponiamo appartamento al piano terra in bifamiliare, con finiture originali anni ’70. Internamente composto da ingresso su ampio soggiorno dotato di camino e stufa a legna, cucina abitabile, 3 camere matrimoniali, di cui una con balcone, ed un bagno finestrato con vasca. Dispone, inoltre, di una cantina e di un fabbricato accessorio adibito a legnaia. Il riscaldamento, alimentato a GPL, è autonomo e non sono presenti spese condominiali. La presenza di un cortile, del giardino e di una porzione di bosco di ben 3000 mq, rendono questo appartamento unico per chi vuole allontanarsi dalla caotica routine.\nwww.living-in.it La Tua agenzia immobiliare. – Le presenti informazioni non costituiscono elemento contrattuale –\n\nEfficienza Energetica\nClasse Energetica\nG\nPrestazione Energetica Globale\nN\nLa Struttura Dispone Di\nBalcone\nBox 0\nCantina\nCondizioni: 4\nCucina 1\nGiardino 1\nPiano: 2\nRiscaldamento autonomo\nVisita Virtuale\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\n3 GIORNI FA\nDavide Sapori\n+39 373 7697636\nEmail\nRichiesta Di Ulteriori Informazioni\n\nIl tuo nome\n\n\nLa tua email\n\n\nIl tuo telefono\n\n\nMessaggio (facoltativo)\n\n\nVia Nazionale 130/A\nPianoro Nuovo, BO 40065\n\n051 093 4860 - 373 7697636\ninfo@living-in.it\n  \nSitemap\n\n© 2026 Living-in La Tua Agenzia Immobiliare, Tutti I Diritti Riservati.\n\nCONFRONTA ANNUNCI\n\nSelezionato",
+   "parsed": {
+    "prezzo": "€55.000",
+    "mq": "115",
+    "locali": "5",
+    "camere": "3",
+    "bagni": null,
+    "piano": "ro",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/75d5950cc2b4d48f0ef7400dc0bd1b4d3b135ec0.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/fac91b13979a45cddaba2c7e7f180506188505f7.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c8222376bf77ca8c214c6709199910c9a359cadc.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/a7ba42282ba6011e35003bc95634c5788be336ad.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/be8c229211945c9b619a3d841ff0661f8098db1c.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/75d5950cc2b4d48f0ef7400dc0bd1b4d3b135ec0.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/fac91b13979a45cddaba2c7e7f180506188505f7.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/c8222376bf77ca8c214c6709199910c9a359cadc.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/a7ba42282ba6011e35003bc95634c5788be336ad.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://living-in.it/wp-content/uploads/2026/10/0890e669adee329e932c0b42bd24fdf78981dcc8.jpg"
+  },
+  {
+   "url": "https://living-in.it/listings/9960/",
+   "title": "Living-in La Tua Agenzia Immobiliare",
+   "h1": "Casa-indipendente, 6 Locali",
+   "h2": [],
+   "ogTitle": "Casa-indipendente, 6 locali",
+   "ogImage": "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8.jpg",
+   "ogDesc": "In località Trasasso ( Monzuno ), in posizione riservata e circondata dalla tranquillità della natura, proponiamo in vendita soluzione indipendente ideale per chi è alla ricerca di privacy, spazi e versatilità.\r \r L’immobile è composto da due appartamenti con ingressi indipendenti e senza spese condominiali, perfetti anche per nuclei familiari distinti o per chi desidera […]",
+   "desc": null,
+   "ld": "\n{\n\"@context\" : \"http://schema.org\",\n\"@type\" : \"Product\",\n\"name\" : \"Casa-indipendente, 6 Locali Monzuno, BO \",\n\"description\" : \"In località Trasasso ( Monzuno ), in posizione riservata e circondata dalla tranquillità della natura, proponiamo in vendita soluzione indipendente ideale per chi è alla ricerca di privacy, spazi e versatilità.&#013;\n&#013;\nL’immobile è composto da due appartamenti con ingressi indipendenti e senza spese condominiali, perfetti anche per nuclei familiari distinti o per chi desidera un’abitazione con soluzione genitori/figli.&#013;\n&#013;\nPiano rialzato:&#013;\ningresso su accogliente soggiorno impreziosito da un caratteristico camino in stile rustico, sala, cucinotto, bagno e ampia camera matrimoniale.&#013;\n&#013;\nPrimo piano:&#013;\nsala, cucinotto, due camere matrimoniali e bagno.&#013;\n&#013;\nCompletano la proprietà spazi accessori quali cantine e due garage.&#013;\n&#013;\nSul retro dell’abitazione si sviluppa un giardino privato di circa 300 mq, ideale per momenti conviviali, relax all’aperto e per chi ama vivere gli spazi verdi in totale privacy.                                                                www.living-in.it&#013;\n&quot; Living In la Tua agenzia immobiliare&quot;.&#013;\nLe presenti informazioni non costituiscono elemento contrattuale.\",\n\"offers\" : {\n\"@type\" : \"Offer\",\n\"price\" : \"<span class='listing-price'>€119.000</span>\"\n}\n}\n",
+   "imgs": [
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/b4971f2255f20351d3e92b0817f5ab31617e76f2-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/eaec3e3a9de670f3b73fc3a0fd8d5740189485c1-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/89e753476b6a08e9fca9e8910e6efca01135628b-1200x885.jpg",
+     "w": 1200,
+     "h": 885,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/1b4bc4ae9e3d9f449fae4114f87148eb5ec4b1ca.jpg",
+     "w": 1200,
+     "h": 802,
+     "rw": 921.796875
+    },
+    {
+     "src": "https://living-in.it/wp-content/uploads/2026/10/3fd393daadeb7fe6bac22703e2ac434027ab45b0.jpg",
+     "w": 1200,
+     "h": 798,
+     "rw": 921.796875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/b4971f2255f20351d3e92b0817f5ab31617e76f2.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/eaec3e3a9de670f3b73fc3a0fd8d5740189485c1.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/89e753476b6a08e9fca9e8910e6efca01135628b.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/e245d9c126f62c6b071f2c71c3e05b0b12150902.jpg"
+   ],
+   "descBlock": "­                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                              }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }",
+   "text": "Home\nChi Siamo\nDicono Di Noi\nIl Nostro Ufficio\nContattaci\nHome\nChi siamo\nDicono di noi\nIl nostro ufficio\nContattaci\nTipo\nTipo\nAppartamento\nCapannoni\nCasa Indipendente\nNegozio\nCittà\nCittà\nBologna\nMonzuno\nPianoro\nSan Benedetto Val Di Sambro\nAnnunci\nCasaAnnunciCasa-indipendente, 6 Locali\nIN VETRINA\nVENDITA\nCasa-indipendente, 6 Locali\n\nMonzuno, BO , Monzuno\n\n€119.000\n4\n2\n140 m2\nCasa-indipendente\nProperty ID #\n70842\nNext\nPrevious\nNext\nCaratteristicheTourMappaContatto\n\nIn località Trasasso ( Monzuno ), in posizione riservata e circondata dalla tranquillità della natura, proponiamo in vendita soluzione indipendente ideale per chi è alla ricerca di privacy, spazi e versatilità.\n\nL’immobile è composto da due appartamenti con ingressi indipendenti e senza spese condominiali, perfetti anche per nuclei familiari distinti o per chi desidera un’abitazione con soluzione genitori/figli.\n\nPiano rialzato:\ningresso su accogliente soggiorno impreziosito da un caratteristico camino in stile rustico, sala, cucinotto, bagno e ampia camera matrimoniale.\n\nPrimo piano:\nsala, cucinotto, due camere matrimoniali e bagno.\n\nCompletano la proprietà spazi accessori quali cantine e due garage.\n\nSul retro dell’abitazione si sviluppa un giardino privato di circa 300 mq, ideale per momenti conviviali, relax all’aperto e per chi ama vivere gli spazi verdi in totale privacy. www.living-in.it\n\" Living In la Tua agenzia immobiliare\".\nLe presenti informazioni non costituiscono elemento contrattuale.\n\nEfficienza Energetica\nClasse Energetica\nG\nPrestazione Energetica Globale\nN\nLa Struttura Dispone Di\nBox 0\nCantina\nCondizioni: 2\nCucina 3\nGiardino 0\nPiano: 6\nRiscaldamento autonomo\nVisita Virtuale\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\n3 GIORNI FA\nGianluca Grande\n+39 373 769 7636\nEmail\nRichiesta Di Ulteriori Informazioni\n\nIl tuo nome\n\n\nLa tua email\n\n\nIl tuo telefono\n\n\nMessaggio (facoltativo)\n\n\nVia Nazionale 130/A\nPianoro Nuovo, BO 40065\n\n051 093 4860 - 373 7697636\ninfo@living-in.it\n  \nSitemap\n\n© 2026 Living-in La Tua Agenzia Immobiliare, Tutti I Diritti Riservati.\n\nCONFRONTA ANNUNCI\n\nSelezionato",
+   "parsed": {
+    "prezzo": "€119.000",
+    "mq": "140",
+    "locali": "6",
+    "camere": null,
+    "bagni": null,
+    "piano": "ro",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/b4971f2255f20351d3e92b0817f5ab31617e76f2-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/eaec3e3a9de670f3b73fc3a0fd8d5740189485c1-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/89e753476b6a08e9fca9e8910e6efca01135628b-1200x885.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/1b4bc4ae9e3d9f449fae4114f87148eb5ec4b1ca.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/3fd393daadeb7fe6bac22703e2ac434027ab45b0.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-32x32.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-192x192.jpg",
+    "https://living-in.it/wp-content/uploads/2021/01/cropped-living-in-favicon-180x180.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/b4971f2255f20351d3e92b0817f5ab31617e76f2.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/eaec3e3a9de670f3b73fc3a0fd8d5740189485c1.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/89e753476b6a08e9fca9e8910e6efca01135628b.jpg",
+    "https://living-in.it/wp-content/uploads/2026/10/e245d9c126f62c6b071f2c71c3e05b0b12150902.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://living-in.it/wp-content/uploads/2026/10/248920585fd4415f6cf4a0189859f84d4ef5e8e8.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.jpg",
+  "src": "https://living-in.it/wp-content/uploads/2020/11/logo_living_in_2x.jpg",
+  "size": 6596
+ }
+}

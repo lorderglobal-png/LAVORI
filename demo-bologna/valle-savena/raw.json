@@ -1,0 +1,707 @@
+{
+ "cfg": {
+  "slug": "valle-savena",
+  "nome": "Agenzia Immobiliare Valle Savena",
+  "home": "https://www.vallesavena.it/",
+  "index": [],
+  "rx": "vallesavena[.]it/[?]properties=[a-z0-9-]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Agenzia Immobiliare – Valle Savena",
+  "desc": null,
+  "emails": [
+   "vallesavena@pec.it",
+   "segreteria@vallesavena.it",
+   "info@vallesavena.it"
+  ],
+  "tels": [
+   "0516544138"
+  ],
+  "logos": [
+   "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(68, 68, 68)",
+   "font": "\"open sans\", Helvetica, Arial, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"open sans\", Helvetica, Arial, sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(102, 102, 102)",
+   "font": "\"open sans\", Helvetica, Arial, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 34, 34)",
+   "font": "\"open sans\", Helvetica, Arial, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(45, 92, 136)",
+   "font": "\"open sans\", Helvetica, Arial, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgb(255, 255, 255)",
+    203
+   ],
+   [
+    "rgba(255, 255, 255, 0.75)",
+    43
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    3
+   ],
+   [
+    "rgb(184, 0, 6)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    2503
+   ],
+   [
+    "rgb(255, 255, 255)",
+    515
+   ],
+   [
+    "rgba(255, 255, 255, 0.75)",
+    43
+   ],
+   [
+    "rgb(252, 252, 252)",
+    3
+   ],
+   [
+    "rgb(239, 243, 245)",
+    2
+   ],
+   [
+    "rgb(51, 51, 51)",
+    2
+   ],
+   [
+    "rgb(76, 76, 76)",
+    1
+   ],
+   [
+    "rgb(229, 229, 229)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(34, 34, 34)",
+    54
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(45, 92, 136)",
+    459
+   ],
+   [
+    "rgb(34, 34, 34)",
+    46
+   ],
+   [
+    "rgb(255, 255, 255)",
+    45
+   ],
+   [
+    "rgb(38, 50, 56)",
+    43
+   ],
+   [
+    "rgb(120, 144, 156)",
+    17
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(145, 145, 145)",
+    1
+   ],
+   [
+    "rgb(153, 153, 153)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Open Sans\", sans-serif",
+    858
+   ],
+   [
+    "Lato",
+    87
+   ],
+   [
+    "\"open sans\", Helvetica, Arial, sans-serif",
+    67
+   ]
+  ],
+  "heads": [
+   "SERVIZI CORRELATI",
+   "VENDITA, ACQUISTO E LOCAZIONE",
+   "SERVIZI TECNICI",
+   "STAI PENSANDO DI VENDERE, ACQUISTARE O AFFITTARE CASA? Chiamaci allo 051",
+   "VETRINA IMMOBILI",
+   "Chi siamo",
+   "Siamo a vostra disposizione",
+   "Facciamo parte del FIAIP Federazione Italiana Agenti Immobiliari Professionali"
+  ],
+  "addr": "Via Roma n.5/3, 40050 Loiano(BO)",
+  "final": "https://www.vallesavena.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.vallesavena.it/?properties=trilocale-in-centro-a-loiano",
+  "https://www.vallesavena.it/?properties=villa-indipendente-in-legno-in-zona-collinare-residenziale",
+  "https://www.vallesavena.it/?properties=villetta-a-schiera-di-testa-con-lastrico-solare-monghidoro",
+  "https://www.vallesavena.it/?properties=casa-indipendente-con-terreno-loiano",
+  "https://www.vallesavena.it/?properties=casa-indipendente-in-sasso-con-doppio-garage-a-monghidoro",
+  "https://www.vallesavena.it/?properties=luminoso-appartamento-a-loiano",
+  "https://www.vallesavena.it/?properties=rustico-in-pietra-con-spazio-esterno-e-terreno",
+  "https://www.vallesavena.it/?properties=rustico-da-ristrutturare",
+  "https://www.vallesavena.it/?properties=quadrilocale-ristrutturato",
+  "https://www.vallesavena.it/?properties=trilocale-luminoso-loiano-centro",
+  "https://www.vallesavena.it/?properties=terra-tetto-unifamiliare-in-sasso-localita-pergoloso-campeggio",
+  "https://www.vallesavena.it/?properties=appartamenti-nuovi-da-impresa-in-classe-a4",
+  "https://www.vallesavena.it/?properties=porzione-di-villa-con-giardino-privato-e-cucina-inclusa-a-scanello-loiano",
+  "https://www.vallesavena.it/?properties=vendesi-casa-storica-da-ristrutturare-epoca-1800",
+  "https://www.vallesavena.it/?properties=rifugio-di-charme-nellappennino-bolognese",
+  "https://www.vallesavena.it/?properties=17978",
+  "https://www.vallesavena.it/?properties=elegante-appartamento-in-centro-a-loiano-con-lastrico-solare",
+  "https://www.vallesavena.it/?properties=vendita-box-garage-18-mq-loiano-centro-via-guglielmo-marconi",
+  "https://www.vallesavena.it/?properties=villa-indipendente-con-parco-e-panorama-tra-le-colline-di-pianoro-e-loiano",
+  "https://www.vallesavena.it/?properties=nel-cuore-di-monghidoro-quadrilocale-ristrutturato"
+ ],
+ "listings": [
+  {
+   "url": "https://www.vallesavena.it/?properties=trilocale-in-centro-a-loiano",
+   "title": "Trilocale in centro a Loiano – Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "Informazioni di base",
+    "Descrizione",
+    "Planimetrie",
+    "Chiedi a un agente di questa casa",
+    "Accedi o registrati",
+    "Accedi o registrati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"House\",\"name\":\"Trilocale in centro a Loiano\",\"url\":\"https://www.vallesavena.it/?properties=trilocale-in-centro-a-loiano\",\"address\":\"via Serenari 2 Loiano\",\"numberOfBathroomsTotal\":\"1\",\"numberOfBedrooms\":\"2\",\"description\":\"All&#8217;interno della storica e caratteristica cornice della &#8220;Fondazza&#8221; a Loiano, proponiamo in vendita un appartamento di 55 mq, perfetto per chi cerca una seconda casa comoda e funzionale dove rifugiarsi nei fine settimana per staccare dalla routine della città. L&#8217;immobile gode di una posizione strategica ed invidiabile: si trova infatti a pochissimi passi da tutti [&hellip;]\",\"image\":[\"https://www.vallesavena.it/wp-content/uploads/2026/07/0.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/10.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/11.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/12.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/13.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/14.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/15.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/20.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/21.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/22.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/30.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/40.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/41.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/07/42.jpeg\"]}",
+   "imgs": [
+    {
+     "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+     "w": 330,
+     "h": 86,
+     "rw": 330
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/07/0-6a55df3d26e5a-80x80.jpg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    }
+   ],
+   "bgs": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/0.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/1-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/3-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/Planimetria_page-0001-2-300x217.jpg"
+   ],
+   "dataSrc": [
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/0.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/10.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/11.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Chi siamo\nVendite\nAffitti\nTerreni\nContatti\nTel 0516544138\nIMMOBILI RESIDENZIALI IN VENDITA IN PRIMO PIANO\nTRILOCALE IN CENTRO A LOIANO\nImmobili residenziali IN VENDITAvia Serenari 2 Loiano\nIn primo piano\n \n+14\nImmobili residenziali IN VENDITA\nvia Serenari 2 Loiano\nvia Serenari 2 Loiano\n 2 camere da letto  1 bagno  65 m²\n€53,000\nRICHIEDI INFORMAZIONI\nInformazioni di base\nCategoria : Immobili residenziali IN VENDITA\nCamere da letto: 2\nBagni: 1\nCamere totali: 3\nSuperficie: 65 m²\nPiano: 0\nCantina: si\nDescrizione\n\nAll'interno della storica e caratteristica cornice della \"Fondazza\" a Loiano, proponiamo in vendita un appartamento di 55 mq, perfetto per chi cerca una seconda casa comoda e funzionale dove rifugiarsi nei fine settimana per staccare dalla routine della città.\n\nL'immobile gode di una posizione strategica ed invidiabile: si trova infatti a pochissimi passi da tutti i principali servizi del paese (supermercato, farmacia, comune, bar, ristoranti ), permettendo di dimenticarsi completamente dell'automobile una volta arrivati ed adiacente ad an ampio parcheggio.\n\nL’immobile viene venduto arredato.\n\nCaratteristiche principali:\n\nSuperficie: 55 mq interni + comoda cantina di 9 mq (ottima come spazio extra per biciclette o attrezzature).\nComposizione: Ingresso su cucina abitabile dalle ampie metrature (perfetta per i momenti di convivialità), 2 camere da letto spaziose (di cui una attualmente adibita a confortevole zona giorno/sala) e un bagno funzionale.\nPosizione: Centralissima e comodissima a piedi a ogni servizio.\n\nDettagli tecnici e sicurezza:\n\nCaldaia a condensazione di recente installazione (anno 2021), ideale per un ottimo risparmio energetico.\nPorta blindata.\nCamino (Termoventilatore elettrico)\nInferriate di sicurezza a tutte le finestre per la massima tranquillità.\n\nUna soluzione ideale per chi desidera un immobile pronto all'uso, sicuro e inserito in un contesto di paese vivo e servito. Libero subito.\n\nRif.204\n\nPrezzo: 53.000€\n\nApe in corso\n\nAGENZIA IMMOBILIARE VALLE SAVENA SAS\n� Uffici:\n• Loiano – Via Roma 5/3 TEL 051/6544138\n• Monghidoro – Via Garibaldi 6\nRealizziamo perizie e consulenze per compravendite, locazioni e valutazioni immobiliari.\nOffriamo assistenza completa fino al rogito notarile, oltre alla redazione di certificazioni energetiche e relazioni tecniche integrate.\nCi occupiamo inoltre di pratiche edilizie e catastali.\n� Contattaci per maggiori informazioni:\n� Visita il nostro sito: . WWW. VALLESAVENA. IT.\n\n \n\n \n\n \n\n \n\n \n\nMostra tutta la descrizione\nPlanimetrie\nChiedi a un agente di questa casa\nNome*\nEmail*\nTelefono\nStati Uniti d'America\nCanada\nFrancia\nGermania\nGran Bretagna\nSpagna\nAustralia\nAustria\nBelgio\nCile\nCipro\nRepubblica Ceca\nDanimarca\nEgitto\nFinlandia\nGeorgia\nGrecia\nIsraele\nLettonia\nLituania\nMonaco\nPaesi Bassi\nFilippine\nPolonia\nPortogallo\nSvezia\nItaly\nSouth Africa\nAltro\nMessaggio*\nBy clicking the «RICHIEDI INFO» button you agree to the Termini di utilizzo and Politica sulla riservatezza\nRICHIEDI INFORMAZIONI\nPowered by Estatik\n8 LUGLIO 2026/DA VALLESAVENA\n\nCopyright © 2024 Agenzia Immobiliare Valle Savena\n\nSedi:\n\nVia Roma n.5/3, 40050 Loiano(BO)\nVia Giuseppe Garibaldi n.6, 40063 Monghidoro(BO)\n\nContatti:\nTelefono/Fax 051/6544138\nCellulare 320/0213217\n\nValleSavena sas\nP.iva 03181601208\nPec vallesavena@pec.it\nSito www.vallesavena.it\n\nAgenzia Immobiliare Vallesavena s.a.s. - Via Roma 5/3, 40050 Loiano (BO) Telefono/Fax 051.6544138 - Cellulare 320.0213217 - Mail segreteria@vallesavena.it - info@vallesavena.it © 2023 Agenzia Immobiliare Valle Savena - Credits - ADiMatica\nVilla indipendente in legno in zona collinare residenziale\t\n\tNel cuore di Monghidoro: quadrilocale ristrutturato",
+   "parsed": {
+    "prezzo": "53.000€",
+    "mq": "65 m²",
+    "locali": null,
+    "camere": "2",
+    "bagni": "1",
+    "piano": "0",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/0.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/1-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/3-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/Planimetria_page-0001-2-300x217.jpg",
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/0.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/10.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/07/11.jpeg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.vallesavena.it/wp-content/uploads/2026/07/0.jpeg"
+  },
+  {
+   "url": "https://www.vallesavena.it/?properties=villa-indipendente-in-legno-in-zona-collinare-residenziale",
+   "title": "Villa indipendente in legno in zona collinare residenziale – Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "Informazioni di base",
+    "Descrizione",
+    "Planimetrie",
+    "Chiedi a un agente di questa casa",
+    "Accedi o registrati",
+    "Accedi o registrati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"House\",\"name\":\"Villa indipendente in legno in zona collinare residenziale\",\"url\":\"https://www.vallesavena.it/?properties=villa-indipendente-in-legno-in-zona-collinare-residenziale\",\"address\":\"VIA PASCOLI LOIANO\",\"numberOfBathroomsTotal\":\"2\",\"numberOfBedrooms\":\"2\",\"description\":\"In bellissimo contesto panoramico residenziale, caratterizzato da tranquillità e riservatezza, si propone in vendita una villa indipendente costruita in legno secondo i principi della bioedilizia. L&#8217;immobile coniuga l&#8217;efficienza della costruzione sostenibile con il comfort di una struttura pronta per essere abitata, situata in una posizione strategica a pochi minuti da Loiano e 40 minuti da [&hellip;]\",\"image\":[\"https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/1-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/2-7.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/3A-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/4-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/5-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/5A-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/5b-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/5c-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/6-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/6a1-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/6a2-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7-6.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7a-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7c-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7d-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7e-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7f-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7g-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/7h-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/8-7.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/9-7.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/10-7.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/10a-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/10b-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/10c-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/18-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/19-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/20-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/22-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/22A-1.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/23-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/24-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/25-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/26-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/27-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/28-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/29-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/30-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/31-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/32-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/33-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/34-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/35-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/Cattura-2.jpg\"]}",
+   "imgs": [
+    {
+     "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+     "w": 330,
+     "h": 86,
+     "rw": 330
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/06/1-3-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/07/0-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    }
+   ],
+   "bgs": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-5-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-7-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3A-1-300x169.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/planimetrie_page-0002-300x212.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/planimetrie_page-0001-300x212.jpg"
+   ],
+   "dataSrc": [
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-7.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3A-1.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/4-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/5-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/5A-1.jpg"
+   ],
+   "descBlock": null,
+   "text": "Chi siamo\nVendite\nAffitti\nTerreni\nContatti\nTel 0516544138\nIMMOBILI RESIDENZIALI IN VENDITA APPENA PUBBLICATO\nVILLA INDIPENDENTE IN LEGNO IN ZONA COLLINARE RESIDENZIALE\nImmobili residenziali IN VENDITAVIA PASCOLI LOIANO\nAppena pubblicato\n \n+41\nImmobili residenziali IN VENDITA\nVIA PASCOLI LOIANO\nVIA PASCOLI LOIANO\n 2 camere da letto  2 bagni  140 m²\n€260,000\nRICHIEDI INFORMAZIONI\nInformazioni di base\nCategoria : Immobili residenziali IN VENDITA\nCamere da letto: 2\nBagni: 2\nCamere totali: 5\nSuperficie: 140 m²\nLivelli: 2\nGarage: SI\nAnno ristrutturato: 2024\nDescrizione\n\nIn bellissimo contesto panoramico residenziale, caratterizzato da tranquillità e riservatezza, si propone in vendita una villa indipendente costruita in legno secondo i principi della bioedilizia. L'immobile coniuga l'efficienza della costruzione sostenibile con il comfort di una struttura pronta per essere abitata, situata in una posizione strategica a pochi minuti da Loiano e 40 minuti da San Lazzaro di Savena.\n\nDistribuzione degli spazi interni\n\nLa villa è disposta su due livelli\n\nPiano Terra: L'ingresso principale immette direttamente in un luminoso soggiorno, caratterizzato dalle finiture calde dei soffitti e delle pareti in legno a vista, e valorizzato da una stufa concepita come fulcro termico della stanza. Il piano si sviluppa con un funzionale angolo cottura, un disimpegno d'ingresso alla zona notte, due camere da letto e un bagno. Gli ambienti godono di un'ottima luminosità naturale grazie alle ampie superfici vetrate affacciate sul giardino.\nPiano Primo: Una scala interna conduce al piano superiore, occupato dalla mansarda utilizzabile come camera e totalmente pavimentata in parquet, da una soffitta nel sottotetto e da un secondo bagno. Si tratta di un grande volume versatile di ampie metrature, ottimizzato negli spazi grazie alla presenza di armadiature a muro in legno realizzate su misura.\n\nCaratteristiche esterne e pertinenze\n\nLa villa è circondata sui quattro lati da un grande giardino privato di circa 1.550 mq, che garantisce massima indipendenza e si presta a molteplici utilizzi all'aperto. La proprietà comprende inoltre un comodo box auto/deposito di 20 mq integrato al corpo principale dell'edificio e accessibile anche dall’interno della zona abitativa tramite porta Rei.\n\nStato manutentivo e dotazioni tecniche\n\nL'immobile si presenta in perfette condizioni manutentive. Tra le dotazioni e le migliorie recenti si segnalano:\n\nInfissi ad alta efficienza: Sostituiti nel 2024, in legno con triplo vetro, ideali per l'isolamento termico e acustico.\nImpianto di riscaldamento: Caldaia di recente installazione a gpl.\nSicurezza e servizi: Impianto di allarme volumetrico/perimetrale e parabola satellitare già installata.\n\nLa tipologia costruttiva in legno garantisce un eccellente microclima interno in tutte le stagioni, offrendo ambienti freschi in estate e una gestione termica ottimale in inverno. Una soluzione ideale sia come residenza principale sia come seconda casa per chi desidera un contesto naturale e isolato dal traffico cittadino.\n\n \n\nPrezzo richiesto: € 260.000\n\nClasse Energetica (APE): In corso di redazione\n\nRif. Lor198\n\nAGENZIA IMMOBILIARE VALLE SAVENA SAS Per informazioni e appuntamenti, i nostri uffici sono a disposizione:\n\nLoiano – Via Roma 5/3 | Tel. 051/6544138\nMonghidoro – Via Garibaldi 6\nSito web: www.vallesavena.it\n\nLa nostra agenzia offre assistenza completa fino al rogito notarile, esecuzione di perizie e consulenze, redazione di certificazioni energetiche (APE), relazioni tecniche integrate (RTI), pratiche edilizie, catastali e assistenza per aste immobiliari.\n\n \n\nMostra tutta la descrizione\nPlanimetrie\nChiedi a un agente di questa casa\nNome*\nEmail*\nTelefono\nStati Uniti d'America\nCanada\nFrancia\nGermania\nGran Bretagna\nSpagna\nAustralia\nAustria\nBelgio\nCile\nCipro\nRepubblica Ceca\nDanimarca\nEgitto\nFinlandia\nGeorgia\nGrecia\nIsraele\nLettonia\nLituania\nMonaco\nPaesi Bassi\nFilippine\nPolonia\nPortogallo\nSvezia\nItaly\nSouth Africa\nAltro\nMessaggio*\nBy clicking the «RICHIEDI INFO» button you agree to the Termini di utilizzo and Politica sulla riservatezza\nRICHIEDI INFORMAZIONI\nPowered by Estatik\n30 GIUGNO 2026/DA VALLESAVENA\n\nCopyright © 2024 Agenzia Immobiliare Valle Savena\n\nSedi:\n\nVia Roma n.5/3, 40050 Loiano(BO)\nVia Giuseppe Garibaldi n.6, 40063 Monghidoro(BO)\n\nContatti:\nTelefono/Fax 051/6544138\nCellulare 320/0213217\n\nValleSavena sas\nP.iva 03181601208\nPec vallesavena@pec.it\nSito www.vallesavena.it\n\nAgenzia Immobiliare Vallesavena s.a.s. - Via Roma 5/3, 40050 Loiano (BO) Telefono/Fax 051.6544138 - Cellulare 320.0213217 - Mail segreteria@vallesavena.it - info@vallesavena.it © 2023 Agenzia Immobiliare Valle Savena - Credits - ADiMatica\nVilletta a Schiera di Testa con Lastrico Solare – Monghidoro\t\n\tTrilocale in centro a Loiano",
+   "parsed": {
+    "prezzo": "€ 260.000",
+    "mq": "140 m²",
+    "locali": null,
+    "camere": "2",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "(APE): In corso di redazione",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-5-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-7-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3A-1-300x169.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/planimetrie_page-0002-300x212.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/planimetrie_page-0001-300x212.jpg",
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-7.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3A-1.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/4-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/5-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/5A-1.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1.jpeg"
+  },
+  {
+   "url": "https://www.vallesavena.it/?properties=villetta-a-schiera-di-testa-con-lastrico-solare-monghidoro",
+   "title": "Villetta a Schiera di Testa con Lastrico Solare – Monghidoro – Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "Informazioni di base",
+    "Descrizione",
+    "Planimetrie",
+    "Chiedi a un agente di questa casa",
+    "Accedi o registrati",
+    "Accedi o registrati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"House\",\"name\":\"Villetta a Schiera di Testa con Lastrico Solare &#8211; Monghidoro\",\"url\":\"https://www.vallesavena.it/?properties=villetta-a-schiera-di-testa-con-lastrico-solare-monghidoro\",\"address\":\"monghidoro, via corrado lanzoni 22\",\"yearBuilt\":\"1980\",\"numberOfBathroomsTotal\":\"1\",\"numberOfBedrooms\":\"1\",\"description\":\"Se cerchi l&#8217;indipendenza, la tranquillità e uno spazio esterno da vivere al meglio, questa villetta a schiera di testa a Monghidoro è la soluzione perfetta per te. Grazie al riscaldamento autonomo e alla vicinanza ai servizi, la casa è ideale per essere vissuta tutto l&#8217;anno come abitazione principale, ma si presta magnificamente anche come seconda [&hellip;]\",\"image\":[\"https://www.vallesavena.it/wp-content/uploads/2026/06/1-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/2-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/3-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/4-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/5-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/6-6.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/9-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/10-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/11-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/12-7.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/13-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/14-5.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/21-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/22-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/23-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/30-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/31-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/40-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/50.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/51.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/52.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/53.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/60.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/61.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/63.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/64.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/65.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/06/70.jpeg\"]}",
+   "imgs": [
+    {
+     "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+     "w": 330,
+     "h": 86,
+     "rw": 330
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/06/1a-1-80x80.jpg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/06/0-Copia-1-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    }
+   ],
+   "bgs": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-5-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/4-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/pln-212x300.jpg"
+   ],
+   "dataSrc": [
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/4-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/5-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/6-6.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/9-5.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Chi siamo\nVendite\nAffitti\nTerreni\nContatti\nTel 0516544138\nIMMOBILI RESIDENZIALI IN VENDITA\nVILLETTA A SCHIERA DI TESTA CON LASTRICO SOLARE – MONGHIDORO\nImmobili residenziali IN VENDITAmonghidoro, via corrado lanzoni 22\n \n+24\nImmobili residenziali IN VENDITA\nmonghidoro, via corrado lanzoni 22\nmonghidoro, via corrado lanzoni 22\n 1 camera da letto  1 bagno  74 m²\n€58,000\nRICHIEDI INFORMAZIONI\nInformazioni di base\nCategoria : Immobili residenziali IN VENDITA\nCamere da letto: 1\nBagni: 1\nCamere totali: 4\nSuperficie: 74 m²\nLivelli: 2\nGarage: si\nAnno costruito : 1980\nDescrizione\n\nSe cerchi l'indipendenza, la tranquillità e uno spazio esterno da vivere al meglio, questa villetta a schiera di testa a Monghidoro è la soluzione perfetta per te. Grazie al riscaldamento autonomo e alla vicinanza ai servizi, la casa è ideale per essere vissuta tutto l'anno come abitazione principale, ma si presta magnificamente anche come seconda casa per chi desidera una fuga rigenerante dalla città nei fine settimana e durante le vacanze.\n\nIn via Corrado Lanzoni n°22, situata in un contesto residenziale sereno di soli 13 condomini, la proprietà garantisce massima tranquillità e spese di gestione decisamente contenute (circa 600€ all'anno). La casa si sviluppa su due livelli per un totale di 74 mq calpestabili, a cui si aggiunge un comodo garage di 12 mq.\n\nIngresso e la Zona Giorno: L'accesso all'immobile avviene tramite un cancellino esterno privato che conduce direttamente al grande lastrico solare, perfetto per pranzi all'aperto o relax estivo. Varcata la soglia, un piccolo disimpegno con doppia porta d'ingresso introduce alla luminosa sala con camino e alla cucina separata. Sempre al piano, troviamo una veranda estremamente versatile: attualmente utilizzata come camera da letto con armadio a muro, è perfetta anche come zona studio/smart working o stanza per gli ospiti.\nZona Notte: Una caratteristica scala a chiocciola conduce al piano superiore, composto da un bagno finestrato con box doccia e una spaziosa camera da letto padronale con accesso esclusivo a un terrazzo privato.\n\nDettagli tecnici e comfort:\n\nRiscaldamento autonomo a metano per la massima gestione dei consumi.\nInfissi in alluminio con doppio vetro e scuri in alluminio.\nImpianti dell'epoca di costruzione, perfettamente funzionanti.\nBasse spese condominiali: circa 600€/anno (circa 50 € al mese).\n\nRif: 174\n\nAPE in corso\n\nPrezzo richiesto: €58.000\n\nAGENZIA IMMOBILIARE VALLE SAVENA SAS\n� Uffici:\n• Loiano – Via Roma 5/3 TEL 051/6544138\n• Monghidoro – Via Garibaldi 6\nRealizziamo perizie e consulenze per compravendite, locazioni e valutazioni immobiliari.\nOffriamo assistenza completa fino al rogito notarile, oltre alla redazione di certificazioni energetiche e relazioni tecniche integrate.\nCi occupiamo inoltre di pratiche edilizie e catastali.\n� Contattaci per maggiori informazioni:\n� Visita il nostro sito: . WWW. VALLESAVENA. IT.\n\n \n\n \n\n \n\n \n\nMostra tutta la descrizione\nPlanimetrie\nChiedi a un agente di questa casa\nNome*\nEmail*\nTelefono\nStati Uniti d'America\nCanada\nFrancia\nGermania\nGran Bretagna\nSpagna\nAustralia\nAustria\nBelgio\nCile\nCipro\nRepubblica Ceca\nDanimarca\nEgitto\nFinlandia\nGeorgia\nGrecia\nIsraele\nLettonia\nLituania\nMonaco\nPaesi Bassi\nFilippine\nPolonia\nPortogallo\nSvezia\nItaly\nSouth Africa\nAltro\nMessaggio*\nBy clicking the «RICHIEDI INFO» button you agree to the Termini di utilizzo and Politica sulla riservatezza\nRICHIEDI INFORMAZIONI\nPowered by Estatik\n26 GIUGNO 2026/DA VALLESAVENA\n\nCopyright © 2024 Agenzia Immobiliare Valle Savena\n\nSedi:\n\nVia Roma n.5/3, 40050 Loiano(BO)\nVia Giuseppe Garibaldi n.6, 40063 Monghidoro(BO)\n\nContatti:\nTelefono/Fax 051/6544138\nCellulare 320/0213217\n\nValleSavena sas\nP.iva 03181601208\nPec vallesavena@pec.it\nSito www.vallesavena.it\n\nAgenzia Immobiliare Vallesavena s.a.s. - Via Roma 5/3, 40050 Loiano (BO) Telefono/Fax 051.6544138 - Cellulare 320.0213217 - Mail segreteria@vallesavena.it - info@vallesavena.it © 2023 Agenzia Immobiliare Valle Savena - Credits - ADiMatica\nBilocale con Terrazzo Verandato\t\n\tVilla indipendente in legno in zona collinare residenziale",
+   "parsed": {
+    "prezzo": "€58.000",
+    "mq": "74 m²",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-5-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/4-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/pln-212x300.jpg",
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/1-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/2-5.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/3-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/4-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/5-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/6-6.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/06/9-5.jpeg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.vallesavena.it/wp-content/uploads/2026/06/1-3.jpeg"
+  },
+  {
+   "url": "https://www.vallesavena.it/?properties=casa-indipendente-con-terreno-loiano",
+   "title": "Casa indipendente con terreno- Loiano – Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "Informazioni di base",
+    "Descrizione",
+    "Chiedi a un agente di questa casa",
+    "Accedi o registrati",
+    "Accedi o registrati",
+    "Reset password"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"House\",\"name\":\"Casa indipendente con  terreno- Loiano\",\"url\":\"https://www.vallesavena.it/?properties=casa-indipendente-con-terreno-loiano\",\"address\":\"loiano via ca nova\",\"numberOfBathroomsTotal\":\"1\",\"numberOfBedrooms\":\"4\",\"description\":\"In una borgata immersa nel verde dove sembra di essere in un contesto d&#8217;altri tempi, incontaminato e circondato da campi, proponiamo in vendita una porzione di casa terra tetto di circa 140 mq, situata a soli 4 minuti di auto dal centro di Loiano e dai principali servizi. Un luogo ideale dove respirare aria pulita, [&hellip;]\",\"image\":[\"https://www.vallesavena.it/wp-content/uploads/2026/10/0-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/0a1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/0b.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/1-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/2-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/3-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/4-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/4a.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/5-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/6-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/7-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/8-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/9-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/10-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/11-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/12-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/13-3.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/15-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/16-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/16a.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/17-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/18-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/19-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/20-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/21-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/22-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/23-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/24.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/25.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/26.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/27.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/28.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/29.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/30.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/32.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/33.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/34.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/35.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/36.jpeg\"]}",
+   "imgs": [
+    {
+     "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+     "w": 330,
+     "h": 86,
+     "rw": 330
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    }
+   ],
+   "bgs": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a1-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0b-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-3-300x169.jpeg"
+   ],
+   "dataSrc": [
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0b.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/4-3.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Chi siamo\nVendite\nAffitti\nTerreni\nContatti\nTel 0516544138\nIN PRIMO PIANO\nCASA INDIPENDENTE CON TERRENO- LOIANO\nloiano via ca nova\nIn primo piano\n \n+35\nloiano via ca nova\nloiano via ca nova\n 4 camere da letto  1 bagno  140 m²\n€95,000\nRICHIEDI INFORMAZIONI\nInformazioni di base\nCamere da letto: 4\nBagni: 1\nCamere totali: 3\nSuperficie: 140 m²\nDescrizione\n\nIn una borgata immersa nel verde dove sembra di essere in un contesto d'altri tempi, incontaminato e circondato da campi, proponiamo in vendita una porzione di casa terra tetto di circa 140 mq, situata a soli 4 minuti di auto dal centro di Loiano e dai principali servizi. Un luogo ideale dove respirare aria pulita, vivere a contatto con la natura e passeggiare tra i sentieri e le strade di campagna che circondano la proprietà.\n\nL'immobile si sviluppa su 3 livelli oltre al sottotetto ed è così articolato:\n\nPiano Terra: ingresso su soggiorno e due camere.\nPiano Primo: altre tre camere da letto e un bagno.\nPiano Seminterrato: spaziosa cantina e legnaia.\nPiano Sottotetto: locale ad uso soffitta/deposito.\n\nA completare la proprietà terreno privato, perfetti per chi cerca ampi spazi all'aperto, un giardino o un orto.\n\nL'immobile è da ristrutturare e rappresenta un'ottima opportunità per chi desidera personalizzare completamente la propria abitazione, unendo la tranquillità di un ambiente d'altri tempi alla vicinanza al paese.\n\nSuperficie: ~140 mq\n\nTerreno: oltre 2.000 mq\n\nApe: G\n\nPrezzo: € 95.000\n\n \n\nRif: 223\n\nAGENZIA IMMOBILIARE VALLE SAVENA SAS\n\nUffici:\n\nLoiano – Via Roma 5/3 TEL 051/6544138\nMonghidoro – Via Garibaldi 6\n\nRealizziamo perizie e consulenze per compravendite, locazioni e valutazioni immobiliari.\n\nOffriamo assistenza completa fino al rogito notarile, oltre alla redazione di certificazioni energetiche e relazioni tecniche integrate.\n\nCi occupiamo inoltre di pratiche edilizie e catastali.\n\nAssistenza alle aste immobiliari.\n\nContattaci per maggiori informazioni: Visita il nostro sito: www.vallesavena.it\n\n \n\n \n\nMostra tutta la descrizione\nChiedi a un agente di questa casa\nNome*\nEmail*\nTelefono\nStati Uniti d'America\nCanada\nFrancia\nGermania\nGran Bretagna\nSpagna\nAustralia\nAustria\nBelgio\nCile\nCipro\nRepubblica Ceca\nDanimarca\nEgitto\nFinlandia\nGeorgia\nGrecia\nIsraele\nLettonia\nLituania\nMonaco\nPaesi Bassi\nFilippine\nPolonia\nPortogallo\nSvezia\nItaly\nSouth Africa\nAltro\nMessaggio*\nBy clicking the «RICHIEDI INFO» button you agree to the Termini di utilizzo and Politica sulla riservatezza\nRICHIEDI INFORMAZIONI\nPowered by Estatik\n26 OTTOBRE 2026/DA VALLESAVENA\n\nCopyright © 2024 Agenzia Immobiliare Valle Savena\n\nSedi:\n\nVia Roma n.5/3, 40050 Loiano(BO)\nVia Giuseppe Garibaldi n.6, 40063 Monghidoro(BO)\n\nContatti:\nTelefono/Fax 051/6544138\nCellulare 320/0213217\n\nValleSavena sas\nP.iva 03181601208\nPec vallesavena@pec.it\nSito www.vallesavena.it\n\nAgenzia Immobiliare Vallesavena s.a.s. - Via Roma 5/3, 40050 Loiano (BO) Telefono/Fax 051.6544138 - Cellulare 320.0213217 - Mail segreteria@vallesavena.it - info@vallesavena.it © 2023 Agenzia Immobiliare Valle Savena - Credits - ADiMatica\nCasa Indipendente in Sasso con Doppio Garage a Monghidoro\t",
+   "parsed": {
+    "prezzo": "€ 95.000",
+    "mq": "140 m²",
+    "locali": null,
+    "camere": "4",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a1-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0b-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-3-300x169.jpeg",
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0b.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3-3.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/4-3.jpeg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-3.jpeg"
+  },
+  {
+   "url": "https://www.vallesavena.it/?properties=casa-indipendente-in-sasso-con-doppio-garage-a-monghidoro",
+   "title": "Casa Indipendente in Sasso con Doppio Garage a Monghidoro – Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "Informazioni di base",
+    "Descrizione",
+    "Planimetrie",
+    "Energy diagnostics",
+    "Chiedi a un agente di questa casa",
+    "Accedi o registrati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"House\",\"name\":\"Casa Indipendente in Sasso con Doppio Garage a Monghidoro\",\"url\":\"https://www.vallesavena.it/?properties=casa-indipendente-in-sasso-con-doppio-garage-a-monghidoro\",\"address\":\"Monghidoro- Via La Costa\",\"numberOfBathroomsTotal\":\"1\",\"numberOfBedrooms\":\"1\",\"description\":\"Casa Indipendente in Sasso con Due autorimesse  a Monghidoro Località- La Costa, a soli 5 minuti d&#8217;auto dal centro di Monghidoro, proponiamo in vendita una suggestiva casa indipendente in sasso, ideale come rifugio di montagna, casa per le vacanze o investimento da mettere a reddito. La proprietà, che si sviluppa su una superficie abitativa di [&hellip;]\",\"image\":[\"https://www.vallesavena.it/wp-content/uploads/2026/10/0-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/1-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/2-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/3-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/3a-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/4-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/5-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/6-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/6B.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/7-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/8-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/9-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/10-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/11-4.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/11B.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/11C.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/14-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/15-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/16-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/17-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/18-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/19-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/20-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/21-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/22-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/22A.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/22B.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/23-2.jpeg\"]}",
+   "imgs": [
+    {
+     "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+     "w": 330,
+     "h": 86,
+     "rw": 330
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-2-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-3-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    }
+   ],
+   "bgs": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2-2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/doc00708620261005075010_page-0001-300x212.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/doc00708720261005075038_page-0001-300x212.jpg"
+   ],
+   "dataSrc": [
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3a-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/4-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/5-4.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Chi siamo\nVendite\nAffitti\nTerreni\nContatti\nTel 0516544138\nAPPENA PUBBLICATO\nCASA INDIPENDENTE IN SASSO CON DOPPIO GARAGE A MONGHIDORO\nMonghidoro- Via La Costa\nAppena pubblicato\n \n+24\nMonghidoro- Via La Costa\nMonghidoro- Via La Costa\n 1 camera da letto  1 bagno  50 m²\n€115,000\nRICHIEDI INFORMAZIONI\nInformazioni di base\nCamere da letto: 1\nBagni: 1\nCamere totali: 3\nSuperficie: 50 m²\nGarage: SI\nDescrizione\n\nCasa Indipendente in Sasso con Due autorimesse  a Monghidoro\n\nLocalità- La Costa, a soli 5 minuti d'auto dal centro di Monghidoro, proponiamo in vendita una suggestiva casa indipendente in sasso, ideale come rifugio di montagna, casa per le vacanze o investimento da mettere a reddito.\n\nLa proprietà, che si sviluppa su una superficie abitativa di 50 mq, unisce il sapore autentico delle dimore rustiche alla grande praticità di spazi accessori introvabili per dimensioni e versatilità. L'immobile viene venduto completamente arredato così come appare in foto, pronto per essere abitato fin da subito senza necessità di alcun intervento immediato.\n\nDalla porta d’ingresso, salendo pochi gradini, si accede all’appartamento, che si sviluppa attorno a un disimpegno centrale capace di distribuire con armonia i vari ambienti: un accogliente soggiorno con cucina a vista, una spaziosa e luminosa camera da letto matrimoniale e un bagno finestrato e  funzionale dotato di doccia. Inoltre, dal ripostiglio è presente una botola con scala retrattile che permette di accedere al sottotetto, utilissimo come spazio di sgombero stagionale.\n\nL’abitazione vanta di due ampie autorimesse finestrate di ben 39 mq e l’altra di  27 mq, con legnaia con   l’accesso al primo piano tramite scala al deposito di 34 mq.\n\nDal punto di vista strutturale e tecnico, la casa vanta la tipica muratura in sasso a vista, impianto di riscaldamento autonomo a gasolio, infissi in legno con doppio vetro e impianti funzionanti..\n\nLa posizione regala uno scorcio panoramico sulle verdi colline circostanti ed è arricchita dalla vicinanza immediata alla caratteristica e storica \"Fontana La Costa\".\n\nUna soluzione unica nel suo genere, perfetta per chi desidera immergersi nella natura e nella quiete dell'Appennino senza rinunciare alla comodità dei servizi vicini ed  a una straordinaria dotazione di spazi accessori.\n\n \n\nRif. 219\n\nApe in richiesta\n\nPrezzo richiesto: 115.000€\n\n \n\nAGENZIA IMMOBILIARE VALLE SAVENA SAS\n� Uffici:\n• Loiano – Via Roma 5/3 TEL 051/6544138\n• Monghidoro – Via Garibaldi 6\nRealizziamo perizie e consulenze per compravendite, locazioni e valutazioni immobiliari.\nOffriamo assistenza completa fino al rogito notarile, oltre alla redazione di certificazioni energetiche e relazioni tecniche integrate.\nCi occupiamo inoltre di pratiche edilizie e catastali.\n� Contattaci per maggiori informazioni:\n� Visita il nostro sito: . WWW. VALLESAVENA. IT.\n\n \n\n \n\n \n\nMostra tutta la descrizione\nPlanimetrie\nEnergy diagnostics\nEnergy Efficiency Class\nA\nB\nC\nD\nE\nF\nG\nChiedi a un agente di questa casa\nNome*\nEmail*\nTelefono\nStati Uniti d'America\nCanada\nFrancia\nGermania\nGran Bretagna\nSpagna\nAustralia\nAustria\nBelgio\nCile\nCipro\nRepubblica Ceca\nDanimarca\nEgitto\nFinlandia\nGeorgia\nGrecia\nIsraele\nLettonia\nLituania\nMonaco\nPaesi Bassi\nFilippine\nPolonia\nPortogallo\nSvezia\nItaly\nSouth Africa\nAltro\nMessaggio*\nBy clicking the «RICHIEDI INFO» button you agree to the Termini di utilizzo and Politica sulla riservatezza\nRICHIEDI INFORMAZIONI\nPowered by Estatik\n16 OTTOBRE 2026/DA VALLESAVENA\n\nCopyright © 2024 Agenzia Immobiliare Valle Savena\n\nSedi:\n\nVia Roma n.5/3, 40050 Loiano(BO)\nVia Giuseppe Garibaldi n.6, 40063 Monghidoro(BO)\n\nContatti:\nTelefono/Fax 051/6544138\nCellulare 320/0213217\n\nValleSavena sas\nP.iva 03181601208\nPec vallesavena@pec.it\nSito www.vallesavena.it\n\nAgenzia Immobiliare Vallesavena s.a.s. - Via Roma 5/3, 40050 Loiano (BO) Telefono/Fax 051.6544138 - Cellulare 320.0213217 - Mail segreteria@vallesavena.it - info@vallesavena.it © 2023 Agenzia Immobiliare Valle Savena - Credits - ADiMatica\nLuminoso appartamento a Loiano\t\n\tCasa indipendente con terreno- Loiano",
+   "parsed": {
+    "prezzo": "115.000€",
+    "mq": "50 m²",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2-2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3-4-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/doc00708620261005075010_page-0001-300x212.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/doc00708720261005075038_page-0001-300x212.jpg",
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/3a-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/4-4.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/5-4.jpeg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4.jpeg"
+  },
+  {
+   "url": "https://www.vallesavena.it/?properties=luminoso-appartamento-a-loiano",
+   "title": "Luminoso appartamento a Loiano – Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "Informazioni di base",
+    "Descrizione",
+    "Planimetrie",
+    "Chiedi a un agente di questa casa",
+    "Accedi o registrati",
+    "Accedi o registrati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"House\",\"name\":\"Luminoso appartamento a Loiano\",\"url\":\"https://www.vallesavena.it/?properties=luminoso-appartamento-a-loiano\",\"address\":\"Via del vento n° 10 Loiano\",\"yearBuilt\":\"2000\",\"numberOfBathroomsTotal\":\"2\",\"numberOfBedrooms\":\"2\",\"description\":\"In contesto tranquillo, proponiamo in vendita in Via del Vento 10 a Loiano uno splendido e ben rifinito appartamento di 89 mq, situato al primo piano di una palazzina di soli sei appartamenti, servita da ascensore che parte direttamente dal piano terra, offrendo un comodo accesso privo di barriere fino alla zona cantine che si [&hellip;]\",\"image\":[\"https://www.vallesavena.it/wp-content/uploads/2026/10/0-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/0a-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/1-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/2A-1-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/2A-2-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/2A-3-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/2A-4-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/3-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/3A-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/4-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/4a-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/5-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/6-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/7-2.jpg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/8-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/9-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/10-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/10A-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/11-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/12-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/13-2.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/13A-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/13B-1.jpeg\",\"https://www.vallesavena.it/wp-content/uploads/2026/10/14-2.jpg\"]}",
+   "imgs": [
+    {
+     "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+     "w": 330,
+     "h": 86,
+     "rw": 330
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/09/0-4-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    },
+    {
+     "src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-4-80x80.jpeg",
+     "w": 80,
+     "h": 80,
+     "rw": 80
+    }
+   ],
+   "bgs": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a-2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-1-1-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/PLANIMETRIA-300x291.jpg"
+   ],
+   "dataSrc": [
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-1-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-2-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-3-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-4-1.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Chi siamo\nVendite\nAffitti\nTerreni\nContatti\nTel 0516544138\nAPPENA PUBBLICATO\nLUMINOSO APPARTAMENTO A LOIANO\nVia del vento n° 10 Loiano\nAppena pubblicato\n \n+20\nVia del vento n° 10 Loiano\nVia del vento n° 10 Loiano\n 2 camere da letto  2 bagni  89 m²\n€110,000\nRICHIEDI INFORMAZIONI\nInformazioni di base\nCamere da letto: 2\nBagni: 2\nCamere totali: 6\nSuperficie: 89 m²\nPiano: 2\nCantina: si\nAnno costruito : 2000\nDescrizione\n\nIn contesto tranquillo, proponiamo in vendita in Via del Vento 10 a Loiano uno splendido e ben rifinito appartamento di 89 mq, situato al primo piano di una palazzina di soli sei appartamenti, servita da ascensore che parte direttamente dal piano terra, offrendo un comodo accesso privo di barriere fino alla zona cantine che si trovano al piano terra.\n\nL'immobile, particolarmente luminoso, è dotato di riscaldamento autonomo a metano e presenta una funzionale suddivisione degli spazi:\n\nIngresso e Zona Giorno: Ingresso con porta blindata e cancello di sicurezza, accogliente sala da pranzo caratterizzata da una meravigliosa grande vetrata che inonda di luce l'ambiente, oltre a una cucina abitabile con accesso diretto al balcone (provvisto di tendone parasole).\nZona Notte e Servizi: Ben disimpegnata sul lato opposto, si compone di due ampie camere da letto e doppi servizi: un bagno padronale finestrato con box doccia dalle ampie dimensioni e un secondo bagno adibito a comoda lavanderia.\n\nL’immobile viene venduto completamente arredato come in foto\n\nFiniture e Dotazioni:\n\nInfissi in legno con doppio vetro\nScuri nuovi in PVC\nPredisposizione per l'impianto d'allarme\nPorta blindata e cancello di sicurezza\n\nCompleta la proprietà una pratica cantina pavimentata al piano terra, direttamente raggiungibile in ascensore.\n\nRiepilogo Caratteristiche:\n\nSuperficie: 89 mq\nContesto: Piccola palazzina di sole 6 unità\nPiano: 1° con ascensore dal piano terra (accessibile)\nLocali: Sala da pranzo, cucina abitabile, 2 ampie camere, 2 bagni (uno con maxi doccia, uno uso lavanderia), balcone\nRiscaldamento: Autonomo a metano\nAccessori: Cantina pavimentata, scuri in PVC nuovi, allarme predisposto\n\nPrezzo richiesto: €110.000\n\nRif. 221\n\nAPE in corso\n\n \n\nAGENZIA IMMOBILIARE VALLE SAVENA SAS\n\nUffici:\n\nLoiano – Via Roma 5/3 TEL 051/6544138\nMonghidoro – Via Garibaldi 6\n\nRealizziamo perizie e consulenze per compravendite, locazioni e valutazioni immobiliari.\n\nOffriamo assistenza completa fino al rogito notarile, oltre alla redazione di certificazioni energetiche e relazioni tecniche integrate.\n\nCi occupiamo inoltre di pratiche edilizie e catastali.\n\nAssistenza alle aste immobiliari.\n\nContattaci per maggiori informazioni: Visita il nostro sito: www.vallesavena.it\n\nMostra tutta la descrizione\nPlanimetrie\nChiedi a un agente di questa casa\nNome*\nEmail*\nTelefono\nStati Uniti d'America\nCanada\nFrancia\nGermania\nGran Bretagna\nSpagna\nAustralia\nAustria\nBelgio\nCile\nCipro\nRepubblica Ceca\nDanimarca\nEgitto\nFinlandia\nGeorgia\nGrecia\nIsraele\nLettonia\nLituania\nMonaco\nPaesi Bassi\nFilippine\nPolonia\nPortogallo\nSvezia\nItaly\nSouth Africa\nAltro\nMessaggio*\nBy clicking the «RICHIEDI INFO» button you agree to the Termini di utilizzo and Politica sulla riservatezza\nRICHIEDI INFORMAZIONI\nPowered by Estatik\n15 OTTOBRE 2026/DA VALLESAVENA\n\nCopyright © 2024 Agenzia Immobiliare Valle Savena\n\nSedi:\n\nVia Roma n.5/3, 40050 Loiano(BO)\nVia Giuseppe Garibaldi n.6, 40063 Monghidoro(BO)\n\nContatti:\nTelefono/Fax 051/6544138\nCellulare 320/0213217\n\nValleSavena sas\nP.iva 03181601208\nPec vallesavena@pec.it\nSito www.vallesavena.it\n\nAgenzia Immobiliare Vallesavena s.a.s. - Via Roma 5/3, 40050 Loiano (BO) Telefono/Fax 051.6544138 - Cellulare 320.0213217 - Mail segreteria@vallesavena.it - info@vallesavena.it © 2023 Agenzia Immobiliare Valle Savena - Credits - ADiMatica\nRustico in pietra con spazio esterno e terreno\t\n\tCasa Indipendente in Sasso con Doppio Garage a Monghidoro",
+   "parsed": {
+    "prezzo": "€110.000",
+    "mq": "89 m²",
+    "locali": "Sala da pranzo, cucina abitabi",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "2",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a-2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-2-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-1-1-300x169.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/PLANIMETRIA-300x291.jpg",
+    "http://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/0a-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/1-2.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-1-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-2-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-3-1.jpeg",
+    "https://www.vallesavena.it/wp-content/uploads/2026/10/2A-4-1.jpeg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.vallesavena.it/wp-content/uploads/2026/10/0-2.jpeg"
+  }
+ ],
+ "logo": {
+  "file": "logo.jpg",
+  "src": "https://vallesavena.it/wp-content/uploads/2023/04/insegna2.jpg",
+  "size": 13947
+ }
+}

@@ -1,0 +1,784 @@
+{
+ "cfg": {
+  "slug": "kapitalre",
+  "nome": "Immobiliare KapitalRE",
+  "home": "https://immobiliarekapitalre.it/",
+  "index": [
+   "https://immobiliarekapitalre.it/categoria/case-in-vendita-bologna/",
+   "https://immobiliarekapitalre.it/categoria/affitto-a-bologna/"
+  ],
+  "rx": "immobiliarekapitalre[.]it/(immobile|immobili|annuncio|property|proprieta)/[a-z0-9-]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Immobiliare KapitalRE | Immobiliare di Bologna e Provincia",
+  "desc": "Immobiliare KapitalRE: la tua agenzia per vendere, acquistare o affittare immobili a Bologna e provincia. Scopri la tua prossima casa con noi oggi!",
+  "emails": [
+   "info@kapitalre.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://immobiliarekapitalre.it/wp-content/uploads/2024/02/logo.png",
+   "https://immobiliarekapitalre.it/wp-content/uploads/2024/02/home-mobile.png"
+  ],
+  "svgLogo": "<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-caret-down\" viewBox=\"0 0 320 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\"></path></svg>",
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(66, 66, 66)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(66, 66, 66)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(66, 66, 66)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(112, 111, 111)",
+   "font": "Roboto, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(20, 20, 20)",
+   "font": "sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    152
+   ],
+   [
+    "rgb(174, 15, 10)",
+    27
+   ],
+   [
+    "rgb(255, 255, 255)",
+    20
+   ],
+   [
+    "rgb(52, 104, 118)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.8)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    1763
+   ],
+   [
+    "rgb(255, 255, 255)",
+    61
+   ],
+   [
+    "rgb(174, 15, 10)",
+    58
+   ],
+   [
+    "rgb(245, 243, 238)",
+    7
+   ],
+   [
+    "rgb(52, 104, 118)",
+    6
+   ],
+   [
+    "rgb(222, 229, 229)",
+    5
+   ],
+   [
+    "rgb(220, 127, 78)",
+    2
+   ],
+   [
+    "rgb(214, 108, 79)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(174, 15, 10)",
+    23
+   ],
+   [
+    "rgb(255, 255, 255)",
+    19
+   ],
+   [
+    "rgb(245, 243, 238)",
+    5
+   ],
+   [
+    "rgb(112, 111, 111)",
+    4
+   ],
+   [
+    "rgb(214, 108, 79)",
+    2
+   ],
+   [
+    "rgb(52, 104, 118)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(174, 15, 10)",
+    76
+   ],
+   [
+    "rgb(255, 255, 255)",
+    30
+   ],
+   [
+    "rgb(245, 243, 238)",
+    25
+   ],
+   [
+    "rgb(66, 66, 66)",
+    6
+   ]
+  ],
+  "fonts": [
+   [
+    "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    142
+   ],
+   [
+    "Roboto, sans-serif",
+    113
+   ],
+   [
+    "\"Noto Sans Adlam\", sans-serif",
+    87
+   ]
+  ],
+  "heads": [
+   "VENDI BENE LA TUA CASA CON NOI",
+   "COMPRA BENE LA TUA CASA CON NOI",
+   "Facciamo della tua casa un progetto di vita",
+   "ANNUNCI IN EVIDENZA",
+   "Ricerca per LUOGO",
+   "Provincia di Bologna",
+   "Zone di Bologna",
+   "Altre Province"
+  ],
+  "addr": null,
+  "final": "https://immobiliarekapitalre.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://immobiliarekapitalre.it/immobili/t5470/",
+  "https://immobiliarekapitalre.it/immobili/t5672/",
+  "https://immobiliarekapitalre.it/immobili/t4938/",
+  "https://immobiliarekapitalre.it/immobili/t5524/",
+  "https://immobiliarekapitalre.it/immobili/t5726/",
+  "https://immobiliarekapitalre.it/immobili/t4523/",
+  "https://immobiliarekapitalre.it/immobili/t4854/",
+  "https://immobiliarekapitalre.it/immobili/t5625/",
+  "https://immobiliarekapitalre.it/immobili/t5624/",
+  "https://immobiliarekapitalre.it/immobili/t4853/",
+  "https://immobiliarekapitalre.it/immobili/t2406/",
+  "https://immobiliarekapitalre.it/immobili/t5682/",
+  "https://immobiliarekapitalre.it/immobili/t5683/",
+  "https://immobiliarekapitalre.it/immobili/t5681/",
+  "https://immobiliarekapitalre.it/immobili/t5680/",
+  "https://immobiliarekapitalre.it/immobili/t5679/",
+  "https://immobiliarekapitalre.it/immobili/t3835/",
+  "https://immobiliarekapitalre.it/immobili/t3502/",
+  "https://immobiliarekapitalre.it/immobili/t861/",
+  "https://immobiliarekapitalre.it/immobili/ca106/",
+  "https://immobiliarekapitalre.it/immobili/t5772/",
+  "https://immobiliarekapitalre.it/immobili/t41010/",
+  "https://immobiliarekapitalre.it/immobili/t41008/",
+  "https://immobiliarekapitalre.it/immobili/t1200/",
+  "https://immobiliarekapitalre.it/immobili/t5716/",
+  "https://immobiliarekapitalre.it/immobili/t41009/",
+  "https://immobiliarekapitalre.it/immobili/t31117/",
+  "https://immobiliarekapitalre.it/immobili/t1242/",
+  "https://immobiliarekapitalre.it/immobili/t1241/",
+  "https://immobiliarekapitalre.it/immobili/t5704/",
+  "https://immobiliarekapitalre.it/immobili/a4100/",
+  "https://immobiliarekapitalre.it/immobili/a3191/",
+  "https://immobiliarekapitalre.it/immobili/a3190/",
+  "https://immobiliarekapitalre.it/immobili/a4102/",
+  "https://immobiliarekapitalre.it/immobili/a1107/",
+  "https://immobiliarekapitalre.it/immobili/a3194/",
+  "https://immobiliarekapitalre.it/immobili/xa102/",
+  "https://immobiliarekapitalre.it/immobili/ua203/",
+  "https://immobiliarekapitalre.it/immobili/ua205/",
+  "https://immobiliarekapitalre.it/immobili/ma103/"
+ ],
+ "listings": [
+  {
+   "url": "https://immobiliarekapitalre.it/immobili/t5470/",
+   "title": "Speranza - Appartamento nuovo da impresa - Immobiliare KapitalRE",
+   "h1": "Speranza - Appartamento nuovo da impresa",
+   "h2": [
+    "Appartamento quadrilocale, San Lazzaro di Savena"
+   ],
+   "ogTitle": "Speranza - Appartamento nuovo da impresa - Immobiliare KapitalRE",
+   "ogImage": "https://immobiliarekapitalre.it/wp-content/uploads/2024/07/01-7.webp",
+   "ogDesc": "Quello di via Speranza è un intervento destinato a definire una nuova frontiera dell'edilizia sostenibile e della qualità dell'abitare, con",
+   "desc": "Quello di via Speranza è un intervento destinato a definire una nuova frontiera dell'edilizia sostenibile e della qualità dell'abitare, con",
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https://immobiliarekapitalre.it/immobili/t5470/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":\"1\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/\",\"name\":\"Immobiliare Kapitalre\"}},{\"@type\":\"ListItem\",\"position\":\"2\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/\",\"name\":\"Immobili\"}},{\"@type\":\"ListItem\",\"position\":\"3\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita/\",\"name\":\"Vendita Case\"}},{\"@type\":\"ListItem\",\"position\":\"4\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-in-provincia-di-bologna/\",\"name\":\"Provincia di Bologna\"}},{\"@type\":\"ListItem\",\"position\":\"5\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/t5470/\",\"name\":\"T5470\"}}]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776-768x499.jpg",
+     "w": 768,
+     "h": 499,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775-768x499.jpg",
+     "w": 768,
+     "h": 499,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846774-768x499.jpg",
+     "w": 768,
+     "h": 499,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776-768x499.jpg",
+     "w": 768,
+     "h": 499,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775-768x499.jpg",
+     "w": 768,
+     "h": 499,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/07/01-7-150x150.jpg",
+     "w": 150,
+     "h": 150,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846774.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846774.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg"
+   ],
+   "descBlock": null,
+   "text": "Vai al contenuto\nSearch ...\nElenco\nImmobili\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin\nScopri KapitalRE\nI nostri Immobili\nAgenzie\nLavora con noi\nMy KapitalRE\n\nImmobiliare Kapitalre > Immobili > Vendita Case > Provincia di Bologna > T5470\n\nCondividi:\nPlanimetria\nPosizione\nRichiedi appuntamento\nManda un messaggio\nNome *\nMessaggio\n\nInformativa art.13 Reg.UE679/2016 per il trattamento dei dati personali.\n\ndichiaro di aver preso visione dell'informativa privacy\nInvia\nSperanza - Appartamento nuovo da impresa\nAppartamento quadrilocale, San Lazzaro di Savena\nVia Speranza, San Lazzaro di Savena\n113 m²\n4 Locali\nBagni: 2\nCamere: 3\nAppartamento\nPiano: 1\n€ 502000\nDESCRIZIONE\nCARATTERISTICHE\nCOSTI\nEFFICIENZA ENERGETICA\nCONDIVIDI\nTi piace questa soluzione? Prenota subito una visita!\nNome *\n\nAppuntamento\n\nGiorno appuntamento\nOra appuntamento da\nOra appuntamento a\nMessaggio\nInvia\nPLANIMETRIA\nMAPPA\nLINK UTILI\nVEDI ANCHE NELLE ZONE VICINE\nCase in vendita a Bologna\nCase in vendita a Castenaso\nCase in vendita a Ozzano dell'Emilia\nCase in vendita a Pianoro\nKAPITALRE SRL\nVia Emilia Levante 96\n40139 Bologna\nP.IVA 03584231207\nREA -BO- 530830\nCap sociale sottoscritto 50.000€ i.v\n051 19871092\ninfo@kapitalre.it\nLINK UTILI\nChi siamo\nLavora con noi\nNuove costruzioni\nAffitti brevi Bologna\nCasa vacanze Bologna\nPrivacy Policy\nInformativa Privacy Clienti\nInformativa Privacy contatti\nSERVIZI\nVendi casa\nAffitta casa\nValuta casa\nArreda casa\nAGENZIE\nBologna Centro - Nord\nBologna Levante\nBologna Ponente\nSan Lazzaro di Savena\nCastenaso\nCasalecchio di Reno\nImola\nSeguici sui social\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin",
+   "parsed": {
+    "prezzo": "€ 502000",
+    "mq": "113",
+    "locali": "4",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "1",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/07/01-7.webp",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776-768x499.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775-768x499.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846774-768x499.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776-768x499.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775-768x499.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846775.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846774.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846774.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1846776.jpg"
+   ],
+   "foto": "foto-1.webp",
+   "foto_src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/07/01-7.webp"
+  },
+  {
+   "url": "https://immobiliarekapitalre.it/immobili/t5672/",
+   "title": "Pianoro - Pentalocale con due terrazzi - T5672 - Immobiliare KapitalRE",
+   "h1": "Pianoro - Pentalocale con due terrazzi - T5672",
+   "h2": [
+    "Appartamento 5 locali, Pianoro"
+   ],
+   "ogTitle": "Pianoro - Pentalocale con due terrazzi - T5672 - Immobiliare KapitalRE",
+   "ogImage": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-2-1024x768.jpg",
+   "ogDesc": "Pianoro Via Nazionale angolo via Irma Bandiera, palazzina in classe A di poche unità abitative, in fase di ultimazione, vendiamo bellissimo",
+   "desc": "Pianoro Via Nazionale angolo via Irma Bandiera, palazzina in classe A di poche unità abitative, in fase di ultimazione, vendiamo bellissimo",
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https://immobiliarekapitalre.it/immobili/t5672/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":\"1\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/\",\"name\":\"Immobiliare Kapitalre\"}},{\"@type\":\"ListItem\",\"position\":\"2\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/\",\"name\":\"Immobili\"}},{\"@type\":\"ListItem\",\"position\":\"3\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita/\",\"name\":\"Vendita Case\"}},{\"@type\":\"ListItem\",\"position\":\"4\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-in-provincia-di-bologna/\",\"name\":\"Provincia di Bologna\"}},{\"@type\":\"ListItem\",\"position\":\"5\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-pianoro/\",\"name\":\"Pianoro\"}},{\"@type\":\"ListItem\",\"position\":\"6\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/t5672/\",\"name\":\"T5672\"}}]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-1-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-2-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6835-1-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6853-1-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6836-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6837-1-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_1-scaled.jpg"
+   ],
+   "descBlock": null,
+   "text": "Vai al contenuto\nSearch ...\nElenco\nImmobili\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin\nScopri KapitalRE\nI nostri Immobili\nAgenzie\nLavora con noi\nMy KapitalRE\n\nImmobiliare Kapitalre > Immobili > Vendita Case > Provincia di Bologna > Pianoro > T5672\n\nCondividi:\nPlanimetria\nPosizione\nRichiedi appuntamento\nManda un messaggio\nNome *\nMessaggio\n\nInformativa art.13 Reg.UE679/2016 per il trattamento dei dati personali.\n\ndichiaro di aver preso visione dell'informativa privacy\nInvia\nPianoro - Pentalocale con due terrazzi - T5672\nAppartamento 5 locali, Pianoro\nVia Irma Bandiera, Pianoro\n110 m²\n5 Locali\nCamere: 3\nAppartamento\nPiano: 1\n€ 339000\nDESCRIZIONE\nCARATTERISTICHE\nCOSTI\nEFFICIENZA ENERGETICA\nCONDIVIDI\nTi piace questa soluzione? Prenota subito una visita!\nNome *\n\nAppuntamento\n\nGiorno appuntamento\nOra appuntamento da\nOra appuntamento a\nMessaggio\nInvia\nPLANIMETRIA\nMAPPA\nLINK UTILI\nVEDI ANCHE NELLE ZONE VICINE\nCase in vendita a Bologna\nCase in vendita a Ozzano dell'Emilia\nCase in vendita a San Lazzaro di Savena\nCase in vendita a Sasso Marconi\nKAPITALRE SRL\nVia Emilia Levante 96\n40139 Bologna\nP.IVA 03584231207\nREA -BO- 530830\nCap sociale sottoscritto 50.000€ i.v\n051 19871092\ninfo@kapitalre.it\nLINK UTILI\nChi siamo\nLavora con noi\nNuove costruzioni\nAffitti brevi Bologna\nCasa vacanze Bologna\nPrivacy Policy\nInformativa Privacy Clienti\nInformativa Privacy contatti\nSERVIZI\nVendi casa\nAffitta casa\nValuta casa\nArreda casa\nAGENZIE\nBologna Centro - Nord\nBologna Levante\nBologna Ponente\nSan Lazzaro di Savena\nCastenaso\nCasalecchio di Reno\nImola\nSeguici sui social\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin",
+   "parsed": {
+    "prezzo": "€ 339000",
+    "mq": "110",
+    "locali": "5",
+    "camere": "3",
+    "bagni": null,
+    "piano": "1",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-2-1024x768.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-1-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-2-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6835-1-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6853-1-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6836-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6837-1-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-2-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_1-scaled.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-2-1024x768.jpg"
+  },
+  {
+   "url": "https://immobiliarekapitalre.it/immobili/t4938/",
+   "title": "Pianoro - Pentalocale con terrazzo di 10 mq - LT4938 - Immobiliare KapitalRE",
+   "h1": "Pianoro - Pentalocale con terrazzo di 10 mq - LT4938",
+   "h2": [
+    "Appartamento quadrilocale, Pianoro"
+   ],
+   "ogTitle": "Pianoro - Pentalocale con terrazzo di 10 mq - LT4938 - Immobiliare KapitalRE",
+   "ogImage": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-1-1024x768.jpg",
+   "ogDesc": "Pianoro Via Nazionale angolo via Irma Bandiera, palazzina in classe A di poche unità abitative, in fase di ultimazione, vendiamo bellissimo",
+   "desc": "Pianoro Via Nazionale angolo via Irma Bandiera, palazzina in classe A di poche unità abitative, in fase di ultimazione, vendiamo bellissimo",
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https://immobiliarekapitalre.it/immobili/t4938/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":\"1\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/\",\"name\":\"Immobiliare Kapitalre\"}},{\"@type\":\"ListItem\",\"position\":\"2\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/\",\"name\":\"Immobili\"}},{\"@type\":\"ListItem\",\"position\":\"3\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita/\",\"name\":\"Vendita Case\"}},{\"@type\":\"ListItem\",\"position\":\"4\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-in-provincia-di-bologna/\",\"name\":\"Provincia di Bologna\"}},{\"@type\":\"ListItem\",\"position\":\"5\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-pianoro/\",\"name\":\"Pianoro\"}},{\"@type\":\"ListItem\",\"position\":\"6\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/t4938/\",\"name\":\"T4938\"}}]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6852-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6853-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/1-43-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6835-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6852-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6852-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-scaled.jpg"
+   ],
+   "descBlock": null,
+   "text": "Vai al contenuto\nSearch ...\nElenco\nImmobili\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin\nScopri KapitalRE\nI nostri Immobili\nAgenzie\nLavora con noi\nMy KapitalRE\n\nImmobiliare Kapitalre > Immobili > Vendita Case > Provincia di Bologna > Pianoro > T4938\n\nCondividi:\nPlanimetria\nPosizione\nRichiedi appuntamento\nManda un messaggio\nNome *\nMessaggio\n\nInformativa art.13 Reg.UE679/2016 per il trattamento dei dati personali.\n\ndichiaro di aver preso visione dell'informativa privacy\nInvia\nPianoro - Pentalocale con terrazzo di 10 mq - LT4938\nAppartamento quadrilocale, Pianoro\nVia Irma Bandiera, Pianoro\n110 m²\n4 Locali\nBagni: 2\nCamere: 2\nAppartamento\nPiano: 2\n€ 349000\nDESCRIZIONE\nCARATTERISTICHE\nCOSTI\nEFFICIENZA ENERGETICA\nCONDIVIDI\nTi piace questa soluzione? Prenota subito una visita!\nNome *\n\nAppuntamento\n\nGiorno appuntamento\nOra appuntamento da\nOra appuntamento a\nMessaggio\nInvia\nPLANIMETRIA\nMAPPA\nLINK UTILI\nVEDI ANCHE NELLE ZONE VICINE\nCase in vendita a Bologna\nCase in vendita a Ozzano dell'Emilia\nCase in vendita a San Lazzaro di Savena\nCase in vendita a Sasso Marconi\nKAPITALRE SRL\nVia Emilia Levante 96\n40139 Bologna\nP.IVA 03584231207\nREA -BO- 530830\nCap sociale sottoscritto 50.000€ i.v\n051 19871092\ninfo@kapitalre.it\nLINK UTILI\nChi siamo\nLavora con noi\nNuove costruzioni\nAffitti brevi Bologna\nCasa vacanze Bologna\nPrivacy Policy\nInformativa Privacy Clienti\nInformativa Privacy contatti\nSERVIZI\nVendi casa\nAffitta casa\nValuta casa\nArreda casa\nAGENZIE\nBologna Centro - Nord\nBologna Levante\nBologna Ponente\nSan Lazzaro di Savena\nCastenaso\nCasalecchio di Reno\nImola\nSeguici sui social\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin",
+   "parsed": {
+    "prezzo": "€ 349000",
+    "mq": "10",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "2",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-1-1024x768.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6852-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6853-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/1-43-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6835-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6852-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6852-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/Pianoro_2-1-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6854-scaled.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/02/IMG_6855-1-1024x768.jpg"
+  },
+  {
+   "url": "https://immobiliarekapitalre.it/immobili/t5524/",
+   "title": "Pianoro - 5 locali villa classe A4 - Immobiliare KapitalRE",
+   "h1": "Pianoro - 5 locali villa classe A4",
+   "h2": [
+    "Villa, Pianoro"
+   ],
+   "ogTitle": "Pianoro - 5 locali villa classe A4 - Immobiliare KapitalRE",
+   "ogImage": "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg",
+   "ogDesc": "Pianoro - Pian di Macina, Via del Savena, proponiamo una villa indipendente, nuova, pronta consegna in classe A4 dotata dei più moderni e tecnologici",
+   "desc": "Pianoro - Pian di Macina, Via del Savena, proponiamo una villa indipendente, nuova, pronta consegna in classe A4 dotata dei più moderni e tecnologici",
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https://immobiliarekapitalre.it/immobili/t5524/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":\"1\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/\",\"name\":\"Immobiliare Kapitalre\"}},{\"@type\":\"ListItem\",\"position\":\"2\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/\",\"name\":\"Immobili\"}},{\"@type\":\"ListItem\",\"position\":\"3\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita/\",\"name\":\"Vendita Case\"}},{\"@type\":\"ListItem\",\"position\":\"4\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-in-provincia-di-bologna/\",\"name\":\"Provincia di Bologna\"}},{\"@type\":\"ListItem\",\"position\":\"5\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-pianoro/\",\"name\":\"Pianoro\"}},{\"@type\":\"ListItem\",\"position\":\"6\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/t5524/\",\"name\":\"T5524\"}}]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9127-768x636.jpg",
+     "w": 768,
+     "h": 636,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9135-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9137-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9131-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9132-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9133-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9135-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9135-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9127-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9127-scaled.jpg"
+   ],
+   "descBlock": null,
+   "text": "Vai al contenuto\nSearch ...\nElenco\nImmobili\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin\nScopri KapitalRE\nI nostri Immobili\nAgenzie\nLavora con noi\nMy KapitalRE\n\nImmobiliare Kapitalre > Immobili > Vendita Case > Provincia di Bologna > Pianoro > T5524\n\nCondividi:\nPlanimetria\nPosizione\nRichiedi appuntamento\nManda un messaggio\nNome *\nMessaggio\n\nInformativa art.13 Reg.UE679/2016 per il trattamento dei dati personali.\n\ndichiaro di aver preso visione dell'informativa privacy\nInvia\nPianoro - 5 locali villa classe A4\nVilla, Pianoro\nVia del Savena, Pianoro\n180 m²\n5 Locali\nBagni: 3\nCamere: 3\nVilla\nPiano: t\n€ 520000\nDESCRIZIONE\nCARATTERISTICHE\nCOSTI\nEFFICIENZA ENERGETICA\nCONDIVIDI\nTi piace questa soluzione? Prenota subito una visita!\nNome *\n\nAppuntamento\n\nGiorno appuntamento\nOra appuntamento da\nOra appuntamento a\nMessaggio\nInvia\nPLANIMETRIA\nMAPPA\nLINK UTILI\nVEDI ANCHE NELLE ZONE VICINE\nCase in vendita a Bologna\nCase in vendita a Ozzano dell'Emilia\nCase in vendita a San Lazzaro di Savena\nCase in vendita a Sasso Marconi\nKAPITALRE SRL\nVia Emilia Levante 96\n40139 Bologna\nP.IVA 03584231207\nREA -BO- 530830\nCap sociale sottoscritto 50.000€ i.v\n051 19871092\ninfo@kapitalre.it\nLINK UTILI\nChi siamo\nLavora con noi\nNuove costruzioni\nAffitti brevi Bologna\nCasa vacanze Bologna\nPrivacy Policy\nInformativa Privacy Clienti\nInformativa Privacy contatti\nSERVIZI\nVendi casa\nAffitta casa\nValuta casa\nArreda casa\nAGENZIE\nBologna Centro - Nord\nBologna Levante\nBologna Ponente\nSan Lazzaro di Savena\nCastenaso\nCasalecchio di Reno\nImola\nSeguici sui social\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin",
+   "parsed": {
+    "prezzo": "€ 520000",
+    "mq": "180",
+    "locali": "5",
+    "camere": "3",
+    "bagni": "3",
+    "piano": "ro - 5 locali villa classe A4",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9127-768x636.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9135-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9137-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9131-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9132-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9133-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9135-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9135-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9127-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/11/IMG_9127-scaled.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/10/CasaGP2-1.jpg"
+  },
+  {
+   "url": "https://immobiliarekapitalre.it/immobili/t5726/",
+   "title": "Pianoro - 5 locali � 450000 T5726 - Immobiliare KapitalRE",
+   "h1": "Pianoro - 5 locali � 450000 T5726",
+   "h2": [
+    "Appartamento 5 locali, Pianoro"
+   ],
+   "ogTitle": "Pianoro - 5 locali � 450000 T5726 - Immobiliare KapitalRE",
+   "ogImage": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-1024x768.jpg",
+   "ogDesc": "Pianoro, Via Nazionale: in palazzina con rivestimento esterno a cappotto, classe energetica B, attico all'ultimo piano con ascensore in palazzina di tre piani",
+   "desc": "Pianoro, Via Nazionale: in palazzina con rivestimento esterno a cappotto, classe energetica B, attico all'ultimo piano con ascensore in palazzina di tre piani",
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https://immobiliarekapitalre.it/immobili/t5726/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":\"1\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/\",\"name\":\"Immobiliare Kapitalre\"}},{\"@type\":\"ListItem\",\"position\":\"2\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/\",\"name\":\"Immobili\"}},{\"@type\":\"ListItem\",\"position\":\"3\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita/\",\"name\":\"Vendita Case\"}},{\"@type\":\"ListItem\",\"position\":\"4\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-in-provincia-di-bologna/\",\"name\":\"Provincia di Bologna\"}},{\"@type\":\"ListItem\",\"position\":\"5\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-pianoro/\",\"name\":\"Pianoro\"}},{\"@type\":\"ListItem\",\"position\":\"6\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/t5726/\",\"name\":\"T5726\"}}]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0508-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0487-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0488-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0489-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0490-768x576.jpg",
+     "w": 768,
+     "h": 576,
+     "rw": 855
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0508-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0508-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0487-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0487-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0488-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0488-scaled.jpg"
+   ],
+   "descBlock": null,
+   "text": "Vai al contenuto\nSearch ...\nElenco\nImmobili\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin\nScopri KapitalRE\nI nostri Immobili\nAgenzie\nLavora con noi\nMy KapitalRE\n\nImmobiliare Kapitalre > Immobili > Vendita Case > Provincia di Bologna > Pianoro > T5726\n\nCondividi:\nPlanimetria\nPosizione\nRichiedi appuntamento\nManda un messaggio\nNome *\nMessaggio\n\nInformativa art.13 Reg.UE679/2016 per il trattamento dei dati personali.\n\ndichiaro di aver preso visione dell'informativa privacy\nInvia\nPianoro - 5 locali � 450000 T5726\nAppartamento 5 locali, Pianoro\nVia Nazionale, 182/2, Pianoro\n135 m²\n5 Locali\nCamere: 3\nAppartamento\nPiano: 3\n€ 450000\nDESCRIZIONE\nCARATTERISTICHE\nCOSTI\nEFFICIENZA ENERGETICA\nCONDIVIDI\nTi piace questa soluzione? Prenota subito una visita!\nNome *\n\nAppuntamento\n\nGiorno appuntamento\nOra appuntamento da\nOra appuntamento a\nMessaggio\nInvia\nPLANIMETRIA\nMAPPA\nLINK UTILI\nVEDI ANCHE NELLE ZONE VICINE\nCase in vendita a Bologna\nCase in vendita a Ozzano dell'Emilia\nCase in vendita a San Lazzaro di Savena\nCase in vendita a Sasso Marconi\nKAPITALRE SRL\nVia Emilia Levante 96\n40139 Bologna\nP.IVA 03584231207\nREA -BO- 530830\nCap sociale sottoscritto 50.000€ i.v\n051 19871092\ninfo@kapitalre.it\nLINK UTILI\nChi siamo\nLavora con noi\nNuove costruzioni\nAffitti brevi Bologna\nCasa vacanze Bologna\nPrivacy Policy\nInformativa Privacy Clienti\nInformativa Privacy contatti\nSERVIZI\nVendi casa\nAffitta casa\nValuta casa\nArreda casa\nAGENZIE\nBologna Centro - Nord\nBologna Levante\nBologna Ponente\nSan Lazzaro di Savena\nCastenaso\nCasalecchio di Reno\nImola\nSeguici sui social\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin",
+   "parsed": {
+    "prezzo": "€ 450000",
+    "mq": "135",
+    "locali": "5",
+    "camere": "3",
+    "bagni": null,
+    "piano": "ro - 5 locali � 450000 T5726",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-1024x768.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0508-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0487-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0488-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0489-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0490-768x576.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0508-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0508-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0487-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0487-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0488-scaled.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0488-scaled.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://immobiliarekapitalre.it/wp-content/uploads/2026/07/IMG_0486-1024x768.jpg"
+  },
+  {
+   "url": "https://immobiliarekapitalre.it/immobili/t4523/",
+   "title": "Pianoro Via del Ginepreto, quadrilocale con giardino - Immobiliare KapitalRE",
+   "h1": "Pianoro Via del Ginepreto, quadrilocale con giardino",
+   "h2": [
+    "Appartamento quadrilocale, Pianoro"
+   ],
+   "ogTitle": "Pianoro Via del Ginepreto, quadrilocale con giardino - Immobiliare KapitalRE",
+   "ogImage": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg",
+   "ogDesc": "Pianoro Centro. Via del Ginepreto. Nessuna Mediazione per l'acquisto a carico dell'acquirente. A ridosso del Parco del Ginepreto, polmone verde del comune di",
+   "desc": "Pianoro Centro. Via del Ginepreto. Nessuna Mediazione per l'acquisto a carico dell'acquirente. A ridosso del Parco del Ginepreto, polmone verde del comune di",
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https://immobiliarekapitalre.it/immobili/t4523/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":\"1\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/\",\"name\":\"Immobiliare Kapitalre\"}},{\"@type\":\"ListItem\",\"position\":\"2\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/\",\"name\":\"Immobili\"}},{\"@type\":\"ListItem\",\"position\":\"3\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita/\",\"name\":\"Vendita Case\"}},{\"@type\":\"ListItem\",\"position\":\"4\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-in-provincia-di-bologna/\",\"name\":\"Provincia di Bologna\"}},{\"@type\":\"ListItem\",\"position\":\"5\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/categoria/case-in-vendita-pianoro/\",\"name\":\"Pianoro\"}},{\"@type\":\"ListItem\",\"position\":\"6\",\"item\":{\"@id\":\"https://immobiliarekapitalre.it/immobili/t4523/\",\"name\":\"T4523\"}}]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426870-768x1024.jpg",
+     "w": 768,
+     "h": 1024,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426872-768x1024.jpg",
+     "w": 768,
+     "h": 1024,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426866-768x1024.jpg",
+     "w": 768,
+     "h": 1024,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426861-768x1024.jpg",
+     "w": 768,
+     "h": 1024,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426862-768x1024.jpg",
+     "w": 768,
+     "h": 1024,
+     "rw": 855
+    },
+    {
+     "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426864-768x1024.jpg",
+     "w": 768,
+     "h": 1024,
+     "rw": 855
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426870.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426870.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419863.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419863.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426860.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426860.jpg"
+   ],
+   "descBlock": null,
+   "text": "Vai al contenuto\nSearch ...\nElenco\nImmobili\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin\nScopri KapitalRE\nI nostri Immobili\nAgenzie\nLavora con noi\nMy KapitalRE\n\nImmobiliare Kapitalre > Immobili > Vendita Case > Provincia di Bologna > Pianoro > T4523\n\nCondividi:\nPlanimetria\nPosizione\nRichiedi appuntamento\nManda un messaggio\nNome *\nMessaggio\n\nInformativa art.13 Reg.UE679/2016 per il trattamento dei dati personali.\n\ndichiaro di aver preso visione dell'informativa privacy\nInvia\nPianoro Via del Ginepreto, quadrilocale con giardino\nAppartamento quadrilocale, Pianoro\nVia del Lavoro, Pianoro\n120 m²\n4 Locali\nBagni: 2\nCamere: 3\nAppartamento\nPiano: t\n€ 395000\nDESCRIZIONE\nCARATTERISTICHE\nCOSTI\nEFFICIENZA ENERGETICA\nCONDIVIDI\nTi piace questa soluzione? Prenota subito una visita!\nNome *\n\nAppuntamento\n\nGiorno appuntamento\nOra appuntamento da\nOra appuntamento a\nMessaggio\nInvia\nPLANIMETRIA\nMAPPA\nLINK UTILI\nVEDI ANCHE NELLE ZONE VICINE\nCase in vendita a Bologna\nCase in vendita a Ozzano dell'Emilia\nCase in vendita a San Lazzaro di Savena\nCase in vendita a Sasso Marconi\nKAPITALRE SRL\nVia Emilia Levante 96\n40139 Bologna\nP.IVA 03584231207\nREA -BO- 530830\nCap sociale sottoscritto 50.000€ i.v\n051 19871092\ninfo@kapitalre.it\nLINK UTILI\nChi siamo\nLavora con noi\nNuove costruzioni\nAffitti brevi Bologna\nCasa vacanze Bologna\nPrivacy Policy\nInformativa Privacy Clienti\nInformativa Privacy contatti\nSERVIZI\nVendi casa\nAffitta casa\nValuta casa\nArreda casa\nAGENZIE\nBologna Centro - Nord\nBologna Levante\nBologna Ponente\nSan Lazzaro di Savena\nCastenaso\nCasalecchio di Reno\nImola\nSeguici sui social\nInstagram\n \nFacebook\n \nYoutube\n \nLinkedin",
+   "parsed": {
+    "prezzo": "€ 395000",
+    "mq": "120",
+    "locali": "4",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "t",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426870-768x1024.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426872-768x1024.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426866-768x1024.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426861-768x1024.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426862-768x1024.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426864-768x1024.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426870.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426870.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419863.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419863.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426860.jpg",
+    "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1426860.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/03/379-1419862.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://immobiliarekapitalre.it/wp-content/uploads/2024/02/logo.png",
+  "size": 7749
+ }
+}

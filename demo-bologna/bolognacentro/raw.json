@@ -1,0 +1,762 @@
+{
+ "cfg": {
+  "slug": "bolognacentro",
+  "nome": "BolognaCentro",
+  "home": "https://bolognacentro.com/",
+  "index": [
+   "https://bolognacentro.com/vendita/",
+   "https://bolognacentro.com/affitto/"
+  ],
+  "rx": "/immobile/[a-z0-9-]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Home - BolognaCentro",
+  "desc": "BolognaCentro è il punto di riferimento per vendere o comprare casa a Bologna. Esperienza ultradecennale e consulenza su misura per ogni cliente.",
+  "emails": [
+   "bologna.centro1@bolognacentro.com",
+   "bologna.centro2@bolognacentro.com",
+   "bologna.centro3@bolognacentro.com",
+   "piazzamaggiore@bolognacentro.com"
+  ],
+  "tels": [],
+  "logos": [
+   "https://bolognacentro.com/wp-content/uploads/2025/02/Bologna-Centro-Logo.png",
+   "https://bolognacentro.com/wp-content/uploads/2025/03/Bologna-Centro-Logo-White.png"
+  ],
+  "svgLogo": "<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-caret-down\" viewBox=\"0 0 320 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\"></path></svg>",
+  "body": {
+   "bg": "rgb(242, 241, 237)",
+   "color": "rgb(51, 51, 51)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "footer": {
+   "bg": "rgb(27, 40, 56)",
+   "color": "rgb(51, 51, 51)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"Cormorant Garamond\", sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(27, 40, 56)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    18
+   ],
+   [
+    "rgb(27, 40, 56)",
+    3
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    315
+   ],
+   [
+    "rgb(27, 40, 56)",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    4
+   ],
+   [
+    "rgb(147, 161, 173)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    9
+   ],
+   [
+    "rgb(27, 40, 56)",
+    8
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(204, 51, 102)",
+    19
+   ],
+   [
+    "rgb(27, 40, 56)",
+    6
+   ],
+   [
+    "rgb(105, 114, 125)",
+    4
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(147, 161, 173)",
+    3
+   ]
+  ],
+  "fonts": [
+   [
+    "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    44
+   ],
+   [
+    "\"Helvetica Now Display\", sans-serif",
+    43
+   ],
+   [
+    "\"Cormorant Garamond\", sans-serif",
+    5
+   ]
+  ],
+  "heads": [
+   "CI OCCUPIAMO DI CASE, MA SOPRATTUTTO DI PERSONE",
+   "CONOSCENZA ULTRADECENNALE NELL'IMMOBILIARE A BOLOGNA",
+   "SCOPRI LE NOSTRE PROPOSTE ESCLUSIVE",
+   "ECCELLENZA E AFFIDABILITÀ PER IL TUO PROGETTO IMMOBILIARE",
+   "Lorem ipsum dolor sit amet",
+   "HAI UN IMMOBILE DA VENDERE?"
+  ],
+  "addr": null,
+  "final": "https://bolognacentro.com/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce158/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce952/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce950/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce611/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce218/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce906/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-casalecchio-di-reno-ce356/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce606/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce901/",
+  "https://bolognacentro.com/immobile/box-garage-in-vendita-a-bologna-ce987/",
+  "https://bolognacentro.com/immobile/villa-in-vendita-a-san-giorgio-di-piano-ce319/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce159/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce355/",
+  "https://bolognacentro.com/immobile/deposito-in-vendita-a-bologna-ce874/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce305/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce175/",
+  "https://bolognacentro.com/immobile/attico-in-vendita-a-bologna-ce607/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce602/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce604/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce603/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce900/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce873/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce164/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-ravenna-ce409/",
+  "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce973/",
+  "https://bolognacentro.com/immobile/villa-bifamiliare-in-vendita-a-bologna-ce882/",
+  "https://bolognacentro.com/immobile/box-garage-in-affitto-a-bologna-ce568/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce281/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce583/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce288/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce217/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce216/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce954/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce953/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce621/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce525/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce813/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce563/",
+  "https://bolognacentro.com/immobile/appartamento-in-affitto-a-bologna-ce572/",
+  "https://bolognacentro.com/immobile/studio-ufficio-in-affitto-a-bologna-ce902/"
+ ],
+ "listings": [
+  {
+   "url": "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce158/",
+   "title": "Appartamento in vendita a Bologna - BolognaCentro",
+   "h1": null,
+   "h2": [
+    "APPARTAMENTO IN VENDITA A BOLOGNA",
+    "Rif. CE158",
+    "Caratteristiche immobile",
+    "Richiedi informazioni",
+    "Descrizione",
+    "Dettagli"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna - BolognaCentro",
+   "ogImage": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg",
+   "ogDesc": "PORTA SAN MAMOLO – AD. ZE VIA OSSERVANZA135 MQ – PIANO ALTO – LUMINOSO – SILENZIOSO – PANORAMICO – COMPLETAMENTE RISTRUTTURATO – RISCALDAMENTO AUTONOMO – ARIA CONDIZIONATA È ora disponibile per l’acquisto un bellissimo appartamento di 135 mq, perfetto per un progetto familiare, comodo a tutti i servizi. – È al piano alto, è in […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/\",\"name\":\"Appartamento in vendita a Bologna - BolognaCentro\",\"isPartOf\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/10\\/20261016150923-1.jpg\",\"datePublished\":\"2026-11-04T09:19:48+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/#primaryimage\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/10\\/20261016150923-1.jpg\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/10\\/20261016150923-1.jpg\",\"width\":1920,\"height\":1440},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce158\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/bolognacentro.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/bolognacentro.com\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in vendita a Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"name\":\"BolognaCentro\",\"description\":\"Agenzia immobiliare a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bolognacentro.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\",\"name\":\"BolognaCentro\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"width\":1459,\"height\":356,\"caption\":\"BolognaCentro\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016151447-56.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150927-3.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150942-10.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150938-8.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150940-9.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016151447-56.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150927-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150942-10.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150938-8.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150940-9.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150945-11.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150947-12.jpg"
+   ],
+   "descBlock": "– AMBIENTE GIORNO:\nGradevole ingresso, ampio salone panoramico, accogliente, luminoso, davvero piacevole con cucina ben inserita nel contesto living, ma separata dal soggiorno; studio.",
+   "text": "HOME\nIMMOBILI\nCHI SIAMO\nSERVIZI\nLAVORA CON NOI\nCONTATTI\nValuta la tua casa\nAPPARTAMENTO IN VENDITA A BOLOGNA\nBologna\n/ San Mamolo\nRif. CE158\n\n€ 635.000\n\nScarica il PDF\nCaratteristiche immobile\nAppartamento\n135\n3\n2\nRichiedi informazioni\nNome\nCognome\nTelefono\nEmail\nMessaggio\nGdpr\n *Ho letto e dichiaro di avere preso atto della informativa ai sensi dell'art. 13 del Regolamento UE 679/2016 sulla protezione di dati.\nInvia\nDescrizione\n\nPORTA SAN MAMOLO – AD. ZE VIA OSSERVANZA\n135 MQ – PIANO ALTO – LUMINOSO – SILENZIOSO – PANORAMICO – COMPLETAMENTE RISTRUTTURATO – RISCALDAMENTO AUTONOMO – ARIA CONDIZIONATA\n\nÈ ora disponibile per l’acquisto un bellissimo appartamento di 135 mq, perfetto per un progetto familiare, comodo a tutti i servizi.\n\n– È al piano alto, è in perfetto stato, pronto da abitare, impianti nuovi e certificati.\n\n– AMBIENTE GIORNO:\nGradevole ingresso, ampio salone panoramico, accogliente, luminoso, davvero piacevole con cucina ben inserita nel contesto living, ma separata dal soggiorno; studio.\n\n– AMBIENTE NOTTE:\nN. 2 camere, la matrimoniale è davvero molto grande e provvista di n. 2 armadi guardaroba, possibilità della terza camera.\n\n– I BAGNI:\nSono 2, molto belli, grandi ed entrambi finestrati.\n\nIl riscaldamento è autonomo ed è presente l’aria condizionata.\nL’appartamento è dotato di una comoda cantina.\n\nPer le auto: posto auto in locazione.\nLibero al rogito.\n\nClasse energetica in fase di redazione.\nRIF: CE158\nValore dell’immobile: € 635.000\nResponsabile della vendita: BolognaCentro Azienda Immobiliare\nTel. 051 225530, mail: bologna.centro1@bolognacentro.com\nReferente: G. Terenzi, Cell. 348 7674580, email: g.terenzi@bolognacentro.com\n\nDettagli\nMetratura:\n135 MQ\nLocali:\n7\nPiano immobile:\n2\nPiani totali:\n3\nCamere:\n3\nBagni:\n2\nCucina:\nAbitabile\nRiscaldamento:\nAutonomo\nStato immobile:\nEccellente\nIMMOBILI SIMILI\nPOTREBBERO INTERESSARTI ANCHE\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\n\nP.IVA 02176861207 – N.Rea 418493 – Cap. Soc. € 100.000,00\n\nNavigazione\nImmobili\nStoria\nSedi\nTeam\nLink utili\nServizi\nValuta la tua casa\nLavora con noi\nContatti\nLinkedin-in\n \nFacebook\n \nInstagram\n \n© 2026 Bologna Centro – Privacy Policy – Cookie Policy – Crediti",
+   "parsed": {
+    "prezzo": "€ 635.000",
+    "mq": "135",
+    "locali": "7",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "immobile:",
+    "classe_energetica": "in fase di redazione.",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016151447-56.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150927-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150942-10.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150938-8.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150940-9.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016151447-56.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150927-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150942-10.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150938-8.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150940-9.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150945-11.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150947-12.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261016150923-1.jpg"
+  },
+  {
+   "url": "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce952/",
+   "title": "Appartamento in vendita a Bologna - BolognaCentro",
+   "h1": null,
+   "h2": [
+    "APPARTAMENTO IN VENDITA A BOLOGNA",
+    "Rif. CE952",
+    "Caratteristiche immobile",
+    "Richiedi informazioni",
+    "Descrizione",
+    "Dettagli"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna - BolognaCentro",
+   "ogImage": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912110419-37.jpg",
+   "ogDesc": "COSTA – SARAGOZZAAMPIA METRATURA – 210 mq – TERRAZZO – QUATTRO CAMERE – FINEMENTE RISTRUTTURATO Nel cuore della prestigiosa zona Costa Saragozza, uno dei quartieri residenziali più ambiti di Bologna, è ora disponibile per l’acquisto un raffinato appartamento di lusso.Inserito al piano rialzato di un elegante contesto, questo immobile rappresenta il perfetto equilibrio tra il […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/\",\"name\":\"Appartamento in vendita a Bologna - BolognaCentro\",\"isPartOf\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/09\\/20260912110419-37.jpg\",\"datePublished\":\"2026-11-04T09:18:13+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/#primaryimage\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/09\\/20260912110419-37.jpg\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/09\\/20260912110419-37.jpg\",\"width\":1195,\"height\":896},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce952\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/bolognacentro.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/bolognacentro.com\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in vendita a Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"name\":\"BolognaCentro\",\"description\":\"Agenzia immobiliare a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bolognacentro.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\",\"name\":\"BolognaCentro\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"width\":1459,\"height\":356,\"caption\":\"BolognaCentro\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105500-11.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105441-3.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105443-4.jpg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105445-5.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105446-6.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105451-8.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912110419-37.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105500-11.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105441-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105443-4.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105445-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105446-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105448-7.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105439-2.jpg"
+   ],
+   "descBlock": "Nel cuore della prestigiosa zona Costa Saragozza, uno dei quartieri residenziali più ambiti di Bologna, è ora disponibile per l’acquisto un raffinato appartamento di lusso.\nInserito al piano rialzato di un elegante contesto, questo immobile rappresenta il perfetto equilibrio tra il prestigio di una dimora di rappresentanza e il comfort assoluto di spazi ampi e contemporanei, pronti per essere plasmati e personalizzati secondo la propria visione.",
+   "text": "HOME\nIMMOBILI\nCHI SIAMO\nSERVIZI\nLAVORA CON NOI\nCONTATTI\nValuta la tua casa\nAPPARTAMENTO IN VENDITA A BOLOGNA\nBologna\n/ Costa\nRif. CE952\n\n€ 950.000\n\nScarica il PDF\nCaratteristiche immobile\nAppartamento\n210\n4\n2\nRichiedi informazioni\nNome\nCognome\nTelefono\nEmail\nMessaggio\nGdpr\n *Ho letto e dichiaro di avere preso atto della informativa ai sensi dell'art. 13 del Regolamento UE 679/2016 sulla protezione di dati.\nInvia\nDescrizione\n\nCOSTA – SARAGOZZA\nAMPIA METRATURA – 210 mq – TERRAZZO – QUATTRO CAMERE – FINEMENTE RISTRUTTURATO\n\nNel cuore della prestigiosa zona Costa Saragozza, uno dei quartieri residenziali più ambiti di Bologna, è ora disponibile per l’acquisto un raffinato appartamento di lusso.\nInserito al piano rialzato di un elegante contesto, questo immobile rappresenta il perfetto equilibrio tra il prestigio di una dimora di rappresentanza e il comfort assoluto di spazi ampi e contemporanei, pronti per essere plasmati e personalizzati secondo la propria visione.\n\nAPPARTAMENTO\nCon una generosa superficie calpestabile di circa 210 mq, l’appartamento è stato oggetto di una sapiente ristrutturazione, eseguita con materiali di pregio per esaltarne i volumi e la naturale luminosità. Essendo consegnato libero da arredi, offre una tela bianca ideale per chi desidera progettare interni dal design moderno ed elegante, curati in ogni dettaglio.\nL’ingresso introduce a una zona giorno spettacolare, dominata da un luminoso soggiorno che invita alla convivialità. La cucina a vista, moderna e funzionale, dialoga armoniosamente con l’area living, creando un ambiente fluido e di grande respiro.\nLa zona notte, progettata per garantire massima privacy e comfort a tutta la famiglia, si declina in ben quattro spaziose camere da letto e due bagni, restituendo ambienti intimi e perfettamente organizzati per la vita quotidiana.\nIl vero privilegio della casa è l’ampio terrazzo a cui si accede dalla zona giorno tramite scale: un’oasi esclusiva , perfetta per ospitare cene all’aperto, concedersi momenti di relax o vivere l’esterno nell’assoluta tranquillità della propria abitazione.\n\nFINITURE E DOTAZIONI\nContesto residenziale elegante e signorile;\nSuperficie di 210 mq articolata in 9 locali;\nRistrutturazione con materiali di pregio;\nInfissi in PVC con doppio vetro ad alto isolamento termico e acustico;\nRiscaldamento autonomo per una gestione ottimale del clima;\nAmpio terrazzo abitabile;\nImmobile libero al rogito, pronto da vivere e personalizzare.\n\nPERCHÉ SCEGLIERLO\nSono immobili che per metratura e dotazione di spazi esterni privati raramente si presentano sul mercato bolognese.\nL’ampiezza degli ambienti, l’efficienza degli impianti e l’esclusività del terrazzo rendono questa proprietà una soluzione di assoluto prestigio, ideale per chi è alla ricerca di una residenza definitiva da valorizzare con il proprio stile.\nUna dimora ricca di charme, dove funzionalità, eleganza e spazi aperti si fondono per offrire una qualità di vita impareggiabile a Bologna.\n\nRif. CE952\n\nValore dell’immobile: €950.000\n\nResponsabile della vendita: BolognaCentro Azienda Immobiliare\nTel. 051 225530 – mail: bologna.centro1@bolognacentro.com\nReferente: Sig. G. Monteleone cell. 366 9523006 – mail: g.monteleone@bolognacentro.com\n\nDettagli\nMetratura:\n210 MQ\nLocali:\n9\nPiano immobile:\nPiano rialzato\nCamere:\n4\nBagni:\n2\nCucina:\nA vista\nTerrazzo:\nSì\nRiscaldamento:\nAutonomo\nStato immobile:\nRistrutturato\nVideo\nIMMOBILI SIMILI\nPOTREBBERO INTERESSARTI ANCHE\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\n\nP.IVA 02176861207 – N.Rea 418493 – Cap. Soc. € 100.000,00\n\nNavigazione\nImmobili\nStoria\nSedi\nTeam\nLink utili\nServizi\nValuta la tua casa\nLavora con noi\nContatti\nLinkedin-in\n \nFacebook\n \nInstagram\n \n© 2026 Bologna Centro – Privacy Policy – Cookie Policy – Crediti",
+   "parsed": {
+    "prezzo": "€ 950.000",
+    "mq": "di 210 mq articolata in 9 locali;",
+    "locali": "9",
+    "camere": "4",
+    "bagni": "2",
+    "piano": "immobile:",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912110419-37.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105500-11.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105441-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105443-4.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105445-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105446-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105451-8.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912110419-37.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105500-11.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105441-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105443-4.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105445-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105446-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105448-7.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260912105439-2.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260912110419-37.jpg"
+  },
+  {
+   "url": "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce950/",
+   "title": "Appartamento in vendita a Bologna - BolognaCentro",
+   "h1": null,
+   "h2": [
+    "APPARTAMENTO IN VENDITA A BOLOGNA",
+    "Rif. CE950",
+    "Caratteristiche immobile",
+    "Richiedi informazioni",
+    "Descrizione",
+    "Dettagli"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna - BolognaCentro",
+   "ogImage": "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg",
+   "ogDesc": "CENTRO STORICO – VIA DELLE BELLE ARTIPALAZZO STORICO AFFRESCATO – TERRAZZO A LOGGIA – ASCENSORE – FINEMENTE RISTRUTTURATO Nel cuore più autentico di Bologna, dove la storia dialoga ogni giorno con la vivacità della città, è ora disponibile per l’acquisto un raffinato appartamento inserito in uno dei palazzi storici più affascinanti della zona. Palazzo Bianconcini, […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/\",\"name\":\"Appartamento in vendita a Bologna - BolognaCentro\",\"isPartOf\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/09\\/20260905123118-72.jpg\",\"datePublished\":\"2026-11-04T09:17:29+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/#primaryimage\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/09\\/20260905123118-72.jpg\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/09\\/20260905123118-72.jpg\",\"width\":1920,\"height\":1440},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce950\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/bolognacentro.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/bolognacentro.com\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in vendita a Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"name\":\"BolognaCentro\",\"description\":\"Agenzia immobiliare a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bolognacentro.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\",\"name\":\"BolognaCentro\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"width\":1459,\"height\":356,\"caption\":\"BolognaCentro\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122254-22.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122038-1.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122053-3.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122108-5.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122116-6.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122254-22.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122038-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122053-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122108-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122116-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122121-7.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122134-9.jpg"
+   ],
+   "descBlock": "APPARTAMENTO\nCon una superficie di circa 104 mq, l’appartamento è stato oggetto di un’accurata ristrutturazione, eseguita con materiali di pregio e particolare attenzione ai dettagli. Le eleganti modanature, le finiture ricercate e gli ambienti perfettamente arredati restituiscono una casa accogliente, luminosa e pronta da vivere.\nL’ingresso introduce a una zona giorno ampia e armoniosa, dove ogni ambiente è stato progettato per offrire comfort e convivialità.\nL’angolo cottura, moderno e perfettamente integrato, dialoga con il soggiorno creando uno spazio elegante e funzionale.\nLa camera matrimoniale rappresenta un ambiente intimo e rilassante, mentre il bagno finestrato, impreziosito da un’ampia doccia, completa la zona notte con gusto e praticità.\nUn raffinato soppalco ospita uno studiolo, uno spazio raccolto e suggestivo, ideale per lavorare, leggere o dedicarsi ai propri momenti di quiete.\nIl vero privilegio della casa è il terrazzo a loggia, affacciato sui tetti del centro storico e sul verde circostante: un angolo riservato dove il tempo sembra rallentare, perfetto per una colazione all’aria aperta, un aperitivo al tramonto o semplicemente per godere della bellezza di Bologna da una prospettiva unica.",
+   "text": "HOME\nIMMOBILI\nCHI SIAMO\nSERVIZI\nLAVORA CON NOI\nCONTATTI\nValuta la tua casa\nAPPARTAMENTO IN VENDITA A BOLOGNA\nBologna\n/ CENTRO - IRNERIO\nRif. CE950\n\n€ 400.000\n\nScarica il PDF\nCaratteristiche immobile\nAppartamento\n104\n1\n1\nRichiedi informazioni\nNome\nCognome\nTelefono\nEmail\nMessaggio\nGdpr\n *Ho letto e dichiaro di avere preso atto della informativa ai sensi dell'art. 13 del Regolamento UE 679/2016 sulla protezione di dati.\nInvia\nDescrizione\n\nCENTRO STORICO – VIA DELLE BELLE ARTI\nPALAZZO STORICO AFFRESCATO – TERRAZZO A LOGGIA – ASCENSORE – FINEMENTE RISTRUTTURATO\n\nNel cuore più autentico di Bologna, dove la storia dialoga ogni giorno con la vivacità della città, è ora disponibile per l’acquisto un raffinato appartamento inserito in uno dei palazzi storici più affascinanti della zona. Palazzo Bianconcini, impreziosito da eleganti affreschi e tutelato dalle Belle Arti, rappresenta il vero fiore all’occhiello della proprietà: un contesto di rara bellezza, dove il prestigio dell’architettura storica incontra il comfort dell’abitare contemporaneo, valorizzato dalla presenza dell’ascensore.\n\nAPPARTAMENTO\nCon una superficie di circa 104 mq, l’appartamento è stato oggetto di un’accurata ristrutturazione, eseguita con materiali di pregio e particolare attenzione ai dettagli. Le eleganti modanature, le finiture ricercate e gli ambienti perfettamente arredati restituiscono una casa accogliente, luminosa e pronta da vivere.\nL’ingresso introduce a una zona giorno ampia e armoniosa, dove ogni ambiente è stato progettato per offrire comfort e convivialità.\nL’angolo cottura, moderno e perfettamente integrato, dialoga con il soggiorno creando uno spazio elegante e funzionale.\nLa camera matrimoniale rappresenta un ambiente intimo e rilassante, mentre il bagno finestrato, impreziosito da un’ampia doccia, completa la zona notte con gusto e praticità.\nUn raffinato soppalco ospita uno studiolo, uno spazio raccolto e suggestivo, ideale per lavorare, leggere o dedicarsi ai propri momenti di quiete.\nIl vero privilegio della casa è il terrazzo a loggia, affacciato sui tetti del centro storico e sul verde circostante: un angolo riservato dove il tempo sembra rallentare, perfetto per una colazione all’aria aperta, un aperitivo al tramonto o semplicemente per godere della bellezza di Bologna da una prospettiva unica.\n\nFINITURE E DOTAZIONI\nPalazzo storico affrescato tutelato dalle Belle Arti;\nAscensore;\nRistrutturazione recente;\nEleganti modanature decorative;\nInfissi in PVC con doppi vetri;\nRiscaldamento centralizzato incluso nelle spese condominiali mensili;\nAppartamento completamente arredato;\nTerrazzo a loggia con vista sui tetti e sul verde del centro storico.\n\nPALAZZO BIANCONCINI\nPalazzo Bianconcini, edificio di origini quattrocentesche poi rimaneggiato nel Settecento. Significativi interventi barocchi (porta in pietra e scalone prospettico) furono realizzati da Francesco Tadolini (1770) e Pietro Scandellari, con decorazioni interne di Giuseppe Mazza, Ercole Graziani sr., Dal Sole, Gandolfi e Fancelli. La storia documentata passa dai mercanti Zaniboni (sec. XVII) alle nobili famiglie Pico della Mirandola e Centurioni Spinola (sec. XVIII), fino ai Bianconcini (fine Ottocento)  fra i loro inquilini spicca il commediografo Alfredo Testoni (1897‑1916). Gli splendidi saloni affrescati e gli elementi decorativi originali artigianali testimoniano il prestigio della dimora, oggi tutelata dalla Soprintendenza. Abitare in questo palazzo significa entrare a far parte di un luogo che custodisce oltre tre secoli di storia, nel cuore della Bologna più nobile e monumentale.\n\nPERCHÉ SCEGLIERLO\nSono immobili che raramente arrivano sul mercato.\nIl fascino di un palazzo monumentale, la qualità della ristrutturazione, il terrazzo a loggia, lo studiolo soppalcato e l’atmosfera calda e accogliente degli ambienti rendono questa proprietà una soluzione di assoluto prestigio, ideale sia come residenza esclusiva sia come investimento di valore.\nUna dimora di sapore che racconta la Bologna più nobile e colta, dove ogni dettaglio conserva il fascino della storia e ogni finestra si apre sulla bellezza senza tempo del centro cittadino.\n\nRif. CE950\nValore dell’immobile € 400.000\nResponsabile della vendita: BolognaCentro Azienda Immobiliare\nTel. 051 225530 – mail: bologna.centro1@bolognacentro.com\nReferente: Sig. G. Monteleone cell. 366 9523006 – mail: g.monteleone@bolognacentro.com\n\nDettagli\nMetratura:\n104 MQ\nLocali:\n3\nPiano immobile:\n1\nPiani totali:\n5\nCamere:\n1\nBagni:\n1\nCucina:\nAngolo cottura\nTerrazzo:\nSì\nAscensore:\nSì\nRiscaldamento:\nCentralizzato\nStato immobile:\nRistrutturato\nAnno di costruzione:\n1700\nVideo\nIMMOBILI SIMILI\nPOTREBBERO INTERESSARTI ANCHE\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\n\nP.IVA 02176861207 – N.Rea 418493 – Cap. Soc. € 100.000,00\n\nNavigazione\nImmobili\nStoria\nSedi\nTeam\nLink utili\nServizi\nValuta la tua casa\nLavora con noi\nContatti\nLinkedin-in\n \nFacebook\n \nInstagram\n \n© 2026 Bologna Centro – Privacy Policy – Cookie Policy – Crediti",
+   "parsed": {
+    "prezzo": "€ 400.000",
+    "mq": "104",
+    "locali": "3",
+    "camere": "1",
+    "bagni": "1",
+    "piano": "immobile:",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122254-22.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122038-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122053-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122108-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122116-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122254-22.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122038-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122053-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122108-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122116-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122121-7.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/07/20260714122134-9.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://bolognacentro.com/wp-content/uploads/2026/09/20260905123118-72.jpg"
+  },
+  {
+   "url": "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce611/",
+   "title": "Appartamento in vendita a Bologna - BolognaCentro",
+   "h1": null,
+   "h2": [
+    "APPARTAMENTO IN VENDITA A BOLOGNA",
+    "Rif. CE611",
+    "Caratteristiche immobile",
+    "Richiedi informazioni",
+    "Descrizione",
+    "Dettagli"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna - BolognaCentro",
+   "ogImage": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+   "ogDesc": "APPARTAMENTO IN VENDITA IN CENTRO STORICO – VIA OBERDANCORTE PRIVATA ESCLUSIVA – RECENTEMENTE RISTRUTTURATO – ARREDATO – FINITURE STORICHE – PIETRE A VISTA – BAGNO FINESTRATO Nel cuore più autentico del Centro Storico di Bologna, in Via Oberdan, proponiamo in vendita una soluzione abitativa di particolare fascino: un monolocale di circa 28 mq, inserito al […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/\",\"name\":\"Appartamento in vendita a Bologna - BolognaCentro\",\"isPartOf\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/11\\/20261103185450-3.jpg\",\"datePublished\":\"2026-11-04T09:21:00+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/#primaryimage\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/11\\/20261103185450-3.jpg\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/11\\/20261103185450-3.jpg\",\"width\":1920,\"height\":1440},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce611\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/bolognacentro.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/bolognacentro.com\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in vendita a Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"name\":\"BolognaCentro\",\"description\":\"Agenzia immobiliare a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bolognacentro.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\",\"name\":\"BolognaCentro\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"width\":1459,\"height\":356,\"caption\":\"BolognaCentro\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185645-31.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185456-4.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185441-1.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185444-2.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185502-5.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185645-31.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185456-4.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185441-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185444-2.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185502-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185508-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185514-7.jpg"
+   ],
+   "descBlock": "Nel cuore più autentico del Centro Storico di Bologna, in Via Oberdan, proponiamo in vendita una soluzione abitativa di particolare fascino: un monolocale di circa 28 mq, inserito al piano terra di un palazzo storico e impreziosito dalla presenza di una piacevole corte privata.\nUna proprietà raccolta, curata e pronta da vivere, capace di coniugare il carattere storico del contesto con la praticità di ambienti recentemente ristrutturati e una preziosa dimensione esterna, tutt’altro che scontata nel cuore della città.",
+   "text": "HOME\nIMMOBILI\nCHI SIAMO\nSERVIZI\nLAVORA CON NOI\nCONTATTI\nValuta la tua casa\nAPPARTAMENTO IN VENDITA A BOLOGNA\nBologna\n/ Centro storico\nRif. CE611\n\n€ 190.000\n\nScarica il PDF\nCaratteristiche immobile\nAppartamento\n28\n1\n1\nRichiedi informazioni\nNome\nCognome\nTelefono\nEmail\nMessaggio\nGdpr\n *Ho letto e dichiaro di avere preso atto della informativa ai sensi dell'art. 13 del Regolamento UE 679/2016 sulla protezione di dati.\nInvia\nDescrizione\n\nAPPARTAMENTO IN VENDITA IN CENTRO STORICO – VIA OBERDAN\nCORTE PRIVATA ESCLUSIVA – RECENTEMENTE RISTRUTTURATO – ARREDATO – FINITURE STORICHE – PIETRE A VISTA – BAGNO FINESTRATO\n\nNel cuore più autentico del Centro Storico di Bologna, in Via Oberdan, proponiamo in vendita una soluzione abitativa di particolare fascino: un monolocale di circa 28 mq, inserito al piano terra di un palazzo storico e impreziosito dalla presenza di una piacevole corte privata.\nUna proprietà raccolta, curata e pronta da vivere, capace di coniugare il carattere storico del contesto con la praticità di ambienti recentemente ristrutturati e una preziosa dimensione esterna, tutt’altro che scontata nel cuore della città.\n\nIL CONTESTO – VIA OBERDAN\nVia Oberdan è una delle strade che meglio raccontano la Bologna delle origini. Il suo tracciato ricalca un antico cardine della Bononia romana e, nel corso dei secoli, ha assunto diverse denominazioni, tra cui Via Cavaliera. Si trova in un’area ricca di testimonianze storiche, a ridosso dell’antico Ghetto ebraico e del suggestivo sistema dei canali cittadini.\nUn indirizzo che conserva il fascino della Bologna medievale, tra palazzi storici, vicoli caratteristici e scorci di grande identità urbana.\n\nL’ APPARTAMENTO\nL’immobile si sviluppa su un unico livello, al piano terra, con una distribuzione funzionale che valorizza ogni ambiente.\n\nZONA GIORNO E NOTTE: ambiente unico, accogliente e arredato con cura, organizzato per offrire una soluzione pratica e confortevole;\nCUCINOTTO: spazio dedicato e funzionale, ben integrato nell’abitazione;\nBAGNO: finestrato, con sanitari filomuro e doccia di medie dimensioni;\nCORTE PRIVATA: piacevole spazio esterno, ideale per concedersi momenti di relax e un valore aggiunto raro per una proprietà di questa tipologia e posizione.\n\nL’appartamento è stato recentemente ristrutturato e si presenta in ottimo stato conservativo. Viene venduto completamente arredato, pronto per essere abitato.\nGli infissi in PVC con doppio vetro contribuiscono al comfort termoacustico, mentre il riscaldamento autonomo consente una gestione indipendente dei consumi.\nLe spese condominiali sono particolarmente contenute, pari a circa 20 euro mensili.\n\nPERCHÉ SCEGLIERLO\nUna soluzione dalle molteplici possibilità di utilizzo, in una posizione centrale e di grande interesse.\nIdeale per:\n\nINVESTITORI, alla ricerca di un immobile di facile gestione in una zona di forte attrattività;\nGENITORI, che desiderano acquistare un punto d’appoggio per i figli durante il percorso universitario o professionale a Bologna;\nPROFESSIONISTI E NON RESIDENTI, che necessitano di una base privata nel cuore della città;\nCHI DESIDERA UN PIED-À-TERRE, da vivere nei propri soggiorni bolognesi;\nOPERATORI DEL SETTORE RICETTIVO, interessati a valutare un eventuale subentro nella gestione di un’attività di B&B con partita IVA, previa verifica delle condizioni e dei requisiti necessari.\n\nLa combinazione tra posizione storica, recente ristrutturazione, arredo incluso, riscaldamento autonomo, spese contenute e soprattutto giardino privato rende questa proprietà una proposta interessante e non comune nel panorama immobiliare del Centro Storico bolognese.\n\nRif. CE611\nValore dell’immobile: € 190.000\n\nResponsabile della vendita: BolognaCentro Azienda Immobiliare\nTel. 051 225530, mail: bologna.centro1@bolognacentro.com\nReferente: Sig.ra V. Dana – Cell. 366 8999783, mail: v.dana@bolognacentro.com\n\nDettagli\nMetratura:\n28 MQ\nLocali:\n1\nPiano immobile:\nPiano terra\nCamere:\n1\nBagni:\n1\nCucina:\nCucinotto\nGiardino:\nSì\nRiscaldamento:\nAutonomo\nStato immobile:\nRistrutturato\nAnno di costruzione:\n1400\nIMMOBILI SIMILI\nPOTREBBERO INTERESSARTI ANCHE\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\n\nP.IVA 02176861207 – N.Rea 418493 – Cap. Soc. € 100.000,00\n\nNavigazione\nImmobili\nStoria\nSedi\nTeam\nLink utili\nServizi\nValuta la tua casa\nLavora con noi\nContatti\nLinkedin-in\n \nFacebook\n \nInstagram\n \n© 2026 Bologna Centro – Privacy Policy – Cookie Policy – Crediti",
+   "parsed": {
+    "prezzo": "€ 190.000",
+    "mq": "28",
+    "locali": "1",
+    "camere": "1",
+    "bagni": "1",
+    "piano": "immobile:",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185645-31.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185456-4.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185441-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185444-2.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185502-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185645-31.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185456-4.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185441-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185444-2.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185502-5.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185508-6.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185514-7.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg"
+  },
+  {
+   "url": "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce218/",
+   "title": "Appartamento in vendita a Bologna - BolognaCentro",
+   "h1": null,
+   "h2": [
+    "APPARTAMENTO IN VENDITA A BOLOGNA",
+    "Rif. CE218",
+    "Caratteristiche immobile",
+    "Richiedi informazioni",
+    "Descrizione",
+    "Dettagli"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna - BolognaCentro",
+   "ogImage": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+   "ogDesc": "APPARTAMENTO IN VENDITA – ZONA MAZZINI AD.ZE VIA SIGONIO104 MQ – 2 CAMERE – 2 BAGNI FINESTRATI – LUMINOSO – SILENZIOSO – VISTA PANORAMICA In posizione strategica, vicino al polo ospedaliero del Sant’Orsola, quartiere Mazzini, è ora disponibile all’acquisto un appartamento di 104 mq sito al quinto piano con ascensore di una palazzina di cinque […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/\",\"name\":\"Appartamento in vendita a Bologna - BolognaCentro\",\"isPartOf\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/11\\/202611031109387.jpg\",\"datePublished\":\"2026-11-04T09:20:58+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/#primaryimage\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/11\\/202611031109387.jpg\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/11\\/202611031109387.jpg\",\"width\":1920,\"height\":1440},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce218\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/bolognacentro.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/bolognacentro.com\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in vendita a Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"name\":\"BolognaCentro\",\"description\":\"Agenzia immobiliare a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bolognacentro.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\",\"name\":\"BolognaCentro\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"width\":1459,\"height\":356,\"caption\":\"BolognaCentro\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109385.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109386.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109388.jpg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109389.jpg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 681
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+     "w": 1440,
+     "h": 1080,
+     "rw": 453.328125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109385.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109386.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109388.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109389.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/2026110311093810.jpg"
+   ],
+   "descBlock": "In posizione strategica, vicino al polo ospedaliero del Sant’Orsola, quartiere Mazzini, è ora disponibile all’acquisto un appartamento di 104 mq sito al quinto piano con ascensore di una palazzina di cinque piani. In contesto signorile, l’immobile gode di una doppia esposizione ed è ideale sia per investimento che come soluzione residenziale.\nAmpio ingresso su soggiorno con vista panoramica sui colli bolognesi, cucina abitabile con piccolo balconcino, due camere da letto matrimoniali, una con predisposizione alla cabina armadio, due bagni finestrati.\nPredisposizione all’aria condizionata.",
+   "text": "HOME\nIMMOBILI\nCHI SIAMO\nSERVIZI\nLAVORA CON NOI\nCONTATTI\nValuta la tua casa\nAPPARTAMENTO IN VENDITA A BOLOGNA\nBologna\n/ Mazzini\nRif. CE218\n\n€ 410.000\n\nScarica il PDF\nCaratteristiche immobile\nAppartamento\n104\n2\n2\nRichiedi informazioni\nNome\nCognome\nTelefono\nEmail\nMessaggio\nGdpr\n *Ho letto e dichiaro di avere preso atto della informativa ai sensi dell'art. 13 del Regolamento UE 679/2016 sulla protezione di dati.\nInvia\nDescrizione\n\nAPPARTAMENTO IN VENDITA – ZONA MAZZINI AD.ZE VIA SIGONIO\n104 MQ – 2 CAMERE – 2 BAGNI FINESTRATI – LUMINOSO – SILENZIOSO – VISTA PANORAMICA\n\nIn posizione strategica, vicino al polo ospedaliero del Sant’Orsola, quartiere Mazzini, è ora disponibile all’acquisto un appartamento di 104 mq sito al quinto piano con ascensore di una palazzina di cinque piani. In contesto signorile, l’immobile gode di una doppia esposizione ed è ideale sia per investimento che come soluzione residenziale.\nAmpio ingresso su soggiorno con vista panoramica sui colli bolognesi, cucina abitabile con piccolo balconcino, due camere da letto matrimoniali, una con predisposizione alla cabina armadio, due bagni finestrati.\nPredisposizione all’aria condizionata.\n\nClasse energetica in fase di redazione\nRTI in fase di redazione.\n\nRif. CE218\nValore dell’immobile € 410.000\nResponsabile della vendita: BolognaCentro Azienda Immobiliare\nTel. 051 225530 – mail: bologna.centro1@bolognacentro.com\nReferente: Sig.ra L. Di Nardo – Cell. 366 9523005 – mail: l.dinardo@bolognacentro.com\n\nDettagli\nMetratura:\n104 MQ\nLocali:\n4\nPiano immobile:\n5\nPiani totali:\n5\nCamere:\n2\nBagni:\n2\nCucina:\nAbitabile\nBalcone:\nSì\nAscensore:\nSì\nRiscaldamento:\nCentralizzato\nStato immobile:\nDiscreto\nAnno di costruzione:\n1960\nVideo\nIMMOBILI SIMILI\nPOTREBBERO INTERESSARTI ANCHE\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\n\nP.IVA 02176861207 – N.Rea 418493 – Cap. Soc. € 100.000,00\n\nNavigazione\nImmobili\nStoria\nSedi\nTeam\nLink utili\nServizi\nValuta la tua casa\nLavora con noi\nContatti\nLinkedin-in\n \nFacebook\n \nInstagram\n \n© 2026 Bologna Centro – Privacy Policy – Cookie Policy – Crediti",
+   "parsed": {
+    "prezzo": "€ 410.000",
+    "mq": "104",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "immobile:",
+    "classe_energetica": "in fase di redazione",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109385.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109386.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109388.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109389.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109385.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109386.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109388.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109389.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/2026110311093810.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg"
+  },
+  {
+   "url": "https://bolognacentro.com/immobile/appartamento-in-vendita-a-bologna-ce906/",
+   "title": "Appartamento in vendita a Bologna - BolognaCentro",
+   "h1": null,
+   "h2": [
+    "APPARTAMENTO IN VENDITA A BOLOGNA",
+    "Rif. CE906",
+    "Caratteristiche immobile",
+    "Richiedi informazioni",
+    "Descrizione",
+    "Dettagli"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna - BolognaCentro",
+   "ogImage": "https://bolognacentro.com/wp-content/uploads/2026/10/20261031122835-1.jpg",
+   "ogDesc": "APPARTAMENTO IN VENDITA A BOLOGNA – VIA TOSCANALUMINOSO – TERRAZZO – TRE CAMERE – DUE BAGNI E’ ora disponibile per l’acquisto a Bologna nella zona verde e residenziale di via Toscana, un elegante appartamento posto al primo piano di un edificio dotato di ascensore.L’immobile, con una superficie di 117 mq, si presenta in ottimo stato […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/\",\"name\":\"Appartamento in vendita a Bologna - BolognaCentro\",\"isPartOf\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/10\\/20261031122835-1.jpg\",\"datePublished\":\"2026-11-04T09:20:57+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/#primaryimage\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/10\\/20261031122835-1.jpg\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2026\\/10\\/20261031122835-1.jpg\",\"width\":1074,\"height\":992},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bolognacentro.com\\/immobile\\/appartamento-in-vendita-a-bologna-ce906\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/bolognacentro.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/bolognacentro.com\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in vendita a Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#website\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"name\":\"BolognaCentro\",\"description\":\"Agenzia immobiliare a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bolognacentro.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#organization\",\"name\":\"BolognaCentro\",\"url\":\"https:\\/\\/bolognacentro.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"contentUrl\":\"https:\\/\\/bolognacentro.com\\/wp-content\\/uploads\\/2025\\/02\\/Bologna-Centro-Logo.png\",\"width\":1459,\"height\":356,\"caption\":\"BolognaCentro\"},\"image\":{\"@id\":\"https:\\/\\/bolognacentro.com\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+     "w": 1440,
+     "h": 1080,
+     "rw": 453.328125
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+     "w": 1440,
+     "h": 1080,
+     "rw": 453.328125
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+     "w": 1440,
+     "h": 1080,
+     "rw": 453.328125
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+     "w": 1440,
+     "h": 1080,
+     "rw": 453.328125
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261030100107-39-1536x1152.jpg",
+     "w": 1439,
+     "h": 1079,
+     "rw": 453.328125
+    },
+    {
+     "src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261030105035-2-1536x1152.jpg",
+     "w": 1439,
+     "h": 1079,
+     "rw": 453.328125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261031122835-1.jpg"
+   ],
+   "descBlock": "E’ ora disponibile per l’acquisto a Bologna nella zona verde e residenziale di via Toscana, un elegante appartamento posto al primo piano di un edificio dotato di ascensore.\nL’immobile, con una superficie di 117 mq, si presenta in ottimo stato di conservazione.\nL’appartamento è composto da quattro locali ben distribuiti, con tre camere da letto, una zona giorno e due bagni, offrendo ampi spazi e comfort abitativo.\nLa cucina semiabitabile è funzionale e completamente arredata, ideale per le esigenze quotidiane.\nCompletano la proprietà un terrazzo vivibile, un box auto singolo e una cantina, garantendo praticità e spazio aggiuntivo.\nIl riscaldamento autonomo è alimentato a aria/elettrico con un efficiente impianto ad aria, assicurando un ambiente confortevole in ogni stagione.\nQuesta soluzione rappresenta un’opportunità unica per chi cerca un’abitazione moderna e ben servita a due passi dal centro di Bologna, ideale per un progetto famigliare.",
+   "text": "HOME\nIMMOBILI\nCHI SIAMO\nSERVIZI\nLAVORA CON NOI\nCONTATTI\nValuta la tua casa\nAPPARTAMENTO IN VENDITA A BOLOGNA\nBologna\n/ Toscana\nRif. CE906\n\n€ 430.000\n\nScarica il PDF\nCaratteristiche immobile\nAppartamento\n117\n3\n2\nRichiedi informazioni\nNome\nCognome\nTelefono\nEmail\nMessaggio\nGdpr\n *Ho letto e dichiaro di avere preso atto della informativa ai sensi dell'art. 13 del Regolamento UE 679/2016 sulla protezione di dati.\nInvia\nDescrizione\n\nAPPARTAMENTO IN VENDITA A BOLOGNA – VIA TOSCANA\nLUMINOSO – TERRAZZO – TRE CAMERE – DUE BAGNI\n\nE’ ora disponibile per l’acquisto a Bologna nella zona verde e residenziale di via Toscana, un elegante appartamento posto al primo piano di un edificio dotato di ascensore.\nL’immobile, con una superficie di 117 mq, si presenta in ottimo stato di conservazione.\nL’appartamento è composto da quattro locali ben distribuiti, con tre camere da letto, una zona giorno e due bagni, offrendo ampi spazi e comfort abitativo.\nLa cucina semiabitabile è funzionale e completamente arredata, ideale per le esigenze quotidiane.\nCompletano la proprietà un terrazzo vivibile, un box auto singolo e una cantina, garantendo praticità e spazio aggiuntivo.\nIl riscaldamento autonomo è alimentato a aria/elettrico con un efficiente impianto ad aria, assicurando un ambiente confortevole in ogni stagione.\nQuesta soluzione rappresenta un’opportunità unica per chi cerca un’abitazione moderna e ben servita a due passi dal centro di Bologna, ideale per un progetto famigliare.\n\nRif. CE906\nValore dell’immobile: € 430.000\nResponsabile della vendita: BolognaCentro Azienda Immobiliare\nTel. 051 225530 – mail: bologna.centro1@bolognacentro.com\nReferente Sig. A. Giura – Cell. 345 9585582, mail: a.giura@bolognacentro.com\n\nDettagli\nMetratura:\n117 MQ\nLocali:\n4\nPiano immobile:\n1\nCamere:\n3\nBagni:\n2\nCucina:\nSemiabitabile\nTerrazzo:\nSì\nBox:\nSì\nAscensore:\nSì\nRiscaldamento:\nAutonomo\nStato immobile:\nEccellente\nIMMOBILI SIMILI\nPOTREBBERO INTERESSARTI ANCHE\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\nAppartamento in vendita a Casalecchio di Reno\n\n€ 220.000\n\n2\n1\n70\nRif. CE356\nCasalecchio di Reno\n/ Croce\nAppartamento in vendita a Bologna\n\n€ 308.000\n\n2\n1\n86\nRif. CE606\nBologna\n/ Fossolo / Due Madonne\nBox/Garage in affitto a Bologna\n\n€ 590\n\n30\nRif. CE568\nBologna\n/ Malpighi\nAppartamento in vendita a Bologna\n\n€ 190.000\n\n1\n1\n28\nRif. CE611\nBologna\n/ Centro storico\nAppartamento in vendita a Bologna\n\n€ 410.000\n\n2\n2\n104\nRif. CE218\nBologna\n/ Mazzini\nAppartamento in vendita a Bologna\n\n€ 430.000\n\n3\n2\n117\nRif. CE906\nBologna\n/ Toscana\n\nP.IVA 02176861207 – N.Rea 418493 – Cap. Soc. € 100.000,00\n\nNavigazione\nImmobili\nStoria\nSedi\nTeam\nLink utili\nServizi\nValuta la tua casa\nLavora con noi\nContatti\nLinkedin-in\n \nFacebook\n \nInstagram\n \n© 2026 Bologna Centro – Privacy Policy – Cookie Policy – Crediti",
+   "parsed": {
+    "prezzo": "€ 430.000",
+    "mq": "117",
+    "locali": "4",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "immobile:",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261031122835-1.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/20261103185450-3.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/11/202611031109387.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261030100107-39-1536x1152.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261030105035-2-1536x1152.jpg",
+    "https://bolognacentro.com/wp-content/uploads/2026/10/20261031122835-1.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://bolognacentro.com/wp-content/uploads/2026/10/20261031122835-1.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://bolognacentro.com/wp-content/uploads/2025/02/Bologna-Centro-Logo.png",
+  "size": 47418
+ }
+}

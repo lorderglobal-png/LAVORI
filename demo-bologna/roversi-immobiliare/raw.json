@@ -1,0 +1,636 @@
+{
+ "cfg": {
+  "slug": "roversi-immobiliare",
+  "nome": "Roversi Immobiliare",
+  "home": "https://immobiliare-roversi.it/",
+  "index": [],
+  "rx": "/property-item/[a-z0-9_-]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Homepage - Roversi Immobiliare",
+  "desc": null,
+  "emails": [
+   "info@roversiimmobiliare.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://immobiliare-roversi.it/wp-content/uploads/2022/09/immobiliare_roversi.png",
+   "https://immobiliare-roversi.it/wp-content/themes/kastell/assets/img/search_icon.png",
+   "https://immobiliare-roversi.it/wp-content/themes/kastell/assets/img/search_icon_light.png",
+   "https://immobiliare-roversi.it/wp-content/themes/kastell/assets/img/filter_icon.png",
+   "https://immobiliare-roversi.it/wp-content/themes/kastell/assets/img/filter_icon_light.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(246, 248, 251)",
+   "color": "rgb(123, 123, 123)",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(123, 123, 123)",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(123, 123, 123)",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(45, 46, 50)",
+   "font": "\"Old Standard TT\", serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(191, 148, 16)",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    219
+   ],
+   [
+    "rgb(191, 148, 16)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    1222
+   ],
+   [
+    "rgb(255, 255, 255)",
+    148
+   ],
+   [
+    "rgb(191, 148, 16)",
+    3
+   ],
+   [
+    "rgb(26, 27, 25)",
+    2
+   ],
+   [
+    "rgb(34, 34, 34)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(45, 46, 50)",
+    76
+   ],
+   [
+    "rgb(191, 148, 16)",
+    8
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(45, 46, 50)",
+    222
+   ],
+   [
+    "rgb(255, 255, 255)",
+    17
+   ],
+   [
+    "rgb(136, 132, 132)",
+    6
+   ],
+   [
+    "rgb(134, 134, 134)",
+    6
+   ],
+   [
+    "rgb(123, 123, 123)",
+    4
+   ],
+   [
+    "rgb(191, 148, 16)",
+    2
+   ],
+   [
+    "rgb(27, 28, 33)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Open Sans\", sans-serif",
+    341
+   ],
+   [
+    "\"Old Standard TT\", serif",
+    98
+   ]
+  ],
+  "heads": [
+   "Bologna Saffi – Ospedale Maggiore – 4Locali-Libero Buono stato",
+   "104m²",
+   "Tot.4",
+   "Libero subito",
+   "104m²",
+   "Tot.4",
+   "Libero subito",
+   "104m²"
+  ],
+  "addr": null,
+  "final": "https://immobiliare-roversi.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://immobiliare-roversi.it/property-item/nuda_proprieta_barca/",
+  "https://immobiliare-roversi.it/property-item/via-marzabotto-posti-moto/",
+  "https://immobiliare-roversi.it/property-item/saffi-via-pasubio-quadrilocale/",
+  "https://immobiliare-roversi.it/property-item/borgo-panigale_nuova-costruzione/",
+  "https://immobiliare-roversi.it/property-item/bologna-saffi-via-marzabotto-4locali/",
+  "https://immobiliare-roversi.it/property-item/bolognina-bilocali-ristrutturazione/",
+  "https://immobiliare-roversi.it/property-item/bologna-saffi_trilocale-in-affitto/",
+  "https://immobiliare-roversi.it/property-item/vergato_calvenzano_terratetto/",
+  "https://immobiliare-roversi.it/property-item/bologna-o-maggiore_4locali/",
+  "https://immobiliare-roversi.it/property-item/bologna-santaviola-4locali/",
+  "https://immobiliare-roversi.it/property-item/saffi_bilocale_ristrutturato/",
+  "https://immobiliare-roversi.it/property-item/bologna-saffi-trilocale-ristrutturato/",
+  "https://immobiliare-roversi.it/property-item/garage-saffi-via-marzabotto/"
+ ],
+ "listings": [
+  {
+   "url": "https://immobiliare-roversi.it/property-item/nuda_proprieta_barca/",
+   "title": "Investimento: Nuda proprietà buono stato, secondo piano, Barca, Bologna - Roversi Immobiliare",
+   "h1": "PER INVESTIMENTO: Nuda Proprietà",
+   "h2": [
+    "Via Battindarno ad.ze: NUDA PROPRIETA' - 4 locali",
+    "Prezzo: € 135.000,00"
+   ],
+   "ogTitle": "Investimento: Nuda proprietà buono stato, secondo piano, Barca, Bologna - Roversi Immobiliare",
+   "ogImage": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/venduto-e1761124980488.jpg",
+   "ogDesc": "Nuda proprietà in vendita in zona Barca (BO). Ottimo come investimento: appartamento ampio e in buone condizioni.",
+   "desc": "Nuda proprietà in vendita in zona Barca (BO). Ottimo come investimento: appartamento ampio e in buone condizioni.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/\",\"name\":\"Investimento: Nuda proprietà buono stato, secondo piano, Barca, Bologna - Roversi Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2022\\/10\\/venduto-e1761124980488.jpg\",\"datePublished\":\"2022-10-16T16:32:42+00:00\",\"dateModified\":\"2025-10-22T09:23:26+00:00\",\"description\":\"Nuda proprietà in vendita in zona Barca (BO). Ottimo come investimento: appartamento ampio e in buone condizioni.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2022\\/10\\/venduto-e1761124980488.jpg\",\"contentUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2022\\/10\\/venduto-e1761124980488.jpg\",\"width\":640,\"height\":397},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/nuda_proprieta_barca\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mikado Property\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Investimento: Nuda proprietà buono stato, secondo piano, Barca, Bologna\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/\",\"name\":\"Roversi Immobiliare\",\"description\":\"Agenzia Immobiliare a Bologna, zona Saffi e Santa Viola\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliare-roversi.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791114.jpg",
+     "w": 1154,
+     "h": 865,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791115.jpg",
+     "w": 1154,
+     "h": 865,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791114.jpg",
+     "w": 1154,
+     "h": 865,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791115.jpg",
+     "w": 1154,
+     "h": 865,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791117-768x576.jpg",
+     "w": 635,
+     "h": 476,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791120-768x576.jpg",
+     "w": 635,
+     "h": 476,
+     "rw": 635
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Via Battindarno ad.ze: Caratteristica della vendita: INVESTIMENTO.\nDescrizione della NUDA PROPRIETA’: la nuda proprietà permette al venditore di un immobile di mantenere il diritto di vivere nella casa oggetto della compravendita. Questo implicherà che il compratore non potrà utilizzare l’appartamento nell’immediato, ma di acquistarlo ad un prezzo davvero vantaggioso!",
+   "text": " \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n\n051.3514319\n\ninfo@roversiimmobiliare.it\n\n \n \n \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n \nPER INVESTIMENTO: Nuda Proprietà\n\nNUDA PROPRIETA’ di quadrilocale in  buono stato, secondo piano, Barca, Bologna\nVia Battindarno ad.ze: NUDA PROPRIETA' - 4 locali\n\nVia Battindarno ad.ze: Caratteristica della vendita: INVESTIMENTO.\nDescrizione della NUDA PROPRIETA’: la nuda proprietà permette al venditore di un immobile di mantenere il diritto di vivere nella casa oggetto della compravendita. Questo implicherà che il compratore non potrà utilizzare l’appartamento nell’immediato, ma di acquistarlo ad un prezzo davvero vantaggioso!\n\nIl proprietario ha 75 anni.\n\nL’appartamento in oggetto è in ottime condizioni, ed è composto da: ingresso, soggiorno, cucina abitabile, 2 camere matrimoniali, 2 bagni finestrati, ripostiglio, 2 ampi balconi, cantina ciclabile, ampio garage e posto auto condominiale.\nAffaccio luminoso.\n***OTTIMO COME INVESTIMENTO!***\n\nPrezzo: € 135.000,00\nRiscaldamento\nL'appartamento è dotato di riscaldamento autonomo\nSuperficie\nLa superficie complessiva dell'immobile è di 108m²\nTipoligia locali\n4 (3 camere da letto, 1 altro), 2 bagni, cucina abitabile\nTotale piani\n2 piani: Seminterrato, 2°, con ascensore, con accesso disabili\nDisponibilità\nVendita NUDA PROPRIETA'\nSpazio all'aperto\nPresente un ampio giardino condominiale alberato\nPUNTO DI RIFERIMENTO PER VENDITE E AFFITTI A BOLOGNA\nContatti e informazioni\nIn tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!\nCONTATTACI \nRoversi\nImmobiliare\n\nIn zona Ospedale Maggiore, grazie a 30 anni e 11 ore al giorno di esperienza, siamo il mediatore con più alta percentuale di compravenduto e locato.\n\nNavigazione\n\nChi siamo\n\nI nostri servizi\n\nImmobili in vendita e affitto\n\nUltime notizie\n\nChiedi una valutazione\n\nContatti e informazioni\n\nInstagram\nNewsletter\n\nIscriviti e resta sempre aggiornato sulle nuove proposte immobiliari e su tutte le novità del mercato.\n\nCopyright © Roversi Immobiliare – P.IVA 03718791209\n\n ",
+   "parsed": {
+    "prezzo": "€ 135.000,00",
+    "mq": "108",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/venduto-e1761124980488.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791114.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791115.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791114.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791115.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791117-768x576.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2022/10/photo_original_32791120-768x576.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://immobiliare-roversi.it/wp-content/uploads/2022/10/venduto-e1761124980488.jpg"
+  },
+  {
+   "url": "https://immobiliare-roversi.it/property-item/via-marzabotto-posti-moto/",
+   "title": "Via Marzabotto (BO) ad.ze CRB - POSTI MOTO in vendita - Roversi Immobiliare",
+   "h1": "Via Marzabotto –  POSTI MOTO IN VENDITA",
+   "h2": [
+    "Posti moto",
+    ""
+   ],
+   "ogTitle": "Via Marzabotto (BO) ad.ze CRB - POSTI MOTO in vendita - Roversi Immobiliare",
+   "ogImage": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posto-aut-scaled-e1760022367579.jpg",
+   "ogDesc": "In cortile chiuso da sbarra elettrica, disponiamo di posti moto",
+   "desc": "In cortile chiuso da sbarra elettrica, disponiamo di posti moto",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/\",\"name\":\"Via Marzabotto (BO) ad.ze CRB - POSTI MOTO in vendita - Roversi Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2023\\/05\\/posto-aut-scaled-e1760022367579.jpg\",\"datePublished\":\"2023-05-23T09:11:45+00:00\",\"dateModified\":\"2026-03-06T10:38:59+00:00\",\"description\":\"In cortile chiuso da sbarra elettrica, disponiamo di posti moto\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2023\\/05\\/posto-aut-scaled-e1760022367579.jpg\",\"contentUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2023\\/05\\/posto-aut-scaled-e1760022367579.jpg\",\"width\":2560,\"height\":1230},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/via-marzabotto-posti-moto\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mikado Property\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Via Marzabotto (BO) ad.ze CRB &#8211; POSTI MOTO in vendita\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/\",\"name\":\"Roversi Immobiliare\",\"description\":\"Agenzia Immobiliare a Bologna, zona Saffi e Santa Viola\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliare-roversi.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop-1-1536x1152.jpg",
+     "w": 1439,
+     "h": 1079,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop1-1536x1152.jpg",
+     "w": 1439,
+     "h": 1079,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop-1-1536x1152.jpg",
+     "w": 1439,
+     "h": 1079,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop1-1536x1152.jpg",
+     "w": 1439,
+     "h": 1079,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posto-aut-1-768x576.jpg",
+     "w": 635,
+     "h": 476,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto1-768x576.jpg",
+     "w": 635,
+     "h": 476,
+     "rw": 635
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "In tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!",
+   "text": " \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n\n051.3514319\n\ninfo@roversiimmobiliare.it\n\n \n \n \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n \nVia Marzabotto –  POSTI MOTO IN VENDITA\n\nSaffi – Via Marzabotto- Ad.ze CRB\n\nVia Marzabotto: Sei alla ricerca di un posto sicuro dove parcheggiare la tua moto?\n\nQuesta è l’offerta che fa per te!\n\nDISPONIBILI POSTO MOTO disponibile, all’interno di cortile chiuso con sbarra.\n\nDa € 4.000,00\n\n \n\nPer informazioni: ESCLUSIVA: Roversi Immobiliare – Via Pasubio,92 q Bologna – Tel. 051/3514319 Cell. 349/2358018 info@roversiimmobiliare.it\n\nPosti moto\nDETTAGLI\nAltre informazioni\n\nTipologia: Posti auto| Posti moto| Classe immobile economica\n\nPosti moto scoperti\n\nSpese condominio:—\n\nConsegna prevista: Disponibili subito\n\nStato: Buone condizioni\n\nEfficienza energetica: —\n\nPUNTO DI RIFERIMENTO PER VENDITE E AFFITTI A BOLOGNA\nContatti e informazioni\nIn tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!\nCONTATTACI \nRoversi\nImmobiliare\n\nIn zona Ospedale Maggiore, grazie a 30 anni e 11 ore al giorno di esperienza, siamo il mediatore con più alta percentuale di compravenduto e locato.\n\nNavigazione\n\nChi siamo\n\nI nostri servizi\n\nImmobili in vendita e affitto\n\nUltime notizie\n\nChiedi una valutazione\n\nContatti e informazioni\n\nInstagram\nNewsletter\n\nIscriviti e resta sempre aggiornato sulle nuove proposte immobiliari e su tutte le novità del mercato.\n\nCopyright © Roversi Immobiliare – P.IVA 03718791209\n\n ",
+   "parsed": {
+    "prezzo": "€ 4.000,00",
+    "mq": null,
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posto-aut-scaled-e1760022367579.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop-1-1536x1152.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop1-1536x1152.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop-1-1536x1152.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto-cop1-1536x1152.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posto-aut-1-768x576.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posti-auto1-768x576.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://immobiliare-roversi.it/wp-content/uploads/2023/05/posto-aut-scaled-e1760022367579.jpg"
+  },
+  {
+   "url": "https://immobiliare-roversi.it/property-item/saffi-via-pasubio-quadrilocale/",
+   "title": "Saffi - Via Pasubio - Parco del Velodromo Ad.ze - Roversi Immobiliare",
+   "h1": "Via Pasubio  Quadrilocale Ottime condizioni",
+   "h2": [
+    "Saffi: Quadrilocale 2° piano",
+    ""
+   ],
+   "ogTitle": "Saffi - Via Pasubio - Parco del Velodromo Ad.ze - Roversi Immobiliare",
+   "ogImage": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-vnduto.jpg",
+   "ogDesc": "Saffi - Parco de Velodromo ad.ze: appartamento al 2° piano - ottime condizioni -",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/\",\"name\":\"Saffi - Via Pasubio - Parco del Velodromo Ad.ze - Roversi Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2023\\/09\\/soggiorno1-vnduto.jpg\",\"datePublished\":\"2023-09-23T10:20:38+00:00\",\"dateModified\":\"2025-10-22T09:18:54+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2023\\/09\\/soggiorno1-vnduto.jpg\",\"contentUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2023\\/09\\/soggiorno1-vnduto.jpg\",\"width\":1620,\"height\":911},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/saffi-via-pasubio-quadrilocale\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mikado Property\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Saffi &#8211; Via Pasubio &#8211; Parco del Velodromo Ad.ze\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/\",\"name\":\"Roversi Immobiliare\",\"description\":\"Agenzia Immobiliare a Bologna, zona Saffi e Santa Viola\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliare-roversi.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-2-1536x864.jpg",
+     "w": 1439,
+     "h": 809,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-2-1536x864.jpg",
+     "w": 1439,
+     "h": 809,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/INGRESSO1.jpg",
+     "w": 635,
+     "h": 1129,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/INGRESSO1.jpg",
+     "w": 635,
+     "h": 1129,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/CAMERA-1.jpg",
+     "w": 635,
+     "h": 953,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/CAMERA-1.jpg",
+     "w": 635,
+     "h": 953,
+     "rw": 635
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "In tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!",
+   "text": " \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n\n051.3514319\n\ninfo@roversiimmobiliare.it\n\n \n \n \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n \nVia Pasubio  Quadrilocale Ottime condizioni\n\nSaffi – Via Pasubio – Velodromo ad.ze- Quadrilocale.\nSaffi: Quadrilocale 2° piano\n\nVia Pasubio – vicino al Parco del Velodromo: nel cuore del quartiere, in posizione centralissima e comodo a tutti i servizi, disponiamo di ampio appartamento recentemente ristrutturato, pronto da vivere!\n\nL’appartamento è composto da:\n\nun comodo ingresso arredabile, una cucina abitabile con balcone, soggiorno con vista sul verde, due grandi camere matrimoniali, bagno ampio con vasca e cantina.\n\nNel cortile condominiale sono disponibili alcuni posti auto.\n\n€ 295.000,00\n\nPunti di forza dell’appartamento:\n\npiccola palazzina,\nriscaldamento autonomo,\naffaccio sul verde,\nspazi comodi e ampi,\nappartamento pronto da abitare,\nposizione centralissima e comoda.\n\nContattaci per per vederlo o per maggiori informazioni: 051/3514319\n\ninfo@roversiimmobiliare.it\n\nRiscaldamento\nL'appartamento è dotato di riscaldamento autonomo con radiatori\nSuperficie\nLa superficie complessiva dell'immobile è di 85 m²\nTipoligia locali\n3 camere, cucina abitabile\nTotale piani\nEdificio di 4 piani, appartamento 2' piano\nDisponibilità\nAppartamento libero da marzo 2025\nCantina\nCantina non ciclabile\nDETTAGLI\nAltre informazioni\n\nTipologia: Appartamento | Intera proprietà | Classe immobile economica\n\nAltre caratteristiche: Appartamento ristrutturato recentemente, 2° piano senza ascensore.\n\nSpese condominio: 50,00 €/mese\n\nConsegna prevista: Libero ma marzo 2025\n\nStato: Ottime condizioni.\n\nRiscaldamento: Autonomo\n\nEfficienza energetica: F – In fase di aggiornamento\n\nPUNTO DI RIFERIMENTO PER VENDITE E AFFITTI A BOLOGNA\nContatti e informazioni\nIn tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!\nCONTATTACI \nRoversi\nImmobiliare\n\nIn zona Ospedale Maggiore, grazie a 30 anni e 11 ore al giorno di esperienza, siamo il mediatore con più alta percentuale di compravenduto e locato.\n\nNavigazione\n\nChi siamo\n\nI nostri servizi\n\nImmobili in vendita e affitto\n\nUltime notizie\n\nChiedi una valutazione\n\nContatti e informazioni\n\nInstagram\nNewsletter\n\nIscriviti e resta sempre aggiornato sulle nuove proposte immobiliari e su tutte le novità del mercato.\n\nCopyright © Roversi Immobiliare – P.IVA 03718791209\n\n ",
+   "parsed": {
+    "prezzo": "€ 295.000,00",
+    "mq": "85",
+    "locali": null,
+    "camere": "3",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-vnduto.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-2-1536x864.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-2-1536x864.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/INGRESSO1.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/INGRESSO1.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/CAMERA-1.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2023/09/CAMERA-1.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://immobiliare-roversi.it/wp-content/uploads/2023/09/soggiorno1-vnduto.jpg"
+  },
+  {
+   "url": "https://immobiliare-roversi.it/property-item/borgo-panigale_nuova-costruzione/",
+   "title": "Borgo Panigale Villette di nuova costruzione - Roversi Immobiliare",
+   "h1": "Borgo Panigale: Villette Nuova Costruzione Via Bragaglia",
+   "h2": [
+    "Borgo Panigale - Villette nuove",
+    ""
+   ],
+   "ogTitle": "Borgo Panigale Villette di nuova costruzione - Roversi Immobiliare",
+   "ogImage": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+   "ogDesc": "in posizione tranquilla e residenziale, villette di nuova costruzione realizzate in bioedilizia, classe energetica A4, tutte con garage e giardini privati.",
+   "desc": "in posizione tranquilla e residenziale, villette di nuova costruzione realizzate in bioedilizia, classe energetica A4, tutte con garage e giardini privati.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/\",\"name\":\"Borgo Panigale Villette di nuova costruzione - Roversi Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2025\\/08\\/bragaglia-e1756451329355.jpg\",\"datePublished\":\"2025-08-29T07:30:12+00:00\",\"description\":\"in posizione tranquilla e residenziale, villette di nuova costruzione realizzate in bioedilizia, classe energetica A4, tutte con garage e giardini privati.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2025\\/08\\/bragaglia-e1756451329355.jpg\",\"contentUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2025\\/08\\/bragaglia-e1756451329355.jpg\",\"width\":1024,\"height\":538},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/borgo-panigale_nuova-costruzione\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mikado Property\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Borgo Panigale Villette di nuova costruzione\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/\",\"name\":\"Roversi Immobiliare\",\"description\":\"Agenzia Immobiliare a Bologna, zona Saffi e Santa Viola\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliare-roversi.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+     "w": 1024,
+     "h": 538,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+     "w": 1024,
+     "h": 538,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+     "w": 1024,
+     "h": 538,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+     "w": 581,
+     "h": 305,
+     "rw": 581
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/brag.jpg",
+     "w": 320,
+     "h": 240,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/brag.jpg",
+     "w": 320,
+     "h": 240,
+     "rw": 635
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Altre caratteristiche: Esterno in intonaco, Fibra ottica, Riscaldamento a pavimento con pompa di calore, Esposizione esterna, 2bagni, giardino privato, garage privato. Aria Condizionata. Pannelli Solari, raccolta acque piovane.",
+   "text": " \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n\n051.3514319\n\ninfo@roversiimmobiliare.it\n\n \n \n \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n \n\nBorgo Panigale – Villette di Nuova costruzione\n\nBorgo Panigale: Villette Nuova Costruzione Via Bragaglia\nBorgo Panigale - Villette nuove\n\nBorgo Panigale:\n\nin posizione servita e molto tranquilla, proponiamo in vendita lotto di 10 villette di nuova costruzione.\n\nTutte con giardino privato e ampia autorimessa, sono disposte su due livelli e sono caratterizzate da finiture di prim’ordine.\n\nInoltre, la costruzione è antisismica e realizzata in bioedilizia, con pannelli solari e in classe energetica A4.\n\nA partire da € 560.000,00\nNon perdete questa occasione unica! Contattaci subito per maggiori informazioni.\nRoversi Immobiliare – 051/3514319 – info@roversiimmobiliare.it\n\nDisponibilità\nAppartamento in costruzione, consegna prevista: primavera 2026\nBagni\nn. 2 Bagno finestrato\nTotale piani\nVillette a schiera\nGiardino\nGiardino Privato\nSuperficie\nLa superficie dell'immobile è di 137 m²\nAutorimessa\nGarage ampio\nTipologia locali\n4 (2 camere da letto, 1 altro), 2 bagni, cucina a vista, salone\nDETTAGLI\nAltre informazioni\n\nTipologia: Appartamento | Intera proprietà | Classe immobile signorile\n\nSuperficie:137m²\n\nLocali: 4 (2 camere da letto, 1 altri), 2 bagni, cucina a vista, salone, giardino privato, garage\n\nPiano: Terra e 1° piano\n\nEfficienza energetica: Classe Energetica –  A4\n\nAltre caratteristiche: Esterno in intonaco, Fibra ottica, Riscaldamento a pavimento con pompa di calore, Esposizione esterna, 2bagni, giardino privato, garage privato. Aria Condizionata. Pannelli Solari, raccolta acque piovane.\n\nPUNTO DI RIFERIMENTO PER VENDITE E AFFITTI A BOLOGNA\nContatti e informazioni\nIn tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!\nCONTATTACI \nRoversi\nImmobiliare\n\nIn zona Ospedale Maggiore, grazie a 30 anni e 11 ore al giorno di esperienza, siamo il mediatore con più alta percentuale di compravenduto e locato.\n\nNavigazione\n\nChi siamo\n\nI nostri servizi\n\nImmobili in vendita e affitto\n\nUltime notizie\n\nChiedi una valutazione\n\nContatti e informazioni\n\nInstagram\nNewsletter\n\nIscriviti e resta sempre aggiornato sulle nuove proposte immobiliari e su tutte le novità del mercato.\n\nCopyright © Roversi Immobiliare – P.IVA 03718791209\n\n ",
+   "parsed": {
+    "prezzo": "€ 560.000,00",
+    "mq": "La superficie dell'immobile è di 137 m²",
+    "locali": "4 (2 camere da letto, 1 altri)",
+    "camere": "2",
+    "bagni": "n. 2 Bagno finestrato",
+    "piano": "Terra e 1° piano",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://immobiliare-roversi.it/wp-content/uploads/2025/08/bragaglia-e1756451329355.jpg"
+  },
+  {
+   "url": "https://immobiliare-roversi.it/property-item/bologna-saffi-via-marzabotto-4locali/",
+   "title": "Bologna Saffi - Via Marzabotto- 4Locali-Libero - Roversi Immobiliare",
+   "h1": "Bologna Saffi",
+   "h2": [
+    "Saffi - 4locali Primo Piano",
+    ""
+   ],
+   "ogTitle": "Bologna Saffi - Via Marzabotto- 4Locali-Libero - Roversi Immobiliare",
+   "ogImage": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/clean_sidewalk_storefront-e1787648044254.webp",
+   "ogDesc": "Quadrilocale Piano primo- 95mq. Buone condizioni interne, libero SUBITO. EcoBONUS Effettuato, edificio ristrutturato",
+   "desc": "Quadrilocale Piano primo- 95mq. Buone condizioni interne, libero SUBITO. EcoBONUS Effettuato, edificio ristrutturato",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/\",\"name\":\"Bologna Saffi - Via Marzabotto- 4Locali-Libero - Roversi Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2026\\/05\\/clean_sidewalk_storefront-e1787648044254.webp\",\"datePublished\":\"2026-05-18T09:33:09+00:00\",\"dateModified\":\"2026-08-25T08:55:05+00:00\",\"description\":\"Quadrilocale Piano primo- 95mq. Buone condizioni interne, libero SUBITO. EcoBONUS Effettuato, edificio ristrutturato\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2026\\/05\\/clean_sidewalk_storefront-e1787648044254.webp\",\"contentUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2026\\/05\\/clean_sidewalk_storefront-e1787648044254.webp\",\"width\":2096,\"height\":1184},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bologna-saffi-via-marzabotto-4locali\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mikado Property\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bologna Saffi &#8211; Via Marzabotto- 4Locali-Libero\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/\",\"name\":\"Roversi Immobiliare\",\"description\":\"Agenzia Immobiliare a Bologna, zona Saffi e Santa Viola\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliare-roversi.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo4.jpeg",
+     "w": 901,
+     "h": 1600,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo4.jpeg",
+     "w": 901,
+     "h": 1600,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo2-1536x865.jpeg",
+     "w": 1439,
+     "h": 810,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo2-1536x865.jpeg",
+     "w": 1439,
+     "h": 810,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/bright_minimalist_hallway-768x579.jpg",
+     "w": 635,
+     "h": 478,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/bright_minimalist_hallway-768x579.jpg",
+     "w": 635,
+     "h": 478,
+     "rw": 635
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Bologna, Via Marzabotto: La tua nuova casa nel cuore di Saffi\nNel dinamico e servitissimo quartiere Saffi, in posizione interna e silenziosa, proponiamo un luminoso appartamento di circa 100 mq situato al primo piano con ascensore. L’immobile si distingue per l’ottima efficienza energetica, grazie ai recenti lavori di riqualificazione (Ecobonus) che hanno portato l’appartamento in Classe D.",
+   "text": " \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n\n051.3514319\n\ninfo@roversiimmobiliare.it\n\n \n \n \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n \nBologna Saffi\nVia Marzabotto\n\nBologna- Saffi- Via Marzabotto- 4locali\nSaffi - 4locali Primo Piano\n\nBologna, Via Marzabotto: La tua nuova casa nel cuore di Saffi\nNel dinamico e servitissimo quartiere Saffi, in posizione interna e silenziosa, proponiamo un luminoso appartamento di circa 100 mq situato al primo piano con ascensore. L’immobile si distingue per l’ottima efficienza energetica, grazie ai recenti lavori di riqualificazione (Ecobonus) che hanno portato l’appartamento in Classe D.\n\nLa disposizione interna è razionale e spaziosa:\n\nIngresso: Ampio e arredabile, ideale per armadiature a muro.\n\nZona Giorno: Tinello accogliente con cucinotto separato e balcone.\n\nZona Notte: 3 camere da letto matrimoniali, ampie e silenziose.\n\nServizi: Bagno finestrato e pratico ripostiglio.\n\nCompleta la proprietà una spaziosa cantina ciclabile al piano interrato.\n\nUna soluzione perfetta per famiglie o per chi cerca un investimento sicuro in una zona strategica e comoda a tutti i servizi del centro e dell’ospedale Maggiore.\n\n€ 290.000,00\n\nContattaci subito per maggiori informazioni e per prenotare la tua visita!\n\nESCLUSIVA Roversi Immobiliare – 051/3514319\n\nRiscaldamento\nL'appartamento è dotato di riscaldamento autonomo + Aria Condizionata\nSuperficie\nLa superficie complessiva dell'immobile è di 95 m²\nTipoligia locali\n3 camere, tinello + cucinotto\nTotale piani\nEdificio di 4 piani, appartamento piano Primo\nDisponibilità\nAppartamento LIBERO\nCantina\nCantina ciclabile\nDETTAGLI\nAltre informazioni\n\nTipologia: Appartamento | Intera proprietà | Classe immobile media\n\nAltre caratteristiche: Appartamento buone condizioni, piano primo\n\nSpese condominio: 85,00/mese\n\nConsegna prevista: LIBERO SUBITO\n\nStato: Buone condizioni.\n\nRiscaldamento: Autonomo\n\nEfficienza energetica: D\n\nPUNTO DI RIFERIMENTO PER VENDITE E AFFITTI A BOLOGNA\nContatti e informazioni\nIn tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!\nCONTATTACI \nRoversi\nImmobiliare\n\nIn zona Ospedale Maggiore, grazie a 30 anni e 11 ore al giorno di esperienza, siamo il mediatore con più alta percentuale di compravenduto e locato.\n\nNavigazione\n\nChi siamo\n\nI nostri servizi\n\nImmobili in vendita e affitto\n\nUltime notizie\n\nChiedi una valutazione\n\nContatti e informazioni\n\nInstagram\nNewsletter\n\nIscriviti e resta sempre aggiornato sulle nuove proposte immobiliari e su tutte le novità del mercato.\n\nCopyright © Roversi Immobiliare – P.IVA 03718791209\n\n ",
+   "parsed": {
+    "prezzo": "€ 290.000,00",
+    "mq": "100",
+    "locali": "4",
+    "camere": "3",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "D",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/clean_sidewalk_storefront-e1787648044254.webp",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo4.jpeg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo4.jpeg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo2-1536x865.jpeg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/esternonuovo2-1536x865.jpeg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/bright_minimalist_hallway-768x579.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/bright_minimalist_hallway-768x579.jpg"
+   ],
+   "foto": "foto-5.webp",
+   "foto_src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/clean_sidewalk_storefront-e1787648044254.webp"
+  },
+  {
+   "url": "https://immobiliare-roversi.it/property-item/bolognina-bilocali-ristrutturazione/",
+   "title": "Bolognina - Bilocali nuova ristrutturazione - Roversi Immobiliare",
+   "h1": "Bolognina – Bilocali in fase di totale ristrutturazione",
+   "h2": [
+    "Bolognina: Bilocali Nuovi da Impresa",
+    ""
+   ],
+   "ogTitle": "Bolognina - Bilocali nuova ristrutturazione - Roversi Immobiliare",
+   "ogImage": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+   "ogDesc": "A due passi dalla fiera e dal Tecnopolo, due bilocali in fase di totale ristrutturazione; ideali come investimento",
+   "desc": "A due passi dalla fiera e dal Tecnopolo, due bilocali in fase di totale ristrutturazione; ideali come investimento",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/\",\"name\":\"Bolognina - Bilocali nuova ristrutturazione - Roversi Immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2026\\/05\\/arnaud-e1779870197227.jpg\",\"datePublished\":\"2026-05-27T08:37:52+00:00\",\"dateModified\":\"2026-07-02T14:24:15+00:00\",\"description\":\"A due passi dalla fiera e dal Tecnopolo, due bilocali in fase di totale ristrutturazione; ideali come investimento\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2026\\/05\\/arnaud-e1779870197227.jpg\",\"contentUrl\":\"https:\\/\\/immobiliare-roversi.it\\/wp-content\\/uploads\\/2026\\/05\\/arnaud-e1779870197227.jpg\",\"width\":1024,\"height\":565},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/bolognina-bilocali-ristrutturazione\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mikado Property\",\"item\":\"https:\\/\\/immobiliare-roversi.it\\/property-item\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bolognina &#8211; Bilocali nuova ristrutturazione\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliare-roversi.it\\/#website\",\"url\":\"https:\\/\\/immobiliare-roversi.it\\/\",\"name\":\"Roversi Immobiliare\",\"description\":\"Agenzia Immobiliare a Bologna, zona Saffi e Santa Viola\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliare-roversi.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+     "w": 1024,
+     "h": 565,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+     "w": 1024,
+     "h": 565,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+     "w": 1024,
+     "h": 565,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/plani-bilo-ARNAUD.jpeg",
+     "w": 658,
+     "h": 748,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/plani-bilo-ARNAUD.jpeg",
+     "w": 658,
+     "h": 748,
+     "rw": 635
+    },
+    {
+     "src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/plani-bilo-ARNAUD.jpeg",
+     "w": 658,
+     "h": 748,
+     "rw": 635
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "In tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!",
+   "text": " \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n\n051.3514319\n\ninfo@roversiimmobiliare.it\n\n \n \n \n \nHOME\nCHI SIAMO\nSERVIZI\nIMMOBILI\nNOVITÀ\nCHIEDI VALUTAZIONE\nCONTATTI\n \n \nBolognina – Bilocali in fase di totale ristrutturazione\n\nBilocali Piano Terra\nBolognina: Bilocali Nuovi da Impresa\nBolognina – Due Bilocali Nuovi da Impresa: Ideali per Investimento ad Alta Rendita\nNel cuore della Bolognina, a brevissima distanza dal Tecnopolo e dalla Fiera, proponiamo in vendita due splendidi bilocali completamente ristrutturati a nuovo.\nEntrambi gli appartamenti sono situati al piano terra all’interno di un fabbricato signorile, recentemente rinnovato nelle parti esterne. Ciascuna unità gode di un comodo ingresso indipendente, che garantisce massima privacy e autonomia.\nLa totale ristrutturazione interna offre finiture moderne e un’ottimizzazione perfetta degli spazi. Consegna prevista per settembre 2026.\nUna soluzione strategica ed esclusiva, perfetta per chi cerca un investimento immobiliare sicuro e ad altissimo potenziale di locazione in una delle zone più dinamiche di Bologna.\n€ 169.000,00\nContattaci per maggiori informazioni!\nDisponibilità\nAppartamento pronto a SETTEMBRE 2026\nTotale piani\nEdificio di 4 piani, appartamento piano TERRA\nSuperficie\nLa superficie complessiva dell'immobile è di 57 m²\nTipologia locali\n1 camera da letto, soggiorno con angolo cottura\nRiscaldamento\nAutonomo Pompa di Calore\nDETTAGLI\nAltre informazioni\n\nTipologia: Appartamento | VENDITA| Classe immobile media\n\nSuperficie: 57m²\n\nLocali: 2 (1 camera da letto), 1 bagno, soggiorno con angolo cottura\n\nPiano: Secondo– edificio di 4 piani complessivi\n\nEfficienza energetica: In fase di Redazione\n\nAltre caratteristiche: Fibra ottica, Esposizione esterna, NO balcone, Impianto tv centralizzato, Videocitofono.\n\nPUNTO DI RIFERIMENTO PER VENDITE E AFFITTI A BOLOGNA\nContatti e informazioni\nIn tanti anni di attività abbiamo maturato una grande esperienza e un’importante rete di contatti, che ci permetterà di trovare in breve tempo gli acquirenti per il tuo immobile in vendita o l’immobile giusto che stai cercando se la tua intenzione è quella di acquistare casa. Non esitare a contattarci!\nCONTATTACI \nRoversi\nImmobiliare\n\nIn zona Ospedale Maggiore, grazie a 30 anni e 11 ore al giorno di esperienza, siamo il mediatore con più alta percentuale di compravenduto e locato.\n\nNavigazione\n\nChi siamo\n\nI nostri servizi\n\nImmobili in vendita e affitto\n\nUltime notizie\n\nChiedi una valutazione\n\nContatti e informazioni\n\nInstagram\nNewsletter\n\nIscriviti e resta sempre aggiornato sulle nuove proposte immobiliari e su tutte le novità del mercato.\n\nCopyright © Roversi Immobiliare – P.IVA 03718791209\n\n ",
+   "parsed": {
+    "prezzo": "€ 169.000,00",
+    "mq": "57m²",
+    "locali": "2 (1 camera da letto), 1 bagno",
+    "camere": "1",
+    "bagni": "1",
+    "piano": "Secondo– edificio di 4 piani complessivi",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/plani-bilo-ARNAUD.jpeg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/plani-bilo-ARNAUD.jpeg",
+    "https://immobiliare-roversi.it/wp-content/uploads/2026/05/plani-bilo-ARNAUD.jpeg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://immobiliare-roversi.it/wp-content/uploads/2026/05/arnaud-e1779870197227.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://immobiliare-roversi.it/wp-content/uploads/2022/09/immobiliare_roversi.png",
+  "size": 24411
+ }
+}

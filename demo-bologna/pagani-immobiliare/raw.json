@@ -1,0 +1,731 @@
+{
+ "cfg": {
+  "slug": "pagani-immobiliare",
+  "nome": "Pagani Immobiliare",
+  "home": "https://www.paganiimmobiliare.it/",
+  "index": [
+   "https://www.paganiimmobiliare.it/vendita-residenziale/",
+   "https://www.paganiimmobiliare.it/affitto-residenziale/"
+  ],
+  "rx": "/(vendita|affitto)/[^/]+/[^/]+/[^/]+/[0-9]+[.]html",
+  "n": 6,
+  "contact": "https://www.paganiimmobiliare.it/contatti.html"
+ },
+ "home": {
+  "title": "Pagani Immobiliare | Case in vendita e in affitto a Bologna e provincia",
+  "desc": "La tua agenzia Immobiliare a Bologna. Un'esperienza pluridecennale al tuo servizio.",
+  "emails": [
+   "info@paganiimmobiliare.it"
+  ],
+  "tels": [
+   "+390516272012"
+  ],
+  "logos": [
+   "https://www.paganiimmobiliare.it/images/pagani.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(102, 102, 102)",
+   "font": "Raleway, sans-serif"
+  },
+  "header": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 10, 189)",
+   "font": "Raleway, sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(2, 12, 138)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Raleway, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 20, 18)",
+   "font": "Raleway, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(170, 170, 170)",
+   "font": "Raleway, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgb(0, 10, 189)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    251
+   ],
+   [
+    "rgb(255, 255, 255)",
+    25
+   ],
+   [
+    "rgb(34, 20, 18)",
+    16
+   ],
+   [
+    "rgba(34, 20, 18, 0.8)",
+    12
+   ],
+   [
+    "rgba(255, 255, 255, 0.5)",
+    4
+   ],
+   [
+    "rgb(51, 51, 51)",
+    3
+   ],
+   [
+    "rgb(238, 238, 238)",
+    2
+   ],
+   [
+    "rgb(0, 10, 189)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(34, 20, 18)",
+    24
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    27
+   ],
+   [
+    "rgb(216, 73, 73)",
+    21
+   ],
+   [
+    "rgb(51, 51, 51)",
+    8
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(170, 170, 170)",
+    2
+   ],
+   [
+    "rgb(241, 214, 0)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Raleway, sans-serif",
+    123
+   ],
+   [
+    "Roboto, sans-serif",
+    10
+   ],
+   [
+    "\"Open Sans\"",
+    1
+   ],
+   [
+    "verdana, arial, sans-serif",
+    1
+   ]
+  ],
+  "heads": [
+   "IMMOBILI IN EVIDENZA",
+   "CASE IN VENDITA A BOLOGNA E PROVINCIA",
+   "STAI CERCANDO CASA? VENDI CASA?",
+   "CONTATTI",
+   "MAPPA DEL SITO",
+   "LINK UTILI",
+   "RICERCA PER PAROLA",
+   "Informativa"
+  ],
+  "addr": "Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - ",
+  "final": "https://www.paganiimmobiliare.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.paganiimmobiliare.it/contatti.html",
+  "emails": [
+   "info@paganiimmobiliare.it"
+  ],
+  "tels": [
+   "+390516272012"
+  ],
+  "addr": "Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - "
+ },
+ "candidates": [
+  "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/1000074.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/mazzini/999698.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/999694.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/irnerio/999498.html",
+  "https://www.paganiimmobiliare.it/vendita/negozio/san-lazzaro/san-lazzaro/999383.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/san-lazzaro/998906.html",
+  "https://www.paganiimmobiliare.it/vendita/capannone/san-lazzaro/caselle/998771.html",
+  "https://www.paganiimmobiliare.it/affitto/appartamento/san-lazzaro/colunga/998571.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/borgatella/998524.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/savena/997588.html",
+  "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/sant-orsola/997482.html",
+  "https://www.paganiimmobiliare.it/affitto/appartamento/bologna/mazzini/913600.html",
+  "https://www.paganiimmobiliare.it/vendita/garage/san-lazzaro/la-cicogna/999882.html",
+  "https://www.paganiimmobiliare.it/vendita/posto-moto/san-lazzaro/san-lazzaro/925186.html",
+  "https://www.paganiimmobiliare.it/affitto/appartamento/bologna/corticella/1000009.html",
+  "https://www.paganiimmobiliare.it/affitto/appartamento/san-lazzaro/san-lazzaro/999942.html"
+ ],
+ "listings": [
+  {
+   "url": "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/1000074.html",
+   "title": "Appartamento in Vendita a San Lazzaro di Savena Idice - Rif. PAG1296 | Pagani Immobiliare",
+   "h1": "APPARTAMENTO IN VENDITA SAN LAZZARO DI SAVENA IDICE",
+   "h2": [
+    "Appartamento in Vendita\nSan Lazzaro di Savena Idice",
+    "MAGGIORI INFORMAZIONI",
+    "IMMOBILI SIMILI",
+    "RICERCA AVANZATA",
+    "IL NOSTRO AGENTE",
+    "CONTATTI"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a San Lazzaro di Savena Idice - Rif. PAG1296 - Scopri tutte le proposte di Pagani Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_184246_7462.jpg",
+     "w": 1920,
+     "h": 1357,
+     "rw": 146
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_184247_5657.jpg",
+     "w": 1920,
+     "h": 1357,
+     "rw": 146
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183308_5140.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 860
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183308_5140.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183309_8217.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183314_389.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    }
+   ],
+   "bgs": [
+    "images/bg-page-top-1-scheda.jpg"
+   ],
+   "dataSrc": [
+    "images/favicon.jpg",
+    "#645862"
+   ],
+   "descBlock": "SAN LAZZARO DI SAVENA IDICE In piccola palazzina disponibile luminoso appartamento all'ultimo, già libero, composto da ingresso, soggiorno con cucina a vista, due camere matrimoniali, bagno e balcone. Completano la proprietà due ampie cantine al piano seminterrato. L'appartamento gode di tripla esposizione ed è dotato di riscaldamento autonomo. Contenute le spese condominiali. Il contesto dispone di giardino condominiale ben tenuto e cortile con possibilità di parcheggio. Zona ben collegata. APE in fase di redazione. Richiesta € 205.000.",
+   "text": "051 6272012051 6274647\n\nHOME\nRESIDENZIALE\nCOMMERCIALE\nCHI SIAMO\nCONTATTI\n\t\nAPPARTAMENTO IN VENDITA SAN LAZZARO DI SAVENA IDICE\n1 / 39\nTipologia: appartamento\nPrezzo: € 205.000\nMq: 79m2\nCodice: PAG1296\n Idice (BO)\n 2 Camere\n 1 Bagni\nAppartamento in Vendita\nSan Lazzaro di Savena Idice\n\nSAN LAZZARO DI SAVENA IDICE In piccola palazzina disponibile luminoso appartamento all'ultimo, già libero, composto da ingresso, soggiorno con cucina a vista, due camere matrimoniali, bagno e balcone. Completano la proprietà due ampie cantine al piano seminterrato. L'appartamento gode di tripla esposizione ed è dotato di riscaldamento autonomo. Contenute le spese condominiali. Il contesto dispone di giardino condominiale ben tenuto e cortile con possibilità di parcheggio. Zona ben collegata. APE in fase di redazione. Richiesta € 205.000.\n\nMAGGIORI INFORMAZIONI\nCARATTERISTICHE\nMAPPA\nCONTATTI\nNome e cognome*\nEmail*\nOggetto*\nTelefono\nAnnotazioni*\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Privacy Policy - Revoca consensi.\n\n\nIMMOBILI SIMILI\nRICERCA AVANZATA\nContratto\nVendita\nAffitto\nLocalità\nBologna\nProvincia\nZona\nSeleziona la zona\nArno\nCorticella\nIrnerio\nMazzini\nSant Orsola\nSavena\nBudrio\nTipologia\nSeleziona la tipologia\nAppartamento\nAttico\nVilletta a schiera\nVilla\nCasa indipendente\nUfficio\nNegozio\nCapannone\nMagazzino\nlotto/Terreno\nCamere\nSeleziona le Camere\n1\n2\n3\n4\n5\n5+\nMQ min\nMq min\n50\n80\n100\n150\n200\n300\n> 300\nPrezzo max\nPrezzo max\n€ 25.000\n€ 50.000\n€ 75.000\n€ 100.000\n€ 150.000\n€ 200.000\n€ 300.000\n€ 500.000\n€ 750.000\n> € 750.000\n€ 100\n€ 200\n€ 300\n€ 400\n€ 500\n€ 600\n€ 700\n€ 800\n€ 900\n€ 1.000\n€ 1.200\n> € 1.200\nCERCA LA TUA CASA\nCodice\nCERCA IL CODICE\nIL NOSTRO AGENTE\nPAOLA PAGANI\n Mail:\nCONTATTI\n Via Giovanni XXIII, 1\n40068 San Lazzaro Di Savena (BO)\n Tel : 051 6272012\n Fax : 051 6274647\n E-mail: info@paganiimmobiliare.it\n\nMAPPA DEL SITO\nHome\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nLINK UTILI\nCase in vendita\nCase in affitto\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita\nRICERCA PER PAROLA\n\nStai cercando un immobile con caratteristiche particolari? Digita la caratteristica che ti interessa.\n\n\nPagani Immobiliare snc di Pierpaola e Massimo Pagani - Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - P.Iva 02072301209 - privacy - credits\nChiudi\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Maggiori informazioni",
+   "parsed": {
+    "prezzo": "€ 205.000",
+    "mq": "79m2",
+    "locali": "tà",
+    "camere": "Seleziona le Camere",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_184246_7462.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_184247_5657.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183308_5140.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183308_5140.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183309_8217.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_183314_389.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/images/bg-page-top-1-scheda.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/images/favicon.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/1000074.html#645862"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/PAG/foto/PAG_1000074_20261002_184246_7462.jpg"
+  },
+  {
+   "url": "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/mazzini/999698.html",
+   "title": "Appartamento in Vendita a Bologna Mazzini - Rif. PAG1294 | Pagani Immobiliare",
+   "h1": "APPARTAMENTO IN VENDITA BOLOGNA MAZZINI",
+   "h2": [
+    "Appartamento in Vendita\nBologna Mazzini",
+    "MAGGIORI INFORMAZIONI",
+    "IMMOBILI SIMILI",
+    "RICERCA AVANZATA",
+    "IL NOSTRO AGENTE",
+    "CONTATTI"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a Bologna Mazzini - Rif. PAG1294 - Scopri tutte le proposte di Pagani Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084231_3936.jpg",
+     "w": 1517,
+     "h": 1920,
+     "rw": 81
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084209_4504.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084205_7132.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084207_7908.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084208_434.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084210_4473.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    }
+   ],
+   "bgs": [
+    "images/bg-page-top-1-scheda.jpg"
+   ],
+   "dataSrc": [
+    "images/favicon.jpg",
+    "#645862"
+   ],
+   "descBlock": "Bologna Via Emilia Levante. In posizione interna ma comoda ai servizi e ai collegamenti, proponiamo luminoso appartamento all'ultimo piano con ascensore, composto da ingresso, soggiorno con cucina semi-abitabile, due camere, bagno, due balconi e cantina. Lappartamento si presenta in buone condizioni generali, dotato di infissi in PVC con vetrocamera e porta dingresso blindata. La palazzina è stata recentemente oggetto di importanti interventi di riqualificazione nell'ambito del Superbonus, con realizzazione del cappotto termico e sostituzione della caldaia e dell'ascensore. Completa la proprietà l'ampio giardino condominiale. L'immobile è attualmente occupato a reddito, con contratto disdettato con scadenza a marzo 2027. Classe di Prestazione Energetica B. Richiesta € 253.000. In collaborazione con Azienda Immobiliare di San Lazzaro, Via Emilia.",
+   "text": "051 6272012051 6274647\n\nHOME\nRESIDENZIALE\nCOMMERCIALE\nCHI SIAMO\nCONTATTI\n\t\nAPPARTAMENTO IN VENDITA BOLOGNA MAZZINI\n– / 36\nTipologia: appartamento\nPrezzo: € 253.000\nMq: 84m2\nCodice: PAG1294\n Mazzini (BO)\n 2 Camere\n 1 Bagni\nAppartamento in Vendita\nBologna Mazzini\n\nBologna Via Emilia Levante. In posizione interna ma comoda ai servizi e ai collegamenti, proponiamo luminoso appartamento all'ultimo piano con ascensore, composto da ingresso, soggiorno con cucina semi-abitabile, due camere, bagno, due balconi e cantina. Lappartamento si presenta in buone condizioni generali, dotato di infissi in PVC con vetrocamera e porta dingresso blindata. La palazzina è stata recentemente oggetto di importanti interventi di riqualificazione nell'ambito del Superbonus, con realizzazione del cappotto termico e sostituzione della caldaia e dell'ascensore. Completa la proprietà l'ampio giardino condominiale. L'immobile è attualmente occupato a reddito, con contratto disdettato con scadenza a marzo 2027. Classe di Prestazione Energetica B. Richiesta € 253.000. In collaborazione con Azienda Immobiliare di San Lazzaro, Via Emilia.\n\nMAGGIORI INFORMAZIONI\nCARATTERISTICHE\nMAPPA\nCONTATTI\nNome e cognome*\nEmail*\nOggetto*\nTelefono\nAnnotazioni*\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Privacy Policy - Revoca consensi.\n\n\nIMMOBILI SIMILI\nRICERCA AVANZATA\nContratto\nVendita\nAffitto\nLocalità\nBologna\nProvincia\nZona\nSeleziona la zona\nArno\nCorticella\nIrnerio\nMazzini\nSant Orsola\nSavena\nBudrio\nTipologia\nSeleziona la tipologia\nAppartamento\nAttico\nVilletta a schiera\nVilla\nCasa indipendente\nUfficio\nNegozio\nCapannone\nMagazzino\nlotto/Terreno\nCamere\nSeleziona le Camere\n1\n2\n3\n4\n5\n5+\nMQ min\nMq min\n50\n80\n100\n150\n200\n300\n> 300\nPrezzo max\nPrezzo max\n€ 25.000\n€ 50.000\n€ 75.000\n€ 100.000\n€ 150.000\n€ 200.000\n€ 300.000\n€ 500.000\n€ 750.000\n> € 750.000\n€ 100\n€ 200\n€ 300\n€ 400\n€ 500\n€ 600\n€ 700\n€ 800\n€ 900\n€ 1.000\n€ 1.200\n> € 1.200\nCERCA LA TUA CASA\nCodice\nCERCA IL CODICE\nIL NOSTRO AGENTE\nPAOLA PAGANI\n Mail:\nCONTATTI\n Via Giovanni XXIII, 1\n40068 San Lazzaro Di Savena (BO)\n Tel : 051 6272012\n Fax : 051 6274647\n E-mail: info@paganiimmobiliare.it\n\nMAPPA DEL SITO\nHome\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nLINK UTILI\nCase in vendita\nCase in affitto\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita\nRICERCA PER PAROLA\n\nStai cercando un immobile con caratteristiche particolari? Digita la caratteristica che ti interessa.\n\n\nPagani Immobiliare snc di Pierpaola e Massimo Pagani - Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - P.Iva 02072301209 - privacy - credits\nChiudi\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Maggiori informazioni",
+   "parsed": {
+    "prezzo": "€ 253.000",
+    "mq": "84m2",
+    "locali": "tà",
+    "camere": "Seleziona le Camere",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": "d",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084231_3936.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084209_4504.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084205_7132.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084207_7908.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084208_434.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084210_4473.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/mazzini/images/bg-page-top-1-scheda.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/mazzini/images/favicon.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/mazzini/999698.html#645862"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999698_20260906_084231_3936.jpg"
+  },
+  {
+   "url": "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/999694.html",
+   "title": "Appartamento in Vendita a San Lazzaro di Savena Idice - Rif. PAG716 | Pagani Immobiliare",
+   "h1": "APPARTAMENTO IN VENDITA SAN LAZZARO DI SAVENA IDICE",
+   "h2": [
+    "Appartamento in Vendita\nSan Lazzaro di Savena Idice",
+    "MAGGIORI INFORMAZIONI",
+    "IMMOBILI SIMILI",
+    "RICERCA AVANZATA",
+    "IL NOSTRO AGENTE",
+    "CONTATTI"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a San Lazzaro di Savena Idice - Rif. PAG716 - Scopri tutte le proposte di Pagani Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_5390.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 860
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_5390.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_8181.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181949_8719.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181950_1655.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181950_2797.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    }
+   ],
+   "bgs": [
+    "images/bg-page-top-1-scheda.jpg"
+   ],
+   "dataSrc": [
+    "images/favicon.jpg",
+    "#645862"
+   ],
+   "descBlock": "SAN LAZZARO AD.ZE - IDICE - In posizione tranquilla ma comoda ai principali servizi, appartamente recentemente ristrutturato, libero subito, composto da ingresso arredabile attualmente utilizzato come appendice della zona a giorno, cucina abitabile, camera matrimoniale, bagno, balcone e comoda cantina ciclabile. APE in fase di rilascio. Euro 178000",
+   "text": "051 6272012051 6274647\n\nHOME\nRESIDENZIALE\nCOMMERCIALE\nCHI SIAMO\nCONTATTI\n\t\nAPPARTAMENTO IN VENDITA SAN LAZZARO DI SAVENA IDICE\n1 / 25\nTipologia: appartamento\nPrezzo: € 178.000\nMq: 60m2\nCodice: PAG716\n Idice (BO)\n 1 Camere\n 1 Bagni\nAppartamento in Vendita\nSan Lazzaro di Savena Idice\n\nSAN LAZZARO AD.ZE - IDICE - In posizione tranquilla ma comoda ai principali servizi, appartamente recentemente ristrutturato, libero subito, composto da ingresso arredabile attualmente utilizzato come appendice della zona a giorno, cucina abitabile, camera matrimoniale, bagno, balcone e comoda cantina ciclabile. APE in fase di rilascio. Euro 178000\n\nMAGGIORI INFORMAZIONI\nCARATTERISTICHE\nMAPPA\nCONTATTI\nNome e cognome*\nEmail*\nOggetto*\nTelefono\nAnnotazioni*\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Privacy Policy - Revoca consensi.\n\n\nIMMOBILI SIMILI\nRICERCA AVANZATA\nContratto\nVendita\nAffitto\nLocalità\nBologna\nProvincia\nZona\nSeleziona la zona\nArno\nCorticella\nIrnerio\nMazzini\nSant Orsola\nSavena\nBudrio\nTipologia\nSeleziona la tipologia\nAppartamento\nAttico\nVilletta a schiera\nVilla\nCasa indipendente\nUfficio\nNegozio\nCapannone\nMagazzino\nlotto/Terreno\nCamere\nSeleziona le Camere\n1\n2\n3\n4\n5\n5+\nMQ min\nMq min\n50\n80\n100\n150\n200\n300\n> 300\nPrezzo max\nPrezzo max\n€ 25.000\n€ 50.000\n€ 75.000\n€ 100.000\n€ 150.000\n€ 200.000\n€ 300.000\n€ 500.000\n€ 750.000\n> € 750.000\n€ 100\n€ 200\n€ 300\n€ 400\n€ 500\n€ 600\n€ 700\n€ 800\n€ 900\n€ 1.000\n€ 1.200\n> € 1.200\nCERCA LA TUA CASA\nCodice\nCERCA IL CODICE\nIL NOSTRO AGENTE\nMASSIMO PAGANI\n Mail:\nCONTATTI\n Via Giovanni XXIII, 1\n40068 San Lazzaro Di Savena (BO)\n Tel : 051 6272012\n Fax : 051 6274647\n E-mail: info@paganiimmobiliare.it\n\nMAPPA DEL SITO\nHome\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nLINK UTILI\nCase in vendita\nCase in affitto\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita\nRICERCA PER PAROLA\n\nStai cercando un immobile con caratteristiche particolari? Digita la caratteristica che ti interessa.\n\n\nPagani Immobiliare snc di Pierpaola e Massimo Pagani - Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - P.Iva 02072301209 - privacy - credits\nChiudi\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Maggiori informazioni",
+   "parsed": {
+    "prezzo": "€ 178.000",
+    "mq": "60m2",
+    "locali": "tà",
+    "camere": "Seleziona le Camere",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_5390.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_5390.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_8181.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181949_8719.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181950_1655.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181950_2797.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/images/bg-page-top-1-scheda.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/images/favicon.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/idice/999694.html#645862"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999694_20260905_181948_5390.jpg"
+  },
+  {
+   "url": "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/irnerio/999498.html",
+   "title": "Appartamento in Vendita a Bologna Irnerio - Rif. PAG1293 | Pagani Immobiliare",
+   "h1": "APPARTAMENTO IN VENDITA BOLOGNA IRNERIO",
+   "h2": [
+    "Appartamento in Vendita\nBologna Irnerio",
+    "MAGGIORI INFORMAZIONI",
+    "IMMOBILI SIMILI",
+    "RICERCA AVANZATA",
+    "IL NOSTRO AGENTE",
+    "CONTATTI"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a Bologna Irnerio - Rif. PAG1293 - Scopri tutte le proposte di Pagani Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124317_9481.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 154
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124331_9457.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 860
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124331_9457.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124327_5310.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124327_4844.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124325_4467.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    }
+   ],
+   "bgs": [
+    "images/bg-page-top-2-scheda.jpg"
+   ],
+   "dataSrc": [
+    "images/favicon.jpg",
+    "#645862"
+   ],
+   "descBlock": "Bologna, Via Zucchini. Nel cuore del quartiere Irnerio, in una delle posizioni più strategiche e richieste della città, proponiamo in vendita un ampio appartamento posto al piano alto di un condominio con ascensore. L'immobile, libero subito, gode di una tripla esposizione, si trova in una zona centralissima e ricca di servizi distinguendosi per gli affacci interni silenziosi e riservati. La pianta interna è ottimamente suddivisa: ampio ingresso arredabile, salone doppio, comoda cucina abitabile, due ampie camere da letto e un bagno. È presente inoltre un ulteriore vano con finestra, perfetto per essere trasformato in una cabina armadio, in una lavanderia o in un secondo bagno. Completano la proprietà un grazioso balcone accessibile dal salone e una comoda cantina al piano interrato. Attestato di Prestazione Energetica G. Richiesta €390'000,00",
+   "text": "051 6272012051 6274647\n\nHOME\nRESIDENZIALE\nCOMMERCIALE\nCHI SIAMO\nCONTATTI\n\t\nAPPARTAMENTO IN VENDITA BOLOGNA IRNERIO\n1 / 44\nTipologia: appartamento\nPrezzo: € 390.000\nMq: 125m2\nCodice: PAG1293\n Irnerio (BO)\n 2 Camere\n 1 Bagni\nAppartamento in Vendita\nBologna Irnerio\n\nBologna, Via Zucchini. Nel cuore del quartiere Irnerio, in una delle posizioni più strategiche e richieste della città, proponiamo in vendita un ampio appartamento posto al piano alto di un condominio con ascensore. L'immobile, libero subito, gode di una tripla esposizione, si trova in una zona centralissima e ricca di servizi distinguendosi per gli affacci interni silenziosi e riservati. La pianta interna è ottimamente suddivisa: ampio ingresso arredabile, salone doppio, comoda cucina abitabile, due ampie camere da letto e un bagno. È presente inoltre un ulteriore vano con finestra, perfetto per essere trasformato in una cabina armadio, in una lavanderia o in un secondo bagno. Completano la proprietà un grazioso balcone accessibile dal salone e una comoda cantina al piano interrato. Attestato di Prestazione Energetica G. Richiesta €390'000,00\n\nMAGGIORI INFORMAZIONI\nCARATTERISTICHE\nMAPPA\nCONTATTI\nNome e cognome*\nEmail*\nOggetto*\nTelefono\nAnnotazioni*\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Privacy Policy - Revoca consensi.\n\n\nIMMOBILI SIMILI\nRICERCA AVANZATA\nContratto\nVendita\nAffitto\nLocalità\nBologna\nProvincia\nZona\nSeleziona la zona\nArno\nCorticella\nIrnerio\nMazzini\nSant Orsola\nSavena\nBudrio\nTipologia\nSeleziona la tipologia\nAppartamento\nAttico\nVilletta a schiera\nVilla\nCasa indipendente\nUfficio\nNegozio\nCapannone\nMagazzino\nlotto/Terreno\nCamere\nSeleziona le Camere\n1\n2\n3\n4\n5\n5+\nMQ min\nMq min\n50\n80\n100\n150\n200\n300\n> 300\nPrezzo max\nPrezzo max\n€ 25.000\n€ 50.000\n€ 75.000\n€ 100.000\n€ 150.000\n€ 200.000\n€ 300.000\n€ 500.000\n€ 750.000\n> € 750.000\n€ 100\n€ 200\n€ 300\n€ 400\n€ 500\n€ 600\n€ 700\n€ 800\n€ 900\n€ 1.000\n€ 1.200\n> € 1.200\nCERCA LA TUA CASA\nCodice\nCERCA IL CODICE\nIL NOSTRO AGENTE\nPAOLA PAGANI\n Mail:\nCONTATTI\n Via Giovanni XXIII, 1\n40068 San Lazzaro Di Savena (BO)\n Tel : 051 6272012\n Fax : 051 6274647\n E-mail: info@paganiimmobiliare.it\n\nMAPPA DEL SITO\nHome\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nLINK UTILI\nCase in vendita\nCase in affitto\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita\nRICERCA PER PAROLA\n\nStai cercando un immobile con caratteristiche particolari? Digita la caratteristica che ti interessa.\n\n\nPagani Immobiliare snc di Pierpaola e Massimo Pagani - Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - P.Iva 02072301209 - privacy - credits\nChiudi\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Maggiori informazioni",
+   "parsed": {
+    "prezzo": "€ 390.000",
+    "mq": "125m2",
+    "locali": "tà",
+    "camere": "Seleziona le Camere",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124317_9481.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124331_9457.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124331_9457.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124327_5310.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124327_4844.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124325_4467.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/irnerio/images/bg-page-top-2-scheda.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/irnerio/images/favicon.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/bologna/irnerio/999498.html#645862"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/PAG/foto/PAG_999498_20260901_124317_9481.jpg"
+  },
+  {
+   "url": "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/san-lazzaro/998906.html",
+   "title": "Appartamento in Vendita a San Lazzaro di Savena San Lazzaro - Rif. PAG1234 | Pagani Immobiliare",
+   "h1": "APPARTAMENTO IN VENDITA SAN LAZZARO DI SAVENA SAN LAZZARO",
+   "h2": [
+    "Appartamento in Vendita\nSan Lazzaro di Savena San Lazzaro",
+    "MAGGIORI INFORMAZIONI",
+    "IMMOBILI SIMILI",
+    "RICERCA AVANZATA",
+    "IL NOSTRO AGENTE",
+    "CONTATTI"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a San Lazzaro di Savena San Lazzaro - Rif. PAG1234 - Scopri tutte le proposte di Pagani Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_6087.jpg",
+     "w": 1620,
+     "h": 1080,
+     "rw": 860
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_6087.jpg",
+     "w": 1620,
+     "h": 1080,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094329_2852.jpg",
+     "w": 1620,
+     "h": 1080,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094330_3960.jpg",
+     "w": 1620,
+     "h": 1080,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094321_4839.jpg",
+     "w": 1620,
+     "h": 1080,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_679.jpg",
+     "w": 1620,
+     "h": 1080,
+     "rw": 155
+    }
+   ],
+   "bgs": [
+    "images/bg-page-top-2-scheda.jpg"
+   ],
+   "dataSrc": [
+    "images/favicon.jpg",
+    "#645862"
+   ],
+   "descBlock": "SAN LAZZARO Via Scornetta immerso nel verde e nella tranquillità, in condominio ben curato e servito da ascensore, proponiamo appartamento composto da ingresso, sala con accesso a balcone coperto, cucina abitabile con secondo balcone, disimpegno, due ampie camere da letto, bagno e ripostiglio. Completa la proprietà un garage di 20 mq al piano terra (adatto a due auto piccole in linea). A disposizione dei condomini posti auto liberi e un ampio giardino.La posizione è particolarmente apprezzata perché comoda a tutti i principali servizi, pur essendo immersa nel verde e lontana dal traffico. Classe energetica in fase di redazione. Richiesta € 340.000 per l'appartamento + €30'000 per l'autorimessa",
+   "text": "051 6272012051 6274647\n\nHOME\nRESIDENZIALE\nCOMMERCIALE\nCHI SIAMO\nCONTATTI\n\t\nAPPARTAMENTO IN VENDITA SAN LAZZARO DI SAVENA SAN LAZZARO\n1 / 46\nTipologia: appartamento\nPrezzo: € 370.000\nMq: 95m2\nCodice: PAG1234\n San Lazzaro (BO)\n 2 Camere\n 1 Bagni\nAppartamento in Vendita\nSan Lazzaro di Savena San Lazzaro\n\nSAN LAZZARO Via Scornetta immerso nel verde e nella tranquillità, in condominio ben curato e servito da ascensore, proponiamo appartamento composto da ingresso, sala con accesso a balcone coperto, cucina abitabile con secondo balcone, disimpegno, due ampie camere da letto, bagno e ripostiglio. Completa la proprietà un garage di 20 mq al piano terra (adatto a due auto piccole in linea). A disposizione dei condomini posti auto liberi e un ampio giardino.La posizione è particolarmente apprezzata perché comoda a tutti i principali servizi, pur essendo immersa nel verde e lontana dal traffico. Classe energetica in fase di redazione. Richiesta € 340.000 per l'appartamento + €30'000 per l'autorimessa\n\nMAGGIORI INFORMAZIONI\nCARATTERISTICHE\nMAPPA\nCONTATTI\nNome e cognome*\nEmail*\nOggetto*\nTelefono\nAnnotazioni*\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Privacy Policy - Revoca consensi.\n\n\nIMMOBILI SIMILI\nRICERCA AVANZATA\nContratto\nVendita\nAffitto\nLocalità\nBologna\nProvincia\nZona\nSeleziona la zona\nArno\nCorticella\nIrnerio\nMazzini\nSant Orsola\nSavena\nBudrio\nTipologia\nSeleziona la tipologia\nAppartamento\nAttico\nVilletta a schiera\nVilla\nCasa indipendente\nUfficio\nNegozio\nCapannone\nMagazzino\nlotto/Terreno\nCamere\nSeleziona le Camere\n1\n2\n3\n4\n5\n5+\nMQ min\nMq min\n50\n80\n100\n150\n200\n300\n> 300\nPrezzo max\nPrezzo max\n€ 25.000\n€ 50.000\n€ 75.000\n€ 100.000\n€ 150.000\n€ 200.000\n€ 300.000\n€ 500.000\n€ 750.000\n> € 750.000\n€ 100\n€ 200\n€ 300\n€ 400\n€ 500\n€ 600\n€ 700\n€ 800\n€ 900\n€ 1.000\n€ 1.200\n> € 1.200\nCERCA LA TUA CASA\nCodice\nCERCA IL CODICE\nIL NOSTRO AGENTE\nPAOLA PAGANI\n Mail:\nCONTATTI\n Via Giovanni XXIII, 1\n40068 San Lazzaro Di Savena (BO)\n Tel : 051 6272012\n Fax : 051 6274647\n E-mail: info@paganiimmobiliare.it\n\nMAPPA DEL SITO\nHome\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nLINK UTILI\nCase in vendita\nCase in affitto\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita\nRICERCA PER PAROLA\n\nStai cercando un immobile con caratteristiche particolari? Digita la caratteristica che ti interessa.\n\n\nPagani Immobiliare snc di Pierpaola e Massimo Pagani - Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - P.Iva 02072301209 - privacy - credits\nChiudi\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Maggiori informazioni",
+   "parsed": {
+    "prezzo": "€ 370.000",
+    "mq": "95m2",
+    "locali": "tà",
+    "camere": "Seleziona le Camere",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": "in fase di redazione. Richi",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_6087.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_6087.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094329_2852.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094330_3960.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094321_4839.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_679.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/san-lazzaro/images/bg-page-top-2-scheda.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/san-lazzaro/images/favicon.jpg",
+    "https://www.paganiimmobiliare.it/vendita/appartamento/san-lazzaro/san-lazzaro/998906.html#645862"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998906_20260704_094327_6087.jpg"
+  },
+  {
+   "url": "https://www.paganiimmobiliare.it/vendita/capannone/san-lazzaro/caselle/998771.html",
+   "title": "Capannone in Vendita a San Lazzaro di Savena Caselle - Rif. PAG123 | Pagani Immobiliare",
+   "h1": "CAPANNONE IN VENDITA SAN LAZZARO DI SAVENA CASELLE",
+   "h2": [
+    "Capannone in Vendita\nSan Lazzaro di Savena Caselle",
+    "MAGGIORI INFORMAZIONI",
+    "IMMOBILI SIMILI",
+    "RICERCA AVANZATA",
+    "IL NOSTRO AGENTE",
+    "CONTATTI"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Capannone in Vendita a San Lazzaro di Savena Caselle - Rif. PAG123 - Scopri tutte le proposte di Pagani Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203702_8979.jpg",
+     "w": 1412,
+     "h": 1920,
+     "rw": 76
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203703_8950.jpg",
+     "w": 1412,
+     "h": 1920,
+     "rw": 76
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203514_5675.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 860
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203514_5675.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203520_258.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203426_3695.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 155
+    }
+   ],
+   "bgs": [
+    "images/bg-page-top-2-scheda.jpg"
+   ],
+   "dataSrc": [
+    "images/favicon.jpg",
+    "#645862"
+   ],
+   "descBlock": "SAN LAZZARO DI SAVENA VIA VITTORIA In posizione strategica, all'interno di una consolidata area a destinazione artigianale e commerciale, proponiamo in vendita ampio capannone di oltre 500 mq complessivi, caratterizzato da grande luminosità e versatilità d'utilizzo.L'immobile si sviluppa su due livelli ed è così composto:Piano terra: laboratorio di circa 240 mq con altezza interna di 3,80 m, ufficio, servizi e ampio locale ad uso garage/magazzino.Piano primo: magazzino di circa 110 mq, oltre a tre locali destinati ad ufficio, refettorio e archivio, bagno e affaccio esterno sul piano.La proprietà è dotata di accesso carraio e dispone di un'area antistante utilizzabile per parcheggio mezzi, carico/scarico.La posizione, particolarmente comoda alle principali arterie di collegamento, rende l'immobile ideale per attività artigianali, commerciali, logistiche leggere, showroom o sedi aziendali.APE in fase di redazione.Richiesta € 420.000",
+   "text": "051 6272012051 6274647\n\nHOME\nRESIDENZIALE\nCOMMERCIALE\nCHI SIAMO\nCONTATTI\n\t\nCAPANNONE IN VENDITA SAN LAZZARO DI SAVENA CASELLE\n1 / 19\nTipologia: capannone\nPrezzo: € 420.000\nMq: 525m2\nCodice: PAG123\n Caselle (BO)\n 0 Camere\n 3 Bagni\nCapannone in Vendita\nSan Lazzaro di Savena Caselle\n\nSAN LAZZARO DI SAVENA VIA VITTORIA In posizione strategica, all'interno di una consolidata area a destinazione artigianale e commerciale, proponiamo in vendita ampio capannone di oltre 500 mq complessivi, caratterizzato da grande luminosità e versatilità d'utilizzo.L'immobile si sviluppa su due livelli ed è così composto:Piano terra: laboratorio di circa 240 mq con altezza interna di 3,80 m, ufficio, servizi e ampio locale ad uso garage/magazzino.Piano primo: magazzino di circa 110 mq, oltre a tre locali destinati ad ufficio, refettorio e archivio, bagno e affaccio esterno sul piano.La proprietà è dotata di accesso carraio e dispone di un'area antistante utilizzabile per parcheggio mezzi, carico/scarico.La posizione, particolarmente comoda alle principali arterie di collegamento, rende l'immobile ideale per attività artigianali, commerciali, logistiche leggere, showroom o sedi aziendali.APE in fase di redazione.Richiesta € 420.000\n\nMAGGIORI INFORMAZIONI\nCARATTERISTICHE\nMAPPA\nCONTATTI\nNome e cognome*\nEmail*\nOggetto*\nTelefono\nAnnotazioni*\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Privacy Policy - Revoca consensi.\n\n\nIMMOBILI SIMILI\nRICERCA AVANZATA\nContratto\nVendita\nAffitto\nLocalità\nBologna\nProvincia\nZona\nSeleziona la zona\nArno\nCorticella\nIrnerio\nMazzini\nSant Orsola\nSavena\nBudrio\nTipologia\nSeleziona la tipologia\nAppartamento\nAttico\nVilletta a schiera\nVilla\nCasa indipendente\nUfficio\nNegozio\nCapannone\nMagazzino\nlotto/Terreno\nCamere\nSeleziona le Camere\n1\n2\n3\n4\n5\n5+\nMQ min\nMq min\n50\n80\n100\n150\n200\n300\n> 300\nPrezzo max\nPrezzo max\n€ 25.000\n€ 50.000\n€ 75.000\n€ 100.000\n€ 150.000\n€ 200.000\n€ 300.000\n€ 500.000\n€ 750.000\n> € 750.000\n€ 100\n€ 200\n€ 300\n€ 400\n€ 500\n€ 600\n€ 700\n€ 800\n€ 900\n€ 1.000\n€ 1.200\n> € 1.200\nCERCA LA TUA CASA\nCodice\nCERCA IL CODICE\nIL NOSTRO AGENTE\nPAOLA PAGANI\n Mail:\nCONTATTI\n Via Giovanni XXIII, 1\n40068 San Lazzaro Di Savena (BO)\n Tel : 051 6272012\n Fax : 051 6274647\n E-mail: info@paganiimmobiliare.it\n\nMAPPA DEL SITO\nHome\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nLINK UTILI\nCase in vendita\nCase in affitto\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita\nRICERCA PER PAROLA\n\nStai cercando un immobile con caratteristiche particolari? Digita la caratteristica che ti interessa.\n\n\nPagani Immobiliare snc di Pierpaola e Massimo Pagani - Via Giovanni XXIII, 1 - 40068 San Lazzaro Di Savena (BO) - P.Iva 02072301209 - privacy - credits\nChiudi\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Maggiori informazioni",
+   "parsed": {
+    "prezzo": "€ 420.000",
+    "mq": "525m2",
+    "locali": "tà",
+    "camere": "Seleziona le Camere",
+    "bagni": "3",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203702_8979.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203703_8950.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203514_5675.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203514_5675.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203520_258.jpg",
+    "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203426_3695.jpg",
+    "https://www.paganiimmobiliare.it/vendita/capannone/san-lazzaro/caselle/images/bg-page-top-2-scheda.jpg",
+    "https://www.paganiimmobiliare.it/vendita/capannone/san-lazzaro/caselle/images/favicon.jpg",
+    "https://www.paganiimmobiliare.it/vendita/capannone/san-lazzaro/caselle/998771.html#645862"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/PAG/foto/PAG_998771_20260603_203702_8979.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.paganiimmobiliare.it/images/pagani.png",
+  "size": 24791
+ }
+}

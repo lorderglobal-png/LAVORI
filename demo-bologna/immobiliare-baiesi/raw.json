@@ -1,0 +1,442 @@
+{
+ "cfg": {
+  "slug": "immobiliare-baiesi",
+  "nome": "Immobiliare Baiesi",
+  "home": "https://immobiliarebaiesi.com/",
+  "index": [
+   "https://immobiliarebaiesi.com/immobile/",
+   "https://immobiliarebaiesi.com/affitti/"
+  ],
+  "rx": "immobiliarebaiesi[.]com/immobile/[a-z0-9-]+",
+  "n": 6,
+  "contact": "https://immobiliarebaiesi.com/contatti/"
+ },
+ "home": {
+  "title": "Immobiliare Baiesi - Immobiliare Baiesi",
+  "desc": "IMMOBILIARE BAIESI - CI OCCUPIAMO DI CASE MA SOPRATTUTTO DI PERSONE - VENDITA CASE SAN LAZZARO E BOLOGNA - DAL 1983",
+  "emails": [
+   "info@immobiliarebaiesi.com",
+   "studiobaiesi@libero.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://immobiliarebaiesi.com/wp-content/uploads/2022/01/logo-nero-1024x575.png",
+   "https://immobiliarebaiesi.com/wp-content/uploads/2022/01/logo-bianco-1024x571.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(51, 51, 51)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(173, 136, 46)",
+   "font": "\"Aileron Regular\", sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(173, 136, 46)",
+   "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    32
+   ],
+   [
+    "rgb(198, 156, 48)",
+    6
+   ],
+   [
+    "rgba(255, 255, 255, 0.5)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    643
+   ],
+   [
+    "rgba(198, 156, 48, 0.314)",
+    17
+   ],
+   [
+    "rgba(189, 195, 200, 0.68)",
+    17
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(198, 156, 48)",
+    5
+   ],
+   [
+    "rgb(68, 68, 68)",
+    3
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ],
+   [
+    "rgba(255, 255, 255, 0.5)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(173, 136, 46)",
+    24
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(173, 136, 46)",
+    70
+   ],
+   [
+    "rgb(122, 122, 122)",
+    14
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(244, 244, 244)",
+    3
+   ],
+   [
+    "rgb(105, 114, 125)",
+    3
+   ],
+   [
+    "rgb(198, 156, 48)",
+    2
+   ],
+   [
+    "rgb(0, 123, 255)",
+    2
+   ],
+   [
+    "rgb(51, 51, 51)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Aileron Regular\", sans-serif",
+    86
+   ],
+   [
+    "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    75
+   ],
+   [
+    "-apple-system, sans-serif",
+    3
+   ]
+  ],
+  "heads": [
+   "Table of Contents",
+   "NEWSLETTER"
+  ],
+  "addr": null,
+  "final": "https://immobiliarebaiesi.com/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://immobiliarebaiesi.com/contatti/",
+  "emails": [
+   "info@immobiliarebaiesi.com",
+   "studiobaiesi@libero.it"
+  ],
+  "tels": [],
+  "addr": null
+ },
+ "candidates": [
+  "https://immobiliarebaiesi.com/immobile/molinella-appartamento-giardino-privato/",
+  "https://immobiliarebaiesi.com/immobile/villa-bifamiliare-san-lazzaro/",
+  "https://immobiliarebaiesi.com/immobile/bilocale-san-lazzaro/",
+  "https://immobiliarebaiesi.com/immobile/quadrilocale-fossolo-bologna/",
+  "https://immobiliarebaiesi.com/immobile/quadrilocale-elegante-san-lazzaro/",
+  "https://immobiliarebaiesi.com/immobile/quadrilocale-funo-argelato/",
+  "https://immobiliarebaiesi.com/immobile/ceretolo-casalecchio/",
+  "https://immobiliarebaiesi.com/immobile/appartamento-in-centro-a-minerbio/",
+  "https://immobiliarebaiesi.com/immobile/bilocale-bologna-quartiere-savena/"
+ ],
+ "listings": [
+  {
+   "url": "https://immobiliarebaiesi.com/immobile/molinella-appartamento-giardino-privato/",
+   "title": "MOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO - Immobiliare Baiesi",
+   "h1": "MOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO",
+   "h2": [
+    "Vedi l'annuncio",
+    "Table of Contents"
+   ],
+   "ogTitle": "MOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO - Immobiliare Baiesi",
+   "ogImage": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villamolinella.jpg",
+   "ogDesc": "esclusivo appartamento completamente ristrutturato, disposto su due livelli e circondato da un grande parco privato.",
+   "desc": "esclusivo appartamento completamente ristrutturato, disposto su due livelli e circondato da un grande parco privato.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/\",\"name\":\"MOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO - Immobiliare Baiesi\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/villamolinella.jpg\",\"datePublished\":\"2026-10-28T14:27:14+00:00\",\"dateModified\":\"2026-10-29T09:12:17+00:00\",\"description\":\"esclusivo appartamento completamente ristrutturato, disposto su due livelli e circondato da un grande parco privato.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/villamolinella.jpg\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/villamolinella.jpg\",\"width\":1400,\"height\":1050,\"caption\":\"appartamento-molinella-immobiliare-baiesi\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/molinella-appartamento-giardino-privato\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"MOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"name\":\"Immobiliare Baiesi\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliarebaiesi.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\",\"name\":\"Immobiliare Baiesi\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"width\":1060,\"height\":595,\"caption\":\"Immobiliare Baiesi\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/studiobaiesi\",\"https:\\/\\/www.instagram.com\\/immobiliarebaiesidal1983\",\"https:\\/\\/www.youtube.com\\/channel\\/UCPo07yVhDz4OJlDtSa8eDSQ\\/videos\"]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villamolinella-1024x768.jpg",
+     "w": 800,
+     "h": 600,
+     "rw": 800
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Immobiliare Baiesi propone in vendita un esclusivo appartamento completamente ristrutturato, disposto su due livelli e circondato da un grande parco privato. L’immobile è inserito in una raffinata residenza dotata delle più moderne tecnologie costruttive, tra cui cappotto termico esterno e infissi in PVC con triplo vetro.",
+   "text": "Vai al contenuto\nHome\nChi siamo\nImmobili\nValutazioni Gratuite\nServizi tecnici catastali\nGallery\nBlog\nContatti\nAFFITTA LA TUA CASA\nVENDI LA TUA CASA\nMOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO\nEsclusivo appartamento completamente ristrutturato, disposto su due livelli e circondato da un grande parco privato. L'immobile è inserito in una raffinata residenza dotata delle più moderne tecnologie costruttive, tra cui cappotto termico esterno e infissi in PVC con triplo vetro.\nVedi l'annuncio\n\nImmobiliare Baiesi propone in vendita un esclusivo appartamento completamente ristrutturato, disposto su due livelli e circondato da un grande parco privato. L’immobile è inserito in una raffinata residenza dotata delle più moderne tecnologie costruttive, tra cui cappotto termico esterno e infissi in PVC con triplo vetro.\n\nL’immobile è composto da:\n\nPiano terra: ampio open space di circa 70 mq dedicato alla zona living-pranzo, particolarmente luminoso grazie alle grandi vetrate affacciate sul giardino privato, elegante bagno con vasca idromassaggio e accesso diretto al giardino esterno.\n\nPrimo piano (zona notte): tre camere da letto, secondo bagno finestrato e terrazzo panoramico.\n\nCaratteristiche tecniche e finiture:\n\nFiniture interne di alto livello con pavimenti in gres porcellanato.\n\nRiscaldamento autonomo (nessuna spesa di condominio).\n\nInnovazioni tecnologiche: cappotto termico esterno e infissi in PVC con triplo vetro.\n\nPertinenze e spazi esterni:\n\nGrande parco privato e giardino esclusivo.\n\nTre posti auto riservati all’interno dell’area privata recintata.\n\nContesto e ubicazione:\n\nPosizione strategica a pochi minuti dai principali servizi del centro paese, pur mantenendo un contesto tranquillo e immerso nella natura.\n\nPer maggiori informazioni:\n\nDal 1983, Immobiliare Baiesi è presente sul territorio di tutta la provincia Bolognese, con le sue sedi ubicate a San Lazzaro di Savena. Quarant’anni di attività ci hanno portato a diventare negli anni punto di riferimento immobiliare a San Lazzaro e in tutta Bologna.\n\nSIAMO AL TUO FIANCO PER UN’ESPERIENZA IMMOBILIARE SICURA, VELOCE E PROFESSIONALE.\n\nSTAI PENSANDO DI VENDERE CASA? CONTATTACI PER UNA VALUTAZIONE GRATUITA. PER I NOSTRI CLIENTI APE E RTI SONO COMPRESE NELL’INCARICO.\n\nPrecedente\nPRECEDENTE\nVILLA BIFAMILIARE – SAN LAZZARO\nVia della Repubblica 3/C\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nVia della Repubblica 68\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nPrivacy Policy\nCookie Policy\nTermini e Condizioni\nFacebook-square\n \nInstagram\n \nYoutube\n\nCopyright 2017 © Immobiliare Baiesi - Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": null,
+    "mq": "70",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villamolinella.jpg",
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villamolinella-1024x768.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villamolinella.jpg"
+  },
+  {
+   "url": "https://immobiliarebaiesi.com/immobile/villa-bifamiliare-san-lazzaro/",
+   "title": "VILLA BIFAMILIARE - SAN LAZZARO - Immobiliare Baiesi",
+   "h1": "VILLA BIFAMILIARE – SAN LAZZARO",
+   "h2": [
+    "Vedi l'annuncio",
+    "Table of Contents"
+   ],
+   "ogTitle": "VILLA BIFAMILIARE - SAN LAZZARO - Immobiliare Baiesi",
+   "ogImage": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villabifamiliare-sanlazzaro.jpg",
+   "ogDesc": "Nel cuore di San Lazzaro di Savena appartamento di quattro locali situato al secondo e ultimo piano, adiacente al parco",
+   "desc": "Nel cuore di San Lazzaro di Savena appartamento di quattro locali situato al secondo e ultimo piano, adiacente al parco",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/\",\"name\":\"VILLA BIFAMILIARE - SAN LAZZARO - Immobiliare Baiesi\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/villabifamiliare-sanlazzaro.jpg\",\"datePublished\":\"2026-10-28T10:55:07+00:00\",\"dateModified\":\"2026-10-29T09:13:10+00:00\",\"description\":\"Nel cuore di San Lazzaro di Savena appartamento di quattro locali situato al secondo e ultimo piano, adiacente al parco\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/villabifamiliare-sanlazzaro.jpg\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/villabifamiliare-sanlazzaro.jpg\",\"width\":1400,\"height\":1050,\"caption\":\"villa-bifamiliare-sanlazzaro-immobiliare-baiesi\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/villa-bifamiliare-san-lazzaro\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"VILLA BIFAMILIARE &#8211; SAN LAZZARO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"name\":\"Immobiliare Baiesi\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliarebaiesi.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\",\"name\":\"Immobiliare Baiesi\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"width\":1060,\"height\":595,\"caption\":\"Immobiliare Baiesi\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/studiobaiesi\",\"https:\\/\\/www.instagram.com\\/immobiliarebaiesidal1983\",\"https:\\/\\/www.youtube.com\\/channel\\/UCPo07yVhDz4OJlDtSa8eDSQ\\/videos\"]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villabifamiliare-sanlazzaro-1024x768.jpg",
+     "w": 800,
+     "h": 600,
+     "rw": 800
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Immobiliare Baiesi propone in un contesto residenziale esclusivo e di prestigio, in Via Minarini e a pochi passi da un incantevole parco, una splendida porzione di villetta immersa nella tranquillità e nel verde, circondata su tre lati da un ampio giardino privato ideale per momenti di relax, per gli amanti del giardinaggio o per i bambini.",
+   "text": "Vai al contenuto\nHome\nChi siamo\nImmobili\nValutazioni Gratuite\nServizi tecnici catastali\nGallery\nBlog\nContatti\nAFFITTA LA TUA CASA\nVENDI LA TUA CASA\nVILLA BIFAMILIARE – SAN LAZZARO\nIn un contesto residenziale esclusivo e di prestigio, in Via Minarini e a pochi passi da un incantevole parco, proponiamo una splendida porzione di villetta immersa nella tranquillità e nel verde, circondata su tre lati da un ampio giardino privato ideale per momenti di relax, per gli amanti del giardinaggio o per i bambini.\nVedi l'annuncio\n\nImmobiliare Baiesi propone in un contesto residenziale esclusivo e di prestigio, in Via Minarini e a pochi passi da un incantevole parco, una splendida porzione di villetta immersa nella tranquillità e nel verde, circondata su tre lati da un ampio giardino privato ideale per momenti di relax, per gli amanti del giardinaggio o per i bambini.\n\nL’immobile è così distribuito:\n\nPiano terra: ingresso su ampio soggiorno con affaccio diretto sul giardino, cucina abitabile funzionale e bagno di servizio.\n\nPrimo piano: tre camere da letto e bagno.\n\nSecondo piano: mansarda.\n\nPiano interrato: taverna attrezzata con zona cucina e camino, bagno/lavanderia e collegamento diretto con l’autorimessa.\n\nCaratteristiche tecniche e finiture:\n\nRiscaldamento autonomo.\n\nInfissi in legno con doppio vetro.\n\nImpianto di climatizzazione già installato.\n\nFiniture interne di ottimo livello.\n\nPertinenze e posizione:\n\nGiardino privato sui tre lati.\n\nGarage disponibile con trattativa a parte.\n\nSituata in una comoda zona residenziale a breve distanza dalla Via Emilia, vicina a supermercati, negozi, servizi sanitari, fermate degli autobus e a pochi passi dal Parco dei Cedri e dai percorsi verdi lungo il Savena.\n\nPer maggiori informazioni:Dal 1983, Immobiliare Baiesi è presente sul territorio di tutta la provincia Bolognese, con le sue sedi ubicate a San Lazzaro di Savena. Quarant’anni di attività ci hanno portato a diventare negli anni punto di riferimento immobiliare a San Lazzaro e in tutta Bologna.\n\nSIAMO AL TUO FIANCO PER UN’ESPERIENZA IMMOBILIARE SICURA, VELOCE E PROFESSIONALE.STAI PENSANDO DI VENDERE CASA? CONTATTACI PER UNA VALUTAZIONE GRATUITA. PER I NOSTRI CLIENTI APE E RTI SONO COMPRESE NELL’INCARICO.\n\nPer maggiori informazioni e per fissare un appuntamento di visita, vi invitiamo a contattare i nostri uffici.\n\nPrecedente\nPRECEDENTE\nBILOCALE – SAN LAZZARO DI SAVENA\nSUCCESSIVO\nMOLINELLA – OTTIME CONDIZIONI CON GIARDINO PRIVATO\nSuccessivo\nVia della Repubblica 3/C\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nVia della Repubblica 68\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nPrivacy Policy\nCookie Policy\nTermini e Condizioni\nFacebook-square\n \nInstagram\n \nYoutube\n\nCopyright 2017 © Immobiliare Baiesi - Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": null,
+    "mq": null,
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": "tre camere da letto e bagno.",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villabifamiliare-sanlazzaro.jpg",
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villabifamiliare-sanlazzaro-1024x768.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/villabifamiliare-sanlazzaro.jpg"
+  },
+  {
+   "url": "https://immobiliarebaiesi.com/immobile/bilocale-san-lazzaro/",
+   "title": "BILOCALE - SAN LAZZARO DI SAVENA - Immobiliare Baiesi",
+   "h1": "BILOCALE – SAN LAZZARO DI SAVENA",
+   "h2": [
+    "Vedi l'annuncio",
+    "Per Informazioni e Appuntamenti:",
+    "Table of Contents"
+   ],
+   "ogTitle": "BILOCALE - SAN LAZZARO DI SAVENA - Immobiliare Baiesi",
+   "ogImage": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/bilocale-sanlazzaro.jpg",
+   "ogDesc": "San Lazzaro, a poche centinaia di metri da Piazza Bracci, un appartamento bilocale situato al secondo piano in stabile con ascensore",
+   "desc": "San Lazzaro, a poche centinaia di metri da Piazza Bracci, un appartamento bilocale situato al secondo piano in stabile con ascensore",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/\",\"name\":\"BILOCALE - SAN LAZZARO DI SAVENA - Immobiliare Baiesi\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/bilocale-sanlazzaro.jpg\",\"datePublished\":\"2026-10-28T10:36:09+00:00\",\"dateModified\":\"2026-10-29T09:15:11+00:00\",\"description\":\"San Lazzaro, a poche centinaia di metri da Piazza Bracci, un appartamento bilocale situato al secondo piano in stabile con ascensore\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/bilocale-sanlazzaro.jpg\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/bilocale-sanlazzaro.jpg\",\"width\":1400,\"height\":1050,\"caption\":\"bilocale-sanlazzaro-immobiliare-baiesi\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/bilocale-san-lazzaro\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"BILOCALE &#8211; SAN LAZZARO DI SAVENA\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"name\":\"Immobiliare Baiesi\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliarebaiesi.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\",\"name\":\"Immobiliare Baiesi\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"width\":1060,\"height\":595,\"caption\":\"Immobiliare Baiesi\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/studiobaiesi\",\"https:\\/\\/www.instagram.com\\/immobiliarebaiesidal1983\",\"https:\\/\\/www.youtube.com\\/channel\\/UCPo07yVhDz4OJlDtSa8eDSQ\\/videos\"]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/bilocale-sanlazzaro-1024x768.jpg",
+     "w": 800,
+     "h": 600,
+     "rw": 800
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Immobiliare Baiesi propone nel cuore di San Lazzaro, a poche centinaia di metri da Piazza Bracci, un appartamento bilocale situato al secondo piano in stabile dotato di ascensore (l’ascensore arriva fino al livello cantine). L’immobile dispone di posto auto di proprietà e riscaldamento autonomo.",
+   "text": "Vai al contenuto\nHome\nChi siamo\nImmobili\nValutazioni Gratuite\nServizi tecnici catastali\nGallery\nBlog\nContatti\nAFFITTA LA TUA CASA\nVENDI LA TUA CASA\nBILOCALE – SAN LAZZARO DI SAVENA\nNel cuore di San Lazzaro, a poche centinaia di metri da Piazza Bracci, proponiamo un appartamento bilocale situato al secondo piano in stabile dotato di ascensore (l'ascensore arriva fino al livello cantine). L'immobile dispone di posto auto di proprietà e riscaldamento autonomo.\nVedi l'annuncio\n\nImmobiliare Baiesi propone nel cuore di San Lazzaro, a poche centinaia di metri da Piazza Bracci, un appartamento bilocale situato al secondo piano in stabile dotato di ascensore (l’ascensore arriva fino al livello cantine). L’immobile dispone di posto auto di proprietà e riscaldamento autonomo.\n\nL’appartamento, che si presenta in buone condizioni, è composto da:\n\nIngresso.\n\nSala con cucina a vista.\n\nDisimpegno.\n\nCamera matrimoniale.\n\nBagno.\n\nPertinenze e spazi accessori:\n\nCantina ciclabile al piano interrato.\n\nPosto auto di proprietà situato nel cortile interno.\n\nCaratteristiche tecniche e ubicazione:\n\nImpianto di riscaldamento autonomo e basse spese condominiali.\n\nAppartamento libero subito.\n\nPosizione centralissima che rende tutti i servizi comodamente raggiungibili anche a piedi.\n\nPer maggiori informazioni:Dal 1983, Immobiliare Baiesi è presente sul territorio di tutta la provincia Bolognese, con le sue sedi ubicate a San Lazzaro di Savena. Quarant’anni di attività ci hanno portato a diventare negli anni punto di riferimento immobiliare a San Lazzaro e in tutta Bologna.\n\nSIAMO AL TUO FIANCO PER UN’ESPERIENZA IMMOBILIARE SICURA, VELOCE E PROFESSIONALE. STAI PENSANDO DI VENDERE CASA? CONTATTACI PER UNA VALUTAZIONE GRATUITA, PER I NOSTRI CLIENTI APE E RTI SONO COMPRESE NELL’INCARICO.\n\nPer Informazioni e Appuntamenti:\n\nImmobiliare Baiesi Sede: Via Repubblica 3/c, San Lazzaro di Savena (BO)\n\nTelefono: 051 455564 | 051 452708\n\nPrecedente\nPRECEDENTE\nQUADRILOCALE-FOSSOLO-BOLOGNA\nSUCCESSIVO\nVILLA BIFAMILIARE – SAN LAZZARO\nSuccessivo\nVia della Repubblica 3/C\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nVia della Repubblica 68\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nPrivacy Policy\nCookie Policy\nTermini e Condizioni\nFacebook-square\n \nInstagram\n \nYoutube\n\nCopyright 2017 © Immobiliare Baiesi - Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": null,
+    "mq": null,
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/bilocale-sanlazzaro.jpg",
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/bilocale-sanlazzaro-1024x768.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/bilocale-sanlazzaro.jpg"
+  },
+  {
+   "url": "https://immobiliarebaiesi.com/immobile/quadrilocale-fossolo-bologna/",
+   "title": "QUADRILOCALE-FOSSOLO-BOLOGNA - Immobiliare Baiesi",
+   "h1": "QUADRILOCALE-FOSSOLO-BOLOGNA",
+   "h2": [
+    "Vedi l'annuncio",
+    "Table of Contents"
+   ],
+   "ogTitle": "QUADRILOCALE-FOSSOLO-BOLOGNA - Immobiliare Baiesi",
+   "ogImage": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/brizzi2.jpg",
+   "ogDesc": "Quartiere Mazzini luminoso quadrilocale di 102 mq, posto al secondo e ultimo piano di una palazzina degli anni '65 (senza ascensore).",
+   "desc": "Quartiere Mazzini luminoso quadrilocale di 102 mq, posto al secondo e ultimo piano di una palazzina degli anni '65 (senza ascensore).",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/\",\"name\":\"QUADRILOCALE-FOSSOLO-BOLOGNA - Immobiliare Baiesi\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/brizzi2.jpg\",\"datePublished\":\"2026-10-12T12:49:19+00:00\",\"dateModified\":\"2026-10-12T12:57:51+00:00\",\"description\":\"Quartiere Mazzini luminoso quadrilocale di 102 mq, posto al secondo e ultimo piano di una palazzina degli anni '65 (senza ascensore).\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/brizzi2.jpg\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/brizzi2.jpg\",\"width\":1575,\"height\":1050,\"caption\":\"brizzi-quadrilocale-immobiliare-baiesi\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-fossolo-bologna\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"QUADRILOCALE-FOSSOLO-BOLOGNA\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"name\":\"Immobiliare Baiesi\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliarebaiesi.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\",\"name\":\"Immobiliare Baiesi\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"width\":1060,\"height\":595,\"caption\":\"Immobiliare Baiesi\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/studiobaiesi\",\"https:\\/\\/www.instagram.com\\/immobiliarebaiesidal1983\",\"https:\\/\\/www.youtube.com\\/channel\\/UCPo07yVhDz4OJlDtSa8eDSQ\\/videos\"]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/brizzi2-1024x683.jpg",
+     "w": 800,
+     "h": 533,
+     "rw": 800
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Immobiliare Baiesi propone nel cuore del quartiere Mazzini un luminoso appartamento quadrilocale di 102 mq, posto al secondo e ultimo piano di una palazzina degli anni ’65 (senza ascensore). L’edificio è stato recentemente oggetto di una completa riqualificazione energetica tramite Bonus 110%, con la realizzazione del cappotto termico esterno e l’installazione di infissi nuovi.",
+   "text": "Vai al contenuto\nHome\nChi siamo\nImmobili\nValutazioni Gratuite\nServizi tecnici catastali\nGallery\nBlog\nContatti\nAFFITTA LA TUA CASA\nVENDI LA TUA CASA\nQUADRILOCALE-FOSSOLO-BOLOGNA\nnel cuore del quartiere Mazzini un luminoso appartamento quadrilocale di 102 mq, posto al secondo e ultimo piano di una palazzina degli anni '65 (senza ascensore). L'edificio è stato recentemente oggetto di una completa riqualificazione energetica tramite Bonus 110%, con la realizzazione del cappotto termico esterno e l'installazione di infissi nuovi.\nVedi l'annuncio\n\nBOLOGNA MAZZINI – VIA F. BRIZZI | QUADRILOCALE 102 MQ CON BONUS 110%\n\nImmobiliare Baiesi propone nel cuore del quartiere Mazzini un luminoso appartamento quadrilocale di 102 mq, posto al secondo e ultimo piano di una palazzina degli anni ’65 (senza ascensore). L’edificio è stato recentemente oggetto di una completa riqualificazione energetica tramite Bonus 110%, con la realizzazione del cappotto termico esterno e l’installazione di infissi nuovi.\n\nL’immobile è composto da:\n\nAmpio ingresso.\n\nSoggiorno con cucinotto finestrato e accesso al balcone.\n\nTre camere da letto matrimoniali (di cui una attualmente adibita a salotto).\n\nBagno finestrato.\n\nAmpio ripostiglio.\n\nCaratteristiche tecniche e finiture:\n\nRiscaldamento autonomo con caldaia a condensazione.\n\nInfissi nuovi in PVC bianco con doppio vetro, ante a ribalta, microventilazione e tapparelle. Cancelletto di sicurezza sulla portafinestra del balcone.\n\nImpianti funzionanti.\n\nBasse spese condominiali.\n\nPertinenze e spazi accessori:\n\nCantina di circa 5 mq al piano terra.\n\nAutorimessa singola di 14 mq con bascula motorizzata, disponibile separatamente a € 25.000 al piano terra.\n\nContesto e ubicazione: La posizione è centrale ma particolarmente riservata, ideale per chi desidera vivere in un contesto tranquillo con tutti i servizi, i negozi, le scuole e i mezzi pubblici nelle immediate vicinanze.\n\nPer maggiori informazioni: Dal 1983, Immobiliare Baiesi è presente sul territorio di tutta la provincia Bolognese, con le sue sedi ubicate a San Lazzaro di Savena. Quarant’anni di attività ci hanno portato a diventare negli anni punto di riferimento immobiliare a San Lazzaro e in tutta Bologna.\n\nSIAMO AL TUO FIANCO PER UN’ESPERIENZA IMMOBILIARE SICURA, VELOCE E PROFESSIONALE. STAI PENSANDO DI VENDERE CASA? CONTATTACI PER UNA VALUTAZIONE GRATUITA, PER I NOSTRI CLIENTI APE E RTI SONO COMPRESE NELL’INCARICO.\n\nPrecedente\nPRECEDENTE\nQUADRILOCALE ELEGANTE SAN LAZZARO\nSUCCESSIVO\nBILOCALE – SAN LAZZARO DI SAVENA\nSuccessivo\nVia della Repubblica 3/C\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nVia della Repubblica 68\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nPrivacy Policy\nCookie Policy\nTermini e Condizioni\nFacebook-square\n \nInstagram\n \nYoutube\n\nCopyright 2017 © Immobiliare Baiesi - Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 25.000",
+    "mq": "102",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/brizzi2.jpg",
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/brizzi2-1024x683.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/brizzi2.jpg"
+  },
+  {
+   "url": "https://immobiliarebaiesi.com/immobile/quadrilocale-elegante-san-lazzaro/",
+   "title": "QUADRILOCALE ELEGANTE SAN LAZZARO - Immobiliare Baiesi",
+   "h1": "QUADRILOCALE ELEGANTE SAN LAZZARO",
+   "h2": [
+    "Vedi l'annuncio",
+    "Table of Contents"
+   ],
+   "ogTitle": "QUADRILOCALE ELEGANTE SAN LAZZARO - Immobiliare Baiesi",
+   "ogImage": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/cover-m-c.jpg",
+   "ogDesc": "Appartamento in vendita a Lazzaro di Savena, uminoso quadrilocale completamente ristrutturato, posto al terzo e ultimo piano",
+   "desc": "Appartamento in vendita a Lazzaro di Savena, uminoso quadrilocale completamente ristrutturato, posto al terzo e ultimo piano",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/\",\"name\":\"QUADRILOCALE ELEGANTE SAN LAZZARO - Immobiliare Baiesi\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/cover-m-c.jpg\",\"datePublished\":\"2026-10-10T16:31:39+00:00\",\"description\":\"Appartamento in vendita a Lazzaro di Savena, uminoso quadrilocale completamente ristrutturato, posto al terzo e ultimo piano\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/cover-m-c.jpg\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/10\\/cover-m-c.jpg\",\"width\":1024,\"height\":768},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-elegante-san-lazzaro\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"QUADRILOCALE ELEGANTE SAN LAZZARO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"name\":\"Immobiliare Baiesi\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliarebaiesi.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\",\"name\":\"Immobiliare Baiesi\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"width\":1060,\"height\":595,\"caption\":\"Immobiliare Baiesi\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/studiobaiesi\",\"https:\\/\\/www.instagram.com\\/immobiliarebaiesidal1983\",\"https:\\/\\/www.youtube.com\\/channel\\/UCPo07yVhDz4OJlDtSa8eDSQ\\/videos\"]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/cover-m-c.jpg",
+     "w": 800,
+     "h": 600,
+     "rw": 800
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "In una delle vie più signorili, tranquille e verdeggianti di San Lazzaro di Savena, Immobiliare Baiesi propone un luminoso quadrilocale completamente ristrutturato, posto al terzo e ultimo piano (senza ascensore) di una piccola palazzina degli anni '70, recentemente migliorata mediante coibentazione del tetto per una maggiore efficienza energetica.",
+   "text": "Vai al contenuto\nHome\nChi siamo\nImmobili\nValutazioni Gratuite\nServizi tecnici catastali\nGallery\nBlog\nContatti\nAFFITTA LA TUA CASA\nVENDI LA TUA CASA\nQUADRILOCALE ELEGANTE SAN LAZZARO\nIn una delle vie più signorili, tranquille e verdeggianti di San Lazzaro di Savena, Immobiliare Baiesi propone un luminoso quadrilocale completamente ristrutturato, posto al terzo e ultimo piano (senza ascensore) di una piccola palazzina degli anni '70, recentemente migliorata mediante coibentazione del tetto per una maggiore efficienza energetica.\nVedi l'annuncio\n\nSAN LAZZARO DI SAVENA – VIA SCORNETTA – ELEGANTE QUADRILOCALE 121 MQ\n\nIn una delle vie più signorili, tranquille e verdeggianti di San Lazzaro di Savena, Immobiliare Baiesi propone un luminoso quadrilocale completamente ristrutturato, posto al terzo e ultimo piano (senza ascensore) di una piccola palazzina degli anni ’70, recentemente migliorata mediante coibentazione del tetto per una maggiore efficienza energetica.\n\n​L’immobile è composto da:\n\n​Ingresso con pratica mensola svuotatasche.\n​Ampio soggiorno, suddiviso tra zona living e area pranzo, con accesso al balcone e capienti armadiature integrate (utilizzabili come ripostiglio e scarpiera) dotate di una funzionale postazione studio a scomparsa.\n​Cucina abitabile, collegata al soggiorno tramite due eleganti porte scorrevoli in vetro, impreziosita da una grande penisola centrale attrezzata con piano cottura a gas, lavello e piano snack con sgabelli, oltre a un secondo accesso al balcone.\n​Disimpegno notte.\n​Camera matrimoniale e bagno completo con doccia in muratura, lavanderia a scomparsa e rubinetteria di alta gamma.\n​Camera padronale (suite privata) con bagno riservato dotato di ampia vasca in muratura, parete in cristallo e soffione a pioggia, oltre a una spaziosa cabina armadio completamente attrezzata.\n\n​Caratteristiche tecniche e finiture:\n\n​Ristrutturazione completa con materiali e finiture di design.\n​Elegante parquet in teak asiatico.\n​Infissi in PVC e alluminio con doppi vetri, tapparelle motorizzate, zanzariere e cancelletti di sicurezza sugli accessi al balcone.\n​Riscaldamento centralizzato con termovalvole per la regolazione individuale dei consumi.\n​Aria condizionata canalizzata nel controsoffitto (con macchinari a risparmio energetico sostituiti due anni fa).\n​Impianti certificati all’epoca della ristrutturazione.\n\n​Pertinenze e spazi accessori:\n\n​Cantina di 8 mq al piano terra, piastrellata e finestrata.\n​Posto auto condominiale assegnato nell’area cortiliva recintata.\n​Ampia autorimessa di 19 mq, ideale per auto e moto, disponibile separatamente a € 30.000.\n\n​Contesto e ubicazione:\n\nLa posizione, riservata e immersa nel verde pubblico e condominiale, garantisce tranquillità senza rinunciare alla comodità di negozi, scuole, servizi e mezzi pubblici. Una soluzione pronta da abitare, ideale per chi ricerca eleganza, comfort e funzionalità in uno dei contesti residenziali più apprezzati di San Lazzaro di Savena.\n\n​Per maggiori informazioni o per organizzare una visita:\n\nContatta Immobiliare Baiesi.\n\n​IMMOBILIARE BAIESI – DAL 1983 AL VOSTRO FIANCO\n\nDal 1983 siamo un punto di riferimento nel mercato immobiliare di San Lazzaro di Savena, Bologna e provincia, offrendo esperienza, professionalità e conoscenza del territorio.\n\nPrecedente\nPRECEDENTE\nQUADRILOCALE-FUNO-ARGELATO\nSUCCESSIVO\nQUADRILOCALE-FOSSOLO-BOLOGNA\nSuccessivo\nVia della Repubblica 3/C\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nVia della Repubblica 68\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nPrivacy Policy\nCookie Policy\nTermini e Condizioni\nFacebook-square\n \nInstagram\n \nYoutube\n\nCopyright 2017 © Immobiliare Baiesi - Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 30.000.",
+    "mq": "121",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/cover-m-c.jpg",
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/cover-m-c.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/10/cover-m-c.jpg"
+  },
+  {
+   "url": "https://immobiliarebaiesi.com/immobile/quadrilocale-funo-argelato/",
+   "title": "QUADRILOCALE-FUNO-ARGELATO - Immobiliare Baiesi",
+   "h1": "QUADRILOCALE-FUNO-ARGELATO",
+   "h2": [
+    "Vedi l'annuncio",
+    "Table of Contents"
+   ],
+   "ogTitle": "QUADRILOCALE-FUNO-ARGELATO - Immobiliare Baiesi",
+   "ogImage": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/funo.jpg",
+   "ogDesc": "Funo di Argelato propone in vendita immobile al secondo piano composto da ingresso, soggiorno, cucina abitabile, 2 camere, bagno, 3 terrazzi.",
+   "desc": "Funo di Argelato propone in vendita immobile al secondo piano composto da ingresso, soggiorno, cucina abitabile, 2 camere, bagno, 3 terrazzi.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/\",\"name\":\"QUADRILOCALE-FUNO-ARGELATO - Immobiliare Baiesi\",\"isPartOf\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/funo.jpg\",\"datePublished\":\"2026-10-02T09:02:21+00:00\",\"dateModified\":\"2026-10-02T10:09:24+00:00\",\"description\":\"Funo di Argelato propone in vendita immobile al secondo piano composto da ingresso, soggiorno, cucina abitabile, 2 camere, bagno, 3 terrazzi.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/#primaryimage\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/funo.jpg\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2026\\/05\\/funo.jpg\",\"width\":1400,\"height\":1050,\"caption\":\"funo-argelato-appartamento-immobiliare-baiesi\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/quadrilocale-funo-argelato\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https:\\/\\/immobiliarebaiesi.com\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"QUADRILOCALE-FUNO-ARGELATO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#website\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"name\":\"Immobiliare Baiesi\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/immobiliarebaiesi.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#organization\",\"name\":\"Immobiliare Baiesi\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"contentUrl\":\"https:\\/\\/immobiliarebaiesi.com\\/wp-content\\/uploads\\/2022\\/01\\/logo-nero.png\",\"width\":1060,\"height\":595,\"caption\":\"Immobiliare Baiesi\"},\"image\":{\"@id\":\"https:\\/\\/immobiliarebaiesi.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/studiobaiesi\",\"https:\\/\\/www.instagram.com\\/immobiliarebaiesidal1983\",\"https:\\/\\/www.youtube.com\\/channel\\/UCPo07yVhDz4OJlDtSa8eDSQ\\/videos\"]}]}",
+   "imgs": [
+    {
+     "src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/funo-1024x768.jpg",
+     "w": 800,
+     "h": 600,
+     "rw": 800
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "Contesto e ubicazione: L’immobile è situato a Funo di Argelato, in una zona residenziale tranquilla e ben servita a nord di Bologna. La posizione è particolarmente comoda grazie alla vicinanza alla stazione ferroviaria di Funo–Centergross, alle fermate degli autobus e alle principali vie di collegamento con Bologna e i comuni limitrofi. Nelle immediate vicinanze sono disponibili negozi, supermercati, scuole, impianti sportivi e servizi di prima necessità. La presenza del Centergross e dell’Interporto rende la zona strategica per chi vi lavora, offrendo una soluzione ideale per chi desidera vivere in un contesto riservato mantenendo comodi collegamenti con la città.",
+   "text": "Vai al contenuto\nHome\nChi siamo\nImmobili\nValutazioni Gratuite\nServizi tecnici catastali\nGallery\nBlog\nContatti\nAFFITTA LA TUA CASA\nVENDI LA TUA CASA\nQUADRILOCALE-FUNO-ARGELATO\nImmobiliare Baiesi propone a Funo di Argelato propone in vendita immobile sito al secondo piano di piccolo condominio composto da ingresso, soggiorno, cucina abitabile, due camere, bagno, tre terrazzi. Possibilità di autorimessa con trattativa a parte.\nVedi l'annuncio\n\nImmobiliare Baiesi propone in vendita un immobile situato al secondo piano di un piccolo condominio. L’appartamento è composto da:\n\nIngresso\n\nSoggiorno\n\nCucina abitabile\n\nDue camere\n\nBagno\n\nTre terrazzi\n\nAutorimessa (con possibilità di trattativa a parte)\n\nCaratteristiche tecniche e ristrutturazione:\n\nImmobile recentemente ristrutturato con finiture di pregio.\n\nImpianti nuovi realizzati nel 2021, tra cui un impianto elettrico Smart.\n\nInfissi performanti con triplo vetro.\n\nPorta blindata gestibile da smartphone.\n\nImpianto di climatizzazione e riscaldamento autonomo.\n\nBasse spese condominiali.\n\nContesto e ubicazione: L’immobile è situato a Funo di Argelato, in una zona residenziale tranquilla e ben servita a nord di Bologna. La posizione è particolarmente comoda grazie alla vicinanza alla stazione ferroviaria di Funo–Centergross, alle fermate degli autobus e alle principali vie di collegamento con Bologna e i comuni limitrofi. Nelle immediate vicinanze sono disponibili negozi, supermercati, scuole, impianti sportivi e servizi di prima necessità. La presenza del Centergross e dell’Interporto rende la zona strategica per chi vi lavora, offrendo una soluzione ideale per chi desidera vivere in un contesto riservato mantenendo comodi collegamenti con la città.\n\nPer maggiori informazioni: Dal 1983, Immobiliare Baiesi è presente sul territorio di tutta la provincia Bolognese, con le sue sedi ubicate a San Lazzaro di Savena. Quarant’anni di attività ci hanno portato a diventare negli anni punto di riferimento immobiliare a San Lazzaro e in tutta Bologna.\n\nSIAMO AL TUO FIANCO PER UN’ESPERIENZA IMMOBILIARE SICURA, VELOCE E PROFESSIONALE. STAI PENSANDO DI VENDERE CASA? CONTATTACI PER UNA VALUTAZIONE GRATUITA. PER I NOSTRI CLIENTI APE E RTI SONO COMPRESE NELL’INCARICO.\n\nPer ricevere ulteriori informazioni o per concordare un sopralluogo all’immobile, vi invitiamo a contattare i nostri uffici.\n\nPrecedente\nPRECEDENTE\nAPPARTAMENTO CERETOLO – CASALECCHIO DI RENO\nSUCCESSIVO\nQUADRILOCALE ELEGANTE SAN LAZZARO\nSuccessivo\nVia della Repubblica 3/C\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nVia della Repubblica 68\n40068 San Lazzaro di Savena (BO)\nTelefono: 051 455564 - 051 452708\nFax: 051 452708\ninfo@immobiliarebaiesi.com\nstudiobaiesi@libero.it\nPrivacy Policy\nCookie Policy\nTermini e Condizioni\nFacebook-square\n \nInstagram\n \nYoutube\n\nCopyright 2017 © Immobiliare Baiesi - Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": null,
+    "mq": null,
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/funo.jpg",
+    "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/funo-1024x768.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://immobiliarebaiesi.com/wp-content/uploads/2026/05/funo.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://immobiliarebaiesi.com/wp-content/uploads/2022/01/logo-nero-1024x575.png",
+  "size": 58574
+ }
+}

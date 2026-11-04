@@ -1,0 +1,580 @@
+{
+ "cfg": {
+  "slug": "riccardo-naldi",
+  "nome": "Riccardo Naldi Immobiliare",
+  "home": "https://www.riccardonaldi.com/",
+  "index": [
+   "https://www.riccardonaldi.com/immobili.html"
+  ],
+  "rx": "/(vendita|affitto)/[^/]+/[^/]+/[^/]+/[0-9]+[.]html",
+  "n": 6
+ },
+ "home": {
+  "title": "Case in vendita e in affitto a Bologna e provincia | Riccardo Naldi Immobiliare",
+  "desc": "Riccardo Naldi Immobiliare, immobili in vendita e in affitto a Bologna e provincia. Scopri tutte le nostre proposte.",
+  "emails": [
+   "naldi@riccardonaldi.com",
+   "grassani@riccardonaldi.com",
+   "info@riccardonaldi.com"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Roboto, -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "header": null,
+  "footer": null,
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Roboto, -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Roboto, -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "btnBg": [],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    140
+   ],
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(216, 199, 163)",
+    2
+   ],
+   [
+    "rgb(231, 231, 232)",
+    1
+   ],
+   [
+    "rgb(0, 55, 64)",
+    1
+   ],
+   [
+    "rgb(112, 48, 49)",
+    1
+   ],
+   [
+    "rgb(127, 130, 123)",
+    1
+   ],
+   [
+    "rgb(247, 247, 247)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(51, 51, 51)",
+    6
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(51, 51, 51)",
+    22
+   ],
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgb(0, 123, 255)",
+    7
+   ]
+  ],
+  "fonts": [
+   [
+    "Roboto, -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    63
+   ]
+  ],
+  "heads": [
+   "Venticinque anni di esperienza",
+   "I nostri agenti",
+   "Il nostro blog",
+   "Informativa"
+  ],
+  "addr": null,
+  "final": "https://www.riccardonaldi.com/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.riccardonaldi.com/vendita/villetta-di-testa/bologna/fossolo/999396.html",
+  "https://www.riccardonaldi.com/vendita/attico/bologna/colli-murri/996518.html",
+  "https://www.riccardonaldi.com/vendita/attico/bologna/colli-murri/999397.html",
+  "https://www.riccardonaldi.com/affitto/monolocale/bologna/irnerio/1000105.html",
+  "https://www.riccardonaldi.com/vendita/appartamento/bologna/mazzini/999390.html",
+  "https://www.riccardonaldi.com/vendita/villa-indipendente/san-lazzaro/pizzocalvo/76349.html",
+  "https://www.riccardonaldi.com/vendita/appartamento/san-lazzaro/san-lazzaro/1000060.html",
+  "https://www.riccardonaldi.com/vendita/negozio/san-lazzaro/san-lazzaro/999394.html"
+ ],
+ "listings": [
+  {
+   "url": "https://www.riccardonaldi.com/vendita/villetta-di-testa/bologna/fossolo/999396.html",
+   "title": "Villetta Di Testa in Vendita a Bologna Fossolo | Riccardo Naldi immobiliare",
+   "h1": null,
+   "h2": [
+    "Villetta Di Testa in Vendita a Bologna Fossolo",
+    "Annuncio",
+    "Dettagli",
+    "Mappa",
+    "Richiedi informazioni",
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Villetta  Di Testa in Vendita a Bologna Fossolo. Scopri tutte le proposte di Riccardo Naldi Immobiliare.",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    },
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    }
+   ],
+   "bgs": [
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_999396_20260904_163628_9258.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192122_8502.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_7819.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_6656.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192125_2953.jpg",
+    "images/riccardo-naldi-immobiliare.png"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_999396_20260904_163628_9258.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192122_8502.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_7819.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_6656.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192125_2953.jpg"
+   ],
+   "descBlock": "Zona Fossolo con giardino e terrazze. In interno silenzioso, porzione cielo terra di 220 mq di recente costruzione, circondata da giardino e cortile di proprietà. Al piano terra luminosa zona giorno costituita da ingresso, salone, cucina e bagno. Zona notte ai piani superiori con 3 camere, terrazza e 2 bagni, salone/studio mansardato con terrazza ad asola di 25mq. Tavernetta con camino e lavanderia. Possibilità garage singolo o doppio con accesso diretto all'appartamento. Riscaldamento autonomo",
+   "text": "HOME CERCA CASA VENDI CASA CHI SIAMO CONTATTI\nVilletta Di Testa in Vendita a Bologna Fossolo\n CONDIVIDI  INDIETRO\n4 CAMERE 225 MQ\n€ 755.000\nFoto N. 1\nFoto N. 2\nFoto N. 3\nFoto N. 4\nFoto N. 5\nGUARDA TUTTE LE FOTO E LE PLANIMETRIE\nAnnuncio\n\nZona Fossolo con giardino e terrazze. In interno silenzioso, porzione cielo terra di 220 mq di recente costruzione, circondata da giardino e cortile di proprietà. Al piano terra luminosa zona giorno costituita da ingresso, salone, cucina e bagno. Zona notte ai piani superiori con 3 camere, terrazza e 2 bagni, salone/studio mansardato con terrazza ad asola di 25mq. Tavernetta con camino e lavanderia. Possibilità garage singolo o doppio con accesso diretto all'appartamento. Riscaldamento autonomo\n\n GUARDA TUTTE LE FOTO E LE PLANIMETRIE\nDettagli\nTIPOLOGIA\nVilletta Di Testa\nPIANO\nTerra cielo\nMETRI QUADRI\n225\nCAMERE\n4\nMappa\nRichiedi informazioni\nRiccardo Naldi Immobiliare\ninfo@riccardonaldi.com\n 051 2788003\n CONTATTACI\nRiccardo Naldi Immobiliare\nPiazza San Domenico 4\n40124 Bologna\n051 2788003\nricerche\nCerca casa su mappa\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nImmobili in vendita in centro\nricerche\nImmobili di pregio\nVille e appartamenti con giardino\nAppartamenti con balcone e terrazzo\nservizi\nBlog\nIl nostro ufficio\nI nostri valori\nCome vendere casa\nCome comprare casa\nValuta il tuo immobile\nPrivacy policy - Credits - Informativa estesa sull'uso dei cookie\n© Riccardo Naldi Immobiliare s.r.l. P.iva 03008101200 - All Rights Reserved. 2026",
+   "parsed": {
+    "prezzo": "€ 755.000",
+    "mq": "225",
+    "locali": null,
+    "camere": "4",
+    "bagni": "2",
+    "piano": "Terra cielo",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_999396_20260904_163628_9258.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192122_8502.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_7819.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_6656.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192125_2953.jpg",
+    "https://www.riccardonaldi.com/vendita/villetta-di-testa/bologna/fossolo/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_999396_20260904_163628_9258.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192122_8502.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_7819.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192124_6656.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999396_RNI_993831_20251004_192125_2953.jpg"
+   ],
+   "foto": "foto-1.png",
+   "foto_src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  },
+  {
+   "url": "https://www.riccardonaldi.com/vendita/attico/bologna/colli-murri/996518.html",
+   "title": "Attico in Vendita a Bologna Colli Murri | Riccardo Naldi immobiliare",
+   "h1": null,
+   "h2": [
+    "Attico in Vendita a Bologna Colli Murri",
+    "Annuncio",
+    "Dettagli",
+    "Mappa",
+    "Richiedi informazioni",
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Attico in Vendita a Bologna Colli Murri. Scopri tutte le proposte di Riccardo Naldi Immobiliare.",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    },
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    }
+   ],
+   "bgs": [
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175519_4598.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175516_4308.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_928156_20250504_121831_5751.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175659_7109.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_995171_20251104_175651_7552.jpg",
+    "images/riccardo-naldi-immobiliare.png"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175519_4598.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175516_4308.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_928156_20250504_121831_5751.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175659_7109.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_995171_20251104_175651_7552.jpg"
+   ],
+   "descBlock": "Murri collinare con terrazza.In palazzina rinnovata con efficientamento energetico e realizzazione di ascensore, libero appartamento ultimo piano su due livelli per totali 135 mq con terrazza in falda affacciata sui colli. Appartamento nuovo composto da: ampio ingresso, salone con cucina a vista e balcone con affaccio sui colli, 2 camere matrimoniali e 2 bagni. Una bella scala porta dal salone al piano mansarda dove si apre un bellissimo ambiente con travi a vista, dotato di bagno e lavanderia, affacciato sulla terrazza panoramica. Riscaldamento autonomo a pavimento e condizionamento. Cantina grande",
+   "text": "HOME CERCA CASA VENDI CASA CHI SIAMO CONTATTI\nAttico in Vendita a Bologna Colli Murri\n CONDIVIDI  INDIETRO\n3 CAMERE 135 MQ\n€ 950.000\nFoto N. 1\nFoto N. 2\nFoto N. 3\nFoto N. 4\nFoto N. 5\nGUARDA TUTTE LE FOTO E LE PLANIMETRIE\nAnnuncio\n\nMurri collinare con terrazza.In palazzina rinnovata con efficientamento energetico e realizzazione di ascensore, libero appartamento ultimo piano su due livelli per totali 135 mq con terrazza in falda affacciata sui colli. Appartamento nuovo composto da: ampio ingresso, salone con cucina a vista e balcone con affaccio sui colli, 2 camere matrimoniali e 2 bagni. Una bella scala porta dal salone al piano mansarda dove si apre un bellissimo ambiente con travi a vista, dotato di bagno e lavanderia, affacciato sulla terrazza panoramica. Riscaldamento autonomo a pavimento e condizionamento. Cantina grande\n\n GUARDA TUTTE LE FOTO E LE PLANIMETRIE\nDettagli\nTIPOLOGIA\nAttico\nPIANO\n3* su rialzato\nMETRI QUADRI\n135\nCAMERE\n3\n Condizionamento\n Ascensore\n Riscaldamento autonomo\nMappa\nRichiedi informazioni\nRiccardo Naldi Immobiliare\ninfo@riccardonaldi.com\n 051 2788003\n CONTATTACI\nRiccardo Naldi Immobiliare\nPiazza San Domenico 4\n40124 Bologna\n051 2788003\nricerche\nCerca casa su mappa\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nImmobili in vendita in centro\nricerche\nImmobili di pregio\nVille e appartamenti con giardino\nAppartamenti con balcone e terrazzo\nservizi\nBlog\nIl nostro ufficio\nI nostri valori\nCome vendere casa\nCome comprare casa\nValuta il tuo immobile\nPrivacy policy - Credits - Informativa estesa sull'uso dei cookie\n© Riccardo Naldi Immobiliare s.r.l. P.iva 03008101200 - All Rights Reserved. 2026",
+   "parsed": {
+    "prezzo": "€ 950.000",
+    "mq": "135",
+    "locali": null,
+    "camere": "3",
+    "bagni": "2",
+    "piano": "3* su rialzato",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175519_4598.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175516_4308.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_928156_20250504_121831_5751.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175659_7109.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_995171_20251104_175651_7552.jpg",
+    "https://www.riccardonaldi.com/vendita/attico/bologna/colli-murri/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175519_4598.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175516_4308.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_928156_20250504_121831_5751.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_993249_20251004_175659_7109.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_995171_20251104_175651_7552.jpg"
+   ],
+   "foto": "foto-2.png",
+   "foto_src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  },
+  {
+   "url": "https://www.riccardonaldi.com/vendita/attico/bologna/colli-murri/999397.html",
+   "title": "Attico in Vendita a Bologna Colli Murri | Riccardo Naldi immobiliare",
+   "h1": null,
+   "h2": [
+    "Attico in Vendita a Bologna Colli Murri",
+    "Annuncio",
+    "Dettagli",
+    "Mappa",
+    "Richiedi informazioni",
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Attico in Vendita a Bologna Colli Murri. Scopri tutte le proposte di Riccardo Naldi Immobiliare.",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    },
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    }
+   ],
+   "bgs": [
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175653_365.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_4855.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_9079.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_4105.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_5571.jpg",
+    "images/riccardo-naldi-immobiliare.png"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175653_365.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_4855.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_9079.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_4105.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_5571.jpg"
+   ],
+   "descBlock": "Via Bellacosta attico con terrazza. In palazzina rinnovata con efficientamento energetico e realizzazione di ascensore, libero attico su due livelli per totali 135 mq . Appartamento nuovo: ampio ingresso, salone con cucina a vista e balcone, 2 camere matrimoniali e 2 bagni. Ampia mansarda con travi a vista, dotata di bagno e lavanderia, affacciata sulla terrazza panoramica. Risc. a pavimento e condiz. Cantina grande",
+   "text": "HOME CERCA CASA VENDI CASA CHI SIAMO CONTATTI\nAttico in Vendita a Bologna Colli Murri\n CONDIVIDI  INDIETRO\n3 CAMERE 135 MQ\n€ 950.000\nFoto N. 1\nFoto N. 2\nFoto N. 3\nFoto N. 4\nFoto N. 5\nGUARDA TUTTE LE FOTO E LE PLANIMETRIE\nAnnuncio\n\nVia Bellacosta attico con terrazza. In palazzina rinnovata con efficientamento energetico e realizzazione di ascensore, libero attico su due livelli per totali 135 mq . Appartamento nuovo: ampio ingresso, salone con cucina a vista e balcone, 2 camere matrimoniali e 2 bagni. Ampia mansarda con travi a vista, dotata di bagno e lavanderia, affacciata sulla terrazza panoramica. Risc. a pavimento e condiz. Cantina grande\n\n GUARDA TUTTE LE FOTO E LE PLANIMETRIE\nDettagli\nTIPOLOGIA\nAttico\nPIANO\n3* su rialzato\nMETRI QUADRI\n135\nCAMERE\n3\n Condizionamento\n Ascensore\n Riscaldamento autonomo\nMappa\nRichiedi informazioni\nRiccardo Naldi Immobiliare\ninfo@riccardonaldi.com\n 051 2788003\n CONTATTACI\nRiccardo Naldi Immobiliare\nPiazza San Domenico 4\n40124 Bologna\n051 2788003\nricerche\nCerca casa su mappa\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nImmobili in vendita in centro\nricerche\nImmobili di pregio\nVille e appartamenti con giardino\nAppartamenti con balcone e terrazzo\nservizi\nBlog\nIl nostro ufficio\nI nostri valori\nCome vendere casa\nCome comprare casa\nValuta il tuo immobile\nPrivacy policy - Credits - Informativa estesa sull'uso dei cookie\n© Riccardo Naldi Immobiliare s.r.l. P.iva 03008101200 - All Rights Reserved. 2026",
+   "parsed": {
+    "prezzo": "€ 950.000",
+    "mq": "135",
+    "locali": null,
+    "camere": "3",
+    "bagni": "2",
+    "piano": "3* su rialzato",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175653_365.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_4855.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_9079.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_4105.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_5571.jpg",
+    "https://www.riccardonaldi.com/vendita/attico/bologna/colli-murri/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175653_365.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_4855.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_995171_20251104_175652_9079.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_4105.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999397_RNI_993249_20251004_175514_5571.jpg"
+   ],
+   "foto": "foto-3.png",
+   "foto_src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  },
+  {
+   "url": "https://www.riccardonaldi.com/affitto/monolocale/bologna/irnerio/1000105.html",
+   "title": "Monolocale in Affitto a Bologna Irnerio | Riccardo Naldi immobiliare",
+   "h1": null,
+   "h2": [
+    "Monolocale in Affitto a Bologna Irnerio",
+    "Annuncio",
+    "Dettagli",
+    "Mappa",
+    "Richiedi informazioni",
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Monolocale in Affitto a Bologna Irnerio. Scopri tutte le proposte di Riccardo Naldi Immobiliare.",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    },
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    }
+   ],
+   "bgs": [
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_154.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_4014.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_4291.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_9577.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084027_5957.jpg",
+    "images/riccardo-naldi-immobiliare.png"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_154.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_4014.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_4291.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_9577.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084027_5957.jpg"
+   ],
+   "descBlock": "Via Irnerio zona universitaria ( via Centotrento) Monolocale in condominio con ascensore, la casa è completamente arredata, dorata di aria condizionata e lavatrice e riscaldamento autonomo. Spese condominiali 40/ mese. Per maggiori informazioni +393357258367",
+   "text": "HOME CERCA CASA VENDI CASA CHI SIAMO CONTATTI\nMonolocale in Affitto a Bologna Irnerio\n CONDIVIDI  INDIETRO\n0 CAMERE 35 MQ\n€ 750\nFoto N. 1\nFoto N. 2\nFoto N. 3\nFoto N. 4\nFoto N. 5\nGUARDA TUTTE LE FOTO E LE PLANIMETRIE\nAnnuncio\n\nVia Irnerio zona universitaria ( via Centotrento) Monolocale in condominio con ascensore, la casa è completamente arredata, dorata di aria condizionata e lavatrice e riscaldamento autonomo. Spese condominiali 40/ mese. Per maggiori informazioni +393357258367\n\n GUARDA TUTTE LE FOTO E LE PLANIMETRIE\nDettagli\nTIPOLOGIA\nMonolocale\nPIANO\nTerra\nMETRI QUADRI\n35\nCAMERE\n0\n Condizionamento\nMappa\nRichiedi informazioni\nRiccardo Naldi Immobiliare\ninfo@riccardonaldi.com\n 051 2788003\n CONTATTACI\nRiccardo Naldi Immobiliare\nPiazza San Domenico 4\n40124 Bologna\n051 2788003\nricerche\nCerca casa su mappa\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nImmobili in vendita in centro\nricerche\nImmobili di pregio\nVille e appartamenti con giardino\nAppartamenti con balcone e terrazzo\nservizi\nBlog\nIl nostro ufficio\nI nostri valori\nCome vendere casa\nCome comprare casa\nValuta il tuo immobile\nPrivacy policy - Credits - Informativa estesa sull'uso dei cookie\n© Riccardo Naldi Immobiliare s.r.l. P.iva 03008101200 - All Rights Reserved. 2026",
+   "parsed": {
+    "prezzo": "€ 750",
+    "mq": "35",
+    "locali": null,
+    "camere": "0",
+    "bagni": null,
+    "piano": "Terra",
+    "classe_energetica": null,
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_154.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_4014.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_4291.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_9577.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084027_5957.jpg",
+    "https://www.riccardonaldi.com/affitto/monolocale/bologna/irnerio/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_154.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084025_4014.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_4291.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084026_9577.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/RNI_1000105_20261005_084027_5957.jpg"
+   ],
+   "foto": "foto-4.png",
+   "foto_src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  },
+  {
+   "url": "https://www.riccardonaldi.com/vendita/appartamento/bologna/mazzini/999390.html",
+   "title": "Appartamento in Vendita a Bologna Mazzini | Riccardo Naldi immobiliare",
+   "h1": null,
+   "h2": [
+    "Appartamento in Vendita a Bologna Mazzini",
+    "Annuncio",
+    "Dettagli",
+    "Mappa",
+    "Richiedi informazioni",
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a Bologna Mazzini. Scopri tutte le proposte di Riccardo Naldi Immobiliare.",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    },
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    }
+   ],
+   "bgs": [
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162343_3486.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_1442.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_1432.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_6388.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_784.jpg",
+    "images/riccardo-naldi-immobiliare.png"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162343_3486.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_1442.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_1432.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_6388.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_784.jpg"
+   ],
+   "descBlock": "Via Mazzini mansarda con terrazza Porta Mazzini in palazzo elegante inizio 900, mansarda luminosissima e silenziosissima con sfiziosa terrazza ad asola. Ingresso su soggiorno con terrazza, cucinotto, ampia camera, bagno e ripostigli che sfruttano anche le parti più basse. Risc. aut. ed impianto di condizionamento. Cantina.",
+   "text": "HOME CERCA CASA VENDI CASA CHI SIAMO CONTATTI\nAppartamento in Vendita a Bologna Mazzini\n CONDIVIDI  INDIETRO\n1 CAMERE 54 MQ\n€ 248.000\nFoto N. 1\nFoto N. 2\nFoto N. 3\nFoto N. 4\nFoto N. 5\nGUARDA TUTTE LE FOTO E LE PLANIMETRIE\nAnnuncio\n\nVia Mazzini mansarda con terrazza Porta Mazzini in palazzo elegante inizio 900, mansarda luminosissima e silenziosissima con sfiziosa terrazza ad asola. Ingresso su soggiorno con terrazza, cucinotto, ampia camera, bagno e ripostigli che sfruttano anche le parti più basse. Risc. aut. ed impianto di condizionamento. Cantina.\n\n GUARDA TUTTE LE FOTO E LE PLANIMETRIE\nDettagli\nTIPOLOGIA\nAppartamento\nPIANO\n3*\nMETRI QUADRI\n54\nCAMERE\n1\n Condizionamento\n Riscaldamento autonomo\nMappa\nRichiedi informazioni\nRiccardo Naldi Immobiliare\ninfo@riccardonaldi.com\n 051 2788003\n CONTATTACI\nRiccardo Naldi Immobiliare\nPiazza San Domenico 4\n40124 Bologna\n051 2788003\nricerche\nCerca casa su mappa\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nImmobili in vendita in centro\nricerche\nImmobili di pregio\nVille e appartamenti con giardino\nAppartamenti con balcone e terrazzo\nservizi\nBlog\nIl nostro ufficio\nI nostri valori\nCome vendere casa\nCome comprare casa\nValuta il tuo immobile\nPrivacy policy - Credits - Informativa estesa sull'uso dei cookie\n© Riccardo Naldi Immobiliare s.r.l. P.iva 03008101200 - All Rights Reserved. 2026",
+   "parsed": {
+    "prezzo": "€ 248.000",
+    "mq": "54",
+    "locali": null,
+    "camere": "1",
+    "bagni": null,
+    "piano": "3*",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162343_3486.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_1442.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_1432.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_6388.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_784.jpg",
+    "https://www.riccardonaldi.com/vendita/appartamento/bologna/mazzini/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162343_3486.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_1442.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_1432.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162344_6388.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/999390_7RNI_150288_20200504_162345_784.jpg"
+   ],
+   "foto": "foto-5.png",
+   "foto_src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  },
+  {
+   "url": "https://www.riccardonaldi.com/vendita/villa-indipendente/san-lazzaro/pizzocalvo/76349.html",
+   "title": "Villa Indipendente in Vendita a San Lazzaro di Savena Pizzocalvo | Riccardo Naldi immobiliare",
+   "h1": null,
+   "h2": [
+    "Villa Indipendente in Vendita a San Lazzaro di Savena Pizzocalvo",
+    "Annuncio",
+    "Dettagli",
+    "Mappa",
+    "Richiedi informazioni",
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Villa Indipendente in Vendita a San Lazzaro di Savena Pizzocalvo. Scopri tutte le proposte di Riccardo Naldi Immobiliare.",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    },
+    {
+     "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+     "w": 877,
+     "h": 884,
+     "rw": 101.1875
+    }
+   ],
+   "bgs": [
+    "https://www.neox-rms.com/public2/RNI/foto/cp_R_RNI_69289_20150506_125820_578.JPG",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160551_60619.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160619_60619.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_R_RNI_69289_20150506_125820_797.JPG",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_R_RNI_69289_20150506_125820_483.JPG",
+    "images/riccardo-naldi-immobiliare.png"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160551_60619.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160619_60619.jpg"
+   ],
+   "descBlock": "Pizzocalvo villa sulle colline di Idice in posizione totalmente solitaria immersa nella campagna, restauro conservativo di colonico di 550 mq frazionabile. Grande giardino circostante e possibilità di acquistare terreno agricolo circostante Euro 1.100.000",
+   "text": "HOME CERCA CASA VENDI CASA CHI SIAMO CONTATTI\nVilla Indipendente in Vendita a San Lazzaro di Savena Pizzocalvo\n CONDIVIDI  INDIETRO\nCAMERE 450 MQ\n€ 1.100.000\nFoto N. 1\nFoto N. 2\nFoto N. 3\nFoto N. 4\nFoto N. 5\nGUARDA TUTTE LE FOTO E LE PLANIMETRIE\nAnnuncio\n\nPizzocalvo villa sulle colline di Idice in posizione totalmente solitaria immersa nella campagna, restauro conservativo di colonico di 550 mq frazionabile. Grande giardino circostante e possibilità di acquistare terreno agricolo circostante Euro 1.100.000\n\n GUARDA TUTTE LE FOTO E LE PLANIMETRIE\nDettagli\nTIPOLOGIA\nVilla Indipendente\nPIANO\nTerra cielo\nMETRI QUADRI\n450\nCAMERE\nMappa\nRichiedi informazioni\nRiccardo Naldi Immobiliare\ninfo@riccardonaldi.com\n 051 2788003\n CONTATTACI\nRiccardo Naldi Immobiliare\nPiazza San Domenico 4\n40124 Bologna\n051 2788003\nricerche\nCerca casa su mappa\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nImmobili in vendita in centro\nricerche\nImmobili di pregio\nVille e appartamenti con giardino\nAppartamenti con balcone e terrazzo\nservizi\nBlog\nIl nostro ufficio\nI nostri valori\nCome vendere casa\nCome comprare casa\nValuta il tuo immobile\nPrivacy policy - Credits - Informativa estesa sull'uso dei cookie\n© Riccardo Naldi Immobiliare s.r.l. P.iva 03008101200 - All Rights Reserved. 2026",
+   "parsed": {
+    "prezzo": "€ 1.100.000",
+    "mq": "450",
+    "locali": null,
+    "camere": "450 MQ",
+    "bagni": null,
+    "piano": "Terra cielo",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_R_RNI_69289_20150506_125820_578.JPG",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160551_60619.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160619_60619.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_R_RNI_69289_20150506_125820_797.JPG",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_R_RNI_69289_20150506_125820_483.JPG",
+    "https://www.riccardonaldi.com/vendita/villa-indipendente/san-lazzaro/pizzocalvo/images/riccardo-naldi-immobiliare.png",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160551_60619.jpg",
+    "https://www.neox-rms.com/public2/RNI/foto/cp_cp_cp_09112012160619_60619.jpg"
+   ],
+   "foto": "foto-6.png",
+   "foto_src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.riccardonaldi.com/images/riccardo-naldi-immobiliare.png",
+  "size": 177126
+ }
+}

@@ -1,0 +1,738 @@
+{
+ "cfg": {
+  "slug": "la-soffitta",
+  "nome": "La Soffitta Agenzia Immobiliare",
+  "home": "https://lasoffittaimmobiliare.com/",
+  "index": [
+   "https://lasoffittaimmobiliare.com/vendita/",
+   "https://lasoffittaimmobiliare.com/affitto/"
+  ],
+  "rx": "/(vendita|affitto)/[^/]+/(bologna|casalecchio|sasso-marconi|san-lazzaro|zola-predosa|anzola|castel-maggiore|pianoro|marzabotto)/[^/]+/[0-9]+[.]html",
+  "n": 6,
+  "contact": "https://lasoffittaimmobiliare.com/contatti.php"
+ },
+ "home": {
+  "title": "La Soffitta Agenzia Immobiliare Bologna | Vendita Affitto Londra",
+  "desc": "La Soffitta Agenzia Immobiliare, a Bologna tra le più apprezzate e qualificate agenzie immobiliari per la vendita e l'affitto di immobili residenziali, di lusso e commerciali nella zona di Bologna e provincia - Scopri tutte le nostre proposte in vendita e in affitto",
+  "emails": [
+   "info@lasoffittaimmobiliare.com"
+  ],
+  "tels": [],
+  "logos": [
+   "https://lasoffittaimmobiliare.com/img/la-soffitta-studio-immobiliare-4.jpg",
+   "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
+   "https://lasoffittaimmobiliare.com/img/la-soffitta-immobiliare-bologna.gif",
+   "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
+   "https://lasoffittaimmobiliare.com/img/bandiera-ita.gif",
+   "https://lasoffittaimmobiliare.com/img/bandiera-eng.gif"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(50, 50, 50)",
+   "font": "\"Source Sans Pro\", sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(50, 50, 50)",
+   "font": "\"Source Sans Pro\", sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(34, 34, 34)",
+   "color": "rgb(111, 114, 115)",
+   "font": "\"Source Sans Pro\", sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"Source Sans Pro\", sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(214, 177, 97)",
+   "font": "\"Source Sans Pro\", sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgb(214, 177, 97)",
+    5
+   ],
+   [
+    "rgb(34, 34, 34)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    189
+   ],
+   [
+    "rgb(255, 255, 255)",
+    6
+   ],
+   [
+    "rgb(34, 34, 34)",
+    3
+   ],
+   [
+    "rgb(214, 177, 97)",
+    3
+   ],
+   [
+    "rgba(10, 10, 10, 0.5)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.3)",
+    1
+   ],
+   [
+    "rgb(245, 245, 245)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(51, 51, 51)",
+    10
+   ],
+   [
+    "rgb(34, 34, 34)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(214, 177, 97)",
+    2
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(214, 177, 97)",
+    15
+   ],
+   [
+    "rgb(162, 162, 162)",
+    15
+   ],
+   [
+    "rgb(51, 51, 51)",
+    9
+   ],
+   [
+    "rgb(34, 34, 34)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(102, 102, 102)",
+    1
+   ],
+   [
+    "rgb(212, 0, 0)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Source Sans Pro\", sans-serif",
+    100
+   ]
+  ],
+  "heads": [
+   "PENSA IN GRANDE",
+   "LE NOSTRE PROPOSTE ESCLUSIVE A LONDRA",
+   "BARRATT HOMES",
+   "BARRATT HOMES",
+   "Informativa"
+  ],
+  "addr": "Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 -",
+  "final": "https://lasoffittaimmobiliare.com/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://lasoffittaimmobiliare.com/contatti.php",
+  "emails": [
+   "info@lasoffittaimmobiliare.com"
+  ],
+  "tels": [],
+  "addr": "Via Andrea Costa 67/B - 40134 Bologna"
+ },
+ "candidates": [
+  "https://lasoffittaimmobiliare.com/vendita/capannone/sasso-marconi/tutto-il-comune/921430.html",
+  "https://lasoffittaimmobiliare.com/affitto/negozio/bologna/centro-storico/996567.html",
+  "https://lasoffittaimmobiliare.com/vendita/villa-bifamiliare/sasso-marconi/tutto-il-comune/996574.html",
+  "https://lasoffittaimmobiliare.com/affitto/ufficio/bologna/massarenti/996811.html",
+  "https://lasoffittaimmobiliare.com/vendita/capannone/sasso-marconi/tutto-il-comune/996812.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/casa-indipendente/marzabotto/tutto-il-comune/927848.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/villa-indipendente/marzabotto/tutto-il-comune/927853.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/appartamento/marzabotto/tutto-il-comune/994762.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/villa-bifamiliare/sasso-marconi/tutto-il-comune/996574.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/appartamento/sasso-marconi/tutto-il-comune/997129.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/bifamiliare-porzione/marzabotto/tutto-il-comune/997162.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/appartamento/marzabotto/tutto-il-comune/997427.html",
+  "https://www.lasoffittaimmobiliare.com/vendita/appartamento/marzabotto/tutto-il-comune/997563.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/bologna/costa/60361.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/marzabotto/tutto-il-comune/998968.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/camera-singola-doppia/bologna/lame/999060.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/camera-singola-doppia/bologna/lame/999113.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/marzabotto/tutto-il-comune/999276.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/bologna/murri/999574.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/bologna/murri/999576.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/bilocale/bologna/saragozza/999583.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/bilocale/bologna/mazzini/999683.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/camera-singola-doppia/bologna/saffi/999792.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/camera-singola-doppia/bologna/saffi/999793.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/bilocale/bologna/zanardi/999824.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/bilocale/bologna/san-felice/999825.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/bologna/saragozza/1000100.html",
+  "https://www.lasoffittaimmobiliare.com/affitto/appartamento/bologna/toscana/1000137.html"
+ ],
+ "listings": [
+  {
+   "url": "https://lasoffittaimmobiliare.com/vendita/capannone/sasso-marconi/tutto-il-comune/921430.html",
+   "title": "Capannone in Vendita a Sasso Marconi - Rif. SOF083 | La Soffitta",
+   "h1": "CAPANNONE IN VENDITA SASSO MARCONI",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg",
+   "ogDesc": null,
+   "desc": "Capannone in Vendita a Sasso Marconi  - Rif. SOF083 - € 280.000 - Scopri tutte le proposte di La Soffitta Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_1114.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_4265.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_7117.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2003.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2016.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_1114.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_4265.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_7117.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2003.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2016.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_8418.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_6120.jpg"
+   ],
+   "descBlock": "BORGONUOVO in posizione di ottima visibilità dalla Porrettana vendiamo capannone di circa 600 mq con annesso laboratorio di falegnameria di 250 mq. Completa la proprietà un area esterna molto vasta di circa 2000 mq. Attualmente i locali sono adibiti a falegnameria molto conosciuta perchè attiva dagli anni 80'. Attualmente si può comprare l'immobile o l'attività dietro il corrispettivo di un affitto da concordare. Chiaramente la formula più gradita è l'acquisto dell'immobile che può essere libero in data da concordare tra le parti. Per maggiori informazioni contattare il dott. Borrelli al 347 2746616. Prezzo 280.000 euro Rif. SOF083",
+   "text": "HOME\nVENDITA+\nAFFITTO\nLUXURY\nESTERO+\nSERVIZI\nCHI SIAMO\nCONTATTI +\nLINGUA +\nCAPANNONE IN VENDITA SASSO MARCONI\n280.000 SOF083 MQ 1100 0  \nTORNA ALL'ELENCO\nNUOVA RICERCA\n\nBORGONUOVO in posizione di ottima visibilità dalla Porrettana vendiamo capannone di circa 600 mq con annesso laboratorio di falegnameria di 250 mq. Completa la proprietà un area esterna molto vasta di circa 2000 mq. Attualmente i locali sono adibiti a falegnameria molto conosciuta perchè attiva dagli anni 80'. Attualmente si può comprare l'immobile o l'attività dietro il corrispettivo di un affitto da concordare. Chiaramente la formula più gradita è l'acquisto dell'immobile che può essere libero in data da concordare tra le parti. Per maggiori informazioni contattare il dott. Borrelli al 347 2746616. Prezzo 280.000 euro Rif. SOF083\n\nRIFERIMENTO\nSOF083\nCLASSE ENERGETICA\nF \nSTATO\nLIBERO \nPIANO\nTERRA \nRISCALDAMENTO\n \nCONDIZIONAMENTO\n \nAREE CONDOMINIALI\n \nNUMERO LIVELLI\n1 LIVELLO \nCAMERE\n0 \nBAGNI\n4 \nCUCINA\n \nQUALITÀ\nIN BUONE CONDIZIONI \nTERRAZZO\n \nGIARDINO\n \nGARAGE\n \nPOSTO AUTO\n \nCANTINA\n \nASCENSORE\nNO \n\nLEONARDO BORRELLI\n\nCell: 3472746616\n\nCONTATTACI IN AGENZIA\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando i campi sottostanti.\n\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR.\nPer leggere l'informativa in forma estesa clicca qui.\n\n\nINVIA\n \nVendita / Affitto\nVendita\nAffitto\n \nLocalità\nBologna\nProvincia di Bologna\nAltre zone\n  \nTipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\ncapannone\nmagazzino\nlotto/terreno\n\n   TROVA GLI IMMOBILI\n\nVia Andrea Costa, 67-B\n40134 Bologna\nTel. 051 6154856\ninfo@lasoffittaimmobiliare.com\n\nCase in affitto a Bologna\nCase in vendita a Bologna\nCase di lusso a Bologna\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita a Bologna\nProposte immobiliari a Londra\nVendi il tuo appartamento?\nValutazione immobili\nServizio Assistenza Legale\nServizio Assistenza Tecnica\nServizio Assistenza Mutui\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nChi Siamo\nCopyright 2026 La Soffitta Studio Immobiliare - Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 - Privacy - Cookies - Credits   ",
+   "parsed": {
+    "prezzo": null,
+    "mq": "600",
+    "locali": "tà",
+    "camere": "0",
+    "bagni": "4",
+    "piano": "TERRA",
+    "classe_energetica": "F",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_1114.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_4265.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_7117.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2003.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2016.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_1114.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_4265.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_7117.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2003.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_2016.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_8418.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132724_6120.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SOF/foto/SOF_921430_20240602_132723_9861.jpg"
+  },
+  {
+   "url": "https://lasoffittaimmobiliare.com/affitto/negozio/bologna/centro-storico/996567.html",
+   "title": "Negozio in Affitto a Bologna Centro Storico - Rif. SOF245 | La Soffitta",
+   "h1": "NEGOZIO IN AFFITTO BOLOGNA CENTRO STORICO",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg",
+   "ogDesc": null,
+   "desc": "Negozio in Affitto a Bologna Centro Storico - Rif. SOF245 - € 10.000 - Scopri tutte le proposte di La Soffitta Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg",
+     "w": 1280,
+     "h": 960,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_773.jpg",
+     "w": 1280,
+     "h": 960,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_7918.jpg",
+     "w": 1280,
+     "h": 960,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.lasoffittaimmobiliare.com/img/valeria-fabbri.jpg",
+     "w": 500,
+     "h": 505,
+     "rw": 330
+    },
+    {
+     "src": "https://www.lasoffittaimmobiliare.com/img/la-soffitta-studio-immobiliare-4.jpg",
+     "w": 240,
+     "h": 120,
+     "rw": 192
+    },
+    {
+     "src": "https://www.lasoffittaimmobiliare.com/img/la-soffitta-immobiliare-bologna.gif",
+     "w": 176,
+     "h": 100,
+     "rw": 176
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_773.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_7918.jpg"
+   ],
+   "descBlock": "CENTRO STORICO - Via Indipendenza BolognaNel tratto più prestigioso e ad altissimo passaggio della principale arteria commerciale della città, proponiamo in locazione importante negozio di rappresentanza con due ampie vetrine su strada.L'immobile si sviluppa su una superficie complessiva di circa 180 mq, così distribuiti:circa 150 mq al piano terra, destinati a show-room e vendita, con spazi ampi e perfettamente fruibilicirca 30 mq al piano seminterrato, collegato internamente, ideale come magazzino o area di supportoI locali si presentano in ottime condizioni, pronti ad accogliere brand e attività che desiderano massima visibilità nel cuore dello shopping bolognese.Disponibilità: gennaio 2026Canone annuo: € 120.000 + IVANessun key money richiesto Garanzie: fideiussione bancaria a prima richiesta pari a 6 mensilità. Soluzione ideale per brand strutturati, retail di qualità e concept store alla ricerca di una posizione strategica e altamente performante. Info e visite Silvia Macchiavelli tel 3389178888 Rif SOF245",
+   "text": "HOME\nVENDITA+\nAFFITTO\nLUXURY\nESTERO+\nSERVIZI\nCHI SIAMO\nCONTATTI +\nLINGUA +\nNEGOZIO IN AFFITTO BOLOGNA CENTRO STORICO\n10.000 SOF245 MQ 180 0  \nTORNA ALL'ELENCO\nNUOVA RICERCA\n\nCENTRO STORICO - Via Indipendenza BolognaNel tratto più prestigioso e ad altissimo passaggio della principale arteria commerciale della città, proponiamo in locazione importante negozio di rappresentanza con due ampie vetrine su strada.L'immobile si sviluppa su una superficie complessiva di circa 180 mq, così distribuiti:circa 150 mq al piano terra, destinati a show-room e vendita, con spazi ampi e perfettamente fruibilicirca 30 mq al piano seminterrato, collegato internamente, ideale come magazzino o area di supportoI locali si presentano in ottime condizioni, pronti ad accogliere brand e attività che desiderano massima visibilità nel cuore dello shopping bolognese.Disponibilità: gennaio 2026Canone annuo: € 120.000 + IVANessun key money richiesto Garanzie: fideiussione bancaria a prima richiesta pari a 6 mensilità. Soluzione ideale per brand strutturati, retail di qualità e concept store alla ricerca di una posizione strategica e altamente performante. Info e visite Silvia Macchiavelli tel 3389178888 Rif SOF245\n\nRIFERIMENTO\nSOF245\nCLASSE ENERGETICA\nE \nSTATO\n \nPIANO\nTERRA \nRISCALDAMENTO\nCENTRALIZZATO \nCONDIZIONAMENTO\nSI \nAREE CONDOMINIALI\n \nNUMERO LIVELLI\n2 LIVELLI \nCAMERE\n0 \nBAGNI\n1 \nCUCINA\n \nQUALITÀ\nIN OTTIME CONDIZIONI \nTERRAZZO\n \nGIARDINO\n \nGARAGE\n \nPOSTO AUTO\n \nCANTINA\n \nASCENSORE\nNO \n\nVALERIA FABBRI\n\nCell: 3482603619\n\nCONTATTACI IN AGENZIA\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando i campi sottostanti.\n\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR.\nPer leggere l'informativa in forma estesa clicca qui.\n\n\nINVIA\n \nVendita / Affitto\nVendita\nAffitto\n \nLocalità\nBologna\nProvincia di Bologna\nAltre zone\n  \nTipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\ncapannone\nmagazzino\nlotto/terreno\n\n   TROVA GLI IMMOBILI\n\nVia Andrea Costa, 67-B\n40134 Bologna\nTel. 051 6154856\ninfo@lasoffittaimmobiliare.com\n\nCase in affitto a Bologna\nCase in vendita a Bologna\nCase di lusso a Bologna\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita a Bologna\nProposte immobiliari a Londra\nVendi il tuo appartamento?\nValutazione immobili\nServizio Assistenza Legale\nServizio Assistenza Tecnica\nServizio Assistenza Mutui\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nChi Siamo\nCopyright 2026 La Soffitta Studio Immobiliare - Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 - Privacy - Cookies - Credits   ",
+   "parsed": {
+    "prezzo": "€ 120.000",
+    "mq": "180",
+    "locali": "tà",
+    "camere": "0",
+    "bagni": "1",
+    "piano": "TERRA",
+    "classe_energetica": "E",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_773.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_7918.jpg",
+    "https://www.lasoffittaimmobiliare.com/img/valeria-fabbri.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_773.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181421_7918.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SOF/foto/SOF_996075_20251202_181422_357.jpg"
+  },
+  {
+   "url": "https://lasoffittaimmobiliare.com/vendita/villa-bifamiliare/sasso-marconi/tutto-il-comune/996574.html",
+   "title": "Villa Bifamiliare in Vendita a Sasso Marconi - Rif. SOF005 | La Soffitta",
+   "h1": "VILLA BIFAMILIARE IN VENDITA SASSO MARCONI",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2776.jpg",
+   "ogDesc": null,
+   "desc": "Villa Bifamiliare in Vendita a Sasso Marconi  - Rif. SOF005 - € 790.000 - Scopri tutte le proposte di La Soffitta Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_8937.jpg",
+     "w": 1451,
+     "h": 1910,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994193_20251002_170337_8553.jpg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994193_20251002_170336_8367.jpg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_8038.jpg",
+     "w": 1920,
+     "h": 1395,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_616.jpg",
+     "w": 1830,
+     "h": 1255,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_3211.jpg",
+     "w": 985,
+     "h": 1320,
+     "rw": 82.5
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2776.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2812.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130107_23.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_3975.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_6378.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_1351.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_133518_8069.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130105_5419.jpg"
+   ],
+   "descBlock": "Altopiano Marconi - VILLA NUOVA COSTRUZIONE CON ASCENSORE INTERNO. Nella meravigliosa cornice dell'Altopiano Marconi oasi di pace immersa nel verde e ricca di servizi esclusivi per i residenti come la piscina, il campo da calcio, il campo da tennis e l'area giochi per bambini vendiamo questa meravigliosa villa bifamiliare. La porzione di villa circondata da un ampio giardino di 600 mq è stata appena ultimata. Si sviluppa su 4 livelli dal piano interrato al piano mansarda serviti da ascensore interno. Al piano terra troviamo un'ampia zona living dove la zona relax si fonde con l'ampia zona pranzo che racchiude una grande cucina con penisola ed un ripostiglio/dispensa. Sempre al piano terra è presente un bagno ed una camera da adibire a studio o camera per gli ospiti. Le scale a vista portano al primo piano destinato alla zona notte ed al bellissimo terrazzo di 50 mq. Le camere da letto sono tre di cui una padronale con ampio bagno privato. La mansarda è un open space da destinare a zona relax, camera ospiti oppure area giochi. Nella mansarda troviamo la predisposizione per un bagno, una stanza dedicata all'impianto fotovoltaico ed un ampio ripostiglio sottotetto. Al piano seminterrato troviamo un'ampia taverna con accesso al giardino, bagno con doccia e locali di servizio come cantina, locale lavanderia e centrale termica. E' dotata di cappotto termico, fotovoltaico, raffrescamento e riscaldamento a pavimento, riciclo meccanico dell'aria per evitare accumuli di umidità, impianto di illuminazione e predisposizione impianto di irrigazione, tapparelle elettriche, predisposizione domotica, colonnina di ricarica per auto elettriche, cancello d'ingresso nuovo. Classe Energetica A3. Alcune foto presenti In questo annuncio sono elaborati di rendering. Richiesta Euro 790.000,00 da ultimare con finiture a propria scelta. Euro 940.000 completamente finita come da capitolato. VENDITA DA PRIVATO. Rif. SOF005",
+   "text": "HOME\nVENDITA+\nAFFITTO\nLUXURY\nESTERO+\nSERVIZI\nCHI SIAMO\nCONTATTI +\nLINGUA +\nVILLA BIFAMILIARE IN VENDITA SASSO MARCONI\n790.000 SOF005 MQ 360 3  \nTORNA ALL'ELENCO\nNUOVA RICERCA\n\nAltopiano Marconi - VILLA NUOVA COSTRUZIONE CON ASCENSORE INTERNO. Nella meravigliosa cornice dell'Altopiano Marconi oasi di pace immersa nel verde e ricca di servizi esclusivi per i residenti come la piscina, il campo da calcio, il campo da tennis e l'area giochi per bambini vendiamo questa meravigliosa villa bifamiliare. La porzione di villa circondata da un ampio giardino di 600 mq è stata appena ultimata. Si sviluppa su 4 livelli dal piano interrato al piano mansarda serviti da ascensore interno. Al piano terra troviamo un'ampia zona living dove la zona relax si fonde con l'ampia zona pranzo che racchiude una grande cucina con penisola ed un ripostiglio/dispensa. Sempre al piano terra è presente un bagno ed una camera da adibire a studio o camera per gli ospiti. Le scale a vista portano al primo piano destinato alla zona notte ed al bellissimo terrazzo di 50 mq. Le camere da letto sono tre di cui una padronale con ampio bagno privato. La mansarda è un open space da destinare a zona relax, camera ospiti oppure area giochi. Nella mansarda troviamo la predisposizione per un bagno, una stanza dedicata all'impianto fotovoltaico ed un ampio ripostiglio sottotetto. Al piano seminterrato troviamo un'ampia taverna con accesso al giardino, bagno con doccia e locali di servizio come cantina, locale lavanderia e centrale termica. E' dotata di cappotto termico, fotovoltaico, raffrescamento e riscaldamento a pavimento, riciclo meccanico dell'aria per evitare accumuli di umidità, impianto di illuminazione e predisposizione impianto di irrigazione, tapparelle elettriche, predisposizione domotica, colonnina di ricarica per auto elettriche, cancello d'ingresso nuovo. Classe Energetica A3. Alcune foto presenti In questo annuncio sono elaborati di rendering. Richiesta Euro 790.000,00 da ultimare con finiture a propria scelta. Euro 940.000 completamente finita come da capitolato. VENDITA DA PRIVATO. Rif. SOF005\n\nRIFERIMENTO\nSOF005\nCLASSE ENERGETICA\nA4 \nSTATO\nLIBERO \nPIANO\nTERRA CIELO \nRISCALDAMENTO\nAUTONOMO \nCONDIZIONAMENTO\nSI \nAREE CONDOMINIALI\n \nNUMERO LIVELLI\n4 LIVELLI \nCAMERE\n3 \nBAGNI\n4 \nCUCINA\nABITABILE \nQUALITÀ\nNUOVO \nTERRAZZO\n1 \nGIARDINO\nMQ 600 \nGARAGE\n \nPOSTO AUTO\n2 COPERTI \nCANTINA\nSI \nASCENSORE\nSI \n\nVALERIA FABBRI\n\nCell: 3482603619\n\nCONTATTACI IN AGENZIA\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando i campi sottostanti.\n\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR.\nPer leggere l'informativa in forma estesa clicca qui.\n\n\nINVIA\n \nVendita / Affitto\nVendita\nAffitto\n \nLocalità\nBologna\nProvincia di Bologna\nAltre zone\n  \nTipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\ncapannone\nmagazzino\nlotto/terreno\n\n   TROVA GLI IMMOBILI\n\nVia Andrea Costa, 67-B\n40134 Bologna\nTel. 051 6154856\ninfo@lasoffittaimmobiliare.com\n\nCase in affitto a Bologna\nCase in vendita a Bologna\nCase di lusso a Bologna\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita a Bologna\nProposte immobiliari a Londra\nVendi il tuo appartamento?\nValutazione immobili\nServizio Assistenza Legale\nServizio Assistenza Tecnica\nServizio Assistenza Mutui\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nChi Siamo\nCopyright 2026 La Soffitta Studio Immobiliare - Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 - Privacy - Cookies - Credits   ",
+   "parsed": {
+    "prezzo": null,
+    "mq": "600",
+    "locali": "tà",
+    "camere": "3",
+    "bagni": "4",
+    "piano": "TERRA CIELO",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2776.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_8937.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994193_20251002_170337_8553.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994193_20251002_170336_8367.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_8038.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_616.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_993725_20250903_135853_3211.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2776.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2812.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130107_23.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_3975.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_6378.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_1351.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_133518_8069.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130105_5419.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SOF/foto/SOF_996574_20260301_130106_2776.jpg"
+  },
+  {
+   "url": "https://lasoffittaimmobiliare.com/affitto/ufficio/bologna/massarenti/996811.html",
+   "title": "Ufficio in Affitto a Bologna Massarenti - Rif. SOF007 | La Soffitta",
+   "h1": "UFFICIO IN AFFITTO BOLOGNA MASSARENTI",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg",
+   "ogDesc": null,
+   "desc": "Ufficio in Affitto a Bologna Massarenti - Rif. SOF007 - € 5.500 - Scopri tutte le proposte di La Soffitta Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5556.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_4399.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5060.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5507.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_3760.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 82.5
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5556.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_4399.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5060.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5507.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_3760.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_7392.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_949.jpg"
+   ],
+   "descBlock": "AFFITTASI UFFICI LABORATORI SHOWROOM NEGOZIO VIA LARGA. Vicino al centro Larga, affittiamo ampio ufficio con accatastamento diviso tra, laboratorio showroom, ufficio e negozio quindi con ampie possibilità di diversificare l'attività lavorativa per essere più competitivi. L'immobile si sviluppa su due livelli con due accessi esterni, ampie sale di lavoro sia per ufficio che laboratoriale come showroom o area shooting, oppure per registrazione audio video con possibilità vendita diretta al pubblico. Superficie di lavoro circa 550 metri coperti con possibiltà di estendere gli uffici di altri 400 metri. Esternamente circa 200 metri di giardino con possibilità di inserire mezzi di locomozione e biciclette per i dipendenti. Di fronte al cancello di entrata sono presenti 10 posti auto di proprietà per favorire l'incontro con clienti che arrivano da fuori città. Internamente l'immobile presenta impianti di riscaldamento e di raffrescamento in funzione fino al 2024 quindi solo da ripristinare. In generale l'immobile è di buona fattura realizzato negli anni 90' e non presenta lavori importanti di ripristino. Prezzo mensile 5.500 euro si richiedono garanzie proporzionate a seconda delle credenziali del cliente. In caso di interesse contattare il dott. Borrelli al 3472746616",
+   "text": "HOME\nVENDITA+\nAFFITTO\nLUXURY\nESTERO+\nSERVIZI\nCHI SIAMO\nCONTATTI +\nLINGUA +\nUFFICIO IN AFFITTO BOLOGNA MASSARENTI\n5.500 SOF007 MQ 600 0  \nTORNA ALL'ELENCO\nNUOVA RICERCA\n\nAFFITTASI UFFICI LABORATORI SHOWROOM NEGOZIO VIA LARGA. Vicino al centro Larga, affittiamo ampio ufficio con accatastamento diviso tra, laboratorio showroom, ufficio e negozio quindi con ampie possibilità di diversificare l'attività lavorativa per essere più competitivi. L'immobile si sviluppa su due livelli con due accessi esterni, ampie sale di lavoro sia per ufficio che laboratoriale come showroom o area shooting, oppure per registrazione audio video con possibilità vendita diretta al pubblico. Superficie di lavoro circa 550 metri coperti con possibiltà di estendere gli uffici di altri 400 metri. Esternamente circa 200 metri di giardino con possibilità di inserire mezzi di locomozione e biciclette per i dipendenti. Di fronte al cancello di entrata sono presenti 10 posti auto di proprietà per favorire l'incontro con clienti che arrivano da fuori città. Internamente l'immobile presenta impianti di riscaldamento e di raffrescamento in funzione fino al 2024 quindi solo da ripristinare. In generale l'immobile è di buona fattura realizzato negli anni 90' e non presenta lavori importanti di ripristino. Prezzo mensile 5.500 euro si richiedono garanzie proporzionate a seconda delle credenziali del cliente. In caso di interesse contattare il dott. Borrelli al 3472746616\n\nRIFERIMENTO\nSOF007\nCLASSE ENERGETICA\nE \nSTATO\n \nPIANO\nTERRA \nRISCALDAMENTO\n \nCONDIZIONAMENTO\n \nAREE CONDOMINIALI\n \nNUMERO LIVELLI\n1 LIVELLO \nCAMERE\n0 \nBAGNI\n0 \nCUCINA\n \nQUALITÀ\nIN BUONE CONDIZIONI \nTERRAZZO\n \nGIARDINO\n \nGARAGE\n \nPOSTO AUTO\n \nCANTINA\n \nASCENSORE\nNO \n\nLEONARDO BORRELLI\n\nCell: 3472746616\n\nCONTATTACI IN AGENZIA\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando i campi sottostanti.\n\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR.\nPer leggere l'informativa in forma estesa clicca qui.\n\n\nINVIA\n \nVendita / Affitto\nVendita\nAffitto\n \nLocalità\nBologna\nProvincia di Bologna\nAltre zone\n  \nTipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\ncapannone\nmagazzino\nlotto/terreno\n\n   TROVA GLI IMMOBILI\n\nVia Andrea Costa, 67-B\n40134 Bologna\nTel. 051 6154856\ninfo@lasoffittaimmobiliare.com\n\nCase in affitto a Bologna\nCase in vendita a Bologna\nCase di lusso a Bologna\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita a Bologna\nProposte immobiliari a Londra\nVendi il tuo appartamento?\nValutazione immobili\nServizio Assistenza Legale\nServizio Assistenza Tecnica\nServizio Assistenza Mutui\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nChi Siamo\nCopyright 2026 La Soffitta Studio Immobiliare - Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 - Privacy - Cookies - Credits   ",
+   "parsed": {
+    "prezzo": null,
+    "mq": null,
+    "locali": "tà",
+    "camere": "0",
+    "bagni": "0",
+    "piano": "TERRA",
+    "classe_energetica": "E",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5556.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_4399.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5060.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5507.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_3760.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5556.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_4399.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5060.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_5507.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_3760.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_7392.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161950_949.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SOF/foto/SOF_929169_20250605_161949_144.jpg"
+  },
+  {
+   "url": "https://lasoffittaimmobiliare.com/vendita/capannone/sasso-marconi/tutto-il-comune/996812.html",
+   "title": "Capannone in Vendita a Sasso Marconi - Rif. SOF188 | La Soffitta",
+   "h1": "CAPANNONE IN VENDITA SASSO MARCONI",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165801_517.JPG",
+   "ogDesc": null,
+   "desc": "Capannone in Vendita a Sasso Marconi  - Rif. SOF188 - € 430.000 - Scopri tutte le proposte di La Soffitta Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165801_517.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165802_2528.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165802_7163.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165803_5197.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165804_2353.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165804_7020.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 82.5
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "VENDESI CAPANNONE ZONA CARTIERA. VENDESI in zona cartiera a Borgonuovo capannone realizzato i primi anni 2000 in ottime condizioni di circa 820 mq interni complessivi composti da 720 di open space e 120 mq di uffici disposti su due livelli con una area cortiliva di circa 200 di proprietà. Due bagni con bagno per dipendenti e spogliatoi. Il capannone è disposto in angolo con tre aperture di quattro per quattro mq che consente l'accesso a dai bilici. Prezzo 430.000 euro, incaricato dott. Leonardo Borrelli 3472746616 rif. SOF188",
+   "text": "HOME\nVENDITA+\nAFFITTO\nLUXURY\nESTERO+\nSERVIZI\nCHI SIAMO\nCONTATTI +\nLINGUA +\nCAPANNONE IN VENDITA SASSO MARCONI\n430.000 SOF188 MQ 720 0  \nTORNA ALL'ELENCO\nNUOVA RICERCA\n\nVENDESI CAPANNONE ZONA CARTIERA. VENDESI in zona cartiera a Borgonuovo capannone realizzato i primi anni 2000 in ottime condizioni di circa 820 mq interni complessivi composti da 720 di open space e 120 mq di uffici disposti su due livelli con una area cortiliva di circa 200 di proprietà. Due bagni con bagno per dipendenti e spogliatoi. Il capannone è disposto in angolo con tre aperture di quattro per quattro mq che consente l'accesso a dai bilici. Prezzo 430.000 euro, incaricato dott. Leonardo Borrelli 3472746616 rif. SOF188\n\nRIFERIMENTO\nSOF188\nCLASSE ENERGETICA\nE \nSTATO\n \nPIANO\nTERRA \nRISCALDAMENTO\nCENTRALIZZATO \nCONDIZIONAMENTO\n \nAREE CONDOMINIALI\n \nNUMERO LIVELLI\n2 LIVELLI \nCAMERE\n0 \nBAGNI\n3 \nCUCINA\n \nQUALITÀ\n \nTERRAZZO\n \nGIARDINO\n \nGARAGE\n \nPOSTO AUTO\n \nCANTINA\n \nASCENSORE\nNO \n\nLEONARDO BORRELLI\n\nCell: 3472746616\n\nCONTATTACI IN AGENZIA\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando i campi sottostanti.\n\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR.\nPer leggere l'informativa in forma estesa clicca qui.\n\n\nINVIA\n \nVendita / Affitto\nVendita\nAffitto\n \nLocalità\nBologna\nProvincia di Bologna\nAltre zone\n  \nTipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\ncapannone\nmagazzino\nlotto/terreno\n\n   TROVA GLI IMMOBILI\n\nVia Andrea Costa, 67-B\n40134 Bologna\nTel. 051 6154856\ninfo@lasoffittaimmobiliare.com\n\nCase in affitto a Bologna\nCase in vendita a Bologna\nCase di lusso a Bologna\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita a Bologna\nProposte immobiliari a Londra\nVendi il tuo appartamento?\nValutazione immobili\nServizio Assistenza Legale\nServizio Assistenza Tecnica\nServizio Assistenza Mutui\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nChi Siamo\nCopyright 2026 La Soffitta Studio Immobiliare - Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 - Privacy - Cookies - Credits   ",
+   "parsed": {
+    "prezzo": null,
+    "mq": "820",
+    "locali": "tà",
+    "camere": "0",
+    "bagni": "3",
+    "piano": "TERRA",
+    "classe_energetica": "E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165801_517.JPG",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165801_517.JPG",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165802_2528.JPG",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165802_7163.JPG",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165803_5197.JPG",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165804_2353.JPG",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165804_7020.JPG"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SOF/foto/SOF_994002_20250901_165801_517.JPG"
+  },
+  {
+   "url": "https://www.lasoffittaimmobiliare.com/vendita/casa-indipendente/marzabotto/tutto-il-comune/927848.html",
+   "title": "Casa Indipendente in Vendita a Marzabotto - Rif. SOF172 | La Soffitta",
+   "h1": "CASA INDIPENDENTE IN VENDITA MARZABOTTO",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": null,
+   "ogImage": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg",
+   "ogDesc": null,
+   "desc": "Casa Indipendente in Vendita a Marzabotto  - Rif. SOF172 - € 110.000 - Scopri tutte le proposte di La Soffitta Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_6404.jpg",
+     "w": 960,
+     "h": 1280,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_2043.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_1842.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_9344.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 82.5
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_6656.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 82.5
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_2043.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_1842.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_9344.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_6656.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_8430.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_9693.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_8874.jpg"
+   ],
+   "descBlock": "Casa indipendente Marzabotto vic.ze (Vedegheto): in posizione verde e tranquilla ma vicina ad altre abitazioni, proponiamo in vendita casa indipendente recentemente ristrutturata, molto luminosa, composta da ingresso arredabile, ampia cucina, tre camere di cui la principale con bagno interno con doccia, secondo bagno, due ampie autorimesse e cantina. L'immobile si presenta all'interno in ottime condizioni, dotato di ogni confort e può essere immediatamente abitato. Euro 110.000.00 Rif. SOF agente Francesca Cacciari 346.8465501 sede di Marzabotto.",
+   "text": "HOME\nVENDITA+\nAFFITTO\nLUXURY\nESTERO+\nSERVIZI\nCHI SIAMO\nCONTATTI +\nLINGUA +\nCASA INDIPENDENTE IN VENDITA MARZABOTTO\n110.000 SOF172 MQ 187 3 2 GARAGE \nTORNA ALL'ELENCO\nNUOVA RICERCA\n\nCasa indipendente Marzabotto vic.ze (Vedegheto): in posizione verde e tranquilla ma vicina ad altre abitazioni, proponiamo in vendita casa indipendente recentemente ristrutturata, molto luminosa, composta da ingresso arredabile, ampia cucina, tre camere di cui la principale con bagno interno con doccia, secondo bagno, due ampie autorimesse e cantina. L'immobile si presenta all'interno in ottime condizioni, dotato di ogni confort e può essere immediatamente abitato. Euro 110.000.00 Rif. SOF agente Francesca Cacciari 346.8465501 sede di Marzabotto.\n\nRIFERIMENTO\nSOF172\nCLASSE ENERGETICA\nG \nSTATO\nLIBERO \nPIANO\n1* \nRISCALDAMENTO\nAUTONOMO \nCONDIZIONAMENTO\n \nAREE CONDOMINIALI\n \nNUMERO LIVELLI\n1 LIVELLO \nCAMERE\n3 \nBAGNI\n2 \nCUCINA\nABITABILE \nQUALITÀ\nIN BUONE CONDIZIONI \nTERRAZZO\n \nGIARDINO\nMQ 200 \nGARAGE\n2 GARAGE \nPOSTO AUTO\n \nCANTINA\nSI \nASCENSORE\nNO \n\nFRANCESCA CACCIARI\n\nCell: 3468465501\n\nCONTATTACI IN AGENZIA\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando i campi sottostanti.\n\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR.\nPer leggere l'informativa in forma estesa clicca qui.\n\n\nINVIA\n \nVendita / Affitto\nVendita\nAffitto\n \nLocalità\nBologna\nProvincia di Bologna\nAltre zone\n  \nTipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\ncapannone\nmagazzino\nlotto/terreno\n\n   TROVA GLI IMMOBILI\n\nVia Andrea Costa, 67-B\n40134 Bologna\nTel. 051 6154856\ninfo@lasoffittaimmobiliare.com\n\nCase in affitto a Bologna\nCase in vendita a Bologna\nCase di lusso a Bologna\nAppartamenti in vendita\nAppartamenti in affitto\nVille in vendita a Bologna\nProposte immobiliari a Londra\nVendi il tuo appartamento?\nValutazione immobili\nServizio Assistenza Legale\nServizio Assistenza Tecnica\nServizio Assistenza Mutui\nImmobili in vendita a Bologna\nImmobili in affitto a Bologna\nChi Siamo\nCopyright 2026 La Soffitta Studio Immobiliare - Via Andrea Costa, 67-B - 40134 Bologna - P.IVA 02828351201 - Privacy - Cookies - Credits   ",
+   "parsed": {
+    "prezzo": null,
+    "mq": "200",
+    "locali": "tà",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "1*",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_6404.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_2043.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_1842.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_9344.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_6656.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_2043.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_1842.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_9344.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_6656.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_8430.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_9693.jpg",
+    "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124435_8874.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SOF/foto/SOF_915322_20231104_124436_9474.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.jpg",
+  "src": "https://lasoffittaimmobiliare.com/img/la-soffitta-studio-immobiliare-4.jpg",
+  "size": 33321
+ }
+}

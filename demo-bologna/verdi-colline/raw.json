@@ -1,0 +1,714 @@
+{
+ "cfg": {
+  "slug": "verdi-colline",
+  "nome": "Agenzia Immobiliare Verdi Colline",
+  "home": "https://www.verdicolline.it/",
+  "index": [
+   "https://www.verdicolline.it/immobili-vendita/",
+   "https://www.verdicolline.it/immobili-affitto/"
+  ],
+  "rx": "verdicolline[.]it/immobile/[a-z0-9-]+",
+  "n": 6,
+  "contact": "https://www.verdicolline.it/agenzia-dove-siamo/"
+ },
+ "home": {
+  "title": "Home - Agenzia Immobiliare Verdi Colline",
+  "desc": null,
+  "emails": [
+   "info@verdicolline.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.verdicolline.it/wp-content/uploads/2024/06/LOGO-ORIGINALE.jpg"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(102, 102, 102)",
+   "font": "\"Noticia Text\", Georgia, \"Times New Roman\", serif"
+  },
+  "header": {
+   "bg": "rgba(10, 10, 10, 0.4)",
+   "color": "rgb(102, 102, 102)",
+   "font": "\"Noticia Text\", Georgia, \"Times New Roman\", serif"
+  },
+  "footer": {
+   "bg": "rgb(34, 34, 34)",
+   "color": "rgb(102, 102, 102)",
+   "font": "\"Noticia Text\", Georgia, \"Times New Roman\", serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0.3)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"Noticia Text\", Georgia, \"Times New Roman\", serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"Noticia Text\", Georgia, \"Times New Roman\", serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0.3)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    100
+   ],
+   [
+    "rgba(0, 0, 0, 0.3)",
+    9
+   ],
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgba(10, 10, 10, 0.4)",
+    1
+   ],
+   [
+    "rgb(247, 247, 247)",
+    1
+   ],
+   [
+    "rgb(34, 34, 34)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.32)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(51, 51, 51)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    16
+   ],
+   [
+    "rgb(180, 254, 85)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Noticia Text\", Georgia, \"Times New Roman\", serif",
+    25
+   ]
+  ],
+  "heads": [
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA",
+   "TROVA LA CASA PERFETTA"
+  ],
+  "addr": null,
+  "final": "https://www.verdicolline.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.verdicolline.it/agenzia-dove-siamo/",
+  "emails": [
+   "info@verdicolline.it"
+  ],
+  "tels": [],
+  "addr": null
+ },
+ "candidates": [
+  "https://www.verdicolline.it/immobile/graziosa-villetta-2/",
+  "https://www.verdicolline.it/immobile/luminoso-appartamento/",
+  "https://www.verdicolline.it/immobile/casa-completamente-indipendente-3/",
+  "https://www.verdicolline.it/immobile/villetta-di-testa-in-classe-a-4/",
+  "https://www.verdicolline.it/immobile/casa-di-campagna-indipendente/",
+  "https://www.verdicolline.it/immobile/villa-terra-cielo-indipendente-su-3-lati/",
+  "https://www.verdicolline.it/immobile/graziosa-abitazione/",
+  "https://www.verdicolline.it/immobile/le-bore/",
+  "https://www.verdicolline.it/immobile/grande-appartamento/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.verdicolline.it/immobile/graziosa-villetta-2/",
+   "title": "Graziosa villetta - Agenzia Immobiliare Verdi Colline",
+   "h1": "GRAZIOSA VILLETTA A SCHIERA CON INGRESSO INDIPENDENTE E GIARDINO PRIVATO.",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Graziosa villetta - Agenzia Immobiliare Verdi Colline",
+   "ogImage": "https://www.verdicolline.it/wp-content/uploads/2026/10/1.jpg",
+   "ogDesc": "ZOCCA LOC. MONTOMBRARO : In tranquilla zona residenziale proponiamo in vendita GRAZIOSA VILLETTA A SCHIERA CON INGRESSO INDIPENDENTE E GIARDINO PRIVATO. Distribuita su 3 livelli collegati tutti da scala interna. Al piano terra giardino con barbecue e salotto esterno, ingresso su sala da pranzo, cucina e bagno. Al piano primo 2 camere di cui una con ampio terrazzo e bagno. Al piano sottostrada cantina, garage, lavanderia e ripostiglio con ulteriore giardino. La villetta si presenta in ottime condizioni.",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/\",\"url\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/\",\"name\":\"Graziosa villetta - Agenzia Immobiliare Verdi Colline\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/10\\/1.jpg\",\"datePublished\":\"2026-10-06T14:11:49+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/#primaryimage\",\"url\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/10\\/1.jpg\",\"contentUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/10\\/1.jpg\",\"width\":800,\"height\":534},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/graziosa-villetta-2\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.verdicolline.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Graziosa villetta\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\",\"url\":\"https:\\/\\/www.verdicolline.it\\/\",\"name\":\"Agenzia Immobiliare Verdi Colline\",\"description\":\"Trova la casa perfetta\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.verdicolline.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/10/1-1-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/10/2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/10/3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/10/4-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/10/5-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/10/6-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/1-1.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/4.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/5.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/8.jpg"
+   ],
+   "descBlock": "Distribuita su 3 livelli collegati tutti da scala interna. Al piano terra giardino con barbecue e salotto esterno, ingresso su sala da pranzo, cucina e bagno. Al piano primo 2 camere di cui una con ampio terrazzo e bagno. Al piano sottostrada cantina, garage, lavanderia e ripostiglio con ulteriore giardino. La villetta si presenta in ottime condizioni.",
+   "text": " \nHome\n \nVendite\n \nAffitti\n \nValuta il tuo immobile\n \nChi Siamo\n \nServizi & Recapiti\n\nZocca Loc. Montombraro\n\nGRAZIOSA VILLETTA A SCHIERA CON INGRESSO INDIPENDENTE E GIARDINO PRIVATO.\n\nIn tranquilla zona residenziale proponiamo in vendita GRAZIOSA VILLETTA A SCHIERA CON INGRESSO INDIPENDENTE E GIARDINO PRIVATO.\n\nDistribuita su 3 livelli collegati tutti da scala interna. Al piano terra giardino con barbecue e salotto esterno, ingresso su sala da pranzo, cucina e bagno. Al piano primo 2 camere di cui una con ampio terrazzo e bagno. Al piano sottostrada cantina, garage, lavanderia e ripostiglio con ulteriore giardino. La villetta si presenta in ottime condizioni.\n\nMq: 97\n\nRif: 1181\n\n€ 119.000\n\nRichiedi informazioni su questo immobile\n\nIl tuo nome (richiesto)\n\n\nLa tua email (richiesto)\n\nIl tuo numero di telefono (richiesto)\n\n\nIl tuo messaggio\n\n\n\n\nAgenzia Immobiliare Verdi Colline\n\nVia S. Apollinare, 1415\nValsamoggia Loc. Castello di Serravalle\n40050 - Bologna - Italia\n\nE-Mail: info@verdicolline.it\nTelefono: 051 670 44 93\nFax: 051 671 00 78\nMobile Luca Migliori: 320 4246425\nMobile Gianluca Gandolfi: 340 3174738",
+   "parsed": {
+    "prezzo": "€ 119.000",
+    "mq": "97",
+    "locali": null,
+    "camere": "2",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/1.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/1-1-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/4-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/5-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/6-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/1-1.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/4.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/5.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/10/8.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.verdicolline.it/wp-content/uploads/2026/10/1.jpg"
+  },
+  {
+   "url": "https://www.verdicolline.it/immobile/luminoso-appartamento/",
+   "title": "LUMINOSO APPARTAMENTO - Agenzia Immobiliare Verdi Colline",
+   "h1": "LUMINOSO APPARTAMENTO AL PIANO TERRA CON AMPIO GIARDINO DI PROPRIETA’ ESCLUSIVA.",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "LUMINOSO APPARTAMENTO - Agenzia Immobiliare Verdi Colline",
+   "ogImage": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-6.jpg",
+   "ogDesc": "ZOCCA LOC. MONTOMBRARO : LUMINOSO APPARTAMENTO AL PIANO TERRA CON AMPIO GIARDINO DI PROPRIETA’ ESCLUSIVA. In splendida zona residenziale tranquilla e comodamente collegata alla viabilità principale, proponiamo in vendita un elegante appartamento in perfette condizioni, edificato nel 2006. La proprietà si sviluppa interamente al piano terra ed è valorizzata da un ampio giardino angolare privato di oltre 150mq, ideale per momenti di relax all'aperto, accessibile anche dall'esterno tramite un doppio cancelletto pedonale indipendente.",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/\",\"url\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/\",\"name\":\"LUMINOSO APPARTAMENTO - Agenzia Immobiliare Verdi Colline\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1-6.jpg\",\"datePublished\":\"2026-09-18T14:36:36+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/#primaryimage\",\"url\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1-6.jpg\",\"contentUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1-6.jpg\",\"width\":800,\"height\":534},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/luminoso-appartamento\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.verdicolline.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"LUMINOSO APPARTAMENTO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\",\"url\":\"https:\\/\\/www.verdicolline.it\\/\",\"name\":\"Agenzia Immobiliare Verdi Colline\",\"description\":\"Trova la casa perfetta\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.verdicolline.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-7-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/2-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/3-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/4-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/5-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/6-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/8-3.jpg"
+   ],
+   "descBlock": "Ingresso su soggiorno con angolo cottura, impreziosito da un accogliente camino, disimpegno, camera matrimoniale (con accesso diretto al giardino tramite porta finestra), camera singola e bagno. Completa la proprietà garage al piano seminterrato, con accesso diretto all’appartamento tramite il vano scale condominiale.",
+   "text": " \nHome\n \nVendite\n \nAffitti\n \nValuta il tuo immobile\n \nChi Siamo\n \nServizi & Recapiti\n\nZocca Loc. Montombraro\n\nLUMINOSO APPARTAMENTO AL PIANO TERRA CON AMPIO GIARDINO DI PROPRIETA’ ESCLUSIVA.\n\nIn splendida zona residenziale tranquilla e comodamente collegata alla viabilità principale, proponiamo in vendita un elegante appartamento in perfette condizioni, edificato nel 2006.\n\nLa proprietà si sviluppa interamente al piano terra ed è valorizzata da un ampio giardino angolare privato di oltre 150mq, ideale per momenti di relax all’aperto, accessibile anche dall’esterno tramite un doppio cancelletto pedonale indipendente.\n\nL’immobile è così composto:\n\nIngresso su soggiorno con angolo cottura, impreziosito da un accogliente camino, disimpegno, camera matrimoniale (con accesso diretto al giardino tramite porta finestra), camera singola e bagno. Completa la proprietà garage al piano seminterrato, con accesso diretto all’appartamento tramite il vano scale condominiale.\n\nL’appartamento è dotato di riscaldamento autonomo e non necessita di alcun lavoro di ristrutturazione. Già Libero.\n\nMq: 85\n\nRif: 1179\n\n€ 135.000\n\nRichiedi informazioni su questo immobile\n\nIl tuo nome (richiesto)\n\n\nLa tua email (richiesto)\n\nIl tuo numero di telefono (richiesto)\n\n\nIl tuo messaggio\n\n\n\n\nAgenzia Immobiliare Verdi Colline\n\nVia S. Apollinare, 1415\nValsamoggia Loc. Castello di Serravalle\n40050 - Bologna - Italia\n\nE-Mail: info@verdicolline.it\nTelefono: 051 670 44 93\nFax: 051 671 00 78\nMobile Luca Migliori: 320 4246425\nMobile Gianluca Gandolfi: 340 3174738",
+   "parsed": {
+    "prezzo": "€ 135.000",
+    "mq": "85",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-7-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/8-3.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-6.jpg"
+  },
+  {
+   "url": "https://www.verdicolline.it/immobile/casa-completamente-indipendente-3/",
+   "title": "CASA COMPLETAMENTE INDIPENDENTE - Agenzia Immobiliare Verdi Colline",
+   "h1": "CASA COMPLETAMENTE INDIPENDENTE CON SPLENDIDA VISTA SULLE COLLINE – GIARDINO PRIVATO DI CIRCA 3.000 MQ.",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "CASA COMPLETAMENTE INDIPENDENTE - Agenzia Immobiliare Verdi Colline",
+   "ogImage": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-2-scaled.jpg",
+   "ogDesc": "CASTELLO DI SERRAVALLE (PRIME COLLINE DEL PAESE) : Immersa nella tranquillità della campagna, questa proprietà rappresenta una soluzione ideale per chi desidera allontanarsi dal rumore e dal caos della città ritrovando il piacere di vivere a stretto contatto con la natura. La casa gode di una bellissima vista panoramica sulle colline circostanti, regalando scorci suggestivi in ogni stagione. Un ulteriore punto di forza è rappresentato dall’accesso diretto tramite strada comunale asfaltata, che consente di raggiungere comodamente l’abitazione in ogni periodo dell’anno.",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/\",\"url\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/\",\"name\":\"CASA COMPLETAMENTE INDIPENDENTE - Agenzia Immobiliare Verdi Colline\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1-2-scaled.jpg\",\"datePublished\":\"2026-09-18T07:58:28+00:00\",\"dateModified\":\"2026-09-18T08:01:24+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/#primaryimage\",\"url\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1-2-scaled.jpg\",\"contentUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1-2-scaled.jpg\",\"width\":2560,\"height\":1707},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-completamente-indipendente-3\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.verdicolline.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CASA COMPLETAMENTE INDIPENDENTE\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\",\"url\":\"https:\\/\\/www.verdicolline.it\\/\",\"name\":\"Agenzia Immobiliare Verdi Colline\",\"description\":\"Trova la casa perfetta\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.verdicolline.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-5-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/2-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/3-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/4-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/5-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/6-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-5.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7-1-1.jpg"
+   ],
+   "descBlock": "COMPOSIZIONE : Portico angolare, ampio e luminoso salone open space caratterizzato da un piacevole gioco di livelli per separare elegantemente la zona pranzo dalla zona living dotata di camino a vista, proseguendo troviamo la cucina, un bagno di servizio e un terrazzo. Scala in legno a vista con accesso al piano 1° adibito alla zona notte dove troviamo un disimpegno arredabile, bagno e 2 camere matrimoniali di cui una con camino",
+   "text": " \nHome\n \nVendite\n \nAffitti\n \nValuta il tuo immobile\n \nChi Siamo\n \nServizi & Recapiti\n\nCastello di Serravalle\n\nCASA COMPLETAMENTE INDIPENDENTE CON SPLENDIDA VISTA SULLE COLLINE – GIARDINO PRIVATO DI CIRCA 3.000 MQ.\n\nCASTELLO DI SERRAVALLE (PRIME COLLINE DEL PAESE) \n\nCASA COMPLETAMENTE INDIPENDENTE CON SPLENDIDA VISTA SULLE COLLINE – GIARDINO PRIVATO DI CIRCA 3.000 MQ.\n\nImmersa nella tranquillità della campagna, questa proprietà rappresenta una soluzione ideale per chi desidera allontanarsi dal rumore e dal caos della città ritrovando il piacere di vivere a stretto contatto con la natura.\n\nLa casa gode di una bellissima vista panoramica sulle colline circostanti, regalando scorci suggestivi in ogni stagione.\n\nUn ulteriore punto di forza è rappresentato dall’accesso diretto tramite strada comunale asfaltata, che consente di raggiungere comodamente l’abitazione in ogni periodo dell’anno.\n\nCOMPOSIZIONE : Portico angolare, ampio e luminoso salone open space caratterizzato da un piacevole gioco di livelli per separare elegantemente la zona pranzo dalla zona living dotata di camino a vista, proseguendo troviamo la cucina, un bagno di servizio e un terrazzo. Scala in legno a vista con accesso al piano 1° adibito alla zona notte dove troviamo un disimpegno arredabile, bagno e 2 camere matrimoniali di cui una con camino\n\n. AMBIENTE JOLLY molto versatile predisposto per diventare 3° camera, zona svago o soluzione autonoma essendo dotato anche di ingresso indipendente. Grande garage al piano terra e grandi ambienti multiuso adibiti a cantine, magazzino ecc.. al piano semi-interrato.\n\nLa proprietà viene completata dal giardino privato di circa 3.000 mq, una comoda area cortiliva pavimentata pianeggiante e da un caratteristico forno a legna originale perfetto per vivere momenti conviviali e organizzare pranzi e cene in compagnia valorizzando l’atmosfera accogliente della casa.   \n\nMq: 280\n\nRif: 1180\n\n€ 239.000\n\nRichiedi informazioni su questo immobile\n\nIl tuo nome (richiesto)\n\n\nLa tua email (richiesto)\n\nIl tuo numero di telefono (richiesto)\n\n\nIl tuo messaggio\n\n\n\n\nAgenzia Immobiliare Verdi Colline\n\nVia S. Apollinare, 1415\nValsamoggia Loc. Castello di Serravalle\n40050 - Bologna - Italia\n\nE-Mail: info@verdicolline.it\nTelefono: 051 670 44 93\nFax: 051 671 00 78\nMobile Luca Migliori: 320 4246425\nMobile Gianluca Gandolfi: 340 3174738",
+   "parsed": {
+    "prezzo": "€ 239.000",
+    "mq": "280",
+    "locali": null,
+    "camere": "2",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-2-scaled.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-5-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-5.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7-1-1.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-2-scaled.jpg"
+  },
+  {
+   "url": "https://www.verdicolline.it/immobile/villetta-di-testa-in-classe-a-4/",
+   "title": "VILLETTA DI TESTA IN CLASSE A 4 - Agenzia Immobiliare Verdi Colline",
+   "h1": "SPLENDIDA VILLETTA DI TESTA IN CLASSE A4 – COMFORT MODERNO E CONSUMI QUASI ZERO – GIARDINO PRIVATO DI 165 MQ.",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "VILLETTA DI TESTA IN CLASSE A 4 - Agenzia Immobiliare Verdi Colline",
+   "ogImage": "https://www.verdicolline.it/wp-content/uploads/2026/09/1.jpg",
+   "ogDesc": "VALSAMOGGIA LOC. CASTELLO DI SERRAVALLE (BERSAGLIERA) : SPLENDIDA VILLETTA DI TESTA IN CLASSE A 4 – COMFORT MODERNO E CONSUMI QUASI ZERO – GIARDINO PRIVATO DI 165 MQ. Sviluppata interamente al piano terra, questa residenza offre una disposizione degli spazi estremamente funzionale. L’ingresso si apre su una luminosa zona giorno con grande cucina a vista; da qui, una scala conduce ad un accogliente zona mansardata oggi perfettamente sfruttata come ambiente living-relax. La zona notte comprende 3 camere e un bagno.",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/\",\"url\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/\",\"name\":\"VILLETTA DI TESTA IN CLASSE A 4 - Agenzia Immobiliare Verdi Colline\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1.jpg\",\"datePublished\":\"2026-09-04T07:04:48+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/#primaryimage\",\"url\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1.jpg\",\"contentUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/09\\/1.jpg\",\"width\":800,\"height\":534},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villetta-di-testa-in-classe-a-4\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.verdicolline.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"VILLETTA DI TESTA IN CLASSE A 4\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\",\"url\":\"https:\\/\\/www.verdicolline.it\\/\",\"name\":\"Agenzia Immobiliare Verdi Colline\",\"description\":\"Trova la casa perfetta\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.verdicolline.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/1-1-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/4-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/5-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/09/6-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-1.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/8.jpg"
+   ],
+   "descBlock": "TECNOLOGIA E RISPARMIO ENERGETICO AL TOP : Costruita nel 2021 secondo le più recenti normative antisismiche, la villetta vanta una CLASSE ENERGETICA A4 che garantisce costi di gestione ridotti al minimo.",
+   "text": " \nHome\n \nVendite\n \nAffitti\n \nValuta il tuo immobile\n \nChi Siamo\n \nServizi & Recapiti\n\nValsamoggia Loc. Castello di Serravalle (Bersagliera)\n\nSPLENDIDA VILLETTA DI TESTA IN CLASSE A4 – COMFORT MODERNO E CONSUMI QUASI ZERO – GIARDINO PRIVATO DI 165 MQ.\n\nSviluppata interamente al piano terra, questa residenza offre una disposizione degli spazi estremamente funzionale.\n\nL’ingresso si apre su una luminosa zona giorno con grande cucina a vista; da qui, una scala conduce ad un accogliente zona mansardata oggi perfettamente sfruttata come ambiente living-relax.\n\nLa zona notte comprende 3 camere e un bagno.\n\nCompleta il piano un garage coibentato e soppalcato, collegato direttamente all’abitazione tramite porta tagliafuoco.\n\nIl vero fiore all’occhiello è l’area esterna: un GIARDINO PRIVATO DI 165 MQ che abbraccia la casa su 3 lati, dotato di impianto di irrigazione automatica e accesso pedonale indipendente.\n\nTECNOLOGIA E RISPARMIO ENERGETICO AL TOP : Costruita nel 2021 secondo le più recenti normative antisismiche, la villetta vanta una CLASSE ENERGETICA A4 che garantisce costi di gestione ridotti al minimo.\n\nE’ dotata di :\n\nImpianto fotovoltaico autonomo (Per elettricità, riscaldamento a pavimento e acqua calda).\n\nCappotto termino e climatizzazione completa.\n\nAddolcitore d’acqua, inferriate di sicurezza e zanzariere.\n\nTetto in legno a vista.\n\nUNA SOLUZIONE CHIAVI IN MANO, PERFETTA PER CHI RICERCA INDIPENDENZA, MODERNITA’ E MASSIMA EFFICIENZA.\n\nMq: 130\n\nRif: 1178\n\n€ 329.000\n\nRichiedi informazioni su questo immobile\n\nIl tuo nome (richiesto)\n\n\nLa tua email (richiesto)\n\nIl tuo numero di telefono (richiesto)\n\n\nIl tuo messaggio\n\n\n\n\nAgenzia Immobiliare Verdi Colline\n\nVia S. Apollinare, 1415\nValsamoggia Loc. Castello di Serravalle\n40050 - Bologna - Italia\n\nE-Mail: info@verdicolline.it\nTelefono: 051 670 44 93\nFax: 051 671 00 78\nMobile Luca Migliori: 320 4246425\nMobile Gianluca Gandolfi: 340 3174738",
+   "parsed": {
+    "prezzo": "€ 329.000",
+    "mq": "130",
+    "locali": null,
+    "camere": "3",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-1-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/1-1.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/4.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/5.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/09/8.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.verdicolline.it/wp-content/uploads/2026/09/1.jpg"
+  },
+  {
+   "url": "https://www.verdicolline.it/immobile/casa-di-campagna-indipendente/",
+   "title": "CASA DI CAMPAGNA INDIPENDENTE - Agenzia Immobiliare Verdi Colline",
+   "h1": "CASA DI CAMPAGNA COMPLETAMENTE INDIPENDENTE CON OLTRE 1.000 MQ DI GIARDINO PRIVATO.",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "CASA DI CAMPAGNA INDIPENDENTE - Agenzia Immobiliare Verdi Colline",
+   "ogImage": "https://www.verdicolline.it/wp-content/uploads/2026/08/1-7.jpg",
+   "ogDesc": "VALSAMOGGIA LOC. CASTELLO DI SERRAVALLE (CASTELLETTO) : CASA DI CAMPAGNA COMPLETAMENTE INDIPENDENTE CON OLTRE 1.000 MQ DI GIARDINO PRIVATO. Nel verde della campagna di CASTELLETTO DI SERRAVALLE, in un contesto riservato e tranquillo ma allo stesso tempo estremamente comodo ai servizi, proponiamo in vendita una tipica casa di campagna indipendente, ideale per chi desidera vivere immerso nella natura senza rinunciare alla praticità della vita quotidiana. La proprietà si trova infatti",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/\",\"url\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/\",\"name\":\"CASA DI CAMPAGNA INDIPENDENTE - Agenzia Immobiliare Verdi Colline\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/08\\/1-7.jpg\",\"datePublished\":\"2026-08-05T08:11:34+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/#primaryimage\",\"url\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/08\\/1-7.jpg\",\"contentUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/08\\/1-7.jpg\",\"width\":800,\"height\":534},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/casa-di-campagna-indipendente\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.verdicolline.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CASA DI CAMPAGNA INDIPENDENTE\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\",\"url\":\"https:\\/\\/www.verdicolline.it\\/\",\"name\":\"Agenzia Immobiliare Verdi Colline\",\"description\":\"Trova la casa perfetta\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.verdicolline.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/1-8-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/2-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/3-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/4-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/5-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/6-3-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-8.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/2-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/3-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/4-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/5-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/6-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/7-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/8-3.jpg"
+   ],
+   "descBlock": "L’immobile conserva il carattere autentico delle tradizionali case di campagna emiliane, con elementi originali come il camino, le travi in legno a vista e altri dettagli architettonici che potranno essere valorizzati attraverso un progetto di ristrutturazione, permettendo di realizzare una casa ricca di personalità e perfettamente adattata alle proprie esigenze.",
+   "text": " \nHome\n \nVendite\n \nAffitti\n \nValuta il tuo immobile\n \nChi Siamo\n \nServizi & Recapiti\n\nCastelletto\n\nCASA DI CAMPAGNA COMPLETAMENTE INDIPENDENTE CON OLTRE 1.000 MQ DI GIARDINO PRIVATO.\n\nNel verde della campagna di CASTELLETTO DI SERRAVALLE, in un contesto riservato e tranquillo ma allo stesso tempo estremamente comodo ai servizi, proponiamo in vendita una tipica casa di campagna indipendente, ideale per chi desidera vivere immerso nella natura senza rinunciare alla praticità della vita quotidiana.\n\nLa proprietà si trova infatti a soli 500 METRI DAL CENTRO DEL PAESE, a circa 100 METRI DAL SUPERMERCATO CONAD e con rapido accesso alla principale viabilità.\n\nCircondata da OLTRE 1.000 m² DI GIARDINO PIANEGGIANTE, impreziosito da alberi ad alto fusto, la casa offre uno spazio esterno piacevole e riservato, ideale per rilassarsi, vivere all’aria aperta, coltivare un orto o trascorrere piacevoli momenti con la famiglia e gli amici.\n\nCompleta la proprietà un FABBRICATO ACCESSORIO DI CIRCA 54 m², ad uso MAGAZZINO, DEPOSITO E CANTINA, che rappresenta un importante valore aggiunto grazie alla sua versatilità.\n\nL’abitazione si sviluppa su tre livelli:\n\nPIANO TERRA: ingresso, sala da pranzo, soggiorno e piccola cucina\n\nPRIMO PIANO: due camere da letto e un bagno\n\nSECONDO PIANO: due ulteriori camere da letto e un secondo bagno.\n\nL’immobile conserva il carattere autentico delle tradizionali case di campagna emiliane, con elementi originali come il camino, le travi in legno a vista e altri dettagli architettonici che potranno essere valorizzati attraverso un progetto di ristrutturazione, permettendo di realizzare una casa ricca di personalità e perfettamente adattata alle proprie esigenze.\n\nLa posizione, l’indipendenza, il grande giardino pianeggiante, il fabbricato accessorio e gli ampi spazi rendono questa proprietà una soluzione ideale per una famiglia o per chi desidera creare una residenza di campagna accogliente e di carattere, senza rinunciare alla comodità di avere il paese e i principali servizi a pochi passi.\n\nUna casa dove il fascino della tradizione incontra le potenzialità di un progetto tutto da vivere, in uno dei contesti più piacevoli di Castelletto di Serravalle.\n\nMq: 174\n\nRif: 1177\n\n€ 260.000\n\nRichiedi informazioni su questo immobile\n\nIl tuo nome (richiesto)\n\n\nLa tua email (richiesto)\n\nIl tuo numero di telefono (richiesto)\n\n\nIl tuo messaggio\n\n\n\n\nAgenzia Immobiliare Verdi Colline\n\nVia S. Apollinare, 1415\nValsamoggia Loc. Castello di Serravalle\n40050 - Bologna - Italia\n\nE-Mail: info@verdicolline.it\nTelefono: 051 670 44 93\nFax: 051 671 00 78\nMobile Luca Migliori: 320 4246425\nMobile Gianluca Gandolfi: 340 3174738",
+   "parsed": {
+    "prezzo": "€ 260.000",
+    "mq": "174",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": "due camere da letto e un bagno",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-7.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-8-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/2-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/3-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/4-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/5-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/6-3-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-8.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/2-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/3-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/4-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/5-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/6-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/7-3.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/8-3.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.verdicolline.it/wp-content/uploads/2026/08/1-7.jpg"
+  },
+  {
+   "url": "https://www.verdicolline.it/immobile/villa-terra-cielo-indipendente-su-3-lati/",
+   "title": "VILLA TERRA-CIELO INDIPENDENTE SU 3 LATI - Agenzia Immobiliare Verdi Colline",
+   "h1": "VILLA TERRA – CIELO INDIPENDENTE SU 3 LATI CON GIARDINO PRIVATO.",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "VILLA TERRA-CIELO INDIPENDENTE SU 3 LATI - Agenzia Immobiliare Verdi Colline",
+   "ogImage": "https://www.verdicolline.it/wp-content/uploads/2026/08/1-3-scaled.jpg",
+   "ogDesc": "ZOCCA LOC. MONTOMBRARO : In tranquilla zona residenziale a due passi dal centro, proponiamo in vendita VILLA TERRA-CIELO INDIPENDENTE SU 3 LATI appartenente ad un fabbricato bifamiliare. Il piano terra è composto da ingresso, camera, sala da pranzo, ampio bagno con doccia, ripostiglio, oltre a garage e cantina. Tramite comoda scala interna si accede al piano primo in cui trova spazio un vasto corridoio, cucina, soggiorno, tre camere da letto, due bagni di cui uno con vasca e doccia, un balcone",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/\",\"url\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/\",\"name\":\"VILLA TERRA-CIELO INDIPENDENTE SU 3 LATI - Agenzia Immobiliare Verdi Colline\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/08\\/1-3-scaled.jpg\",\"datePublished\":\"2026-08-04T08:52:23+00:00\",\"dateModified\":\"2026-08-04T09:38:08+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/#primaryimage\",\"url\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/08\\/1-3-scaled.jpg\",\"contentUrl\":\"https:\\/\\/www.verdicolline.it\\/wp-content\\/uploads\\/2026\\/08\\/1-3-scaled.jpg\",\"width\":2560,\"height\":1707},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/immobile\\/villa-terra-cielo-indipendente-su-3-lati\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.verdicolline.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"VILLA TERRA-CIELO INDIPENDENTE SU 3 LATI\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.verdicolline.it\\/#website\",\"url\":\"https:\\/\\/www.verdicolline.it\\/\",\"name\":\"Agenzia Immobiliare Verdi Colline\",\"description\":\"Trova la casa perfetta\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.verdicolline.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/1-6-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/2-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/3-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/4-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/5-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    },
+    {
+     "src": "https://www.verdicolline.it/wp-content/uploads/2026/08/6-2-400x284.jpg",
+     "w": 1200,
+     "h": 852,
+     "rw": 193.203125
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/2-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/3-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/4-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/5-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/6-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/7-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/8-2.jpg"
+   ],
+   "descBlock": "Il piano terra è composto da ingresso, camera, sala da pranzo, ampio bagno con doccia, ripostiglio, oltre a garage e cantina. Tramite comoda scala interna si accede al piano primo in cui trova spazio un vasto corridoio, cucina, soggiorno, tre camere da letto, due bagni di cui uno con vasca e doccia, un balcone accessibile da due camere ed un ripostiglio da cui si accede al sottotetto.",
+   "text": " \nHome\n \nVendite\n \nAffitti\n \nValuta il tuo immobile\n \nChi Siamo\n \nServizi & Recapiti\n\nZocca Loc. Montombraro\n\nVILLA TERRA – CIELO INDIPENDENTE SU 3 LATI CON GIARDINO PRIVATO.\n\nIn tranquilla zona residenziale a due passi dal centro, proponiamo in vendita VILLA TERRA-CIELO INDIPENDENTE SU 3 LATI appartenente ad un fabbricato bifamiliare.\n\nIl piano terra è composto da ingresso, camera, sala da pranzo, ampio bagno con doccia, ripostiglio, oltre a garage e cantina. Tramite comoda scala interna si accede al piano primo in cui trova spazio un vasto corridoio, cucina, soggiorno, tre camere da letto, due bagni di cui uno con vasca e doccia, un balcone accessibile da due camere ed un ripostiglio da cui si accede al sottotetto.\n\nLo spazio esterno è costituito da un GIARDINO pressoché pianeggiante, molto ben curato con praticello ed arbusti, ideale per momenti di relax oltre che per pranzi e cene sotto ad un grazioso gazebo.\n\nDistribuzione ideale per 2 unità abitative. \n\nMq: 235\n\nRif: 1176\n\n€ 188.000\n\nRichiedi informazioni su questo immobile\n\nIl tuo nome (richiesto)\n\n\nLa tua email (richiesto)\n\nIl tuo numero di telefono (richiesto)\n\n\nIl tuo messaggio\n\n\n\n\nAgenzia Immobiliare Verdi Colline\n\nVia S. Apollinare, 1415\nValsamoggia Loc. Castello di Serravalle\n40050 - Bologna - Italia\n\nE-Mail: info@verdicolline.it\nTelefono: 051 670 44 93\nFax: 051 671 00 78\nMobile Luca Migliori: 320 4246425\nMobile Gianluca Gandolfi: 340 3174738",
+   "parsed": {
+    "prezzo": "€ 188.000",
+    "mq": "235",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-3-scaled.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-6-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/2-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/3-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/4-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/5-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/6-2-400x284.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/1-6.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/2-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/3-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/4-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/5-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/6-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/7-2.jpg",
+    "https://www.verdicolline.it/wp-content/uploads/2026/08/8-2.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.verdicolline.it/wp-content/uploads/2026/08/1-3-scaled.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.jpg",
+  "src": "https://www.verdicolline.it/wp-content/uploads/2024/06/LOGO-ORIGINALE.jpg",
+  "size": 106424
+ }
+}

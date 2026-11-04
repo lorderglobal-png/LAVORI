@@ -1,0 +1,723 @@
+{
+ "cfg": {
+  "slug": "istituto-immobiliare-italiano",
+  "nome": "Istituto Immobiliare Italiano",
+  "home": "https://www.istitutoimmobiliareitaliano.it/",
+  "index": [
+   "https://www.istitutoimmobiliareitaliano.it/immobili-in-vendita-a-bologna-e-provincia/",
+   "https://www.istitutoimmobiliareitaliano.it/immobili-in-affitto-a-bologna-e-provincia/"
+  ],
+  "rx": "istitutoimmobiliareitaliano[.]it/[a-z0-9-]+-[0-9]{5,}/?$",
+  "n": 6,
+  "contact": "https://www.istitutoimmobiliareitaliano.it/contatti/"
+ },
+ "home": {
+  "title": "Immobili in vendita e in affitto a Bologna e Provincia | Istituto Immobiliare Italiano",
+  "desc": "Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.",
+  "emails": [
+   "hello@favethemes.com",
+   "istituto@immobiliareitaliano.it"
+  ],
+  "tels": [
+   "051%20522077"
+  ],
+  "logos": [
+   "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2021/05/istituto-immobiliare-italiano-trasparente.png",
+   "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2021/05/istituto-immobiliare-italiano-bianco.jpg",
+   "https://www.istitutoimmobiliareitaliano.it/wp-content/themes/houzez/img/Google__G__Logo.svg"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(247, 248, 249)",
+   "color": "rgb(34, 34, 34)",
+   "font": "Roboto"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 34, 34)",
+   "font": "Roboto"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 34, 34)",
+   "font": "Roboto"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Roboto, sans-serif"
+  },
+  "a": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(111, 191, 191)",
+   "font": "Roboto"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    28
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(246, 142, 68)",
+    2
+   ],
+   [
+    "rgb(111, 191, 191)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    614
+   ],
+   [
+    "rgb(255, 255, 255)",
+    36
+   ],
+   [
+    "rgba(0, 0, 0, 0.35)",
+    9
+   ],
+   [
+    "rgb(111, 191, 191)",
+    5
+   ],
+   [
+    "rgba(0, 0, 0, 0.65)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0.36)",
+    1
+   ],
+   [
+    "rgb(103, 163, 163)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgb(0, 0, 0)",
+    6
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(111, 191, 191)",
+    72
+   ],
+   [
+    "rgb(255, 255, 255)",
+    36
+   ],
+   [
+    "rgb(34, 34, 34)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Roboto",
+    179
+   ],
+   [
+    "Roboto, sans-serif",
+    19
+   ]
+  ],
+  "heads": [
+   "Dove le vostre esigenze trovano spazio.",
+   "Dove le vostre esigenze trovano spazio.",
+   "Residenziale",
+   "Villa Trifamiliare in vendita a Bologna Colli San Mamolo",
+   "Villa Trifamiliare in vendita a Bologna Colli San Mamolo",
+   "Villa Indipendente in vendita a San Biagio",
+   "Testimonials",
+   "Informativa"
+  ],
+  "addr": null,
+  "final": "https://www.istitutoimmobiliareitaliano.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.istitutoimmobiliareitaliano.it/contatti/",
+  "emails": [
+   "istituto@immobiliareitaliano.it",
+   "immobiliareitaliano@gmail.com"
+  ],
+  "tels": [
+   "051%20522077"
+  ],
+  "addr": null
+ },
+ "candidates": [
+  "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-bologna-colli-san-mamolo-998311/",
+  "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-bologna-colli-san-mamolo-998312/",
+  "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-san-biagio-999230/",
+  "https://www.istitutoimmobiliareitaliano.it/casa-colonica-in-vendita-a-sasso-marconi-999235/",
+  "https://www.istitutoimmobiliareitaliano.it/attico-in-vendita-a-bologna-palazzo-dello-sport-998991/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-vendita-a-bologna-centro-storico-998141/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-vendita-a-bologna-centro-storico-999892/",
+  "https://www.istitutoimmobiliareitaliano.it/casa-colonica-in-vendita-a-calderara-di-reno-999668/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-vendita-a-bologna-palazzo-dello-sport-999256/",
+  "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-castel-san-pietro-terme-999837/",
+  "https://www.istitutoimmobiliareitaliano.it/bifamiliare-porzione-in-vendita-a-bologna-san-ruffillo-996877/",
+  "https://www.istitutoimmobiliareitaliano.it/ufficio-in-affitto-a-bologna-palazzo-dello-sport-995677/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-centro-storico-998067/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-colli-murri-999247/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-massarenti-999488/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-centro-storico-195955/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-borgo-panigale-1000045/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-murri-927504/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-murri-913580/",
+  "https://www.istitutoimmobiliareitaliano.it/appartamento-in-affitto-a-bologna-centro-storico-196260/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-bologna-colli-san-mamolo-998311/",
+   "title": "Villa Trifamiliare in vendita a Bologna Colli San Mamolo | Istituto Immobiliare Italiano",
+   "h1": "Villa Trifamiliare in vendita a Bologna Colli San Mamolo",
+   "h2": [
+    "Panoramica",
+    "Annuncio",
+    "Dettagli",
+    "Immobili simili",
+    "Villa Indipendente in vendita a San Biagio",
+    "Villa Indipendente in vendita a Castel San Pietro Terme"
+   ],
+   "ogTitle": "Villa Trifamiliare in vendita a Bologna Colli San Mamolo | Istituto Immobiliare Italiano",
+   "ogImage": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696.jpg",
+   "ogDesc": "A 15 minuti da porta san Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con giardino autonomo e indipendente di...",
+   "desc": "A 15 minuti da porta san Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con giardino autonomo e indipendente di...",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Istituto Immobiliare Italiano\",\"description\":\"Just another WordPress site\",\"publisher\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\",\"name\":\"Istituto Immobiliare Italiano\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\",\"position\":\"1\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Home\",\"description\":\"Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},\"nextItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#listItem\"},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#listItem\",\"position\":\"2\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/\",\"name\":\"Villa Trifamiliare in vendita a Bologna Colli San Mamolo\",\"description\":\"A 15 minuti da porta san Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unit\\u00e0 di testa con giardino autonomo e indipendente di...\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/\"},\"previousItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\"}]},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/#author\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/\",\"name\":\"admin\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#authorImage\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/39135f37ae45040dd928c37e63719bef?s=96&d=mm&r=g\",\"width\":\"96\",\"height\":\"96\",\"caption\":\"admin\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#webpage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/\",\"name\":\"Villa Trifamiliare in vendita a Bologna Colli San Mamolo | Istituto Immobiliare Italiano\",\"description\":\"A 15 minuti da porta san Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unit\\u00e0 di testa con giardino autonomo e indipendente di...\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#breadcrumblist\"},\"author\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#author\",\"creator\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#author\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#mainImage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/wp-content\\/uploads\\/2026\\/05\\/IST_998311_20260506_131317_8696.jpg\",\"width\":\"1920\",\"height\":\"1080\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998311\\/#mainImage\"},\"datePublished\":\"2026-11-04T04:01:39+01:00\",\"dateModified\":\"2026-11-04T04:01:39+01:00\"}]}\n\t\t",
+   "imgs": [
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131313_9904.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_130652_3437.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_130651_833.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_130653_4810.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131312_6789.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998311%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998311%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998311%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696-1024x576.jpg"
+   ],
+   "descBlock": "A 15 minuti da porta san Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico immerso nel verde delle colline di Bologna vendesi all’interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con giardino autonomo e indipendente di mq 300 circa, su due livelli e costituita al piano terra da un soggiorno , una cucina abitabile ed un bagno , al piano superiore due camere da letto matrimoniali ed un bagno . L’immobile nasce da una ristrutturazione fatta vent’anni fa circa e si presenta pertanto in buone condizioni completa il tutto un giardino panoramico di testa di mq 200 circa ove poter ricavare sotto un pergolato due posti auto . Ape in via di redazione Euro 350.000 Immobile in collaborazione con Stefano Campogrande Real Estate .RIF IST511/2",
+   "text": "HOME\nVENDITA\nAFFITTO\nSERVIZI\nCHI SIAMO\nCONTATTI\nVENDI LA TUA CASA\n 051 522077  \nHome\nVilla\nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n \nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n€ 350.000\nIN EVIDENZAVENDITA\nColli San Mamolo\nPanoramica\nCodice: IST511/2 - 138 S\nVilla\nCategoria\n 2\nCamere\n 2\nBagni\n 162\nMQ\n 1800\nAnno di costruzione\nAnnuncio\n\nA 15 minuti da porta san Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico immerso nel verde delle colline di Bologna vendesi all’interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con giardino autonomo e indipendente di mq 300 circa, su due livelli e costituita al piano terra da un soggiorno , una cucina abitabile ed un bagno , al piano superiore due camere da letto matrimoniali ed un bagno . L’immobile nasce da una ristrutturazione fatta vent’anni fa circa e si presenta pertanto in buone condizioni completa il tutto un giardino panoramico di testa di mq 200 circa ove poter ricavare sotto un pergolato due posti auto . Ape in via di redazione Euro 350.000 Immobile in collaborazione con Stefano Campogrande Real Estate .RIF IST511/2\n\nDettagli\nCodice:\nIST511/2 - 138 S\nPrezzo:\n€ 350.000\nSuperficie:\n162 MQ\nCamere:\n2\nBagni:\n2\nAnno di costruzione:\n1800\nCategoria:\nVilla\nContratto:\nVendita\nImmobili simili\nIN EVIDENZA\nVENDITA\n€ 1.185.000\n  \nVilla Indipendente in vendita a San Biagio\n 6  4 327 MQ\nVILLA\nScheda\nVENDITA\n€ 550.000\n  \nVilla Indipendente in vendita a Castel San Pietro Terme\n 6  4 450 MQ\nVILLA\nScheda\nIN EVIDENZA\nVENDITA\n€ 420.000\n  \nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n 2  3 220 MQ\nVILLA\nScheda\nVENDITA\n€ 470.000\n  \nVilla Bifamiliare in vendita a Castel San Pietro Terme\n 6  3 250 MQ\nVILLA\nScheda\n Sante Zambonelli\nGuarda gli immobili\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui\nInvia\nChiama\nSede di Bologna\n\n Viale Pietramellara, 5\n 051 522077 - 051 522353\n istituto@immobiliareitaliano.it\nSede di Castel San Pietro\n\n Via Giacomo Matteotti, 59\n 051 695 1544\n istituto@immobiliareitaliano.it\nImmobili\nCase in affitto a Bologna\nCase in vendita a Bologna\nAppartamenti a Bologna e provincia\nNegozio in vendita e affitto a Bologna\nCapannone a Bologna e provincia\nMenu\nLavora con noi\nVendi la tua casa\nContatti\nLa nostra agenzia\nServizi\n© 2023 Istituto Immobiliare Italiano - P. IVA 00883680373 - Tutti i diritti riservati - Privacy Policy – Credits\n \n\nCompare listings\n\nConfrontare Close",
+   "parsed": {
+    "prezzo": "€ 350.000",
+    "mq": "1800",
+    "locali": null,
+    "camere": "2",
+    "bagni": "162",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131313_9904.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_130652_3437.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_130651_833.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_130653_4810.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131312_6789.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998311%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998311%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998311%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696-1024x576.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998311_20260506_131317_8696.jpg"
+  },
+  {
+   "url": "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-bologna-colli-san-mamolo-998312/",
+   "title": "Villa Trifamiliare in vendita a Bologna Colli San Mamolo | Istituto Immobiliare Italiano",
+   "h1": "Villa Trifamiliare in vendita a Bologna Colli San Mamolo",
+   "h2": [
+    "Panoramica",
+    "Annuncio",
+    "Dettagli",
+    "Immobili simili",
+    "Villa Trifamiliare in vendita a Bologna Colli San Mamolo",
+    "Villa Indipendente in vendita a San Biagio"
+   ],
+   "ogTitle": "Villa Trifamiliare in vendita a Bologna Colli San Mamolo | Istituto Immobiliare Italiano",
+   "ogImage": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569.jpg",
+   "ogDesc": "A 15 minuti da porta San Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico, immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con superfice terrazzata di mq 30 che...",
+   "desc": "A 15 minuti da porta San Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico, immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con superfice terrazzata di mq 30 che...",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Istituto Immobiliare Italiano\",\"description\":\"Just another WordPress site\",\"publisher\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\",\"name\":\"Istituto Immobiliare Italiano\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\",\"position\":\"1\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Home\",\"description\":\"Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},\"nextItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#listItem\"},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#listItem\",\"position\":\"2\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/\",\"name\":\"Villa Trifamiliare in vendita a Bologna Colli San Mamolo\",\"description\":\"A 15 minuti da porta San Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico, immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unit\\u00e0 di testa con superfice terrazzata di mq 30 che...\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/\"},\"previousItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\"}]},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/#author\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/\",\"name\":\"admin\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#authorImage\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/39135f37ae45040dd928c37e63719bef?s=96&d=mm&r=g\",\"width\":\"96\",\"height\":\"96\",\"caption\":\"admin\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#webpage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/\",\"name\":\"Villa Trifamiliare in vendita a Bologna Colli San Mamolo | Istituto Immobiliare Italiano\",\"description\":\"A 15 minuti da porta San Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico, immerso nel verde delle colline di Bologna vendesi all'interno di un rustico di fine ottocento costituito da tre porzioni, unit\\u00e0 di testa con superfice terrazzata di mq 30 che...\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#breadcrumblist\"},\"author\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#author\",\"creator\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#author\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#mainImage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/wp-content\\/uploads\\/2026\\/05\\/IST_998312_20260506_132653_1569.jpg\",\"width\":\"1920\",\"height\":\"1080\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-bologna-colli-san-mamolo-998312\\/#mainImage\"},\"datePublished\":\"2026-11-04T04:01:39+01:00\",\"dateModified\":\"2026-11-04T04:01:39+01:00\"}]}\n\t\t",
+   "imgs": [
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_133317_3686.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132759_4777.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132829_9747.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132831_6381.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132927_6265.jpg",
+     "w": 1920,
+     "h": 1080,
+     "rw": 848
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998312%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998312%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998312%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569-1024x576.jpg"
+   ],
+   "descBlock": "A 15 minuti da porta San Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico, immerso nel verde delle colline di Bologna vendesi all’interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con superfice terrazzata di mq 30 che volge verso la vallata e su una porzione di giardino autonomo e indipendente di mq 200 circa, su due livelli e costituita al piano terra da un ampio soggiorno open space , una cucina abitabile a vista ed un bagno , al piano superiore comunicante con il piano terra a mezzo di un ascensore due camere da letto matrimoniali ed 2 bagni . sussiste la possibilità di realizzare una terza camera . L’immobile nasce da una ristrutturazione fatta vent’anni fa circa e si presenta pertanto in buone condizioni completa il tutto una cantina oltre ad un posto auto coperto all’interno di un ampio garage posto al piano interrato . Possibilità di ricavare altri posti auto nel giardino esclusivo . Ape in via di redazione Euro 420.000 Immobile in collaborazione con Stefano Campogrande Real Estate . RIF. IST511/3",
+   "text": "HOME\nVENDITA\nAFFITTO\nSERVIZI\nCHI SIAMO\nCONTATTI\nVENDI LA TUA CASA\n 051 522077  \nHome\nVilla\nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n \nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n€ 420.000\nIN EVIDENZAVENDITA\nColli San Mamolo\nPanoramica\nCodice: IST511/3 - 139 S\nVilla\nCategoria\n 2\nCamere\n 3\nBagni\n 220\nMQ\n 1800\nAnno di costruzione\nAnnuncio\n\nA 15 minuti da porta San Mamolo nelle immediate vicinanze del mausoleo ai Caduti di Sabbiuno , in un contesto unico, immerso nel verde delle colline di Bologna vendesi all’interno di un rustico di fine ottocento costituito da tre porzioni, unità di testa con superfice terrazzata di mq 30 che volge verso la vallata e su una porzione di giardino autonomo e indipendente di mq 200 circa, su due livelli e costituita al piano terra da un ampio soggiorno open space , una cucina abitabile a vista ed un bagno , al piano superiore comunicante con il piano terra a mezzo di un ascensore due camere da letto matrimoniali ed 2 bagni . sussiste la possibilità di realizzare una terza camera . L’immobile nasce da una ristrutturazione fatta vent’anni fa circa e si presenta pertanto in buone condizioni completa il tutto una cantina oltre ad un posto auto coperto all’interno di un ampio garage posto al piano interrato . Possibilità di ricavare altri posti auto nel giardino esclusivo . Ape in via di redazione Euro 420.000 Immobile in collaborazione con Stefano Campogrande Real Estate . RIF. IST511/3\n\nDettagli\nCodice:\nIST511/3 - 139 S\nPrezzo:\n€ 420.000\nSuperficie:\n220 MQ\nCamere:\n2\nBagni:\n3\nAnno di costruzione:\n1800\nCategoria:\nVilla\nContratto:\nVendita\nImmobili simili\nIN EVIDENZA\nVENDITA\n€ 350.000\n  \nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n 2  2 162 MQ\nVILLA\nScheda\nIN EVIDENZA\nVENDITA\n€ 1.185.000\n  \nVilla Indipendente in vendita a San Biagio\n 6  4 327 MQ\nVILLA\nScheda\nVENDITA\n€ 550.000\n  \nVilla Indipendente in vendita a Castel San Pietro Terme\n 6  4 450 MQ\nVILLA\nScheda\nVENDITA\n€ 470.000\n  \nVilla Bifamiliare in vendita a Castel San Pietro Terme\n 6  3 250 MQ\nVILLA\nScheda\n Sante Zambonelli\nGuarda gli immobili\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui\nInvia\nChiama\nSede di Bologna\n\n Viale Pietramellara, 5\n 051 522077 - 051 522353\n istituto@immobiliareitaliano.it\nSede di Castel San Pietro\n\n Via Giacomo Matteotti, 59\n 051 695 1544\n istituto@immobiliareitaliano.it\nImmobili\nCase in affitto a Bologna\nCase in vendita a Bologna\nAppartamenti a Bologna e provincia\nNegozio in vendita e affitto a Bologna\nCapannone a Bologna e provincia\nMenu\nLavora con noi\nVendi la tua casa\nContatti\nLa nostra agenzia\nServizi\n© 2023 Istituto Immobiliare Italiano - P. IVA 00883680373 - Tutti i diritti riservati - Privacy Policy – Credits\n \n\nCompare listings\n\nConfrontare Close",
+   "parsed": {
+    "prezzo": "€ 420.000",
+    "mq": "1800",
+    "locali": null,
+    "camere": "3",
+    "bagni": "220",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_133317_3686.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132759_4777.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132829_9747.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132831_6381.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132927_6265.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998312%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998312%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569-1024x576.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-bologna-colli-san-mamolo-998312%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569-1024x576.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/05/IST_998312_20260506_132653_1569.jpg"
+  },
+  {
+   "url": "https://www.istitutoimmobiliareitaliano.it/villa-in-vendita-a-san-biagio-999230/",
+   "title": "Villa Indipendente in vendita a San Biagio | Istituto Immobiliare Italiano",
+   "h1": "Villa Indipendente in vendita a San Biagio",
+   "h2": [
+    "Panoramica",
+    "Annuncio",
+    "Dettagli",
+    "Immobili simili",
+    "Villa Trifamiliare in vendita a Bologna Colli San Mamolo",
+    "Villa Trifamiliare in vendita a Bologna Colli San Mamolo"
+   ],
+   "ogTitle": "Villa Indipendente in vendita a San Biagio | Istituto Immobiliare Italiano",
+   "ogImage": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228.jpg",
+   "ogDesc": "Sulle prime colline di Casalecchio di Reno a due passi dalla porrettana ed in posizione collinare immersa nel verde, vendesi villa con parco e terreno agricolo costituita da due fabbricati, il primo la villa principale su due livelli di mq 271 piano terra salone di mq 50 circa, cucina , due...",
+   "desc": "Sulle prime colline di Casalecchio di Reno a due passi dalla porrettana ed in posizione collinare immersa nel verde, vendesi villa con parco e terreno agricolo costituita da due fabbricati, il primo la villa principale su due livelli di mq 271 piano terra salone di mq 50 circa, cucina , due...",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Istituto Immobiliare Italiano\",\"description\":\"Just another WordPress site\",\"publisher\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\",\"name\":\"Istituto Immobiliare Italiano\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\",\"position\":\"1\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Home\",\"description\":\"Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},\"nextItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#listItem\"},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#listItem\",\"position\":\"2\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/\",\"name\":\"Villa Indipendente in vendita a San Biagio\",\"description\":\"Sulle prime colline di Casalecchio di Reno a due passi dalla porrettana ed in posizione collinare immersa nel verde, vendesi villa con parco e terreno agricolo costituita da due fabbricati, il primo la villa principale su due livelli di mq 271 piano terra salone di mq 50 circa, cucina , due...\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/\"},\"previousItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\"}]},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/#author\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/\",\"name\":\"admin\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#authorImage\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/39135f37ae45040dd928c37e63719bef?s=96&d=mm&r=g\",\"width\":\"96\",\"height\":\"96\",\"caption\":\"admin\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#webpage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/\",\"name\":\"Villa Indipendente in vendita a San Biagio | Istituto Immobiliare Italiano\",\"description\":\"Sulle prime colline di Casalecchio di Reno a due passi dalla porrettana ed in posizione collinare immersa nel verde, vendesi villa con parco e terreno agricolo costituita da due fabbricati, il primo la villa principale su due livelli di mq 271 piano terra salone di mq 50 circa, cucina , due...\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#breadcrumblist\"},\"author\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#author\",\"creator\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#author\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#mainImage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/wp-content\\/uploads\\/2026\\/09\\/IST_999230_20260901_124428_4228.jpg\",\"width\":\"1920\",\"height\":\"1281\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/villa-in-vendita-a-san-biagio-999230\\/#mainImage\"},\"datePublished\":\"2026-11-04T04:01:39+01:00\",\"dateModified\":\"2026-11-04T04:01:40+01:00\"}]}\n\t\t",
+   "imgs": [
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124213_3722.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124120_14.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_123945_7801.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124431_9479.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_123947_202.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-san-biagio-999230%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-san-biagio-999230%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-san-biagio-999230%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228-1024x683.jpg"
+   ],
+   "descBlock": "Sulle prime colline di Casalecchio di Reno a due passi dalla porrettana ed in posizione collinare immersa nel verde, vendesi villa con parco e terreno agricolo costituita da due fabbricati, il primo la villa principale su due livelli di mq 271 piano terra salone di mq 50 circa, cucina , due bagni, 3 camere da letto matrimoniali , secondo piano mansarda, il secondo fabbricato bilocale di mq 50 circa, distribuito su un soggiorno con angolo cottura, bagno e camera da letto matrimoniale , completa il tutto un vano magazzino-autorimessa di mq 326 posto al piano seminterrato ed un parco ben tenuto circondato da un terreno agricolo di 2,7 ettari . Complesso immobiliare ben tenuto che versa in buone condizioni manutentive . Ape in via di Redazione prezzo Euro 1.185.000 . RIF: IST520-4",
+   "text": "HOME\nVENDITA\nAFFITTO\nSERVIZI\nCHI SIAMO\nCONTATTI\nVENDI LA TUA CASA\n 051 522077  \nHome\nVilla\nVilla Indipendente in vendita a San Biagio\n \nVilla Indipendente in vendita a San Biagio\n€ 1.185.000\nIN EVIDENZAVENDITA\nPanoramica\nCodice: IST520/4 - 4 S\nVilla\nCategoria\n 6\nCamere\n 4\nBagni\n 327\nMQ\n 1980\nAnno di costruzione\nAnnuncio\n\nSulle prime colline di Casalecchio di Reno a due passi dalla porrettana ed in posizione collinare immersa nel verde, vendesi villa con parco e terreno agricolo costituita da due fabbricati, il primo la villa principale su due livelli di mq 271 piano terra salone di mq 50 circa, cucina , due bagni, 3 camere da letto matrimoniali , secondo piano mansarda, il secondo fabbricato bilocale di mq 50 circa, distribuito su un soggiorno con angolo cottura, bagno e camera da letto matrimoniale , completa il tutto un vano magazzino-autorimessa di mq 326 posto al piano seminterrato ed un parco ben tenuto circondato da un terreno agricolo di 2,7 ettari . Complesso immobiliare ben tenuto che versa in buone condizioni manutentive . Ape in via di Redazione prezzo Euro 1.185.000 . RIF: IST520-4\n\nDettagli\nCodice:\nIST520/4 - 4 S\nPrezzo:\n€ 1.185.000\nSuperficie:\n327 MQ\nCamere:\n6\nBagni:\n4\nAnno di costruzione:\n1980\nCategoria:\nVilla\nContratto:\nVendita\nImmobili simili\nIN EVIDENZA\nVENDITA\n€ 350.000\n  \nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n 2  2 162 MQ\nVILLA\nScheda\nIN EVIDENZA\nVENDITA\n€ 420.000\n  \nVilla Trifamiliare in vendita a Bologna Colli San Mamolo\n 2  3 220 MQ\nVILLA\nScheda\nVENDITA\n€ 550.000\n  \nVilla Indipendente in vendita a Castel San Pietro Terme\n 6  4 450 MQ\nVILLA\nScheda\nVENDITA\n€ 470.000\n  \nVilla Bifamiliare in vendita a Castel San Pietro Terme\n 6  3 250 MQ\nVILLA\nScheda\n Sante Zambonelli\nGuarda gli immobili\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui\nInvia\nChiama\nSede di Bologna\n\n Viale Pietramellara, 5\n 051 522077 - 051 522353\n istituto@immobiliareitaliano.it\nSede di Castel San Pietro\n\n Via Giacomo Matteotti, 59\n 051 695 1544\n istituto@immobiliareitaliano.it\nImmobili\nCase in affitto a Bologna\nCase in vendita a Bologna\nAppartamenti a Bologna e provincia\nNegozio in vendita e affitto a Bologna\nCapannone a Bologna e provincia\nMenu\nLavora con noi\nVendi la tua casa\nContatti\nLa nostra agenzia\nServizi\n© 2023 Istituto Immobiliare Italiano - P. IVA 00883680373 - Tutti i diritti riservati - Privacy Policy – Credits\n \n\nCompare listings\n\nConfrontare Close",
+   "parsed": {
+    "prezzo": "€ 1.185.000",
+    "mq": "1980",
+    "locali": null,
+    "camere": "4",
+    "bagni": "327",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124213_3722.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124120_14.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_123945_7801.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124431_9479.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_123947_202.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-san-biagio-999230%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-san-biagio-999230%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fvilla-in-vendita-a-san-biagio-999230%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228-1024x683.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/09/IST_999230_20260901_124428_4228.jpg"
+  },
+  {
+   "url": "https://www.istitutoimmobiliareitaliano.it/casa-colonica-in-vendita-a-sasso-marconi-999235/",
+   "title": "Casa Colonica in vendita a Sasso Marconi | Istituto Immobiliare Italiano",
+   "h1": "Casa Colonica in vendita a Sasso Marconi",
+   "h2": [
+    "Panoramica",
+    "Annuncio",
+    "Dettagli",
+    "Immobili simili",
+    "Casa Colonica in vendita a Monte San Pietro",
+    "Casa Colonica in vendita a Calderara di Reno"
+   ],
+   "ogTitle": "Casa Colonica in vendita a Sasso Marconi | Istituto Immobiliare Italiano",
+   "ogImage": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086.jpg",
+   "ogDesc": "Sasso Marconi nella zona collinare di via Montechiaro vendesi edificio rustico di recente costruzione lasciato appositamente allo stato grezzo su due livelli aventi una superfice complessiva di 700 mq circa oltre alla possibilità di realizzare un terzo livello e oltre alla superficie del...",
+   "desc": "Sasso Marconi nella zona collinare di via Montechiaro vendesi edificio rustico di recente costruzione lasciato appositamente allo stato grezzo su due livelli aventi una superfice complessiva di 700 mq circa oltre alla possibilità di realizzare un terzo livello e oltre alla superficie del...",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Istituto Immobiliare Italiano\",\"description\":\"Just another WordPress site\",\"publisher\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\",\"name\":\"Istituto Immobiliare Italiano\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\",\"position\":\"1\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Home\",\"description\":\"Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},\"nextItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#listItem\"},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#listItem\",\"position\":\"2\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/\",\"name\":\"Casa Colonica in vendita a Sasso Marconi\",\"description\":\"Sasso Marconi nella zona collinare di via Montechiaro vendesi edificio rustico di recente costruzione lasciato appositamente allo stato grezzo su due livelli aventi una superfice complessiva di 700 mq circa oltre alla possibilit\\u00e0 di realizzare un terzo livello e oltre alla superficie del...\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/\"},\"previousItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\"}]},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/#author\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/\",\"name\":\"admin\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#authorImage\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/39135f37ae45040dd928c37e63719bef?s=96&d=mm&r=g\",\"width\":\"96\",\"height\":\"96\",\"caption\":\"admin\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#webpage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/\",\"name\":\"Casa Colonica in vendita a Sasso Marconi | Istituto Immobiliare Italiano\",\"description\":\"Sasso Marconi nella zona collinare di via Montechiaro vendesi edificio rustico di recente costruzione lasciato appositamente allo stato grezzo su due livelli aventi una superfice complessiva di 700 mq circa oltre alla possibilit\\u00e0 di realizzare un terzo livello e oltre alla superficie del...\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#breadcrumblist\"},\"author\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#author\",\"creator\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#author\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#mainImage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/wp-content\\/uploads\\/2026\\/08\\/IST_999235_20260802_104456_3086.jpg\",\"width\":\"1448\",\"height\":\"1086\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/casa-colonica-in-vendita-a-sasso-marconi-999235\\/#mainImage\"},\"datePublished\":\"2026-11-04T04:01:36+01:00\",\"dateModified\":\"2026-11-04T04:01:38+01:00\"}]}\n\t\t",
+   "imgs": [
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104457_5652.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104457_8283.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104458_3635.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104458_1184.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104458_4237.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 848
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104457_5652.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 848
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fcasa-colonica-in-vendita-a-sasso-marconi-999235%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086-1024x768.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fcasa-colonica-in-vendita-a-sasso-marconi-999235%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086-1024x768.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fcasa-colonica-in-vendita-a-sasso-marconi-999235%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086-1024x768.jpg"
+   ],
+   "descBlock": "Sasso Marconi nella zona collinare di via Montechiaro vendesi edificio rustico di recente costruzione lasciato appositamente allo stato grezzo su due livelli aventi una superfice complessiva di 700 mq circa oltre alla possibilità di realizzare un terzo livello e oltre alla superficie del porticato di mq 200 circa . A ciò si aggiungono i 23 ettari di terreno agricolo . Fabbricato avente una vocazione agricola ma con la concreta possibilità di essere convertito per l’esercizio di attività quali agriturismo , attività socio assistenziali, ristorazione , nochè per il cambio di destinazione d’uso in residenziale a determinate condizioni che verranno spiegate nel corso del sopraluogo . Ape in via di definizione Euro 1.085.000 RIF IST107/1",
+   "text": "HOME\nVENDITA\nAFFITTO\nSERVIZI\nCHI SIAMO\nCONTATTI\nVENDI LA TUA CASA\n 051 522077  \nHome\nCasa Colonica\nCasa Colonica in vendita a Sasso Marconi\n \nCasa Colonica in vendita a Sasso Marconi\n€ 1.085.000\nVENDITA\nPanoramica\nCodice: IST107/1 - 5 S\nCasa Colonica\nCategoria\n 690\nMQ\n 2010\nAnno di costruzione\nAnnuncio\n\nSasso Marconi nella zona collinare di via Montechiaro vendesi edificio rustico di recente costruzione lasciato appositamente allo stato grezzo su due livelli aventi una superfice complessiva di 700 mq circa oltre alla possibilità di realizzare un terzo livello e oltre alla superficie del porticato di mq 200 circa . A ciò si aggiungono i 23 ettari di terreno agricolo . Fabbricato avente una vocazione agricola ma con la concreta possibilità di essere convertito per l’esercizio di attività quali agriturismo , attività socio assistenziali, ristorazione , nochè per il cambio di destinazione d’uso in residenziale a determinate condizioni che verranno spiegate nel corso del sopraluogo . Ape in via di definizione Euro 1.085.000 RIF IST107/1\n\nDettagli\nCodice:\nIST107/1 - 5 S\nPrezzo:\n€ 1.085.000\nSuperficie:\n690 MQ\nAnno di costruzione:\n2010\nCategoria:\nCasa Colonica\nContratto:\nVendita\nImmobili simili\nVENDITA\n€ 305.000\n  \nCasa Colonica in vendita a Monte San Pietro\n 3  3 130 MQ\nCASA COLONICA\nScheda\nVENDITA\n€ 620.000\n  \nCasa Colonica in vendita a Calderara di Reno\n 0  5 1430 MQ\nCASA COLONICA\nScheda\n Sante Zambonelli\nGuarda gli immobili\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui\nInvia\nChiama\nSede di Bologna\n\n Viale Pietramellara, 5\n 051 522077 - 051 522353\n istituto@immobiliareitaliano.it\nSede di Castel San Pietro\n\n Via Giacomo Matteotti, 59\n 051 695 1544\n istituto@immobiliareitaliano.it\nImmobili\nCase in affitto a Bologna\nCase in vendita a Bologna\nAppartamenti a Bologna e provincia\nNegozio in vendita e affitto a Bologna\nCapannone a Bologna e provincia\nMenu\nLavora con noi\nVendi la tua casa\nContatti\nLa nostra agenzia\nServizi\n© 2023 Istituto Immobiliare Italiano - P. IVA 00883680373 - Tutti i diritti riservati - Privacy Policy – Credits\n \n\nCompare listings\n\nConfrontare Close",
+   "parsed": {
+    "prezzo": "€ 1.085.000",
+    "mq": "2010",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104457_5652.jpeg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104457_8283.jpeg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104458_3635.jpeg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104458_1184.jpeg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104458_4237.jpeg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104457_5652.jpeg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fcasa-colonica-in-vendita-a-sasso-marconi-999235%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086-1024x768.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fcasa-colonica-in-vendita-a-sasso-marconi-999235%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086-1024x768.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fcasa-colonica-in-vendita-a-sasso-marconi-999235%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086-1024x768.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_999235_20260802_104456_3086.jpg"
+  },
+  {
+   "url": "https://www.istitutoimmobiliareitaliano.it/attico-in-vendita-a-bologna-palazzo-dello-sport-998991/",
+   "title": "Attico in vendita a Bologna Palazzo dello sport | Istituto Immobiliare Italiano",
+   "h1": "Attico in vendita a Bologna Palazzo dello sport",
+   "h2": [
+    "Panoramica",
+    "Annuncio",
+    "Dettagli",
+    "Sede di Bologna",
+    "Sede di Castel San Pietro",
+    "Immobili"
+   ],
+   "ogTitle": "Attico in vendita a Bologna Palazzo dello sport | Istituto Immobiliare Italiano",
+   "ogImage": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096.jpg",
+   "ogDesc": "Adiacenze porta Lame a 100 metri dai Viali di Bologna e a 200 da piazza Azzarita, vendesi in stabile signorile risalente agli anni ottanta, suggestivo Attico ristrutturato in chiave moderna, costituito da salone di 50 mq , cucina abitabile , 3 camere 2 bagni possibilità di ricavare una quarta...",
+   "desc": "Adiacenze porta Lame a 100 metri dai Viali di Bologna e a 200 da piazza Azzarita, vendesi in stabile signorile risalente agli anni ottanta, suggestivo Attico ristrutturato in chiave moderna, costituito da salone di 50 mq , cucina abitabile , 3 camere 2 bagni possibilità di ricavare una quarta...",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Istituto Immobiliare Italiano\",\"description\":\"Just another WordPress site\",\"publisher\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\",\"name\":\"Istituto Immobiliare Italiano\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\",\"position\":\"1\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Home\",\"description\":\"Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},\"nextItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#listItem\"},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#listItem\",\"position\":\"2\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/\",\"name\":\"Attico in vendita a Bologna Palazzo dello sport\",\"description\":\"Adiacenze porta Lame a 100 metri dai Viali di Bologna e a 200 da piazza Azzarita, vendesi in stabile signorile risalente agli anni ottanta, suggestivo Attico ristrutturato in chiave moderna, costituito da salone di 50 mq , cucina abitabile , 3 camere 2 bagni possibilit\\u00e0 di ricavare una quarta...\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/\"},\"previousItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\"}]},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/#author\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/\",\"name\":\"admin\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#authorImage\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/39135f37ae45040dd928c37e63719bef?s=96&d=mm&r=g\",\"width\":\"96\",\"height\":\"96\",\"caption\":\"admin\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#webpage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/\",\"name\":\"Attico in vendita a Bologna Palazzo dello sport | Istituto Immobiliare Italiano\",\"description\":\"Adiacenze porta Lame a 100 metri dai Viali di Bologna e a 200 da piazza Azzarita, vendesi in stabile signorile risalente agli anni ottanta, suggestivo Attico ristrutturato in chiave moderna, costituito da salone di 50 mq , cucina abitabile , 3 camere 2 bagni possibilit\\u00e0 di ricavare una quarta...\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#breadcrumblist\"},\"author\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#author\",\"creator\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#author\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#mainImage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/wp-content\\/uploads\\/2026\\/08\\/IST_998991_20260705_172033_7096.jpg\",\"width\":\"1920\",\"height\":\"1281\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/attico-in-vendita-a-bologna-palazzo-dello-sport-998991\\/#mainImage\"},\"datePublished\":\"2026-11-04T04:01:34+01:00\",\"dateModified\":\"2026-11-04T04:01:34+01:00\"}]}\n\t\t",
+   "imgs": [
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172046_1946.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172034_7678.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172035_1103.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172038_1755.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172040_4901.jpg",
+     "w": 1920,
+     "h": 1281,
+     "rw": 847.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fattico-in-vendita-a-bologna-palazzo-dello-sport-998991%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fattico-in-vendita-a-bologna-palazzo-dello-sport-998991%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fattico-in-vendita-a-bologna-palazzo-dello-sport-998991%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096-1024x683.jpg"
+   ],
+   "descBlock": "Adiacenze porta Lame a 100 metri dai Viali di Bologna e a 200 da piazza Azzarita, vendesi in stabile signorile risalente agli anni ottanta, suggestivo Attico ristrutturato in chiave moderna, costituito da salone di 50 mq , cucina abitabile , 3 camere 2 bagni possibilità di ricavare una quarta camera. Terrazzo abitabile a livello del salone . Sussiste poì un livello superiore composto da un ampio vano con servizio privato e dotato di accesso privato dall’androne del condominio. Vista mozzafiato sui tetti di Bologna e sui colli . Completa il tutto la proprietà di una cantina e di un garage grande ove si potrebbe parcheggiare una macchina ed una utilitaria . Euro 980.000 classe energetica in via di definizione . rif. 003/3 276 S",
+   "text": "HOME\nVENDITA\nAFFITTO\nSERVIZI\nCHI SIAMO\nCONTATTI\nVENDI LA TUA CASA\n 051 522077  \nHome\nAttico\nAttico in vendita a Bologna Palazzo dello sport\n \nAttico in vendita a Bologna Palazzo dello sport\n€ 980.000\nVENDITA\nPalazzo dello sport\nPanoramica\nCodice: IST003/3 - 276 S\nAttico\nCategoria\n 3\nCamere\n 210\nMQ\n 1980\nAnno di costruzione\nAnnuncio\n\nAdiacenze porta Lame a 100 metri dai Viali di Bologna e a 200 da piazza Azzarita, vendesi in stabile signorile risalente agli anni ottanta, suggestivo Attico ristrutturato in chiave moderna, costituito da salone di 50 mq , cucina abitabile , 3 camere 2 bagni possibilità di ricavare una quarta camera. Terrazzo abitabile a livello del salone . Sussiste poì un livello superiore composto da un ampio vano con servizio privato e dotato di accesso privato dall’androne del condominio. Vista mozzafiato sui tetti di Bologna e sui colli . Completa il tutto la proprietà di una cantina e di un garage grande ove si potrebbe parcheggiare una macchina ed una utilitaria . Euro 980.000 classe energetica in via di definizione . rif. 003/3 276 S\n\nDettagli\nCodice:\nIST003/3 - 276 S\nPrezzo:\n€ 980.000\nSuperficie:\n210 MQ\nCamere:\n3\nAnno di costruzione:\n1980\nCategoria:\nAttico\nContratto:\nVendita\n Sante Zambonelli\nGuarda gli immobili\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui\nInvia\nChiama\nSede di Bologna\n\n Viale Pietramellara, 5\n 051 522077 - 051 522353\n istituto@immobiliareitaliano.it\nSede di Castel San Pietro\n\n Via Giacomo Matteotti, 59\n 051 695 1544\n istituto@immobiliareitaliano.it\nImmobili\nCase in affitto a Bologna\nCase in vendita a Bologna\nAppartamenti a Bologna e provincia\nNegozio in vendita e affitto a Bologna\nCapannone a Bologna e provincia\nMenu\nLavora con noi\nVendi la tua casa\nContatti\nLa nostra agenzia\nServizi\n© 2023 Istituto Immobiliare Italiano - P. IVA 00883680373 - Tutti i diritti riservati - Privacy Policy – Credits\n \n\nCompare listings\n\nConfrontare Close",
+   "parsed": {
+    "prezzo": "€ 980.000",
+    "mq": "1980",
+    "locali": null,
+    "camere": "210",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "e",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172046_1946.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172034_7678.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172035_1103.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172038_1755.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172040_4901.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fattico-in-vendita-a-bologna-palazzo-dello-sport-998991%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fattico-in-vendita-a-bologna-palazzo-dello-sport-998991%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fattico-in-vendita-a-bologna-palazzo-dello-sport-998991%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096-1024x683.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/08/IST_998991_20260705_172033_7096.jpg"
+  },
+  {
+   "url": "https://www.istitutoimmobiliareitaliano.it/appartamento-in-vendita-a-bologna-centro-storico-998141/",
+   "title": "Appartamento in vendita a Bologna Centro Storico | Istituto Immobiliare Italiano",
+   "h1": "Appartamento in vendita a Bologna Centro Storico",
+   "h2": [
+    "Panoramica",
+    "Annuncio",
+    "Dettagli",
+    "Immobili simili",
+    "Appartamento in affitto a Bologna Massarenti",
+    "Appartamento in affitto a Bologna Massarenti"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna Centro Storico | Istituto Immobiliare Italiano",
+   "ogImage": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989.jpg",
+   "ogDesc": "VENDESI CENTRO via Santo Stefano in palazzo d'epoca RISTRUTTURATO proponiamo appartamento con rifiniture di pregio e soffitti affrescati composto da salone AFFRESCATO sala da pranzo con cucinotto 3 camere da letto 2 bagni 1 zona molto grande adibita a lavanderia e mansarda collegata attraverso...",
+   "desc": "VENDESI CENTRO via Santo Stefano in palazzo d'epoca RISTRUTTURATO proponiamo appartamento con rifiniture di pregio e soffitti affrescati composto da salone AFFRESCATO sala da pranzo con cucinotto 3 camere da letto 2 bagni 1 zona molto grande adibita a lavanderia e mansarda collegata attraverso...",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Istituto Immobiliare Italiano\",\"description\":\"Just another WordPress site\",\"publisher\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#organization\",\"name\":\"Istituto Immobiliare Italiano\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\",\"position\":\"1\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\",\"name\":\"Home\",\"description\":\"Siamo tra le migliori agenzie immobiliari di Bologna e vi accompagnamo nell'acquisto, nella vendita o nell'affitto di case o immobili commerciali.\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/\"},\"nextItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#listItem\"},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#listItem\",\"position\":\"2\",\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/\",\"name\":\"Appartamento in vendita a Bologna Centro Storico\",\"description\":\"VENDESI CENTRO via Santo Stefano in palazzo d'epoca RISTRUTTURATO proponiamo appartamento con rifiniture di pregio e soffitti affrescati composto da salone AFFRESCATO sala da pranzo con cucinotto 3 camere da letto 2 bagni 1 zona molto grande adibita a lavanderia e mansarda collegata attraverso...\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/\"},\"previousItem\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#listItem\"}]},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/#author\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/author\\/admin\\/\",\"name\":\"admin\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#authorImage\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/39135f37ae45040dd928c37e63719bef?s=96&d=mm&r=g\",\"width\":\"96\",\"height\":\"96\",\"caption\":\"admin\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#webpage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/\",\"name\":\"Appartamento in vendita a Bologna Centro Storico | Istituto Immobiliare Italiano\",\"description\":\"VENDESI CENTRO via Santo Stefano in palazzo d'epoca RISTRUTTURATO proponiamo appartamento con rifiniture di pregio e soffitti affrescati composto da salone AFFRESCATO sala da pranzo con cucinotto 3 camere da letto 2 bagni 1 zona molto grande adibita a lavanderia e mansarda collegata attraverso...\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#breadcrumblist\"},\"author\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#author\",\"creator\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#author\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/#mainImage\",\"url\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/wp-content\\/uploads\\/2026\\/10\\/IST_998141_20260403_174005_9989.jpg\",\"width\":\"1536\",\"height\":\"1024\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.istitutoimmobiliareitaliano.it\\/appartamento-in-vendita-a-bologna-centro-storico-998141\\/#mainImage\"},\"datePublished\":\"2026-11-04T04:01:06+01:00\",\"dateModified\":\"2026-11-04T04:01:07+01:00\"}]}\n\t\t",
+   "imgs": [
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4654.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4409.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174007_4730.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4654.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4409.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 847.984375
+    },
+    {
+     "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174007_4730.jpg",
+     "w": 1920,
+     "h": 1280,
+     "rw": 847.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fappartamento-in-vendita-a-bologna-centro-storico-998141%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fappartamento-in-vendita-a-bologna-centro-storico-998141%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fappartamento-in-vendita-a-bologna-centro-storico-998141%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989-1024x683.jpg"
+   ],
+   "descBlock": "VENDESI CENTRO via Santo Stefano in palazzo d’epoca RISTRUTTURATO proponiamo appartamento con rifiniture di pregio e soffitti affrescati composto da salone AFFRESCATO sala da pranzo con cucinotto 3 camere da letto 2 bagni 1 zona molto grande adibita a lavanderia e mansarda collegata attraverso una scala interna risc aut aria cond PREZZO DI VENDITA 820.000 oltre a spese cond cert energ in fase di richiesta , rif. IST 004/5",
+   "text": "HOME\nVENDITA\nAFFITTO\nSERVIZI\nCHI SIAMO\nCONTATTI\nVENDI LA TUA CASA\n 051 522077  \nHome\nAppartamento\nAppartamento in vendita a Bologna Centro Storico\n \nAppartamento in vendita a Bologna Centro Storico\n€ 820.000\nVENDITA\nCentro Storico\nPanoramica\nCodice: IST 004/5 -71 F\nAppartamento\nCategoria\n 3\nCamere\n 2\nBagni\n 145\nMQ\nAnnuncio\n\nVENDESI CENTRO via Santo Stefano in palazzo d’epoca RISTRUTTURATO proponiamo appartamento con rifiniture di pregio e soffitti affrescati composto da salone AFFRESCATO sala da pranzo con cucinotto 3 camere da letto 2 bagni 1 zona molto grande adibita a lavanderia e mansarda collegata attraverso una scala interna risc aut aria cond PREZZO DI VENDITA 820.000 oltre a spese cond cert energ in fase di richiesta , rif. IST 004/5\n\nDettagli\nCodice:\nIST 004/5 -71 F\nPrezzo:\n€ 820.000\nSuperficie:\n145 MQ\nCamere:\n3\nBagni:\n2\nCategoria:\nAppartamento\nContratto:\nVendita\nImmobili simili\nAFFITTO\n€ 1.500\n  \nAppartamento in affitto a Bologna Massarenti\n 3  1 75 MQ\nAPPARTAMENTO\nScheda\nAFFITTO\n€ 950\n  \nAppartamento in affitto a Bologna Massarenti\n 0  1 65 MQ\nAPPARTAMENTO\nScheda\nAFFITTO\n€ 1.100\n  \nAppartamento in affitto a Bologna Borgo Panigale\n 0  1 55 MQ\nAPPARTAMENTO\nScheda\nAFFITTO\n€ 740\n  \nAppartamento in affitto a Bologna Zanardi\n 1  1 40 MQ\nAPPARTAMENTO\nScheda\n Francesco Zambonelli\nGuarda gli immobili\nAutorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui\nInvia\nChiama\nSede di Bologna\n\n Viale Pietramellara, 5\n 051 522077 - 051 522353\n istituto@immobiliareitaliano.it\nSede di Castel San Pietro\n\n Via Giacomo Matteotti, 59\n 051 695 1544\n istituto@immobiliareitaliano.it\nImmobili\nCase in affitto a Bologna\nCase in vendita a Bologna\nAppartamenti a Bologna e provincia\nNegozio in vendita e affitto a Bologna\nCapannone a Bologna e provincia\nMenu\nLavora con noi\nVendi la tua casa\nContatti\nLa nostra agenzia\nServizi\n© 2023 Istituto Immobiliare Italiano - P. IVA 00883680373 - Tutti i diritti riservati - Privacy Policy – Credits\n \n\nCompare listings\n\nConfrontare Close",
+   "parsed": {
+    "prezzo": "€ 820.000",
+    "mq": "Annuncio",
+    "locali": null,
+    "camere": "2",
+    "bagni": "145",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4654.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4409.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174007_4730.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4654.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174006_4409.jpg",
+    "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174007_4730.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fappartamento-in-vendita-a-bologna-centro-storico-998141%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fappartamento-in-vendita-a-bologna-centro-storico-998141%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989-1024x683.jpg",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.istitutoimmobiliareitaliano.it%2Fappartamento-in-vendita-a-bologna-centro-storico-998141%2F&media=https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989-1024x683.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2026/10/IST_998141_20260403_174005_9989.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.istitutoimmobiliareitaliano.it/wp-content/uploads/2021/05/istituto-immobiliare-italiano-trasparente.png",
+  "size": 9314
+ }
+}

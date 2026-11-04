@@ -1,0 +1,865 @@
+{
+ "cfg": {
+  "slug": "studio-degli-esposti",
+  "nome": "Studio Degli Esposti",
+  "home": "https://www.studiodegliesposti.it/",
+  "index": [],
+  "rx": "immobile_dettaglio[.]asp[?]cod_annuncio=[0-9]+",
+  "n": 6
+ },
+ "home": {
+  "title": "studio degli esposti",
+  "desc": null,
+  "emails": [
+   "info@studiodegliesposti.it"
+  ],
+  "tels": [
+   "0516230000"
+  ],
+  "logos": [
+   "https://sitiweb.immobiliare.it/media/03395/public/foto/logoo.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Quicksand, Arial, Helvetica, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Quicksand, Arial, Helvetica, sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Quicksand, Arial, Helvetica, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(245, 245, 245)",
+   "font": "\"Open Sans\", Arial, Helvetica, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(49, 168, 240)",
+   "font": "\"Open Sans\", Arial, Helvetica, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    32
+   ],
+   [
+    "rgb(191, 73, 73)",
+    6
+   ],
+   [
+    "rgb(241, 214, 0)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    2267
+   ],
+   [
+    "rgba(0, 0, 0, 0.7)",
+    44
+   ],
+   [
+    "rgb(191, 73, 73)",
+    11
+   ],
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(234, 235, 237)",
+    4
+   ],
+   [
+    "rgb(241, 214, 0)",
+    1
+   ],
+   [
+    "rgb(244, 177, 0)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.7)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(191, 73, 73)",
+    45
+   ],
+   [
+    "rgb(0, 0, 0)",
+    16
+   ],
+   [
+    "rgb(245, 245, 245)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 0, 0)",
+    385
+   ],
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgb(17, 17, 17)",
+    2
+   ],
+   [
+    "rgb(49, 168, 240)",
+    1
+   ],
+   [
+    "rgb(136, 136, 136)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Quicksand, Arial, Helvetica, sans-serif",
+    393
+   ],
+   [
+    "Poppins, Arial, Helvetica, sans-serif",
+    20
+   ],
+   [
+    "Comfortaa, Arial, Helvetica, sans-serif",
+    6
+   ],
+   [
+    "\"Open Sans\", Arial, Helvetica, sans-serif",
+    5
+   ],
+   [
+    "\"Lucida Console\", Monaco, monospace",
+    2
+   ],
+   [
+    "\"Helvetica Neue\", Arial, Helvetica, sans-serif",
+    2
+   ]
+  ],
+  "heads": [
+   "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+   "Ultimi annunci inseriti",
+   "La nostra agenzia",
+   "Cerca il tuo immobile",
+   "Lavora con noi",
+   "Valutazioni",
+   "Contattaci"
+  ],
+  "addr": "Via Siepelunga 47/2, 40137, Bologna, BO",
+  "final": "https://www.studiodegliesposti.it/"
+ },
+ "candidates": [
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=228567&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=315794&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=228519&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=368599&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=390351&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=390350&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=386521&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=386520&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=382192&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=381253&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=381401&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=375365&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=368131&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=367649&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=364331&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=374218&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=308872&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=260126&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=257623&language=ita",
+  "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=228603&language=ita"
+ ],
+ "listings": [
+  {
+   "url": "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=228567&language=ita",
+   "title": "Appartamento in vendita a Bologna zona Santo stefano - rif. VAR0701",
+   "h1": "SANTO STEFANO NUOVI DA IMPRESA IN PRESTIGIOSO PALAZZO",
+   "h2": [
+    "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+    "BOLOGNA - ZONA SANTO STEFANO",
+    "DETTAGLIO IMMOBILE",
+    "CONSISTENZE",
+    "Foto",
+    "MAPPA"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna zona Santo stefano - rif. VAR0701",
+   "ogImage": "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+   "ogDesc": "VIA SANTO STEFANO all'altezza Via Dante proponiamo appartamenti nuovi da impresa, frutto di ",
+   "desc": "VIA SANTO STEFANO all'altezza Via Dante proponiamo appartamenti nuovi da impresa, frutto di ",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+     "w": 1587,
+     "h": 1050,
+     "rw": 680.109375
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+     "w": 1587,
+     "h": 1050,
+     "rw": 680.109375
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1645857597/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1645857457/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1645857485/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    }
+   ],
+   "bgs": [
+    "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857443/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857457/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857467/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857485/xxl.jpg"
+   ],
+   "dataSrc": [
+    "https://psa.im-cdn.it/image/1645857597/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857443/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857457/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857467/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857485/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857495/xxl.jpg"
+   ],
+   "descBlock": "VIA SANTO STEFANO all'altezza Via Dante proponiamo appartamenti nuovi da impresa, frutto di restauro conservativo su porzione di prestigioso condominio, servizio di portineria, affascinante parco condominiale con alberi secolari, posti auto privati nella corte interna ed autorimesse interrate, eleganti finiture personalizzabili con ampia scelta delle tipologie dei materiali, innovativo sistema di riscaldamento ibrido d alta efficienza dotato di climatizzazione estiva, classe energetica prevista da A1 a B, in collaborazione con Immobiliare Margherita Marini\nUNITA' “A”\nAppartamento di 135 mq su due livelli così composto: al piano terra ingresso, soggiorno di 30 mq con cucina a vista dotato di due grandi vetrate con affaccio sul giardino interno, bagno; al primo piano 3 ampie camere e secondo bagno\nEu. 690.000,00\nPosto auto nella corte interna Eu. 80.000,00\nAutorimessa di 22 mq al piano interrato Eu. 150.000,00\nSTUDIO DEGLI ESPOSTI – 051 6230000",
+   "text": "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy\nContinua senza accettare\nAccetta\nPreferenze\nHome\nChi siamo\nVendita\nAffitto\nResidenziali\nLavora con noi\nValutazioni\nContatti\nSANTO STEFANO NUOVI DA IMPRESA IN PRESTIGIOSO PALAZZO\nBOLOGNA - ZONA SANTO STEFANO\nRif: VAR0701\nCondividi\n€ 690.000\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\nDESCRIZIONE\nDETTAGLI\nFOTO\nRICHIESTA\nMAPPA\nPLANIMETRIE\nAppartamento\n130 Mq\n4 Vani\nClasse energetica Non indicata\n3 Camere\n2 Bagni\nGarage\nVIA SANTO STEFANO all'altezza Via Dante proponiamo appartamenti nuovi da impresa, frutto di restauro conservativo su porzione di prestigioso condominio, servizio di portineria, affascinante parco condominiale con alberi secolari, posti auto privati nella corte interna ed autorimesse interrate, eleganti finiture personalizzabili con ampia scelta delle tipologie dei materiali, innovativo sistema di riscaldamento ibrido d alta efficienza dotato di climatizzazione estiva, classe energetica prevista da A1 a B, in collaborazione con Immobiliare Margherita Marini\nUNITA' “A”\nAppartamento di 135 mq su due livelli così composto: al piano terra ingresso, soggiorno di 30 mq con cucina a vista dotato di due grandi vetrate con affaccio sul giardino interno, bagno; al primo piano 3 ampie camere e secondo bagno\nEu. 690.000,00\nPosto auto nella corte interna Eu. 80.000,00\nAutorimessa di 22 mq al piano interrato Eu. 150.000,00\nSTUDIO DEGLI ESPOSTI – 051 6230000\nDETTAGLIO IMMOBILE\nContratto\nVendita\nRif\nVAR0701\nPrezzo\n€ 690.000\nProvincia\nBologna\nComune\nBologna\nZona\nSanto Stefano\nIndirizzo\nVia Santo Stefano 103\nVani\n4\nCamere\n3\nBagni\n2\nClasse energetica\nNon indicata\nRiscaldamento\ncentralizzato\nCondizioni\nnuova costruzione\nSpese condominiali\n€ 160\nAnno di costruzione\n2025\nCucina\na vista\nCONSISTENZE\nDESCRIZIONE\tSUPERFICIE\tSUP. COMM.\nPrincipali\nImmobile - piano terra\t70 Mq\t70 Mqc\nImmobile - 1° piano\t55 Mq\t55 Mqc\nParti comuni - piano terra\t10 Mq\t5 Mqc\nTOTALE\t\t130 MQC\nMAPPA\n+\n−\n Leaflet | © OpenStreetMap contributors\nZoom della mappa Apri con: Apple Maps Google Maps Waze\nPLANIMETRIE\nRICHIEDI MAGGIORI INFORMAZIONI\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nContattaci\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 BOLOGNA (BO)\nP.IVA: 04188050373\n 0516230000\nCondividi\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 Bologna (BO)\nP.IVA: 04188050373\n 0516230000\nImpostazioni dei cookie - Privacy",
+   "parsed": {
+    "prezzo": "€ 690.000",
+    "mq": "130",
+    "locali": "4",
+    "camere": "3",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "Non indicata",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857597/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857457/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857485/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857443/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857457/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857467/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857485/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857597/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857435/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857443/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857457/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857467/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857477/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857485/xxl.jpg",
+    "https://psa.im-cdn.it/image/1645857495/xxl.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://psa.im-cdn.it/image/1645857435/xxl.jpg"
+  },
+  {
+   "url": "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=315794&language=ita",
+   "title": "Villa plurifamiliare in vendita a Bologna zona Collinare - rif. VAS0113",
+   "h1": "SIEPELUNGA COLLINARE VILLA BIFAMILIARE NUOVA DA IMPRESA",
+   "h2": [
+    "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+    "BOLOGNA - ZONA COLLINARE",
+    "DETTAGLIO IMMOBILE",
+    "CONSISTENZE",
+    "Foto",
+    "MAPPA"
+   ],
+   "ogTitle": "Villa plurifamiliare in vendita a Bologna zona Collinare - rif. VAS0113",
+   "ogImage": "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+   "ogDesc": "VIA GAIBARA porzione di bifamiliare di testa indipendente di nuova costruzione cielo terra con ",
+   "desc": "VIA GAIBARA porzione di bifamiliare di testa indipendente di nuova costruzione cielo terra con ",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586075947/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586075975/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586075977/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586075983/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586075993/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    }
+   ],
+   "bgs": [
+    "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075947/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075953/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755544/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755540/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075961/xxl.jpg"
+   ],
+   "dataSrc": [
+    "https://psa.im-cdn.it/image/1586076025/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075947/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075953/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755544/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755540/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075961/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755548/xxl.jpg"
+   ],
+   "descBlock": "VIA GAIBARA porzione di bifamiliare di testa indipendente di nuova costruzione cielo terra con splendido affaccio a sud disposta su 4 livelli per un totale di 460 mq commerciali terrazza con vasca/piscina panoramica garage di 128 mq e ampio giardino privato di 1600 mq aria condizionata, riscaldamento autonomo,classe energetica futura (Classe A2), consegna 8 mesi da preliminare Eu. 1.850.000,00 - STUDIO DEGLI ESPOSTI - 051 6230000 - STUDIO DEGLI ESPOSTI - 051 6230000",
+   "text": "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy\nContinua senza accettare\nAccetta\nPreferenze\nHome\nChi siamo\nVendita\nAffitto\nResidenziali\nLavora con noi\nValutazioni\nContatti\nSIEPELUNGA COLLINARE VILLA BIFAMILIARE NUOVA DA IMPRESA\nBOLOGNA - ZONA COLLINARE\nRif: VAS0113\nCondividi\n€ 1.850.000\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\nDESCRIZIONE\nDETTAGLI\nFOTO\nRICHIESTA\nMAPPA\nPLANIMETRIE\nVilla plurifamiliare\n462 Mq\n6 Vani\nGiardino\nClasse energetica A3\n4 Camere\n4 Bagni\nGarage\nPiscina\nVIA GAIBARA porzione di bifamiliare di testa indipendente di nuova costruzione cielo terra con splendido affaccio a sud disposta su 4 livelli per un totale di 460 mq commerciali terrazza con vasca/piscina panoramica garage di 128 mq e ampio giardino privato di 1600 mq aria condizionata, riscaldamento autonomo,classe energetica futura (Classe A2), consegna 8 mesi da preliminare Eu. 1.850.000,00 - STUDIO DEGLI ESPOSTI - 051 6230000 - STUDIO DEGLI ESPOSTI - 051 6230000\nDETTAGLIO IMMOBILE\nContratto\nVendita\nRif\nVAS0113\nPrezzo\n€ 1.850.000\nProvincia\nBologna\nComune\nBologna\nZona\nCollinare\nVani\n6\nCamere\n4\nBagni\n4\nClasse energetica\nA3 (DL 90/2013)\nEPgl,nren\n175 kwh/m2 anno\nRiscaldamento\nautonomo\nCondizioni\nnuova costruzione\nAnno di costruzione\n2024\nCondizionamento\nsi\nCucina\nabitabile\nPiscina\nsi\nCONSISTENZE\nDESCRIZIONE\tSUPERFICIE\tSUP. COMM.\nPrincipali\nImmobile - piano terra\t102 Mq\t102 Mqc\nImmobile - 1° piano\t99 Mq\t99 Mqc\nImmobile - 2° piano\t60 Mq\t60 Mqc\nImmobile - piano interrato\t150 Mq\t120 Mqc\nTerrazza - piano terra\t34 Mq\t10 Mqc\nTerrazza - 2° piano\t14 Mq\t7 Mqc\nBox/Garage - piano terra\t128 Mq\t64 Mqc\nTOTALE\t\t462 MQC\nMAPPA\n+\n−\n Leaflet | © OpenStreetMap contributors\nZoom della mappa Apri con: Apple Maps Google Maps Waze\nPLANIMETRIE\nRICHIEDI MAGGIORI INFORMAZIONI\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nContattaci\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 BOLOGNA (BO)\nP.IVA: 04188050373\n 0516230000\nCondividi\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 Bologna (BO)\nP.IVA: 04188050373\n 0516230000\nImpostazioni dei cookie - Privacy",
+   "parsed": {
+    "prezzo": "€ 1.850.000",
+    "mq": "462",
+    "locali": "6",
+    "camere": "4",
+    "bagni": "4",
+    "piano": null,
+    "classe_energetica": "A3",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075947/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075975/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075977/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075983/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075993/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075947/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075953/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755544/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755540/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075961/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586076025/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075941/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075947/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075953/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755544/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755540/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586075961/xxl.jpg",
+    "https://psa.im-cdn.it/image/1928755548/xxl.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://psa.im-cdn.it/image/1586075941/xxl.jpg"
+  },
+  {
+   "url": "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=228519&language=ita",
+   "title": "Villa in vendita a Monzuno (Bologna) - rif. VAC0415",
+   "h1": "MONZUNO - VADO VILLA CON PISCINA",
+   "h2": [
+    "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+    "MONZUNO (BOLOGNA)",
+    "DETTAGLIO IMMOBILE",
+    "CONSISTENZE",
+    "Foto",
+    "MAPPA"
+   ],
+   "ogTitle": "Villa in vendita a Monzuno (Bologna)  - rif. VAC0415",
+   "ogImage": "https://psa.im-cdn.it/image/1586071265/xxl.jpg",
+   "ogDesc": "MONZUNO splendida villa indipendente immersa in 5.400 mq. di parco privato con piscina e campo da ",
+   "desc": "MONZUNO splendida villa indipendente immersa in 5.400 mq. di parco privato con piscina e campo da ",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+     "w": 800,
+     "h": 532,
+     "rw": 676.65625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+     "w": 800,
+     "h": 532,
+     "rw": 676.65625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+     "w": 800,
+     "h": 532,
+     "rw": 676.65625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+     "w": 800,
+     "h": 532,
+     "rw": 676.65625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+     "w": 800,
+     "h": 531,
+     "rw": 677.9375
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+     "w": 800,
+     "h": 531,
+     "rw": 677.9375
+    }
+   ],
+   "bgs": [
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071273/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071277/xxl.jpg"
+   ],
+   "dataSrc": [
+    "https://psa.im-cdn.it/image/1586071277/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071273/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071277/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg"
+   ],
+   "descBlock": "MONZUNO splendida villa indipendente immersa in 5.400 mq. di parco privato con piscina e campo da tennis PIANO TERRA.: soggiorno con camino cucina abitabile 4 camere 3 bagni lavanderia e ampio porticato PIANO PRIMO: soffitta con 2 camere e bagno PIANO TAVERNA: sala biliardo palestra 2 camere bagno lavanderia cantina e garage Eu. 500.000,00 www.studiodegliesposti.it",
+   "text": "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy\nContinua senza accettare\nAccetta\nPreferenze\nHome\nChi siamo\nVendita\nAffitto\nResidenziali\nLavora con noi\nValutazioni\nContatti\nMONZUNO - VADO VILLA CON PISCINA\nMONZUNO (BOLOGNA)\nRif: VAC0415\nCondividi\n€ 500.000\n1\n2\n3\n4\n5\n6\nDESCRIZIONE\nDETTAGLI\nFOTO\nRICHIESTA\nMAPPA\nVilla\n421 Mq\n9 Vani\nGiardino\nClasse energetica G\n7 Camere\n4 Bagni\nGarage\nPiscina\nMONZUNO splendida villa indipendente immersa in 5.400 mq. di parco privato con piscina e campo da tennis PIANO TERRA.: soggiorno con camino cucina abitabile 4 camere 3 bagni lavanderia e ampio porticato PIANO PRIMO: soffitta con 2 camere e bagno PIANO TAVERNA: sala biliardo palestra 2 camere bagno lavanderia cantina e garage Eu. 500.000,00 www.studiodegliesposti.it\nDETTAGLIO IMMOBILE\nContratto\nVendita\nRif\nVAC0415\nPrezzo\n€ 500.000\nProvincia\nBologna\nComune\nMonzuno\nIndirizzo\nLocalità Casette\nVani\n9\nCamere\n7\nBagni\n4\nClasse energetica\nG (DL 192/2005)\nEPI\n211.99 kwh/m2 anno\nRiscaldamento\nautonomo\nCondizioni\nabitabile\nCucina\nabitabile\nPiscina\nsi\nCONSISTENZE\nDESCRIZIONE\tSUPERFICIE\tSUP. COMM.\nPrincipali\nImmobile - piano terra\t421 Mq\t421 Mqc\nTOTALE\t\t421 MQC\nMAPPA\n+\n−\n Leaflet | © OpenStreetMap contributors\nZoom della mappa Apri con: Apple Maps Google Maps Waze\nRICHIEDI MAGGIORI INFORMAZIONI\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nContattaci\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 BOLOGNA (BO)\nP.IVA: 04188050373\n 0516230000\nCondividi\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 Bologna (BO)\nP.IVA: 04188050373\n 0516230000\nImpostazioni dei cookie - Privacy",
+   "parsed": {
+    "prezzo": "€ 500.000",
+    "mq": "421",
+    "locali": "tà Casette",
+    "camere": "7",
+    "bagni": "4",
+    "piano": null,
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071273/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071277/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071277/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071267/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071271/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071273/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071275/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071277/xxl.jpg",
+    "https://psa.im-cdn.it/image/1586071265/xxl.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://psa.im-cdn.it/image/1586071265/xxl.jpg"
+  },
+  {
+   "url": "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=368599&language=ita",
+   "title": "Appartamento in affitto a Bologna zona Colli murri - rif. LAR0530",
+   "h1": "VIA SIEPLUNGA AD.ZE",
+   "h2": [
+    "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+    "BOLOGNA - ZONA COLLI MURRI",
+    "DETTAGLIO IMMOBILE",
+    "CONSISTENZE",
+    "Foto",
+    "MAPPA"
+   ],
+   "ogTitle": "Appartamento in affitto a Bologna zona Colli murri - rif. LAR0530",
+   "ogImage": "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+   "ogDesc": "VIA SIEPLUNGA AD.ZE silenziosissimo appartamento immerso nel verde arredato ingresso soggiorno ",
+   "desc": "VIA SIEPLUNGA AD.ZE silenziosissimo appartamento immerso nel verde arredato ingresso soggiorno ",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://psa.im-cdn.it/image/1732821520/xxl.jpg",
+     "w": 1400,
+     "h": 1050,
+     "rw": 600
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+     "w": 1400,
+     "h": 1050,
+     "rw": 600
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1732821354/xxl.jpg",
+     "w": 1400,
+     "h": 1050,
+     "rw": 600
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1732821360/xxl.jpg",
+     "w": 1400,
+     "h": 1050,
+     "rw": 600
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1732821368/xxl.jpg",
+     "w": 1400,
+     "h": 1050,
+     "rw": 600
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/1732821378/xxl.jpg",
+     "w": 1400,
+     "h": 1050,
+     "rw": 600
+    }
+   ],
+   "bgs": [
+    "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821354/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821360/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821368/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821378/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821388/xxl.jpg"
+   ],
+   "dataSrc": [
+    "https://psa.im-cdn.it/image/1732821520/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821354/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821360/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821368/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821378/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821388/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821396/xxl.jpg"
+   ],
+   "descBlock": "VIA SIEPLUNGA AD.ZE\nsilenziosissimo appartamento immerso nel verde arredato ingresso soggiorno cucina 2 camere bagno cantina garage risc. centr (Classe \"G\" EP=204,05) Eu. 1.300,00 mensili www.studiodegliesposti.it",
+   "text": "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy\nContinua senza accettare\nAccetta\nPreferenze\nHome\nChi siamo\nVendita\nAffitto\nResidenziali\nLavora con noi\nValutazioni\nContatti\nVIA SIEPLUNGA AD.ZE\nBOLOGNA - ZONA COLLI MURRI\nRif: LAR0530\nCondividi\n€ 1.300/mese\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\nDESCRIZIONE\nDETTAGLI\nFOTO\nRICHIESTA\nMAPPA\nAppartamento\n120 Mq\n4 Vani\nClasse energetica G\n2 Camere\n1 bagno\nGarage\nAscensore\nVIA SIEPLUNGA AD.ZE\nsilenziosissimo appartamento immerso nel verde arredato ingresso soggiorno cucina 2 camere bagno cantina garage risc. centr (Classe \"G\" EP=204,05) Eu. 1.300,00 mensili www.studiodegliesposti.it\nDETTAGLIO IMMOBILE\nContratto\nAffitto\nRif\nLAR0530\nPrezzo\n€ 1.300\nProvincia\nBologna\nComune\nBologna\nZona\nColli Murri\nIndirizzo\nVia Paolo Baroni 3\nVani\n4\nCamere\n2\nBagni\n1\nClasse energetica\nG (DL 192/2005)\nEPI\n175 kwh/m2 anno\nPiano\n1 / 3\nRiscaldamento\ncentralizzato\nCondizioni\nabitabile\nSpese condominiali\n€ 300\nAnno di costruzione\n1980\nArredato\nsi\nAscensore\nsi\nCucina\nabitabile\nCONSISTENZE\nDESCRIZIONE\tSUPERFICIE\tSUP. COMM.\nPrincipali\nImmobile - 1° piano\t110 Mq\t110 Mqc\nBox/Garage - piano terra\t20 Mq\t10 Mqc\nTOTALE\t\t120 MQC\nMAPPA\n+\n−\n Leaflet | © OpenStreetMap contributors\nZoom della mappa Apri con: Apple Maps Google Maps Waze\nRICHIEDI MAGGIORI INFORMAZIONI\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nContattaci\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 BOLOGNA (BO)\nP.IVA: 04188050373\n 0516230000\nCondividi\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 Bologna (BO)\nP.IVA: 04188050373\n 0516230000\nImpostazioni dei cookie - Privacy",
+   "parsed": {
+    "prezzo": "€ 1.300",
+    "mq": "120",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "1 / 3",
+    "classe_energetica": "G",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821520/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821354/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821360/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821368/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821378/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821354/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821360/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821368/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821378/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821388/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821520/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821346/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821354/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821360/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821368/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821378/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821388/xxl.jpg",
+    "https://psa.im-cdn.it/image/1732821396/xxl.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://psa.im-cdn.it/image/1732821346/xxl.jpg"
+  },
+  {
+   "url": "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=390351&language=ita",
+   "title": "Appartamento in vendita a Bologna zona Bolognina - rif. VAT0510",
+   "h1": "VIA DONATO CRETI TRILOCALE CON TERRAZZA NUOVO ARREDATO",
+   "h2": [
+    "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+    "BOLOGNA - ZONA BOLOGNINA",
+    "DETTAGLIO IMMOBILE",
+    "CONSISTENZE",
+    "Foto",
+    "MAPPA"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna zona Bolognina - rif. VAT0510",
+   "ogImage": "https://psa.im-cdn.it/image/2046519697/xxl.jpg",
+   "ogDesc": "VIA DONATO CRETI – P.STAR 3 Nuova costruzione del 2022, classe energetica A3, appartamento arredato ",
+   "desc": "VIA DONATO CRETI – P.STAR 3 Nuova costruzione del 2022, classe energetica A3, appartamento arredato ",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://psa.im-cdn.it/image/2046520041/xxl.jpg",
+     "w": 1604,
+     "h": 1050,
+     "rw": 687.390625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046520041/xxl.jpg",
+     "w": 1604,
+     "h": 1050,
+     "rw": 687.390625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046520055/xxl.jpg",
+     "w": 1598,
+     "h": 1050,
+     "rw": 684.828125
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046520055/xxl.jpg",
+     "w": 1598,
+     "h": 1050,
+     "rw": 684.828125
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    }
+   ],
+   "bgs": [
+    "https://psa.im-cdn.it/image/2046519697/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519713/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519727/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519737/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519751/xxl.jpg"
+   ],
+   "dataSrc": [
+    "https://psa.im-cdn.it/image/2046520133/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519697/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519713/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519727/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519737/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519751/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519757/xxl.jpg"
+   ],
+   "descBlock": "VIA DONATO CRETI – P.STAR 3\nNuova costruzione del 2022, classe energetica A3, appartamento arredato a nuovo con mobilio di ottima qualità, composto da soggiorno con angolo cucina, 2 camere, bagno, terrazza coperta, seconda terrazza scoperta, cantina (Classe A3 EP=52,29)\nA soli 800 metri da Porta Mascarella P.Star 3 è una nuova realizzazione ultimata nel 2022, la massima tecnologia al prezzo migliore della zona, riscaldamento ed aria condizionata a pompa di calore con sistema di contabilizzazione, coibentazioni e infissi di ultima generazione per un alto isolamento termico e acustico, consumi quasi zero, costi di gestione ridotti al minimo, posti moto/bici, sistema di videosorveglianza, fotovoltaico e solare termico, accesso per disabili, piscina estiva posta sul tetto di P.House in uso a tutti i condomini\nEu. 350.000,00\nPosto auto a parte Eu. 20.000,00\nSTUDIO DEGLI ESPOSTI – 051 6230000",
+   "text": "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy\nContinua senza accettare\nAccetta\nPreferenze\nHome\nChi siamo\nVendita\nAffitto\nResidenziali\nLavora con noi\nValutazioni\nContatti\nVIA DONATO CRETI TRILOCALE CON TERRAZZA NUOVO ARREDATO\nBOLOGNA - ZONA BOLOGNINA\nRif: VAT0510\nCondividi\n€ 350.000\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\nDESCRIZIONE\nDETTAGLI\nFOTO\nRICHIESTA\nMAPPA\nPLANIMETRIE\nAppartamento\n73 Mq\n3 Vani\nClasse energetica A2\n2 Camere\n1 bagno\nAscensore\nPiscina\nVIA DONATO CRETI – P.STAR 3\nNuova costruzione del 2022, classe energetica A3, appartamento arredato a nuovo con mobilio di ottima qualità, composto da soggiorno con angolo cucina, 2 camere, bagno, terrazza coperta, seconda terrazza scoperta, cantina (Classe A3 EP=52,29)\nA soli 800 metri da Porta Mascarella P.Star 3 è una nuova realizzazione ultimata nel 2022, la massima tecnologia al prezzo migliore della zona, riscaldamento ed aria condizionata a pompa di calore con sistema di contabilizzazione, coibentazioni e infissi di ultima generazione per un alto isolamento termico e acustico, consumi quasi zero, costi di gestione ridotti al minimo, posti moto/bici, sistema di videosorveglianza, fotovoltaico e solare termico, accesso per disabili, piscina estiva posta sul tetto di P.House in uso a tutti i condomini\nEu. 350.000,00\nPosto auto a parte Eu. 20.000,00\nSTUDIO DEGLI ESPOSTI – 051 6230000\nDETTAGLIO IMMOBILE\nContratto\nVendita\nRif\nVAT0510\nPrezzo\n€ 350.000\nProvincia\nBologna\nComune\nBologna\nZona\nBolognina\nIndirizzo\nVia Donato Creti\nVani\n3\nCamere\n2\nBagni\n1\nClasse energetica\nA2 (DL 90/2013)\nEPgl,nren\n52,29 kwh/m2 anno\nPiano\n1 / 3\nRiscaldamento\nautonomo\nCondizioni\nnuova costruzione\nSpese condominiali\n€ 100\nAnno di costruzione\n2022\nArredato\nsi\nAscensore\nsi\nCucina\nangolo cottura\nPiscina\nsi\nCONSISTENZE\nDESCRIZIONE\tSUPERFICIE\tSUP. COMM.\nPrincipali\nImmobile - 1° piano\t65 Mq\t65 Mqc\nTerrazza - 1° piano\t6 Mq\t6 Mqc\nTerrazza - 1° piano\t5 Mq\t2 Mqc\nCantina - piano terra\t2 Mq\t0 Mqc\nTOTALE\t\t73 MQC\nMAPPA\n+\n−\n Leaflet | © OpenStreetMap contributors\nZoom della mappa Apri con: Apple Maps Google Maps Waze\nPLANIMETRIE\nRICHIEDI MAGGIORI INFORMAZIONI\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nContattaci\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 BOLOGNA (BO)\nP.IVA: 04188050373\n 0516230000\nCondividi\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 Bologna (BO)\nP.IVA: 04188050373\n 0516230000\nImpostazioni dei cookie - Privacy",
+   "parsed": {
+    "prezzo": "€ 350.000",
+    "mq": "73",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "1 / 3",
+    "classe_energetica": "A2",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://psa.im-cdn.it/image/2046519697/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046520041/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046520041/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046520055/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046520055/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519697/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519713/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519727/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519737/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519751/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046520133/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519697/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519709/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519713/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519727/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519737/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519751/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046519757/xxl.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://psa.im-cdn.it/image/2046519697/xxl.jpg"
+  },
+  {
+   "url": "https://www.studiodegliesposti.it/web/immobile_dettaglio.asp?cod_annuncio=390350&language=ita",
+   "title": "Appartamento in vendita a Bologna zona Irnerio - rif. VAT1012",
+   "h1": "VIA BELLE ARTI ULTIMO PANO LUMINOSO 4 CAMERE 2 BAGNI",
+   "h2": [
+    "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy",
+    "BOLOGNA - ZONA IRNERIO",
+    "DETTAGLIO IMMOBILE",
+    "CONSISTENZE",
+    "Foto",
+    "MAPPA"
+   ],
+   "ogTitle": "Appartamento in vendita a Bologna zona Irnerio - rif. VAT1012",
+   "ogImage": "https://psa.im-cdn.it/image/2046496151/xxl.jpg",
+   "ogDesc": "VIA BELLE ARTI AD.ZE ultimo piano luminoso, in signorile palazzo storico, silenziosissimo con ",
+   "desc": "VIA BELLE ARTI AD.ZE ultimo piano luminoso, in signorile palazzo storico, silenziosissimo con ",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+     "w": 1576,
+     "h": 1050,
+     "rw": 675.390625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+     "w": 1576,
+     "h": 1050,
+     "rw": 675.390625
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046496161/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046496181/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046496193/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    },
+    {
+     "src": "https://psa.im-cdn.it/image/2046496195/xxl.jpg",
+     "w": 1575,
+     "h": 1050,
+     "rw": 675
+    }
+   ],
+   "bgs": [
+    "https://psa.im-cdn.it/image/2046496151/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496161/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496181/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496193/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496195/xxl.jpg"
+   ],
+   "dataSrc": [
+    "https://psa.im-cdn.it/image/2046496567/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496151/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496161/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496181/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496193/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496195/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496207/xxl.jpg"
+   ],
+   "descBlock": "VIA BELLE ARTI AD.ZE ultimo piano luminoso, in signorile palazzo storico, silenziosissimo con affacci su corti interne, ampia metratura, impianti a norma, riscaldamento autonomo, composto da ingresso abitabile finestrato, zona giorno/pranzo, cucinotto, 4 camere, 2 bagni, ripostiglio, balcone, soffitta, cantina, caldaia nuova a condensazione, impianto elettrico nuovo, finestre e scuri restaurati, classe \"G\", basse spese condominiali, ottimo contesto, no ascensore, Eu. 640.000,00 - STUDIO DEGLI ESPOSTI - 051 6230000",
+   "text": "Questo sito usa dei cookie per attivare alcune funzionalità Cookies policy\nContinua senza accettare\nAccetta\nPreferenze\nHome\nChi siamo\nVendita\nAffitto\nResidenziali\nLavora con noi\nValutazioni\nContatti\nVIA BELLE ARTI ULTIMO PANO LUMINOSO 4 CAMERE 2 BAGNI\nBOLOGNA - ZONA IRNERIO\nRif: VAT1012\nCondividi\n€ 640.000\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\nDESCRIZIONE\nDETTAGLI\nFOTO\nRICHIESTA\nMAPPA\nPLANIMETRIE\nAppartamento\n143 Mq\n5 Vani\nClasse energetica G\n4 Camere\n2 Bagni\nVIA BELLE ARTI AD.ZE ultimo piano luminoso, in signorile palazzo storico, silenziosissimo con affacci su corti interne, ampia metratura, impianti a norma, riscaldamento autonomo, composto da ingresso abitabile finestrato, zona giorno/pranzo, cucinotto, 4 camere, 2 bagni, ripostiglio, balcone, soffitta, cantina, caldaia nuova a condensazione, impianto elettrico nuovo, finestre e scuri restaurati, classe \"G\", basse spese condominiali, ottimo contesto, no ascensore, Eu. 640.000,00 - STUDIO DEGLI ESPOSTI - 051 6230000\nDETTAGLIO IMMOBILE\nContratto\nVendita\nRif\nVAT1012\nPrezzo\n€ 640.000\nProvincia\nBologna\nComune\nBologna\nZona\nIrnerio\nIndirizzo\nVia delle Belle Arti\nVani\n5\nCamere\n4\nBagni\n2\nClasse energetica\nG (DL 90/2013)\nEPgl,nren\n307,85 kwh/m2 anno\nPiano\n2 / 2\nRiscaldamento\nautonomo\nCondizioni\nabitabile\nSpese condominiali\n€ 100\nCucina\ncucinotto\nCONSISTENZE\nDESCRIZIONE\tSUPERFICIE\tSUP. COMM.\nPrincipali\nImmobile - 2° piano\t136 Mq\t136 Mqc\nBalcone - 2° piano\t3 Mq\t1 Mqc\nSoffitta - 3° piano\t12 Mq\t3 Mqc\nCantina - piano interrato\t11 Mq\t3 Mqc\nTOTALE\t\t143 MQC\nMAPPA\n+\n−\n Leaflet | © OpenStreetMap contributors\nZoom della mappa Apri con: Apple Maps Google Maps Waze\nPLANIMETRIE\nRICHIEDI MAGGIORI INFORMAZIONI\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nContattaci\nNominativo*\nTelefono*\nE-mail*\nRichiesta*\nAutorizzazione al trattamento dei dati personali+\nSi* \nNo\nRiempi il campo con il codice riportato nell'immagine*\nInvia il modulo\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 BOLOGNA (BO)\nP.IVA: 04188050373\n 0516230000\nCondividi\nStudio Degli Esposti\nVia Siepelunga, 47/2\n40137 Bologna (BO)\nP.IVA: 04188050373\n 0516230000\nImpostazioni dei cookie - Privacy",
+   "parsed": {
+    "prezzo": "€ 640.000",
+    "mq": "143",
+    "locali": "5",
+    "camere": "4",
+    "bagni": "2",
+    "piano": "2 / 2",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://psa.im-cdn.it/image/2046496151/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496161/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496181/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496193/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496195/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496151/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496161/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496181/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496193/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496195/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496567/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496151/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496161/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496173/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496181/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496193/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496195/xxl.jpg",
+    "https://psa.im-cdn.it/image/2046496207/xxl.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://psa.im-cdn.it/image/2046496151/xxl.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://sitiweb.immobiliare.it/media/03395/public/foto/logoo.png",
+  "size": 6490
+ }
+}

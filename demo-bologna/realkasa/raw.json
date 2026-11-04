@@ -1,0 +1,882 @@
+{
+ "cfg": {
+  "slug": "realkasa",
+  "nome": "Realkasa",
+  "home": "https://www.realkasa.it/",
+  "index": [
+   "https://www.realkasa.it/immobili-in-vendita-bologna/",
+   "https://www.realkasa.it/immobili-in-affitto-bologna/"
+  ],
+  "rx": "/immobile/[0-9]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Realkasa - Agenzia Immobiliare Bologna - Agenzia Immobiliare Bologna",
+  "desc": "L'Agenzia Immobiliare Realkasa a Bologna è una agenzia immobiliare specializzata in compravendite, locazioni e affitti brevi a Bologna.",
+  "emails": [
+   "info@realkasa.it"
+  ],
+  "tels": [
+   "+39051431895",
+   "+39 051 431895",
+   "051431895"
+  ],
+  "logos": [
+   "https://www.realkasa.it/wp-content/uploads/2026/09/realkasa-logo-white.png",
+   "https://www.realkasa.it/wp-content/uploads/2026/09/realkasa-logo-color.png",
+   "https://www.realkasa.it/wp-content/themes/agim/images/logo.png"
+  ],
+  "svgLogo": "<svg viewBox=\"0 0 24 24\"><path d=\"M6.6 10.8c1.4 2.8 3.8 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.3 21 3 13.7 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.2.2 2.4.6 3.6.1.4 0 .8-.3 1z\"></path></svg>",
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(119, 119, 119)",
+   "font": "Raleway, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(119, 119, 119)",
+   "font": "Montserrat, -apple-system, \"Segoe UI\", Arial, sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(119, 119, 119)",
+   "font": "Raleway, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"Playfair Display\", Georgia, serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 51, 51)",
+   "font": "Raleway, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    11
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    8
+   ],
+   [
+    "rgb(227, 6, 19)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(255, 51, 51)",
+    1
+   ],
+   [
+    "rgb(241, 241, 242)",
+    1
+   ],
+   [
+    "rgb(255, 0, 0)",
+    1
+   ],
+   [
+    "rgb(37, 211, 102)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    398
+   ],
+   [
+    "rgb(247, 245, 241)",
+    23
+   ],
+   [
+    "rgb(255, 255, 255)",
+    20
+   ],
+   [
+    "rgb(255, 51, 51)",
+    8
+   ],
+   [
+    "rgb(102, 102, 102)",
+    6
+   ],
+   [
+    "rgb(227, 6, 19)",
+    5
+   ],
+   [
+    "rgb(28, 29, 31)",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.05)",
+    2
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    13
+   ],
+   [
+    "rgb(28, 29, 31)",
+    8
+   ],
+   [
+    "rgb(34, 34, 34)",
+    6
+   ],
+   [
+    "rgb(119, 119, 119)",
+    1
+   ],
+   [
+    "rgb(26, 29, 31)",
+    1
+   ],
+   [
+    "rgb(85, 88, 90)",
+    1
+   ],
+   [
+    "rgb(9, 9, 9)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(168, 168, 168)",
+    26
+   ],
+   [
+    "rgb(255, 255, 255)",
+    24
+   ],
+   [
+    "rgb(69, 70, 74)",
+    21
+   ],
+   [
+    "rgb(28, 29, 31)",
+    21
+   ],
+   [
+    "rgb(255, 51, 51)",
+    7
+   ],
+   [
+    "rgb(34, 34, 34)",
+    6
+   ],
+   [
+    "rgb(138, 138, 138)",
+    6
+   ],
+   [
+    "rgb(240, 240, 238)",
+    5
+   ]
+  ],
+  "fonts": [
+   [
+    "Raleway, sans-serif",
+    85
+   ],
+   [
+    "Montserrat, Arial, sans-serif",
+    68
+   ],
+   [
+    "Montserrat, -apple-system, \"Segoe UI\", Arial, sans-serif",
+    54
+   ],
+   [
+    "Montserrat, system-ui, sans-serif",
+    54
+   ],
+   [
+    "\"Playfair Display\", Georgia, serif",
+    12
+   ],
+   [
+    "Montserrat, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Arial, sans-serif",
+    7
+   ],
+   [
+    "Montserrat, sans-serif",
+    5
+   ],
+   [
+    "Montserrat, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    4
+   ]
+  ],
+  "heads": [
+   "Valorizziamo immobili. Costruiamo relazioni.",
+   "NOVITÀ| IN VENDITA| IN AFFITTO",
+   "Non mettiamo un annuncio. Costruiamo una strategia.",
+   "Come possiamo aiutarti",
+   "Il tuo immobile a reddito, senza pensieri.",
+   "La voce di chi ci ha scelto",
+   "Conosciamo Bologna, quartiere per quartiere.",
+   "Che tu voglia vendere o comprare, partiamo da una conversazione."
+  ],
+  "addr": null,
+  "final": "https://www.realkasa.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.realkasa.it/immobile/4407-Appartamento-Quadrilocale-in-vendita-a-Bologna-Murri",
+  "https://www.realkasa.it/immobile/4406-Locale-commerciale-2-Vetrine-in-vendita-a-Bologna-Costa-Saragozza",
+  "https://www.realkasa.it/immobile/4405-Appartamento-in-affitto-a-Bologna-Centro-Storico",
+  "https://www.realkasa.it/immobile/4404-Appartamento-Quadrilocale-in-affitto-a-Bologna-Malpighi",
+  "https://www.realkasa.it/immobile/4403-Ufficio-Ufficio-operativo-in-affitto-a-Casalecchio-di-Reno",
+  "https://www.realkasa.it/immobile/4402-Appartamento-Pentalocale-in-affitto-a-Bologna-Costa-Saragozza",
+  "https://www.realkasa.it/immobile/3476-Locale-commerciale-Oltre-3-vetrine-in-vendita-a-Bologna-Marconi",
+  "https://www.realkasa.it/immobile/4368-Appartamento-Monolocale-in-vendita-a-Bologna-Malpighi",
+  "https://www.realkasa.it/immobile/4298-Appartamento-Pentalocale-in-vendita-a-Bologna-Massarenti",
+  "https://www.realkasa.it/immobile/3608-Indipendente-Casale-in-vendita-a-Fucecchio-Pinete",
+  "https://www.realkasa.it/immobile/4289-Appartamento-Pentalocale-in-vendita-a-Bologna-Centro-Storico",
+  "https://www.realkasa.it/immobile/4392-Appartamento-Quadrilocale-in-vendita-a-Bologna",
+  "https://www.realkasa.it/immobile/4343-Appartamento-Trilocale-in-vendita-a-Bologna-Galvani",
+  "https://www.realkasa.it/immobile/4312-Appartamento-Monolocale-in-vendita-a-Bologna-Santa-Viola",
+  "https://www.realkasa.it/immobile/4246-Appartamento-Bilocale-in-affitto-a-Bologna-San-Vitale-Galvani",
+  "https://www.realkasa.it/immobile/4389-Appartamento-Trilocale-in-affitto-a-Bologna-Murri",
+  "https://www.realkasa.it/immobile/4155-Appartamento-Trilocale-in-affitto-a-Pianoro-Pianoro-Vecchio",
+  "https://www.realkasa.it/immobile/3482-Appartamento-in-affitto-a-Bologna-Marconi",
+  "https://www.realkasa.it/immobile/3764-Locale-commerciale-2-Vetrine-in-affitto-a-Bologna-Malpighi",
+  "https://www.realkasa.it/immobile/2626-Locale-commerciale-1-Vetrina-in-affitto-a-Bologna-Centro-Storico",
+  "https://www.realkasa.it/immobile/4385-Appartamento-Trilocale-in-affitto-a-Bologna-Centro-Storico",
+  "https://www.realkasa.it/immobile/4052-Appartamento-Trilocale-in-affitto-a-Bologna-Marconi"
+ ],
+ "listings": [
+  {
+   "url": "https://www.realkasa.it/immobile/4407-Appartamento-Quadrilocale-in-vendita-a-Bologna-Murri/",
+   "title": "Appartamento, Quadrilocale Vendita a Bologna, Murri",
+   "h1": null,
+   "h2": [
+    "Appartamento, Quadrilocale in vendita",
+    "Descrizione",
+    "Dettagli Principali",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche Interne",
+    "Impianti"
+   ],
+   "ogTitle": "Appartamento, Quadrilocale Vendita a Bologna, Murri",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/r/0/158997.png",
+   "ogDesc": "BOLOGNA - (VENDITA - BOLOGNA - VIA AUGUSTO ROMAGNOLI - QUADRILOCALE) - Realkasa propone in vendita ai suoi clienti quadrilocale di 81 mq al piano rialzato, in ottimo stato e ristrutturato a nuovo nel 2026. Immobile libero a rogito.\nPOSIZIONE - L'immobile è ubicato in una delle vie verdi più richieste del quartiere Mazzini, via Augusto Romagnoli.\nPARTE INTERNA - L'appartamento si trova in ottimo stato di manutenzione ed è stato appena ristrutturato. Si sviluppa su un unico livello. La zona giorno comprende il soggiorno e la cucina semi abitabile con comodo ripostiglio, mentre la zona notte è composta da 2 grandi camere, di cui una con cabina armadio e 1 bagno finestrato.  Completa la zona giorno un balconcino. \nPARTE ESTERNA - Il fabbricato è stato oggetto di riqualificazione energetica (cappotto) nel 2022. E' immerso in un giardino alberato ben curato. Completano la proprietà una cantina di pertinenza asciutta e finestrata, una soffitta all'ultimo piano con accesso al terrazzo panoramico condominiale utilizzabile anche per momenti conviviali privati. Un posto auto condominiale sempre disponibile con accesso da cancello automatico\nPARTE IMPIANTISTICA - L'immobile dispone di riscaldamento autonomo e di impianto di climatizzazione autonomo. La classe energetica B e li impianti certificato rendono questo immobile ideale.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione adatta a coppie e a famiglie che cercano un appartamento appena ristrutturato e pronto da abitare. Tra i vantaggi concreti: il piano basso comodo per chi preferisce evitare molte scale, la classe energetica B che contiene i consumi  e le basse spese condominiali, la presenza di cantina, soffitto e un, raro per la zona, posto auto condominiale sempre disponibile.\nResponsabile della vendita Irene Guidetti \nDisclaimer - Documento non vincolante ai fini contrattuali. Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l'immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l'IA per migliorare le foto. Chiedi info in Agenzia.\nAgenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it",
+   "desc": "BOLOGNA - (VENDITA - BOLOGNA - VIA AUGUSTO ROMAGNOLI - QUADRILOCALE) - Realkasa propone in vendita ai suoi clienti quadrilocale di 81 mq al piano rialzato, in o",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"name\":\"immobile - RealKasa Agenzia Immobiliare a Bologna\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\"},\"datePublished\":\"2018-12-05T13:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.realkasa.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.realkasa.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"name\":\"RealKasa Agenzia Immobiliare\",\"description\":\"Compravendite, locazioni e affitti brevi a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.realkasa.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\",\"name\":\"Realkasa - Agenzia Immobiliare\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"contentUrl\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"width\":786,\"height\":322,\"caption\":\"Realkasa - Agenzia Immobiliare\"},\"image\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/realkasa\\/\",\"https:\\/\\/x.com\\/Realkasa_it\",\"https:\\/\\/www.instagram.com\\/realkasa_it\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/realkasa\"]}]}\n\n{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Navigazione RealKasa\",\"itemListElement\":[\n{\"@type\":\"SiteNavigationElement\",\"position\":1,\"name\":\"Vendere casa a Bologna\",\"url\":\"https://www.realkasa.it/vendere-casa-a-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":2,\"name\":\"Immobili in vendita a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-vendita-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":3,\"name\":\"Immobili in affitto a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-affitto-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":4,\"name\":\"Servizi immobiliari\",\"url\":\"https://www.realkasa.it/servizi/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":5,\"name\":\"Contatti\",\"url\":\"https://www.realkasa.it/contatti/\"}\n]}\n",
+   "imgs": [
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+     "w": 512,
+     "h": 512,
+     "rw": 30
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy1NzM48O2M61MTtpbZDoxeNDE3cODE7bZXh0bOmpw1Zzt28OjE71dzowbO2NvebXA6cMQ==b/600/0/141781.jpg",
+     "w": 425,
+     "h": 600,
+     "rw": 279.984375
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+     "w": 454,
+     "h": 426,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNzM46O2M62MTtp9ZDox4NTYxfOTY74ZXh04OmpwfZzt26OjE72dzox9O2Nv4bXA6fMQ==4/500/0/156196.jpg",
+     "w": 500,
+     "h": 375,
+     "rw": 120
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoycNzM4bO2M6bMTtpdZDox7NTY36ODA70ZXh02OnBucZzt2bOjE7bdzoxdO2Nv7bXA66MQ==0/500/0/156780.png",
+     "w": 500,
+     "h": 365,
+     "rw": 120
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NzM4bO2M67MTtpcZDox8NTYxfMTc7eZXh07Ompw2Zzt2bOjE77dzoxcO2Nv8bXA6fMQ==e/500/0/156117.jpg",
+     "w": 500,
+     "h": 231,
+     "rw": 120
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/800/0/158997.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM45O2M6cMTtp1ZDoxcNTg57OTg7eZXh0eOnBu5Zzt25OjE7cdzox1O2NvcbXA67MQ==e/800/0/158998.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM4bO2M6bMTtpeZDoxbNTg50OTk75ZXh0eOnBudZzt2bOjE7bdzoxeO2NvbbXA60MQ==5/800/0/158999.png",
+    "https://static3.agimonline.com/images/4Zzoy9NzM4cO2M69MTtpaZDoxcNTkw4MDA76ZXh08OnBu9Zzt2cOjE79dzoxaO2NvcbXA64MQ==6/800/0/159000.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM40O2M64MTtp9ZDox3NTkweMDE73ZXh0aOnBudZzt20OjE74dzox9O2Nv3bXA6eMQ==3/800/0/159001.png",
+    "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/300/0/158997.png"
+   ],
+   "dataSrc": [],
+   "descBlock": "REALKASA pone la massima attenzione nella raccolta, verifica e aggiornamento delle informazioni pubblicate. Tuttavia, i dati relativi agli immobili possono provenire anche da proprietari, committenti, costruttori, tecnici, amministratori, documentazione disponibile o altri soggetti terzi e possono essere soggetti a variazioni, aggiornamenti, errori materiali o inesattezze.",
+   "text": "Vendere\nComprare\nAffittare\nServizi\nContatti\nValuta il tuo immobile\nAppartamento, Quadrilocale in vendita\n Bologna, Murri\n81 Mq\n2 Camere\n1 Bagno\nPiano r\nRif. 2751IG\n€ 378.000\nESCLUSIVA\nMAPPA\nDescrizione\n\nBOLOGNA - (VENDITA - BOLOGNA - VIA AUGUSTO ROMAGNOLI - QUADRILOCALE) - Realkasa propone in vendita ai suoi clienti quadrilocale di 81 mq al piano rialzato, in ottimo stato e ristrutturato a nuovo nel 2026. Immobile libero a rogito.\nPOSIZIONE - L'immobile è ubicato in una delle vie verdi più richieste del quartiere Mazzini, via Augusto Romagnoli.\nPARTE INTERNA - L'appartamento si trova in ottimo stato di manutenzione ed è stato appena ristrutturato. Si sviluppa su un unico livello. La zona giorno comprende il soggiorno e la cucina semi abitabile con comodo ripostiglio, mentre la zona notte è composta da 2 grandi camere, di cui una con cabina armadio e 1 bagno finestrato. Completa la zona giorno un balconcino.\nPARTE ESTERNA - Il fabbricato è stato oggetto di riqualificazione energetica (cappotto) nel 2022. E' immerso in un giardino alberato ben curato. Completano la proprietà una cantina di pertinenza asciutta e finestrata, una soffitta all'ultimo piano con accesso al terrazzo panoramico condominiale utilizzabile anche per momenti conviviali privati. Un posto auto condominiale sempre disponibile con accesso da cancello automatico\nPARTE IMPIANTISTICA - L'immobile dispone di riscaldamento autonomo e di impianto di climatizzazione autonomo. La classe energetica B e li impianti certificato rendono questo immobile ideale.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione adatta a coppie e a famiglie che cercano un appartamento appena ristrutturato e pronto da abitare. Tra i vantaggi concreti: il piano basso comodo per chi preferisce evitare molte scale, la classe energetica B che contiene i consumi e le basse spese condominiali, la presenza di cantina, soffitto e un, raro per la zona, posto auto condominiale sempre disponibile.\nResponsabile della vendita Irene Guidetti\nDisclaimer - Documento non vincolante ai fini contrattuali. Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l'immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l'IA per migliorare le foto. Chiedi info in Agenzia.\nAgenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it\n\nDettagli Principali\nMQ: 81\nLocali: 4\nClasse Energ.: B\nIPE: 87 Kwh/mq annuo\nSpese Annuali: € 1.000\nDettagli Aggiuntivi\nCaratteristiche Interne\nImpianti\nCaratteristiche Esterne\nMappa\n+\n−\n Leaflet | © OpenStreetMap\nContattaci In Agenzia\nIrene Guidetti\n 39/051431895\n irene.guidetti@realkasa.it\n Contattami su WhatsApp\nRichiedi Informazioni\n\n\n\n\n\n\n\n\n\n\n\n  \ndichiaro di aver preso visione dell'informativa sulla privacy\n\nImmobili Simili\nVendita\n Bologna, Centro Storico\n Appartamento\n € 320.000\nVendita\n Bologna, Massarenti\n Appartamento\n € 315.000\nVendita\n Bologna, Colli\n Appartamento\n € 345.000\nContattaci su WhatsApp\nREALKASA\nREAL ESTATE ADVISORY\n\nReal Estate Advisory a Bologna dal 2009. Valorizziamo immobili e costruiamo relazioni che durano oltre il singolo affare.\n\nf\nig\nin\nVENDERE\nVendere casa a Bologna\nValuta la tua casa\nCome lavoriamo\nHome staging\nCOMPRARE\nImmobili in vendita\nCerca casa con noi\nNuove costruzioni\nPreventivo mutuo\nAste immobiliari\nAFFITTARE\nImmobili in affitto\nAffittare casa a Bologna e provincia\nLocazioni negozi e uffici\nLocazioni per studenti\nSERVIZI\nAssistenza contrattuale\nRegistrazione contratti\nCessione contratto\nGestione immobili post locazione\nPerizie e valutazioni\nAZIENDA\nChi siamo\nMissione, visione e valori\nIl Team\nRecensioni\nDiventa Partner\nLavora con noi\nBlog e guide\nContatti\n● REAL ESTATE\n\nVendite e locazioni\nVia Andrea Costa 56/C\n40134 Bologna\n051 431895\n\n● REAL ESTATE\n\nVendite e locazioni\nVia Massimo D'Azeglio 19\n40123 Bologna\n051 431895\n\n● HOSPITALITY\n\nLocazioni brevi e gestione\nVia Massimo D'Azeglio 35\n40123 Bologna\n051 431895\n\nPrivacy Cookie policy Gestisci preferenze cookie Dati societari Note legali Sitemap\n© 2026 RealKasa · Real Estate Advisory · Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 378.000",
+    "mq": "81",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "r",
+    "classe_energetica": "Energ.: B",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/r/0/158997.png",
+    "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+    "https://static3.agimonline.com/images/4Zzoy1NzM48O2M61MTtpbZDoxeNDE3cODE7bZXh0bOmpw1Zzt28OjE71dzowbO2NvebXA6cMQ==b/600/0/141781.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+    "https://static3.agimonline.com/images/4ZzoyfNzM46O2M62MTtp9ZDox4NTYxfOTY74ZXh04OmpwfZzt26OjE72dzox9O2Nv4bXA6fMQ==4/500/0/156196.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNzM4bO2M6bMTtpdZDox7NTY36ODA70ZXh02OnBucZzt2bOjE7bdzoxdO2Nv7bXA66MQ==0/500/0/156780.png",
+    "https://static3.agimonline.com/images/4Zzoy2NzM4bO2M67MTtpcZDox8NTYxfMTc7eZXh07Ompw2Zzt2bOjE77dzoxcO2Nv8bXA6fMQ==e/500/0/156117.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/800/0/158997.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM45O2M6cMTtp1ZDoxcNTg57OTg7eZXh0eOnBu5Zzt25OjE7cdzox1O2NvcbXA67MQ==e/800/0/158998.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM4bO2M6bMTtpeZDoxbNTg50OTk75ZXh0eOnBudZzt2bOjE7bdzoxeO2NvbbXA60MQ==5/800/0/158999.png",
+    "https://static3.agimonline.com/images/4Zzoy9NzM4cO2M69MTtpaZDoxcNTkw4MDA76ZXh08OnBu9Zzt2cOjE79dzoxaO2NvcbXA64MQ==6/800/0/159000.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM40O2M64MTtp9ZDox3NTkweMDE73ZXh0aOnBudZzt20OjE74dzox9O2Nv3bXA6eMQ==3/800/0/159001.png",
+    "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/300/0/158997.png"
+   ],
+   "foto": "foto-1.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy9NzM43O2M6bMTtp9ZDox1NTg55OTc76ZXh04OnBu9Zzt23OjE7bdzox9O2Nv1bXA65MQ==6/r/0/158997.png"
+  },
+  {
+   "url": "https://www.realkasa.it/immobile/4406-Locale-commerciale-2-Vetrine-in-vendita-a-Bologna-Costa-Saragozza/",
+   "title": "Locale commerciale, 2 Vetrine Vendita a Bologna, Costa Saragozza",
+   "h1": null,
+   "h2": [
+    "Locale commerciale, 2 Vetrine in vendita",
+    "Descrizione",
+    "Dettagli Principali",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche Interne",
+    "Impianti"
+   ],
+   "ogTitle": "Locale commerciale, 2 Vetrine Vendita a Bologna, Costa Saragozza",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/b/0/158995.jpg",
+   "ogDesc": "VIA ANDREA COSTA / PORTA SANT'ISAIA - (VENDITA - NEGOZIO / UFFICIO - AMPIA METRATURA CON POSSIBILITÀ CANNA FUMARIA) - Realkasa propone in vendita ai suoi clienti ampio locale commerciale di circa 190 mq, completamente ristrutturato a nuovo al piano terra.\nPOSIZIONE - L'immobile è situato in via Andrea Costa, nelle immediate vicinanze della porta, in un contesto strategico caratterizzato da elevatissimo passaggio pedonale e veicolare, ottima visibilità e comodi collegamenti con il centro storico e le principali arterie di viabilità.\nPARTE INTERNA - L'unità immobiliare si sviluppa interamente al piano terra per una superficie complessiva di circa 190 mq. L'immobile è stato completamente ristrutturato a nuovo con finiture moderne ed è ottimamente predisposto per attività direzionali o studi professionali/uffici, con la possibilità di essere acquistato già arredato. La disposizione interna risulta versatile e facilmente adattabile a diverse esigenze operative.\nPARTE ESTERNA - Il locale è inserito al piano terra di un fabbricato tipico bolognese in ottimo stato di manutenzione, con comodo accesso diretto e vetrine su strada che garantiscono massima luminosità e forte impatto commerciale.\nPARTE IMPIANTISTICA - Impianti tecnologici completamente rinnovati e a norma. È presente la concreta possibilità di installazione di una canna fumaria, elemento che consente l'eventuale destinazione d'uso o riconversione per attività di ristorazione e somministrazione.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale sia per aziende e professionisti alla ricerca di una sede prestigiosa e pronta all'uso, sia per investitori o operatori del settore food & beverage grazie all'ampia metratura, alla posizione strategica e alla predisposizione per canna fumaria.\n\nDisclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia.   \n\nAgenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it   ",
+   "desc": "VIA ANDREA COSTA / PORTA SANT'ISAIA - (VENDITA - NEGOZIO / UFFICIO - AMPIA METRATURA CON POSSIBILITÀ CANNA FUMARIA) - Realkasa propone in vendita ai suoi clien",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"name\":\"immobile - RealKasa Agenzia Immobiliare a Bologna\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\"},\"datePublished\":\"2018-12-05T13:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.realkasa.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.realkasa.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"name\":\"RealKasa Agenzia Immobiliare\",\"description\":\"Compravendite, locazioni e affitti brevi a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.realkasa.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\",\"name\":\"Realkasa - Agenzia Immobiliare\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"contentUrl\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"width\":786,\"height\":322,\"caption\":\"Realkasa - Agenzia Immobiliare\"},\"image\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/realkasa\\/\",\"https:\\/\\/x.com\\/Realkasa_it\",\"https:\\/\\/www.instagram.com\\/realkasa_it\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/realkasa\"]}]}\n\n{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Navigazione RealKasa\",\"itemListElement\":[\n{\"@type\":\"SiteNavigationElement\",\"position\":1,\"name\":\"Vendere casa a Bologna\",\"url\":\"https://www.realkasa.it/vendere-casa-a-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":2,\"name\":\"Immobili in vendita a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-vendita-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":3,\"name\":\"Immobili in affitto a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-affitto-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":4,\"name\":\"Servizi immobiliari\",\"url\":\"https://www.realkasa.it/servizi/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":5,\"name\":\"Contatti\",\"url\":\"https://www.realkasa.it/contatti/\"}\n]}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy8NzM4cO2M64MTtp6ZDox4NTg50OTY70ZXh04OnBu8Zzt2cOjE74dzox6O2Nv4bXA60MQ==0/850/0/158996.png",
+     "w": 699,
+     "h": 850,
+     "rw": 699
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NzM4fO2M64MTtpdZDoxbNDE17ODE75ZXh0bOmpw2Zzt2fOjE74dzowdO2NvbbXA67MQ==5/600/0/141581.jpg",
+     "w": 469,
+     "h": 600,
+     "rw": 279.984375
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+     "w": 512,
+     "h": 512,
+     "rw": 30
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+     "w": 454,
+     "h": 426,
+     "rw": 0
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34829/23704.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34830/23704.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/800/0/158995.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NzM45O2M6aMTtp8ZDox3NTg58ODU71ZXh05Ompw2Zzt25OjE7adzox8O2Nv3bXA68MQ==1/800/0/158985.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM43O2M6cMTtp0ZDox2NTg5fOTI77ZXh08OmpwbZzt23OjE7cdzox0O2Nv2bXA6fMQ==7/800/0/158992.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NzM48O2M66MTtpbZDoxdNTg54ODY70ZXh08Ompw5Zzt28OjE76dzoxbO2NvdbXA64MQ==0/800/0/158986.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4bO2M68MTtp3ZDox5NTg5bODc7bZXh08Ompw7Zzt2bOjE78dzox3O2Nv5bXA6bMQ==b/800/0/158987.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNzM40O2M60MTtp8ZDoxbNTg50ODg73ZXh0aOmpweZzt20OjE70dzox8O2NvbbXA60MQ==3/800/0/158988.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/900/0/158995.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NzM45O2M6aMTtp8ZDox3NTg58ODU71ZXh05Ompw2Zzt25OjE7adzox8O2Nv3bXA68MQ==1/900/0/158985.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM43O2M6cMTtp0ZDox2NTg5fOTI77ZXh08OmpwbZzt23OjE7cdzox0O2Nv2bXA6fMQ==7/900/0/158992.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NzM48O2M66MTtpbZDoxdNTg54ODY70ZXh08Ompw5Zzt28OjE76dzoxbO2NvdbXA64MQ==0/900/0/158986.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4bO2M68MTtp3ZDox5NTg5bODc7bZXh08Ompw7Zzt2bOjE78dzox3O2Nv5bXA6bMQ==b/900/0/158987.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNzM40O2M60MTtp8ZDoxbNTg50ODg73ZXh0aOmpweZzt20OjE70dzox8O2NvbbXA60MQ==3/900/0/158988.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NzM44O2M6bMTtpeZDoxfNTg5fODk7bZXh01Ompw0Zzt24OjE7bdzoxeO2NvfbXA6fMQ==b/900/0/158989.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM46O2M6eMTtpcZDox0NTg51OTA7aZXh04OmpwaZzt26OjE7edzoxcO2Nv0bXA61MQ==a/900/0/158990.jpg"
+   ],
+   "descBlock": "REALKASA pone la massima attenzione nella raccolta, verifica e aggiornamento delle informazioni pubblicate. Tuttavia, i dati relativi agli immobili possono provenire anche da proprietari, committenti, costruttori, tecnici, amministratori, documentazione disponibile o altri soggetti terzi e possono essere soggetti a variazioni, aggiornamenti, errori materiali o inesattezze.",
+   "text": "Vendere\nComprare\nAffittare\nServizi\nContatti\nValuta il tuo immobile\nLocale commerciale, 2 Vetrine in vendita\n Bologna, Costa Saragozza\n195 Mq\n1 Bagno\nPiano t\nRif. 2750DT\n€ 520.000\nPLANIMETRIE\nMAPPA\nDescrizione\n\nVIA ANDREA COSTA / PORTA SANT'ISAIA - (VENDITA - NEGOZIO / UFFICIO - AMPIA METRATURA CON POSSIBILITÀ CANNA FUMARIA) - Realkasa propone in vendita ai suoi clienti ampio locale commerciale di circa 190 mq, completamente ristrutturato a nuovo al piano terra.\nPOSIZIONE - L'immobile è situato in via Andrea Costa, nelle immediate vicinanze della porta, in un contesto strategico caratterizzato da elevatissimo passaggio pedonale e veicolare, ottima visibilità e comodi collegamenti con il centro storico e le principali arterie di viabilità.\nPARTE INTERNA - L'unità immobiliare si sviluppa interamente al piano terra per una superficie complessiva di circa 190 mq. L'immobile è stato completamente ristrutturato a nuovo con finiture moderne ed è ottimamente predisposto per attività direzionali o studi professionali/uffici, con la possibilità di essere acquistato già arredato. La disposizione interna risulta versatile e facilmente adattabile a diverse esigenze operative.\nPARTE ESTERNA - Il locale è inserito al piano terra di un fabbricato tipico bolognese in ottimo stato di manutenzione, con comodo accesso diretto e vetrine su strada che garantiscono massima luminosità e forte impatto commerciale.\nPARTE IMPIANTISTICA - Impianti tecnologici completamente rinnovati e a norma. È presente la concreta possibilità di installazione di una canna fumaria, elemento che consente l'eventuale destinazione d'uso o riconversione per attività di ristorazione e somministrazione.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale sia per aziende e professionisti alla ricerca di una sede prestigiosa e pronta all'uso, sia per investitori o operatori del settore food & beverage grazie all'ampia metratura, alla posizione strategica e alla predisposizione per canna fumaria.\n\nDisclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia.\n\nAgenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it\n\nDettagli Principali\nMQ: 195\nLocali: 5\nClasse Energ.: D\nSpese Annuali: € 2.000\nDettagli Aggiuntivi\nCaratteristiche Interne\nImpianti\nCaratteristiche Esterne\nPlanimetrie\nFoto 1\nMappa\n+\n−\n Leaflet | © OpenStreetMap\nContattaci In Agenzia\nDott. Daniele Telesforo\n 39/051431895\n daniele.telesforo@realkasa.it\n Contattami su WhatsApp\nRichiedi Informazioni\n\n\n\n\n\n\n\n\n\n\n\n  \ndichiaro di aver preso visione dell'informativa sulla privacy\n\nImmobili Simili\nContattaci su WhatsApp\nREALKASA\nREAL ESTATE ADVISORY\n\nReal Estate Advisory a Bologna dal 2009. Valorizziamo immobili e costruiamo relazioni che durano oltre il singolo affare.\n\nf\nig\nin\nVENDERE\nVendere casa a Bologna\nValuta la tua casa\nCome lavoriamo\nHome staging\nCOMPRARE\nImmobili in vendita\nCerca casa con noi\nNuove costruzioni\nPreventivo mutuo\nAste immobiliari\nAFFITTARE\nImmobili in affitto\nAffittare casa a Bologna e provincia\nLocazioni negozi e uffici\nLocazioni per studenti\nSERVIZI\nAssistenza contrattuale\nRegistrazione contratti\nCessione contratto\nGestione immobili post locazione\nPerizie e valutazioni\nAZIENDA\nChi siamo\nMissione, visione e valori\nIl Team\nRecensioni\nDiventa Partner\nLavora con noi\nBlog e guide\nContatti\n● REAL ESTATE\n\nVendite e locazioni\nVia Andrea Costa 56/C\n40134 Bologna\n051 431895\n\n● REAL ESTATE\n\nVendite e locazioni\nVia Massimo D'Azeglio 19\n40123 Bologna\n051 431895\n\n● HOSPITALITY\n\nLocazioni brevi e gestione\nVia Massimo D'Azeglio 35\n40123 Bologna\n051 431895\n\nPrivacy Cookie policy Gestisci preferenze cookie Dati societari Note legali Sitemap\n© 2026 RealKasa · Real Estate Advisory · Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 520.000",
+    "mq": "195",
+    "locali": "5",
+    "camere": null,
+    "bagni": "1",
+    "piano": "t",
+    "classe_energetica": "Energ.: D",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/b/0/158995.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4cO2M64MTtp6ZDox4NTg50OTY70ZXh04OnBu8Zzt2cOjE74dzox6O2Nv4bXA60MQ==0/850/0/158996.png",
+    "https://static3.agimonline.com/images/4Zzoy2NzM4fO2M64MTtpdZDoxbNDE17ODE75ZXh0bOmpw2Zzt2fOjE74dzowdO2NvbbXA67MQ==5/600/0/141581.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+    "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+    "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/800/0/158995.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NzM45O2M6aMTtp8ZDox3NTg58ODU71ZXh05Ompw2Zzt25OjE7adzox8O2Nv3bXA68MQ==1/800/0/158985.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM43O2M6cMTtp0ZDox2NTg5fOTI77ZXh08OmpwbZzt23OjE7cdzox0O2Nv2bXA6fMQ==7/800/0/158992.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NzM48O2M66MTtpbZDoxdNTg54ODY70ZXh08Ompw5Zzt28OjE76dzoxbO2NvdbXA64MQ==0/800/0/158986.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4bO2M68MTtp3ZDox5NTg5bODc7bZXh08Ompw7Zzt2bOjE78dzox3O2Nv5bXA6bMQ==b/800/0/158987.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNzM40O2M60MTtp8ZDoxbNTg50ODg73ZXh0aOmpweZzt20OjE70dzox8O2NvbbXA60MQ==3/800/0/158988.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/900/0/158995.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NzM45O2M6aMTtp8ZDox3NTg58ODU71ZXh05Ompw2Zzt25OjE7adzox8O2Nv3bXA68MQ==1/900/0/158985.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM43O2M6cMTtp0ZDox2NTg5fOTI77ZXh08OmpwbZzt23OjE7cdzox0O2Nv2bXA6fMQ==7/900/0/158992.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NzM48O2M66MTtpbZDoxdNTg54ODY70ZXh08Ompw5Zzt28OjE76dzoxbO2NvdbXA64MQ==0/900/0/158986.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4bO2M68MTtp3ZDox5NTg5bODc7bZXh08Ompw7Zzt2bOjE78dzox3O2Nv5bXA6bMQ==b/900/0/158987.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNzM40O2M60MTtp8ZDoxbNTg50ODg73ZXh0aOmpweZzt20OjE70dzox8O2NvbbXA60MQ==3/900/0/158988.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NzM44O2M6bMTtpeZDoxfNTg5fODk7bZXh01Ompw0Zzt24OjE7bdzoxeO2NvfbXA6fMQ==b/900/0/158989.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM46O2M6eMTtpcZDox0NTg51OTA7aZXh04OmpwaZzt26OjE7edzoxcO2Nv0bXA61MQ==a/900/0/158990.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoyfNzM4bO2M63MTtpfZDoxbNTg5aOTU72ZXh0bOmpwfZzt2bOjE73dzoxfO2NvbbXA6aMQ==2/b/0/158995.jpg"
+  },
+  {
+   "url": "https://www.realkasa.it/immobile/4405-Appartamento-in-affitto-a-Bologna-Centro-Storico/",
+   "title": "Appartamento Affitto a Bologna, Centro Storico",
+   "h1": null,
+   "h2": [
+    "Appartamento in affitto",
+    "Visita l'immobile virtuale",
+    "Descrizione",
+    "Dettagli Principali",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche Interne"
+   ],
+   "ogTitle": "Appartamento Affitto a Bologna, Centro Storico",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/r/0/158961.jpg",
+   "ogDesc": "VIA SCHIAVONIA - (TRILOCALE - 2 CAMERE - TERRAZZINO - CENTRO STORICO) - LIBERO da GENNAIO 2027. Realkasa propone in esclusiva un bell'appartamento in tipica palazzina bolognese ottimamente tenuta, al terzo piano senza ascensore. \nPARTE INTERNA -  L'appartamento è su 2 livelli. Al primo ingresso, cucina a vista, 1 camera e bagno, ripostiglio lavanderia. Al piano superiore camera con travi a vista e terrazzino.\nPARTE ESTERNA : Il fabbricato e' in ottime condizioni di manutenzione.\nPARTE IMPIANTISTICA : Riscaldamento autonomo e aria condizionata.\nPERCHE' SCEGLIERE QUESTO IMMOBILE - L'immobile è un'ottima soluzione per lavoratori e studenti (massimo 2). Solo referenziati.\nIncluso nel canone il costo della Tassa Rifiuti.\n\nResponsabile della locazione  Irene Guidetti 051-431895\n\n\n------------------------------------------------- \nCompra con noi per investimento per avere una redditivita' superiore al mercato tradizionale della locazione ! REALKASA e' l'agenzia immobiliare specializzata anche nella gestione di appartamenti per BREVI PERIODI. Contattaci per affidarci il tuo immobile al numero 051.431895 numero dedicato per questo tipo di servizio. Visita il nostro sito www.realkasa.it per visionare altre foto e la scheda dettagliata dell'immobile. \n-------------------------------------------------\nLa REALKASA Immobiliare e' una realta' di intermediazione immobiliare, giovane e moderna un gruppo di persone che opera mettendo al centro gli interessi dei propri clienti impegnandosi per soddisfarli nei tempi piu' brevi e con la migliore qualita'. La nostra missione e' quella di trasferire ai nostri clienti il piu' alto livello di professionalita' sul mercato e garantire la massima sicurezza di ogni operazione. Ti consigliamo e ti affianchiamo durante tutte le varie fasi sia che si tratti di locazioni sia che si tratti di compravendita, mettendo a tua disposizione la nostra esperienza nel settore. REALKASA - IL TUO PARTNER IMMOBILIARE. Servizi: Compravendite, Locazioni, Gestione immobiliare e Affitti Brevi.\n",
+   "desc": "VIA SCHIAVONIA - (TRILOCALE - 2 CAMERE - TERRAZZINO - CENTRO STORICO) - LIBERO da GENNAIO 2027. Realkasa propone in esclusiva un bell'appartamento in tipica pal",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"name\":\"immobile - RealKasa Agenzia Immobiliare a Bologna\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\"},\"datePublished\":\"2018-12-05T13:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.realkasa.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.realkasa.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"name\":\"RealKasa Agenzia Immobiliare\",\"description\":\"Compravendite, locazioni e affitti brevi a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.realkasa.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\",\"name\":\"Realkasa - Agenzia Immobiliare\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"contentUrl\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"width\":786,\"height\":322,\"caption\":\"Realkasa - Agenzia Immobiliare\"},\"image\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/realkasa\\/\",\"https:\\/\\/x.com\\/Realkasa_it\",\"https:\\/\\/www.instagram.com\\/realkasa_it\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/realkasa\"]}]}\n\n{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Navigazione RealKasa\",\"itemListElement\":[\n{\"@type\":\"SiteNavigationElement\",\"position\":1,\"name\":\"Vendere casa a Bologna\",\"url\":\"https://www.realkasa.it/vendere-casa-a-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":2,\"name\":\"Immobili in vendita a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-vendita-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":3,\"name\":\"Immobili in affitto a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-affitto-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":4,\"name\":\"Servizi immobiliari\",\"url\":\"https://www.realkasa.it/servizi/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":5,\"name\":\"Contatti\",\"url\":\"https://www.realkasa.it/contatti/\"}\n]}\n",
+   "imgs": [
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+     "w": 512,
+     "h": 512,
+     "rw": 30
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy1NzM48O2M61MTtpbZDoxeNDE3cODE7bZXh0bOmpw1Zzt28OjE71dzowbO2NvebXA6cMQ==b/600/0/141781.jpg",
+     "w": 425,
+     "h": 600,
+     "rw": 279.984375
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+     "w": 454,
+     "h": 426,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6cMTtp1ZDox2NTg48MDc76ZXh00OmpwaZzt27OjE7cdzox1O2Nv2bXA68MQ==6/500/0/158807.jpg",
+     "w": 500,
+     "h": 373,
+     "rw": 120
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34831/23703.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34832/23703.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/800/0/158961.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NzM46O2M60MTtp0ZDox4NTg5dNjI75ZXh04Ompw4Zzt26OjE70dzox0O2Nv4bXA6dMQ==5/800/0/158962.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM4cO2M67MTtpcZDoxbNTg5eNzI76ZXh0eOmpwaZzt2cOjE77dzoxcO2NvbbXA6eMQ==6/800/0/158972.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4fO2M6cMTtp9ZDoxfNTg5bODI77ZXh0bOmpw8Zzt2fOjE7cdzox9O2NvfbXA6bMQ==7/800/0/158982.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4eO2M6aMTtp6ZDox3NTg54Njg77ZXh09OmpwbZzt2eOjE7adzox6O2Nv3bXA64MQ==7/800/0/158968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M6aMTtp5ZDoxdNTg55NzE74ZXh00Ompw7Zzt20OjE7adzox5O2NvdbXA65MQ==4/800/0/158971.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/900/0/158961.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NzM46O2M60MTtp0ZDox4NTg5dNjI75ZXh04Ompw4Zzt26OjE70dzox0O2Nv4bXA6dMQ==5/900/0/158962.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM4cO2M67MTtpcZDoxbNTg5eNzI76ZXh0eOmpwaZzt2cOjE77dzoxcO2NvbbXA6eMQ==6/900/0/158972.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4fO2M6cMTtp9ZDoxfNTg5bODI77ZXh0bOmpw8Zzt2fOjE7cdzox9O2NvfbXA6bMQ==7/900/0/158982.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4eO2M6aMTtp6ZDox3NTg54Njg77ZXh09OmpwbZzt2eOjE7adzox6O2Nv3bXA64MQ==7/900/0/158968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M6aMTtp5ZDoxdNTg55NzE74ZXh00Ompw7Zzt20OjE7adzox5O2NvdbXA65MQ==4/900/0/158971.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NzM46O2M66MTtp8ZDoxdNTg5dNjc72ZXh01Ompw6Zzt26OjE76dzox8O2NvdbXA6dMQ==2/900/0/158967.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM44O2M68MTtp1ZDoxfNTg5fNjk73ZXh06Ompw8Zzt24OjE78dzox1O2NvfbXA6fMQ==3/900/0/158969.jpg"
+   ],
+   "descBlock": "VIA SCHIAVONIA - (TRILOCALE - 2 CAMERE - TERRAZZINO - CENTRO STORICO) - LIBERO da GENNAIO 2027. Realkasa propone in esclusiva un bell'appartamento in tipica palazzina bolognese ottimamente tenuta, al terzo piano senza ascensore.\nPARTE INTERNA - L'appartamento è su 2 livelli. Al primo ingresso, cucina a vista, 1 camera e bagno, ripostiglio lavanderia. Al piano superiore camera con travi a vista e terrazzino.\nPARTE ESTERNA : Il fabbricato e' in ottime condizioni di manutenzione.\nPARTE IMPIANTISTICA : Riscaldamento autonomo e aria condizionata.\nPERCHE' SCEGLIERE QUESTO IMMOBILE - L'immobile è un'ottima soluzione per lavoratori e studenti (massimo 2). Solo referenziati.\nIncluso nel canone il costo della Tassa Rifiuti.\n\nResponsabile della locazione Irene Guidetti 051-431895\n\n\n-------------------------------------------------\nCompra con noi per investimento per avere una redditivita' superiore al mercato tradizionale della locazione ! REALKASA e' l'agenzia immobiliare specializzata anche nella gestione di appartamenti per BREVI PERIODI. Contattaci per affidarci il tuo immobile al numero 051.431895 numero dedicato per questo tipo di servizio. Visita il nostro sito www.realkasa.it per visionare altre foto e la scheda dettagliata dell'immobile.\n-------------------------------------------------\nLa REALKASA Immobiliare e' una realta' di intermediazione immobiliare, giovane e moderna un gruppo di persone che opera mettendo al centro gli interessi dei propri clienti impegnandosi per soddisfarli nei tempi piu' brevi e con la migliore qualita'. La nostra missione e' quella di trasferire ai nostri clienti il piu' alto livello di professionalita' sul mercato e garantire la massima sicurezza di ogni operazione. Ti consigliamo e ti affianchiamo durante tutte le varie fasi sia che si tratti di locazioni sia che si tratti di compravendita, mettendo a tua disposizione la nostra esperienza nel settore. REALKASA - IL TUO PARTNER IMMOBILIARE. Servizi: Compravendite, Locazioni, Gestione immobiliare e Affitti Brevi.",
+   "text": "Vendere\nComprare\nAffittare\nServizi\nContatti\nValuta il tuo immobile\nAppartamento in affitto\n Bologna, Centro Storico\n55 Mq\n1 Camera\n1 Bagno\nPiano 3\nRif. 2749DT\n€ 980\nESCLUSIVA\nVisita l'immobile virtuale\n\nLoading...\n\nLoading...\n\nLoading...\n\nLoading...\n\nLoading...\n\nLoading...\n\nLoading...\n\nLoading...\n\nMAPPA\nDescrizione\n\nVIA SCHIAVONIA - (TRILOCALE - 2 CAMERE - TERRAZZINO - CENTRO STORICO) - LIBERO da GENNAIO 2027. Realkasa propone in esclusiva un bell'appartamento in tipica palazzina bolognese ottimamente tenuta, al terzo piano senza ascensore.\nPARTE INTERNA - L'appartamento è su 2 livelli. Al primo ingresso, cucina a vista, 1 camera e bagno, ripostiglio lavanderia. Al piano superiore camera con travi a vista e terrazzino.\nPARTE ESTERNA : Il fabbricato e' in ottime condizioni di manutenzione.\nPARTE IMPIANTISTICA : Riscaldamento autonomo e aria condizionata.\nPERCHE' SCEGLIERE QUESTO IMMOBILE - L'immobile è un'ottima soluzione per lavoratori e studenti (massimo 2). Solo referenziati.\nIncluso nel canone il costo della Tassa Rifiuti.\n\nResponsabile della locazione Irene Guidetti 051-431895\n\n\n-------------------------------------------------\nCompra con noi per investimento per avere una redditivita' superiore al mercato tradizionale della locazione ! REALKASA e' l'agenzia immobiliare specializzata anche nella gestione di appartamenti per BREVI PERIODI. Contattaci per affidarci il tuo immobile al numero 051.431895 numero dedicato per questo tipo di servizio. Visita il nostro sito www.realkasa.it per visionare altre foto e la scheda dettagliata dell'immobile.\n-------------------------------------------------\nLa REALKASA Immobiliare e' una realta' di intermediazione immobiliare, giovane e moderna un gruppo di persone che opera mettendo al centro gli interessi dei propri clienti impegnandosi per soddisfarli nei tempi piu' brevi e con la migliore qualita'. La nostra missione e' quella di trasferire ai nostri clienti il piu' alto livello di professionalita' sul mercato e garantire la massima sicurezza di ogni operazione. Ti consigliamo e ti affianchiamo durante tutte le varie fasi sia che si tratti di locazioni sia che si tratti di compravendita, mettendo a tua disposizione la nostra esperienza nel settore. REALKASA - IL TUO PARTNER IMMOBILIARE. Servizi: Compravendite, Locazioni, Gestione immobiliare e Affitti Brevi.\n\n\nDettagli Principali\nMQ: 55\nLocali: 2\nClasse Energ.: G\nIPE: 175 Kwh/mq annuo\nSpese Annuali: € 1.200\nDettagli Aggiuntivi\nCaratteristiche Interne\nImpianti\nCaratteristiche Esterne\nMappa\n+\n−\n Leaflet | © OpenStreetMap\nContattaci In Agenzia\nIrene Guidetti\n 39/051431895\n irene.guidetti@realkasa.it\n Contattami su WhatsApp\nRichiedi Informazioni\n\n\n\n\n\n\n\n\n\n\n\n  \ndichiaro di aver preso visione dell'informativa sulla privacy\n\nImmobili Simili\nAffitto\n Bologna, Savena\n Appartamento\n € 1.270\nContattaci su WhatsApp\nREALKASA\nREAL ESTATE ADVISORY\n\nReal Estate Advisory a Bologna dal 2009. Valorizziamo immobili e costruiamo relazioni che durano oltre il singolo affare.\n\nf\nig\nin\nVENDERE\nVendere casa a Bologna\nValuta la tua casa\nCome lavoriamo\nHome staging\nCOMPRARE\nImmobili in vendita\nCerca casa con noi\nNuove costruzioni\nPreventivo mutuo\nAste immobiliari\nAFFITTARE\nImmobili in affitto\nAffittare casa a Bologna e provincia\nLocazioni negozi e uffici\nLocazioni per studenti\nSERVIZI\nAssistenza contrattuale\nRegistrazione contratti\nCessione contratto\nGestione immobili post locazione\nPerizie e valutazioni\nAZIENDA\nChi siamo\nMissione, visione e valori\nIl Team\nRecensioni\nDiventa Partner\nLavora con noi\nBlog e guide\nContatti\n● REAL ESTATE\n\nVendite e locazioni\nVia Andrea Costa 56/C\n40134 Bologna\n051 431895\n\n● REAL ESTATE\n\nVendite e locazioni\nVia Massimo D'Azeglio 19\n40123 Bologna\n051 431895\n\n● HOSPITALITY\n\nLocazioni brevi e gestione\nVia Massimo D'Azeglio 35\n40123 Bologna\n051 431895\n\nPrivacy Cookie policy Gestisci preferenze cookie Dati societari Note legali Sitemap\n© 2026 RealKasa · Real Estate Advisory · Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 980",
+    "mq": "55",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "1",
+    "piano": "3",
+    "classe_energetica": "Energ.: G",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/r/0/158961.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+    "https://static3.agimonline.com/images/4Zzoy1NzM48O2M61MTtpbZDoxeNDE3cODE7bZXh0bOmpw1Zzt28OjE71dzowbO2NvebXA6cMQ==b/600/0/141781.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+    "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6cMTtp1ZDox2NTg48MDc76ZXh00OmpwaZzt27OjE7cdzox1O2Nv2bXA68MQ==6/500/0/158807.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/800/0/158961.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NzM46O2M60MTtp0ZDox4NTg5dNjI75ZXh04Ompw4Zzt26OjE70dzox0O2Nv4bXA6dMQ==5/800/0/158962.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM4cO2M67MTtpcZDoxbNTg5eNzI76ZXh0eOmpwaZzt2cOjE77dzoxcO2NvbbXA6eMQ==6/800/0/158972.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4fO2M6cMTtp9ZDoxfNTg5bODI77ZXh0bOmpw8Zzt2fOjE7cdzox9O2NvfbXA6bMQ==7/800/0/158982.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4eO2M6aMTtp6ZDox3NTg54Njg77ZXh09OmpwbZzt2eOjE7adzox6O2Nv3bXA64MQ==7/800/0/158968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M6aMTtp5ZDoxdNTg55NzE74ZXh00Ompw7Zzt20OjE7adzox5O2NvdbXA65MQ==4/800/0/158971.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/900/0/158961.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NzM46O2M60MTtp0ZDox4NTg5dNjI75ZXh04Ompw4Zzt26OjE70dzox0O2Nv4bXA6dMQ==5/900/0/158962.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM4cO2M67MTtpcZDoxbNTg5eNzI76ZXh0eOmpwaZzt2cOjE77dzoxcO2NvbbXA6eMQ==6/900/0/158972.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4fO2M6cMTtp9ZDoxfNTg5bODI77ZXh0bOmpw8Zzt2fOjE7cdzox9O2NvfbXA6bMQ==7/900/0/158982.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4eO2M6aMTtp6ZDox3NTg54Njg77ZXh09OmpwbZzt2eOjE7adzox6O2Nv3bXA64MQ==7/900/0/158968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M6aMTtp5ZDoxdNTg55NzE74ZXh00Ompw7Zzt20OjE7adzox5O2NvdbXA65MQ==4/900/0/158971.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NzM46O2M66MTtp8ZDoxdNTg5dNjc72ZXh01Ompw6Zzt26OjE76dzox8O2NvdbXA6dMQ==2/900/0/158967.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM44O2M68MTtp1ZDoxfNTg5fNjk73ZXh06Ompw8Zzt24OjE78dzox1O2NvfbXA6fMQ==3/900/0/158969.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoycNzM4fO2M68MTtpeZDox1NTg50NjE7cZXh0bOmpwcZzt2fOjE78dzoxeO2Nv1bXA60MQ==c/r/0/158961.jpg"
+  },
+  {
+   "url": "https://www.realkasa.it/immobile/4404-Appartamento-Quadrilocale-in-affitto-a-Bologna-Malpighi/",
+   "title": "Appartamento, Quadrilocale Affitto a Bologna, Malpighi",
+   "h1": null,
+   "h2": [
+    "Appartamento, Quadrilocale in affitto",
+    "Descrizione",
+    "Dettagli Principali",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche Interne",
+    "Impianti"
+   ],
+   "ogTitle": "Appartamento, Quadrilocale Affitto a Bologna, Malpighi",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy9NzM41O2M61MTtpbZDox4NTg52NDM7dZXh0aOnBu9Zzt21OjE71dzoxbO2Nv4bXA62MQ==d/r/0/158943.png",
+   "ogDesc": "\tBOLOGNA / VIA SANT'ISAIA - (LOCAZIONE - QUADRILOCALE - MANSARDA CON 3 CAMERE E DOPPI SERVIZI) - Realkasa propone in locazione ai suoi clienti luminoso ed accogliente appartamento mansardato ubicato al terzo ed ultimo piano.\nPOSIZIONE - L'immobile si trova nel rinomato quartiere Malpighi, in Via Sant'Isaia, una delle arterie più centrali e storiche della città. La posizione è comoda a tutti i servizi, all'Università e ottimamente servita dai mezzi pubblici, ideale per vivere il centro di Bologna.\nPARTE INTERNA - L'immobile si compone di: ingresso con disimpegno attrezzato con armadiature e comodo divano, tre ampie camere da letto (due singole ed una doppia, tutte dotate di letto e armadio), e cucina abitabile completa di elettrodomestici (piano a induzione, lavastoviglie, forno e frigorifero). Completa la soluzione la presenza di due bagni, entrambi finestrati e dotati di box doccia. Gli ambienti interni beneficiano di infissi nuovi in PVC con scuri e di una favorevole esposizione ad Est.\nPARTE ESTERNA - La soluzione è posta al terzo ed ultimo piano mansardato di una palazzina in buone condizioni manutentive, non servita da ascensore, garanzia di estrema tranquillità e privacy.\nPARTE IMPIANTISTICA - Impianto di riscaldamento autonomo gestito da caldaia e presenza dell'aria condizionata in ciascuna delle tre camere da letto. Infissi di nuova generazione in PVC per un ottimo isolamento termico e acustico.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale per studenti o lavoratori referenziati grazie alla posizione centralissima nel quartiere Malpighi, alla presenza di tre camere da letto indipendenti, doppi servizi e dotazioni complete. La combinazione di riscaldamento autonomo, climatizzazione in ogni camera ed infissi nuovi garantisce il massimo comfort abitativo.\nReferente la locazione Sofia Stramenga 051431895\n\nDisclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia.\nAgenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it",
+   "desc": "\tBOLOGNA / VIA SANT'ISAIA - (LOCAZIONE - QUADRILOCALE - MANSARDA CON 3 CAMERE E DOPPI SERVIZI) - Realkasa propone in locazione ai suoi clienti luminoso ed accog",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"name\":\"immobile - RealKasa Agenzia Immobiliare a Bologna\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\"},\"datePublished\":\"2018-12-05T13:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.realkasa.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.realkasa.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"name\":\"RealKasa Agenzia Immobiliare\",\"description\":\"Compravendite, locazioni e affitti brevi a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.realkasa.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\",\"name\":\"Realkasa - Agenzia Immobiliare\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"contentUrl\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"width\":786,\"height\":322,\"caption\":\"Realkasa - Agenzia Immobiliare\"},\"image\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/realkasa\\/\",\"https:\\/\\/x.com\\/Realkasa_it\",\"https:\\/\\/www.instagram.com\\/realkasa_it\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/realkasa\"]}]}\n\n{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Navigazione RealKasa\",\"itemListElement\":[\n{\"@type\":\"SiteNavigationElement\",\"position\":1,\"name\":\"Vendere casa a Bologna\",\"url\":\"https://www.realkasa.it/vendere-casa-a-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":2,\"name\":\"Immobili in vendita a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-vendita-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":3,\"name\":\"Immobili in affitto a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-affitto-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":4,\"name\":\"Servizi immobiliari\",\"url\":\"https://www.realkasa.it/servizi/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":5,\"name\":\"Contatti\",\"url\":\"https://www.realkasa.it/contatti/\"}\n]}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNzM41O2M6cMTtp8ZDox0NTg5cODQ77ZXh08OmpwfZzt21OjE7cdzox8O2Nv0bXA6cMQ==7/850/0/158984.jpg",
+     "w": 637,
+     "h": 850,
+     "rw": 637
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoycNzM41O2M60MTtp8ZDox7NDE39ODU7fZXh0cOmpwcZzt21OjE70dzow8O2Nv7bXA69MQ==f/600/0/141785.jpg",
+     "w": 449,
+     "h": 600,
+     "rw": 279.984375
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+     "w": 512,
+     "h": 512,
+     "rw": 30
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+     "w": 454,
+     "h": 426,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyeNzM47O2M69MTtp2ZDoxaMjQ4aMzU7bZXh05OmpweZzt27OjE79dzox2O2NvabXA6aMQ==b/500/0/124835.jpg",
+     "w": 500,
+     "h": 333,
+     "rw": 120
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoybNzM4dO2M67MTtp7ZDoxdMzI41Njg79ZXh0cOmpwbZzt2dOjE77dzox7O2NvdbXA61MQ==9/500/0/132868.jpg",
+     "w": 500,
+     "h": 333,
+     "rw": 120
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M61MTtpbZDox4NTg52NDM7dZXh0aOnBu9Zzt21OjE71dzoxbO2Nv4bXA62MQ==d/800/0/158943.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM4fO2M6aMTtpfZDox7NTg5dNDA76ZXh0aOnBudZzt2fOjE7adzoxfO2Nv7bXA6dMQ==6/800/0/158940.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM42O2M6dMTtpeZDox3NTg50NDg7fZXh0eOnBu5Zzt22OjE7ddzoxeO2Nv3bXA60MQ==f/800/0/158948.png",
+    "https://static3.agimonline.com/images/4Zzoy2NzM4eO2M6dMTtp5ZDox2NTg5fNDk77ZXh04OnBu2Zzt2eOjE7ddzox5O2Nv2bXA6fMQ==7/800/0/158949.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM46O2M67MTtp3ZDox9NTg56NDE71ZXh0dOnBu5Zzt26OjE77dzox3O2Nv9bXA66MQ==1/800/0/158941.png",
+    "https://static3.agimonline.com/images/4Zzoy1NzM41O2M60MTtp2ZDox1NTg59NDI71ZXh05OnBu1Zzt21OjE70dzox2O2Nv1bXA69MQ==1/800/0/158942.png"
+   ],
+   "dataSrc": [],
+   "descBlock": "REALKASA pone la massima attenzione nella raccolta, verifica e aggiornamento delle informazioni pubblicate. Tuttavia, i dati relativi agli immobili possono provenire anche da proprietari, committenti, costruttori, tecnici, amministratori, documentazione disponibile o altri soggetti terzi e possono essere soggetti a variazioni, aggiornamenti, errori materiali o inesattezze.",
+   "text": "Vendere\nComprare\nAffittare\nServizi\nContatti\nValuta il tuo immobile\nAppartamento, Quadrilocale in affitto\n Bologna, Malpighi\n80 Mq\n3 Camere\n2 Bagni\nPiano 3\nRif. 2748DT\n€ 1.600\nPLANIMETRIE\nMAPPA\nDescrizione\n\nBOLOGNA / VIA SANT'ISAIA - (LOCAZIONE - QUADRILOCALE - MANSARDA CON 3 CAMERE E DOPPI SERVIZI) - Realkasa propone in locazione ai suoi clienti luminoso ed accogliente appartamento mansardato ubicato al terzo ed ultimo piano.\nPOSIZIONE - L'immobile si trova nel rinomato quartiere Malpighi, in Via Sant'Isaia, una delle arterie più centrali e storiche della città. La posizione è comoda a tutti i servizi, all'Università e ottimamente servita dai mezzi pubblici, ideale per vivere il centro di Bologna.\nPARTE INTERNA - L'immobile si compone di: ingresso con disimpegno attrezzato con armadiature e comodo divano, tre ampie camere da letto (due singole ed una doppia, tutte dotate di letto e armadio), e cucina abitabile completa di elettrodomestici (piano a induzione, lavastoviglie, forno e frigorifero). Completa la soluzione la presenza di due bagni, entrambi finestrati e dotati di box doccia. Gli ambienti interni beneficiano di infissi nuovi in PVC con scuri e di una favorevole esposizione ad Est.\nPARTE ESTERNA - La soluzione è posta al terzo ed ultimo piano mansardato di una palazzina in buone condizioni manutentive, non servita da ascensore, garanzia di estrema tranquillità e privacy.\nPARTE IMPIANTISTICA - Impianto di riscaldamento autonomo gestito da caldaia e presenza dell'aria condizionata in ciascuna delle tre camere da letto. Infissi di nuova generazione in PVC per un ottimo isolamento termico e acustico.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale per studenti o lavoratori referenziati grazie alla posizione centralissima nel quartiere Malpighi, alla presenza di tre camere da letto indipendenti, doppi servizi e dotazioni complete. La combinazione di riscaldamento autonomo, climatizzazione in ogni camera ed infissi nuovi garantisce il massimo comfort abitativo.\nReferente la locazione Sofia Stramenga 051431895\n\nDisclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia.\nAgenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it\n\nDettagli Principali\nMQ: 80\nLocali: 4\nClasse Energ.: D\nIPE: 90 Kwh/mq annuo\nSpese Annuali: € 600\nDettagli Aggiuntivi\nCaratteristiche Interne\nImpianti\nPlanimetrie\nFoto 1\nMappa\n+\n−\n Leaflet | © OpenStreetMap\nContattaci In Agenzia\nSofia Stramenga\n 39/3280765526\n sofia.stramenga@realkasa.it\n Contattami su WhatsApp\nRichiedi Informazioni\n\n\n\n\n\n\n\n\n\n\n\n  \ndichiaro di aver preso visione dell'informativa sulla privacy\n\nImmobili Simili\nAffitto\n Bologna, Borgo Panigale\n Appartamento\n € 1.200\nAffitto\n Bologna, Marconi\n Appartamento\n € 1.300\nAffitto\n Bologna, Centro Storico\n Appartamento\n € 1.375\nAffitto\n Bologna, Centro Storico\n Appartamento\n € 1.250\nContattaci su WhatsApp\nREALKASA\nREAL ESTATE ADVISORY\n\nReal Estate Advisory a Bologna dal 2009. Valorizziamo immobili e costruiamo relazioni che durano oltre il singolo affare.\n\nf\nig\nin\nVENDERE\nVendere casa a Bologna\nValuta la tua casa\nCome lavoriamo\nHome staging\nCOMPRARE\nImmobili in vendita\nCerca casa con noi\nNuove costruzioni\nPreventivo mutuo\nAste immobiliari\nAFFITTARE\nImmobili in affitto\nAffittare casa a Bologna e provincia\nLocazioni negozi e uffici\nLocazioni per studenti\nSERVIZI\nAssistenza contrattuale\nRegistrazione contratti\nCessione contratto\nGestione immobili post locazione\nPerizie e valutazioni\nAZIENDA\nChi siamo\nMissione, visione e valori\nIl Team\nRecensioni\nDiventa Partner\nLavora con noi\nBlog e guide\nContatti\n● REAL ESTATE\n\nVendite e locazioni\nVia Andrea Costa 56/C\n40134 Bologna\n051 431895\n\n● REAL ESTATE\n\nVendite e locazioni\nVia Massimo D'Azeglio 19\n40123 Bologna\n051 431895\n\n● HOSPITALITY\n\nLocazioni brevi e gestione\nVia Massimo D'Azeglio 35\n40123 Bologna\n051 431895\n\nPrivacy Cookie policy Gestisci preferenze cookie Dati societari Note legali Sitemap\n© 2026 RealKasa · Real Estate Advisory · Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 1.600",
+    "mq": "80",
+    "locali": "4",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "3",
+    "classe_energetica": "Energ.: D",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M61MTtpbZDox4NTg52NDM7dZXh0aOnBu9Zzt21OjE71dzoxbO2Nv4bXA62MQ==d/r/0/158943.png",
+    "https://static3.agimonline.com/images/4ZzoyfNzM41O2M6cMTtp8ZDox0NTg5cODQ77ZXh08OmpwfZzt21OjE7cdzox8O2Nv0bXA6cMQ==7/850/0/158984.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNzM41O2M60MTtp8ZDox7NDE39ODU7fZXh0cOmpwcZzt21OjE70dzow8O2Nv7bXA69MQ==f/600/0/141785.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+    "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+    "https://static3.agimonline.com/images/4ZzoyeNzM47O2M69MTtp2ZDoxaMjQ4aMzU7bZXh05OmpweZzt27OjE79dzox2O2NvabXA6aMQ==b/500/0/124835.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4dO2M67MTtp7ZDoxdMzI41Njg79ZXh0cOmpwbZzt2dOjE77dzox7O2NvdbXA61MQ==9/500/0/132868.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M61MTtpbZDox4NTg52NDM7dZXh0aOnBu9Zzt21OjE71dzoxbO2Nv4bXA62MQ==d/800/0/158943.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM4fO2M6aMTtpfZDox7NTg5dNDA76ZXh0aOnBudZzt2fOjE7adzoxfO2Nv7bXA6dMQ==6/800/0/158940.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM42O2M6dMTtpeZDox3NTg50NDg7fZXh0eOnBu5Zzt22OjE7ddzoxeO2Nv3bXA60MQ==f/800/0/158948.png",
+    "https://static3.agimonline.com/images/4Zzoy2NzM4eO2M6dMTtp5ZDox2NTg5fNDk77ZXh04OnBu2Zzt2eOjE7ddzox5O2Nv2bXA6fMQ==7/800/0/158949.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM46O2M67MTtp3ZDox9NTg56NDE71ZXh0dOnBu5Zzt26OjE77dzox3O2Nv9bXA66MQ==1/800/0/158941.png",
+    "https://static3.agimonline.com/images/4Zzoy1NzM41O2M60MTtp2ZDox1NTg59NDI71ZXh05OnBu1Zzt21OjE70dzox2O2Nv1bXA69MQ==1/800/0/158942.png"
+   ],
+   "foto": "foto-4.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy9NzM41O2M61MTtpbZDox4NTg52NDM7dZXh0aOnBu9Zzt21OjE71dzoxbO2Nv4bXA62MQ==d/r/0/158943.png"
+  },
+  {
+   "url": "https://www.realkasa.it/immobile/4403-Ufficio-Ufficio-operativo-in-affitto-a-Casalecchio-di-Reno/",
+   "title": "Ufficio, Ufficio operativo Affitto a Casalecchio di Reno",
+   "h1": null,
+   "h2": [
+    "Ufficio, Ufficio operativo in affitto",
+    "Descrizione",
+    "Dettagli Principali",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche Interne",
+    "Planimetrie"
+   ],
+   "ogTitle": "Ufficio, Ufficio operativo Affitto a Casalecchio di Reno",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoydNzM42O2M68MTtp4ZDoxaNTg5aMzA72ZXh06OnBudZzt22OjE78dzox4O2NvabXA6aMQ==2/r/0/158930.png",
+   "ogDesc": "CROCE DI CASALECCHIO - (AFFITTO - FUNIVIA - UFFICIO AL PIANO TERRA) - Realkasa propone in AFFITTO ai suoi clienti ufficio di ampia metratura situato al piano terra di una palazzina. Immobile libero a rogito.\nPOSIZIONE - L'unità immobiliare è ubicata nella servita e richiesta zona tra Croce di Casalecchio e la Funivia, in una posizione comoda e strategica per raggiungere agevolmente sia Bologna che le principali arterie di collegamento e servizi pubblici.\nPARTE INTERNA - L'immobile è posto al piano terra ed è composto da ingresso su comodo disimpegno, 4 ampi vani ad uso ufficio, una zona archivio e un bagno. Gli spazi risultano ben distribuiti, versatili e funzionali per ogni esigenza operativa.\nPARTE ESTERNA - Il fabbricato, edificato tra gli anni '50 e '60, si presenta in buono stato di manutenzione. L'immobile gode della comodità dell'accesso al piano terra, pratico per la gestione quotidiana e per accogliere clienti e collaboratori.\nPARTE IMPIANTISTICA - Riscaldamento centralizzato e impianto di aria condizionata autonoma per garantire il massimo comfort in ogni stagione.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale per professionisti, studi associati o aziende alla ricerca di ampi spazi operativi facilmente raggiungibili, situati in una posizione strategica tra Casalecchio e Bologna.\n\nDisclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia.   Agenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it   ",
+   "desc": "CROCE DI CASALECCHIO - (AFFITTO - FUNIVIA - UFFICIO AL PIANO TERRA) - Realkasa propone in AFFITTO ai suoi clienti ufficio di ampia metratura situato al piano te",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"name\":\"immobile - RealKasa Agenzia Immobiliare a Bologna\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\"},\"datePublished\":\"2018-12-05T13:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.realkasa.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.realkasa.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"name\":\"RealKasa Agenzia Immobiliare\",\"description\":\"Compravendite, locazioni e affitti brevi a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.realkasa.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\",\"name\":\"Realkasa - Agenzia Immobiliare\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"contentUrl\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"width\":786,\"height\":322,\"caption\":\"Realkasa - Agenzia Immobiliare\"},\"image\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/realkasa\\/\",\"https:\\/\\/x.com\\/Realkasa_it\",\"https:\\/\\/www.instagram.com\\/realkasa_it\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/realkasa\"]}]}\n\n{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Navigazione RealKasa\",\"itemListElement\":[\n{\"@type\":\"SiteNavigationElement\",\"position\":1,\"name\":\"Vendere casa a Bologna\",\"url\":\"https://www.realkasa.it/vendere-casa-a-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":2,\"name\":\"Immobili in vendita a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-vendita-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":3,\"name\":\"Immobili in affitto a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-affitto-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":4,\"name\":\"Servizi immobiliari\",\"url\":\"https://www.realkasa.it/servizi/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":5,\"name\":\"Contatti\",\"url\":\"https://www.realkasa.it/contatti/\"}\n]}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy5NzM41O2M6eMTtp1ZDox4NTg5bNTI7dZXh03OnBu5Zzt21OjE7edzox1O2Nv4bXA6bMQ==d/850/0/158952.png",
+     "w": 850,
+     "h": 726,
+     "rw": 767.984375
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NzM4fO2M64MTtpdZDoxbNDE17ODE75ZXh0bOmpw2Zzt2fOjE74dzowdO2NvbbXA67MQ==5/600/0/141581.jpg",
+     "w": 469,
+     "h": 600,
+     "rw": 279.984375
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+     "w": 512,
+     "h": 512,
+     "rw": 30
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+     "w": 454,
+     "h": 426,
+     "rw": 0
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34823/23705.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34824/23705.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4ZzoydNzM42O2M68MTtp4ZDoxaNTg5aMzA72ZXh06OnBudZzt22OjE78dzox4O2NvabXA6aMQ==2/800/0/158930.png",
+    "https://static3.agimonline.com/images/4Zzoy6NzM41O2M62MTtpbZDox9NTg56MzE74ZXh06OnBu6Zzt21OjE72dzoxbO2Nv9bXA66MQ==4/800/0/158931.png",
+    "https://static3.agimonline.com/images/4Zzoy3NzM44O2M68MTtp1ZDox9NTg50MzI71ZXh03OnBu3Zzt24OjE78dzox1O2Nv9bXA60MQ==1/800/0/158932.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM43O2M6eMTtp5ZDox3NTg51MzM7fZXh02OnBu5Zzt23OjE7edzox5O2Nv3bXA61MQ==f/800/0/158933.png",
+    "https://static3.agimonline.com/images/4Zzoy9NzM44O2M6fMTtp7ZDox0NTg52MzQ7dZXh00OnBu9Zzt24OjE7fdzox7O2Nv0bXA62MQ==d/800/0/158934.png",
+    "https://static3.agimonline.com/images/4Zzoy3NzM47O2M6fMTtp6ZDox9NTg59MzU72ZXh0dOmpw3Zzt27OjE7fdzox6O2Nv9bXA69MQ==2/800/0/158935.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy3NzM47O2M6fMTtp6ZDox9NTg59MzU72ZXh0dOmpw3Zzt27OjE7fdzox6O2Nv9bXA69MQ==2/900/0/158935.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4aO2M62MTtp7ZDox5NTg56MzY75ZXh07OmpwbZzt2aOjE72dzox7O2Nv5bXA66MQ==5/900/0/158936.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNzM42O2M6cMTtpeZDox2NTg5bMzc7fZXh0dOmpwdZzt22OjE7cdzoxeO2Nv2bXA6bMQ==f/900/0/158937.jpg"
+   ],
+   "descBlock": "REALKASA pone la massima attenzione nella raccolta, verifica e aggiornamento delle informazioni pubblicate. Tuttavia, i dati relativi agli immobili possono provenire anche da proprietari, committenti, costruttori, tecnici, amministratori, documentazione disponibile o altri soggetti terzi e possono essere soggetti a variazioni, aggiornamenti, errori materiali o inesattezze.",
+   "text": "Vendere\nComprare\nAffittare\nServizi\nContatti\nValuta il tuo immobile\nUfficio, Ufficio operativo in affitto\n Casalecchio di Reno\n119 Mq\n1 Bagno\nPiano t\nRif. 2747DT\n€ 1.200\nPLANIMETRIE\nMAPPA\nDescrizione\n\nCROCE DI CASALECCHIO - (AFFITTO - FUNIVIA - UFFICIO AL PIANO TERRA) - Realkasa propone in AFFITTO ai suoi clienti ufficio di ampia metratura situato al piano terra di una palazzina. Immobile libero a rogito.\nPOSIZIONE - L'unità immobiliare è ubicata nella servita e richiesta zona tra Croce di Casalecchio e la Funivia, in una posizione comoda e strategica per raggiungere agevolmente sia Bologna che le principali arterie di collegamento e servizi pubblici.\nPARTE INTERNA - L'immobile è posto al piano terra ed è composto da ingresso su comodo disimpegno, 4 ampi vani ad uso ufficio, una zona archivio e un bagno. Gli spazi risultano ben distribuiti, versatili e funzionali per ogni esigenza operativa.\nPARTE ESTERNA - Il fabbricato, edificato tra gli anni '50 e '60, si presenta in buono stato di manutenzione. L'immobile gode della comodità dell'accesso al piano terra, pratico per la gestione quotidiana e per accogliere clienti e collaboratori.\nPARTE IMPIANTISTICA - Riscaldamento centralizzato e impianto di aria condizionata autonoma per garantire il massimo comfort in ogni stagione.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale per professionisti, studi associati o aziende alla ricerca di ampi spazi operativi facilmente raggiungibili, situati in una posizione strategica tra Casalecchio e Bologna.\n\nDisclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia. Agenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it\n\nDettagli Principali\nMQ: 119\nLocali: 4\nClasse Energ.: G\nSpese Annuali: € 2.500\nDettagli Aggiuntivi\nCaratteristiche Interne\nPlanimetrie\nFoto 1\nMappa\n+\n−\n Leaflet | © OpenStreetMap\nContattaci In Agenzia\nDott. Daniele Telesforo\n 39/051431895\n daniele.telesforo@realkasa.it\n Contattami su WhatsApp\nRichiedi Informazioni\n\n\n\n\n\n\n\n\n\n\n\n  \ndichiaro di aver preso visione dell'informativa sulla privacy\n\nImmobili Simili\nContattaci su WhatsApp\nREALKASA\nREAL ESTATE ADVISORY\n\nReal Estate Advisory a Bologna dal 2009. Valorizziamo immobili e costruiamo relazioni che durano oltre il singolo affare.\n\nf\nig\nin\nVENDERE\nVendere casa a Bologna\nValuta la tua casa\nCome lavoriamo\nHome staging\nCOMPRARE\nImmobili in vendita\nCerca casa con noi\nNuove costruzioni\nPreventivo mutuo\nAste immobiliari\nAFFITTARE\nImmobili in affitto\nAffittare casa a Bologna e provincia\nLocazioni negozi e uffici\nLocazioni per studenti\nSERVIZI\nAssistenza contrattuale\nRegistrazione contratti\nCessione contratto\nGestione immobili post locazione\nPerizie e valutazioni\nAZIENDA\nChi siamo\nMissione, visione e valori\nIl Team\nRecensioni\nDiventa Partner\nLavora con noi\nBlog e guide\nContatti\n● REAL ESTATE\n\nVendite e locazioni\nVia Andrea Costa 56/C\n40134 Bologna\n051 431895\n\n● REAL ESTATE\n\nVendite e locazioni\nVia Massimo D'Azeglio 19\n40123 Bologna\n051 431895\n\n● HOSPITALITY\n\nLocazioni brevi e gestione\nVia Massimo D'Azeglio 35\n40123 Bologna\n051 431895\n\nPrivacy Cookie policy Gestisci preferenze cookie Dati societari Note legali Sitemap\n© 2026 RealKasa · Real Estate Advisory · Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 1.200",
+    "mq": "119",
+    "locali": "4",
+    "camere": null,
+    "bagni": "1",
+    "piano": "t",
+    "classe_energetica": "Energ.: G",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoydNzM42O2M68MTtp4ZDoxaNTg5aMzA72ZXh06OnBudZzt22OjE78dzox4O2NvabXA6aMQ==2/r/0/158930.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM41O2M6eMTtp1ZDox4NTg5bNTI7dZXh03OnBu5Zzt21OjE7edzox1O2Nv4bXA6bMQ==d/850/0/158952.png",
+    "https://static3.agimonline.com/images/4Zzoy2NzM4fO2M64MTtpdZDoxbNDE17ODE75ZXh0bOmpw2Zzt2fOjE74dzowdO2NvbbXA67MQ==5/600/0/141581.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+    "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+    "https://static3.agimonline.com/images/4ZzoydNzM42O2M68MTtp4ZDoxaNTg5aMzA72ZXh06OnBudZzt22OjE78dzox4O2NvabXA6aMQ==2/800/0/158930.png",
+    "https://static3.agimonline.com/images/4Zzoy6NzM41O2M62MTtpbZDox9NTg56MzE74ZXh06OnBu6Zzt21OjE72dzoxbO2Nv9bXA66MQ==4/800/0/158931.png",
+    "https://static3.agimonline.com/images/4Zzoy3NzM44O2M68MTtp1ZDox9NTg50MzI71ZXh03OnBu3Zzt24OjE78dzox1O2Nv9bXA60MQ==1/800/0/158932.png",
+    "https://static3.agimonline.com/images/4Zzoy5NzM43O2M6eMTtp5ZDox3NTg51MzM7fZXh02OnBu5Zzt23OjE7edzox5O2Nv3bXA61MQ==f/800/0/158933.png",
+    "https://static3.agimonline.com/images/4Zzoy9NzM44O2M6fMTtp7ZDox0NTg52MzQ7dZXh00OnBu9Zzt24OjE7fdzox7O2Nv0bXA62MQ==d/800/0/158934.png",
+    "https://static3.agimonline.com/images/4Zzoy3NzM47O2M6fMTtp6ZDox9NTg59MzU72ZXh0dOmpw3Zzt27OjE7fdzox6O2Nv9bXA69MQ==2/800/0/158935.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NzM47O2M6fMTtp6ZDox9NTg59MzU72ZXh0dOmpw3Zzt27OjE7fdzox6O2Nv9bXA69MQ==2/900/0/158935.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4aO2M62MTtp7ZDox5NTg56MzY75ZXh07OmpwbZzt2aOjE72dzox7O2Nv5bXA66MQ==5/900/0/158936.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNzM42O2M6cMTtpeZDox2NTg5bMzc7fZXh0dOmpwdZzt22OjE7cdzoxeO2Nv2bXA6bMQ==f/900/0/158937.jpg"
+   ],
+   "foto": "foto-5.png",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoydNzM42O2M68MTtp4ZDoxaNTg5aMzA72ZXh06OnBudZzt22OjE78dzox4O2NvabXA6aMQ==2/r/0/158930.png"
+  },
+  {
+   "url": "https://www.realkasa.it/immobile/4402-Appartamento-Pentalocale-in-affitto-a-Bologna-Costa-Saragozza/",
+   "title": "Appartamento, Pentalocale Affitto a Bologna, Costa Saragozza",
+   "h1": null,
+   "h2": [
+    "Appartamento, Pentalocale in affitto",
+    "Descrizione",
+    "Dettagli Principali",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche Interne",
+    "Impianti"
+   ],
+   "ogTitle": "Appartamento, Pentalocale Affitto a Bologna, Costa Saragozza",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/b/0/158906.jpg",
+   "ogDesc": "VIA DELL'ISONZO - (AFFITTO - APPARTAMENTO - LUMINOSO - 4 VANI - BALCONE) - Realkasa propone in locazione ai suoi clienti ampio e versatile appartamento di 4 vani situato al terzo piano s.a. di una palazzina d'epoca tenuta in ottime condizioni di manutenzione.\nPOSIZIONE - L'immobile si trova in via dell'Isonzo, in un contesto residenziale tranquillo, ben servito dai mezzi pubblici e comodo a tutte le attività commerciali e ai servizi di primaria necessità.\nPARTE INTERNA - L'appartamento si caratterizza per un'ottima distribuzione degli spazi interni. La zona giorno comprende una cucina abitabile già completamente arredata e dotata di piano di cottura a induzione e forno (esclusa lavastoviglie), con accesso diretto al balcone. La disposizione dei vani offre grande flessibilità: è possibile fruire dell'immobile come soggiorno e 3 camere da letto oppure utilizzare gli ambienti come 4 ampie camere. Completa la proprietà un bagno finestrato completo di box doccia. Gli infissi sono in legno con doppio vetro camera e oscuranti. L'immobile non v\nPARTE ESTERNA - La palazzina, risalente a fine anni '40 / anni '50, si presenta in ottime condizioni esterne e di manutenzione generale. L'immobile si trova al terzo piano (senza ascensore). Vi è la possibilità di usufruire di un posto auto.\nPARTE IMPIANTISTICA - L'immobile dispone di riscaldamento autonomo con caldaia e radiatori, citofono e impianti idrico/elettrico certificati e a norma.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale sia per lavoratori o studenti alla ricerca di ampi spazi e stanze luminose, sia per famiglie che desiderano una soluzione funzionale ben collegata.Disclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia.   Agenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it   ",
+   "desc": "VIA DELL'ISONZO - (AFFITTO - APPARTAMENTO - LUMINOSO - 4 VANI - BALCONE) - Realkasa propone in locazione ai suoi clienti ampio e versatile appartamento di 4 van",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/immobile\\/\",\"name\":\"immobile - RealKasa Agenzia Immobiliare a Bologna\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\"},\"datePublished\":\"2018-12-05T13:41:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.realkasa.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.realkasa.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.realkasa.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#website\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"name\":\"RealKasa Agenzia Immobiliare\",\"description\":\"Compravendite, locazioni e affitti brevi a Bologna\",\"publisher\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.realkasa.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#organization\",\"name\":\"Realkasa - Agenzia Immobiliare\",\"url\":\"https:\\/\\/www.realkasa.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"contentUrl\":\"https:\\/\\/www.realkasa.it\\/wp-content\\/uploads\\/2019\\/08\\/090209_LOGO_REALKASA.jpg\",\"width\":786,\"height\":322,\"caption\":\"Realkasa - Agenzia Immobiliare\"},\"image\":{\"@id\":\"https:\\/\\/www.realkasa.it\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/realkasa\\/\",\"https:\\/\\/x.com\\/Realkasa_it\",\"https:\\/\\/www.instagram.com\\/realkasa_it\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/realkasa\"]}]}\n\n{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Navigazione RealKasa\",\"itemListElement\":[\n{\"@type\":\"SiteNavigationElement\",\"position\":1,\"name\":\"Vendere casa a Bologna\",\"url\":\"https://www.realkasa.it/vendere-casa-a-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":2,\"name\":\"Immobili in vendita a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-vendita-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":3,\"name\":\"Immobili in affitto a Bologna\",\"url\":\"https://www.realkasa.it/immobili-in-affitto-bologna/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":4,\"name\":\"Servizi immobiliari\",\"url\":\"https://www.realkasa.it/servizi/\"},\n{\"@type\":\"SiteNavigationElement\",\"position\":5,\"name\":\"Contatti\",\"url\":\"https://www.realkasa.it/contatti/\"}\n]}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoycNzM48O2M64MTtpfZDox7NTg58MTg71ZXh00OnBucZzt28OjE74dzoxfO2Nv7bXA68MQ==1/850/0/158918.png",
+     "w": 619,
+     "h": 850,
+     "rw": 619
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+     "w": 512,
+     "h": 512,
+     "rw": 30
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy1NzM48O2M61MTtpbZDoxeNDE3cODE7bZXh0bOmpw1Zzt28OjE71dzowbO2NvebXA6cMQ==b/600/0/141781.jpg",
+     "w": 425,
+     "h": 600,
+     "rw": 279.984375
+    },
+    {
+     "src": "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+     "w": 454,
+     "h": 426,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyeNzM47O2M69MTtp2ZDoxaMjQ4aMzU7bZXh05OmpweZzt27OjE79dzox2O2NvabXA6aMQ==b/500/0/124835.jpg",
+     "w": 500,
+     "h": 333,
+     "rw": 120
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoybNzM4dO2M67MTtp7ZDoxdMzI41Njg79ZXh0cOmpwbZzt2dOjE77dzox7O2NvdbXA61MQ==9/500/0/132868.jpg",
+     "w": 500,
+     "h": 333,
+     "rw": 120
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/800/0/158906.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNzM44O2M65MTtp8ZDoxaNTg5cMTc75ZXh0bOmpwdZzt24OjE75dzox8O2NvabXA6cMQ==5/800/0/158917.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM4cO2M63MTtp9ZDox9NTg59MDg77ZXh09Ompw9Zzt2cOjE73dzox9O2Nv9bXA69MQ==7/800/0/158908.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4cO2M60MTtpbZDox1NTg55MDk72ZXh0dOmpw7Zzt2cOjE70dzoxbO2Nv1bXA65MQ==2/800/0/158909.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M6aMTtpeZDox1NTg55MTA7eZXh0fOmpw9Zzt21OjE7adzoxeO2Nv1bXA65MQ==e/800/0/158910.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M60MTtpbZDox2NTg5eMTE7cZXh09Ompw7Zzt20OjE70dzoxbO2Nv2bXA6eMQ==c/800/0/158911.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/900/0/158906.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNzM44O2M65MTtp8ZDoxaNTg5cMTc75ZXh0bOmpwdZzt24OjE75dzox8O2NvabXA6cMQ==5/900/0/158917.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM4cO2M63MTtp9ZDox9NTg59MDg77ZXh09Ompw9Zzt2cOjE73dzox9O2Nv9bXA69MQ==7/900/0/158908.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4cO2M60MTtpbZDox1NTg55MDk72ZXh0dOmpw7Zzt2cOjE70dzoxbO2Nv1bXA65MQ==2/900/0/158909.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M6aMTtpeZDox1NTg55MTA7eZXh0fOmpw9Zzt21OjE7adzoxeO2Nv1bXA65MQ==e/900/0/158910.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M60MTtpbZDox2NTg5eMTE7cZXh09Ompw7Zzt20OjE70dzoxbO2Nv2bXA6eMQ==c/900/0/158911.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4eO2M6cMTtpeZDoxaNTg5eMTI71ZXh0dOmpw8Zzt2eOjE7cdzoxeO2NvabXA6eMQ==1/900/0/158912.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NzM41O2M65MTtp7ZDox0NTg58MTM75ZXh0cOmpw1Zzt21OjE75dzox7O2Nv0bXA68MQ==5/900/0/158913.jpg"
+   ],
+   "descBlock": "REALKASA pone la massima attenzione nella raccolta, verifica e aggiornamento delle informazioni pubblicate. Tuttavia, i dati relativi agli immobili possono provenire anche da proprietari, committenti, costruttori, tecnici, amministratori, documentazione disponibile o altri soggetti terzi e possono essere soggetti a variazioni, aggiornamenti, errori materiali o inesattezze.",
+   "text": "Vendere\nComprare\nAffittare\nServizi\nContatti\nValuta il tuo immobile\nAppartamento, Pentalocale in affitto\n Bologna, Costa Saragozza\n91 Mq\n3 Camere\n1 Bagno\nPiano 3\nRif. 2746DT\n€ 1.400\nPLANIMETRIE\nMAPPA\nDescrizione\n\nVIA DELL'ISONZO - (AFFITTO - APPARTAMENTO - LUMINOSO - 4 VANI - BALCONE) - Realkasa propone in locazione ai suoi clienti ampio e versatile appartamento di 4 vani situato al terzo piano s.a. di una palazzina d'epoca tenuta in ottime condizioni di manutenzione.\nPOSIZIONE - L'immobile si trova in via dell'Isonzo, in un contesto residenziale tranquillo, ben servito dai mezzi pubblici e comodo a tutte le attività commerciali e ai servizi di primaria necessità.\nPARTE INTERNA - L'appartamento si caratterizza per un'ottima distribuzione degli spazi interni. La zona giorno comprende una cucina abitabile già completamente arredata e dotata di piano di cottura a induzione e forno (esclusa lavastoviglie), con accesso diretto al balcone. La disposizione dei vani offre grande flessibilità: è possibile fruire dell'immobile come soggiorno e 3 camere da letto oppure utilizzare gli ambienti come 4 ampie camere. Completa la proprietà un bagno finestrato completo di box doccia. Gli infissi sono in legno con doppio vetro camera e oscuranti. L'immobile non v\nPARTE ESTERNA - La palazzina, risalente a fine anni '40 / anni '50, si presenta in ottime condizioni esterne e di manutenzione generale. L'immobile si trova al terzo piano (senza ascensore). Vi è la possibilità di usufruire di un posto auto.\nPARTE IMPIANTISTICA - L'immobile dispone di riscaldamento autonomo con caldaia e radiatori, citofono e impianti idrico/elettrico certificati e a norma.\nPERCHÉ SCEGLIERE QUESTO IMMOBILE - Soluzione ideale sia per lavoratori o studenti alla ricerca di ampi spazi e stanze luminose, sia per famiglie che desiderano una soluzione funzionale ben collegata.Disclaimer - Documento non vincolante ai fini contrattuali - Per motivi di privacy l'indirizzo dell'immobile potrebbe non coincidere con quello pubblicizzato. In alcuni annunci potrebbero essere presenti rendering che non rappresentano fedelmente l’immobile pubblicizzato, ma solo a scopo illustrativo. Può essere utilizzata l’IA per pubblicizzare le foto. Chiedi info in Agenzia. Agenzia immobiliare a Bologna. Acquista, vendi o affitta il tuo appartamento con noi. Valutazioni gratuite, assistenza mutui, vasta scelta di immobili in vendita e affitto. Contattaci allo 051431895 o visita il nostro sito web realkasa.it\n\nDettagli Principali\nMQ: 91\nLocali: 5\nClasse Energ.: E\nSpese Annuali: € 900\nDettagli Aggiuntivi\nCaratteristiche Interne\nImpianti\nCaratteristiche Esterne\nPlanimetrie\nFoto 1\nMappa\n+\n−\n Leaflet | © OpenStreetMap\nContattaci In Agenzia\nIrene Guidetti\n 39/051431895\n irene.guidetti@realkasa.it\n Contattami su WhatsApp\nRichiedi Informazioni\n\n\n\n\n\n\n\n\n\n\n\n  \ndichiaro di aver preso visione dell'informativa sulla privacy\n\nImmobili Simili\nAffitto\n Bologna, Borgo Panigale\n Appartamento\n € 1.200\nAffitto\n Bologna, Marconi\n Appartamento\n € 1.300\nAffitto\n Bologna, Centro Storico\n Appartamento\n € 1.375\nAffitto\n Bologna, Centro Storico\n Appartamento\n € 1.250\nContattaci su WhatsApp\nREALKASA\nREAL ESTATE ADVISORY\n\nReal Estate Advisory a Bologna dal 2009. Valorizziamo immobili e costruiamo relazioni che durano oltre il singolo affare.\n\nf\nig\nin\nVENDERE\nVendere casa a Bologna\nValuta la tua casa\nCome lavoriamo\nHome staging\nCOMPRARE\nImmobili in vendita\nCerca casa con noi\nNuove costruzioni\nPreventivo mutuo\nAste immobiliari\nAFFITTARE\nImmobili in affitto\nAffittare casa a Bologna e provincia\nLocazioni negozi e uffici\nLocazioni per studenti\nSERVIZI\nAssistenza contrattuale\nRegistrazione contratti\nCessione contratto\nGestione immobili post locazione\nPerizie e valutazioni\nAZIENDA\nChi siamo\nMissione, visione e valori\nIl Team\nRecensioni\nDiventa Partner\nLavora con noi\nBlog e guide\nContatti\n● REAL ESTATE\n\nVendite e locazioni\nVia Andrea Costa 56/C\n40134 Bologna\n051 431895\n\n● REAL ESTATE\n\nVendite e locazioni\nVia Massimo D'Azeglio 19\n40123 Bologna\n051 431895\n\n● HOSPITALITY\n\nLocazioni brevi e gestione\nVia Massimo D'Azeglio 35\n40123 Bologna\n051 431895\n\nPrivacy Cookie policy Gestisci preferenze cookie Dati societari Note legali Sitemap\n© 2026 RealKasa · Real Estate Advisory · Tutti i diritti riservati",
+   "parsed": {
+    "prezzo": "€ 1.400",
+    "mq": "91",
+    "locali": "5",
+    "camere": "3",
+    "bagni": "1",
+    "piano": "3",
+    "classe_energetica": "Energ.: E",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/b/0/158906.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNzM48O2M64MTtpfZDox7NTg58MTg71ZXh00OnBucZzt28OjE74dzoxfO2Nv7bXA68MQ==1/850/0/158918.png",
+    "https://www.realkasa.it/wp-content/themes/agim/img/social-01-512.png",
+    "https://static3.agimonline.com/images/4Zzoy1NzM48O2M61MTtpbZDoxeNDE3cODE7bZXh0bOmpw1Zzt28OjE71dzowbO2NvebXA6cMQ==b/600/0/141781.jpg",
+    "https://www.realkasa.it/wp-content/themes/agim/media/wat.png",
+    "https://static3.agimonline.com/images/4ZzoyeNzM47O2M69MTtp2ZDoxaMjQ4aMzU7bZXh05OmpweZzt27OjE79dzox2O2NvabXA6aMQ==b/500/0/124835.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNzM4dO2M67MTtp7ZDoxdMzI41Njg79ZXh0cOmpwbZzt2dOjE77dzox7O2NvdbXA61MQ==9/500/0/132868.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/800/0/158906.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNzM44O2M65MTtp8ZDoxaNTg5cMTc75ZXh0bOmpwdZzt24OjE75dzox8O2NvabXA6cMQ==5/800/0/158917.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM4cO2M63MTtp9ZDox9NTg59MDg77ZXh09Ompw9Zzt2cOjE73dzox9O2Nv9bXA69MQ==7/800/0/158908.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4cO2M60MTtpbZDox1NTg55MDk72ZXh0dOmpw7Zzt2cOjE70dzoxbO2Nv1bXA65MQ==2/800/0/158909.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M6aMTtpeZDox1NTg55MTA7eZXh0fOmpw9Zzt21OjE7adzoxeO2Nv1bXA65MQ==e/800/0/158910.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M60MTtpbZDox2NTg5eMTE7cZXh09Ompw7Zzt20OjE70dzoxbO2Nv2bXA6eMQ==c/800/0/158911.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/900/0/158906.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNzM44O2M65MTtp8ZDoxaNTg5cMTc75ZXh0bOmpwdZzt24OjE75dzox8O2NvabXA6cMQ==5/900/0/158917.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM4cO2M63MTtp9ZDox9NTg59MDg77ZXh09Ompw9Zzt2cOjE73dzox9O2Nv9bXA69MQ==7/900/0/158908.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM4cO2M60MTtpbZDox1NTg55MDk72ZXh0dOmpw7Zzt2cOjE70dzoxbO2Nv1bXA65MQ==2/900/0/158909.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NzM41O2M6aMTtpeZDox1NTg55MTA7eZXh0fOmpw9Zzt21OjE7adzoxeO2Nv1bXA65MQ==e/900/0/158910.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NzM40O2M60MTtpbZDox2NTg5eMTE7cZXh09Ompw7Zzt20OjE70dzoxbO2Nv2bXA6eMQ==c/900/0/158911.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NzM4eO2M6cMTtpeZDoxaNTg5eMTI71ZXh0dOmpw8Zzt2eOjE7cdzoxeO2NvabXA6eMQ==1/900/0/158912.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NzM41O2M65MTtp7ZDox0NTg58MTM75ZXh0cOmpw1Zzt21OjE75dzox7O2Nv0bXA68MQ==5/900/0/158913.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoyaNzM47O2M6eMTtp6ZDoxaNTg5aMDY7aZXh06OmpwaZzt27OjE7edzox6O2NvabXA6aMQ==a/b/0/158906.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.realkasa.it/wp-content/uploads/2026/09/realkasa-logo-white.png",
+  "size": 8909
+ }
+}

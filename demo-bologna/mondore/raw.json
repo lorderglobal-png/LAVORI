@@ -1,0 +1,830 @@
+{
+ "cfg": {
+  "slug": "mondore",
+  "nome": "Mondore",
+  "home": "https://www.mondore.it/",
+  "index": [
+   "https://www.mondore.it/annunci-immobiliari/?tab=vendita"
+  ],
+  "rx": "mondore[.]it/(immobile|immobili|annuncio|annunci|property|proprieta)/[a-z0-9-]+",
+  "n": 6,
+  "contact": "https://www.mondore.it/contatti/"
+ },
+ "home": {
+  "title": "Agenzie Immobiliari a Bologna e Roma",
+  "desc": "MONDORE Agenzia immobiliare a San Lazzaro di Savena Bologna. Immobili in Vendita a San Lazzaro, Bologna e Provincia, Roma.",
+  "emails": [
+   "mondore@pec.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.mondore.it/wp-content/uploads/logo-mondore.png",
+   "https://www.mondore.it/wp-content/uploads/mondore-logo-negativo.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(249, 249, 249)",
+   "color": "rgb(34, 34, 34)",
+   "font": "Montserrat"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 34, 34)",
+   "font": "Montserrat"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 34, 34)",
+   "font": "Montserrat"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(37, 167, 95)",
+   "font": "\"Roboto Condensed\""
+  },
+  "a": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(37, 167, 95)",
+   "font": "\"Roboto Condensed\""
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    18
+   ],
+   [
+    "rgb(37, 167, 95)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(105, 114, 125)",
+    2
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    464
+   ],
+   [
+    "rgba(0, 0, 0, 0.35)",
+    51
+   ],
+   [
+    "rgb(255, 255, 255)",
+    36
+   ],
+   [
+    "rgba(0, 0, 0, 0.65)",
+    34
+   ],
+   [
+    "rgb(37, 167, 95)",
+    20
+   ],
+   [
+    "rgb(105, 114, 125)",
+    2
+   ],
+   [
+    "rgb(234, 234, 234)",
+    1
+   ],
+   [
+    "rgb(252, 252, 252)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    17
+   ],
+   [
+    "rgb(34, 34, 34)",
+    15
+   ],
+   [
+    "rgb(37, 167, 95)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    2
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    73
+   ],
+   [
+    "rgb(37, 167, 95)",
+    34
+   ],
+   [
+    "rgb(34, 34, 34)",
+    13
+   ],
+   [
+    "rgb(51, 51, 51)",
+    8
+   ],
+   [
+    "rgb(234, 234, 234)",
+    6
+   ],
+   [
+    "rgb(0, 66, 116)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "Montserrat",
+    220
+   ],
+   [
+    "\"Roboto Condensed\"",
+    119
+   ],
+   [
+    "\"Roboto Condensed\", sans-serif",
+    5
+   ],
+   [
+    "Montserrat, sans-serif",
+    2
+   ],
+   [
+    "Roboto, sans-serif",
+    1
+   ]
+  ],
+  "heads": [
+   "CERCA PER ZONA",
+   "VETRINA IMMOBILIARE",
+   "Casa a schiera in Vendita a Bologna – Borgo Panigale",
+   "Casa a schiera in Vendita a Bologna – Borgo Panigale",
+   "Bologna – Pentalocale in elegante stabile",
+   "Bologna – Pentalocale in elegante stabile",
+   "Ampio e luminoso appartamento in zona Murri",
+   "Ampio e luminoso appartamento in zona Murri"
+  ],
+  "addr": "Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.",
+  "final": "https://www.mondore.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.mondore.it/contatti/",
+  "emails": [
+   "info@mondore.it",
+   "agenzia.castiglione@mondore.it",
+   "agenzia.sanlazzaro@mondore.it",
+   "agenzia.castelmaggiore@mondore.it",
+   "agenzia.sassomarconi@mondore.it",
+   "agenzia.roma@mondore.it",
+   "direzionale@mondore.it",
+   "mondore@pec.it"
+  ],
+  "tels": [],
+  "addr": "Via Castiglione, 12A, 40125 Bologna BO"
+ },
+ "candidates": [
+  "https://www.mondore.it/immobile/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-centro-storico-boc549cdp/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-dagnini-orti-sm359sr/",
+  "https://www.mondore.it/immobile/villa-vendita-pianoro-boc629fed/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-barca-boc299mp/",
+  "https://www.mondore.it/immobile/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2/",
+  "https://www.mondore.it/immobile/appartamento-vendita-casalecchio-di-reno-boc449mp/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-fossolo-slds550mc/",
+  "https://www.mondore.it/immobile/box-vendita-ozzano-dellemilia-slds25fbr/",
+  "https://www.mondore.it/immobile/appartamento-vendita-zola-predosa-sm149ab/",
+  "https://www.mondore.it/immobile/villa-vendita-pianoro-slds590ac/",
+  "https://www.mondore.it/immobile/villa-bifamiliare-vendita-roma-acilia-rm299flu/",
+  "https://www.mondore.it/immobile/casa-a-schiera-centrale-vendita-roma-la-storta-rm229lci/",
+  "https://www.mondore.it/immobile/appartamento-vendita-riccione-dir665gmn/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-arcoveggio-new282gmn-m7/",
+  "https://www.mondore.it/immobile/villa-vendita-bologna-fiera-slds570ac/",
+  "https://www.mondore.it/immobile/appartamento-vendita-san-lazzaro-di-savena-slds239fbr/",
+  "https://www.mondore.it/immobile/box-auto-coperto-vendita-sasso-marconi-sm018am/",
+  "https://www.mondore.it/immobile/casa-singola-vendita-sasso-marconi-sm325atn/",
+  "https://www.mondore.it/immobile/ufficio-vendita-bologna-centro-storico-boc189cdp/",
+  "https://www.mondore.it/immobile/box-auto-coperto-vendita-bologna-centro-storico-boc109mp/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-massarenti-cm155pst/",
+  "https://www.mondore.it/immobile/appartamento-vendita-molinella-sm215atn/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-santorsola-slds350mc/",
+  "https://www.mondore.it/immobile/appartamento-vendita-sasso-marconi-sm320gt/",
+  "https://www.mondore.it/immobile/appartamento-vendita-sasso-marconi-sm445gt/",
+  "https://www.mondore.it/immobile/appartamento-vendita-ozzano-dellemilia-slds280gs/",
+  "https://www.mondore.it/immobile/appartamento-vendita-budrio-cm259ss/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-cm279mb-m4/",
+  "https://www.mondore.it/immobile/rustico-casale-vendita-barberino-di-mugello-sm950kdb/",
+  "https://www.mondore.it/immobile/appartamento-vendita-sasso-marconi-sm148gt/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-toscana-san-ruffillo-sm750am/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-fossolo-slds345lm/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-arcoveggio-new279gmn-m4/",
+  "https://www.mondore.it/immobile/villa-trifamiliare-vendita-marzabotto-sm399kdb/",
+  "https://www.mondore.it/immobile/appartamento-vendita-bologna-corticella-cm219md/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.mondore.it/immobile/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4/",
+   "title": "Bologna Borgo Panigale - villa a schiera",
+   "h1": "Casa a schiera in Vendita a Bologna – Borgo Panigale",
+   "h2": [
+    "Scheda immobile",
+    "Descrizione",
+    "Indirizzo",
+    "Dettagli",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche"
+   ],
+   "ogTitle": "Bologna Borgo Panigale - villa a schiera",
+   "ogImage": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4.jpg",
+   "ogDesc": "Borgo Panigale villette di nuova costruzione Trattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti. Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino. Composizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage. Con comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e/o bagno e terrazzo. All’esterno del borgo verranno realizzati diversi posti auto dedicati. Affrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti. Prezzi a partire da € 560.000 Prenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili. CONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI",
+   "desc": "Borgo Panigale villette di nuova costruzione Trattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti. Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino. Composizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage. Con comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e/o bagno e terrazzo. All’esterno del borgo verranno realizzati diversi posti auto dedicati. Affrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti. Prezzi a partire da € 560.000 Prenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili. CONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/\",\"name\":\"Bologna Borgo Panigale - villa a schiera\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo_4352399_NEW560GMN-A4.jpg\",\"datePublished\":\"2025-01-27T17:12:54+00:00\",\"description\":\"Borgo Panigale villette di nuova costruzione Trattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti. Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino. Composizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage. Con comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e\\/o bagno e terrazzo. All’esterno del borgo verranno realizzati diversi posti auto dedicati. Affrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti. Prezzi a partire da € 560.000 Prenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili. CONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/#primaryimage\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo_4352399_NEW560GMN-A4.jpg\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo_4352399_NEW560GMN-A4.jpg\",\"width\":1280,\"height\":852},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a4\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.mondore.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.mondore.it\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Casa a schiera in Vendita a Bologna &#8211; Borgo Panigale\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.mondore.it\\/#website\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"name\":\"MONDORE\",\"description\":\"Agenzie Immobiliari a Bologna e Roma\",\"publisher\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\"},\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.mondore.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\",\"name\":\"MONDORE\",\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"width\":148,\"height\":64,\"caption\":\"MONDORE\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-22.jpg",
+     "w": 905,
+     "h": 1280,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-22.jpg",
+     "w": 905,
+     "h": 1280,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-22.jpg",
+     "w": 905,
+     "h": 1280,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4.jpg",
+     "w": 1280,
+     "h": 852,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-1.jpg",
+     "w": 1280,
+     "h": 852,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-2.jpg",
+     "w": 1280,
+     "h": 852,
+     "rw": 845.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-8-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-2-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-3-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-4-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-5-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-6-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-7-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-8-1067x600.jpg"
+   ],
+   "descBlock": "Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino.",
+   "text": "CHI SIAMO\nIMMOBILI\nPER CHI ACQUISTA\nPER CHI VENDE\nPER CHI INVESTE\nPER I COSTRUTTORI\nPER I PROFESSIONISTI\nCONTATTI\nPrevious\nNext\nHome\nBologna\nBorgo Panigale\nCasa a schiera in Vendita a Bologna – Borgo Panigale\n  \nCasa a schiera in Vendita a Bologna – Borgo Panigale\n560.000,00€\nVia bragalia, Borgo Panigale, Bologna, Bologna, Italia\nEVIDENZAVENDITANUOVA COSTRUZIONE\nScheda immobile\nCodice Immobile: NEW560GMN-A4\nCasa a schiera\nTipologia Immobile\n 3\nCamere da letto\n 2\nBagni\n 1\nGarage\n 153\nmq\n 2024\nAnno Costruzione\nDescrizione\n\nBorgo Panigale villette di nuova costruzione\n\nTrattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti.\n\nLe costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino.\n\nComposizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage.\n\nCon comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e/o bagno e terrazzo.\nAll’esterno del borgo verranno realizzati diversi posti auto dedicati.\n\nAffrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti.\n\nPrezzi a partire da € 560.000\n\nPrenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili.\nCONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI\n\nIndirizzo\n Apri con Google Maps\nIndirizzo\nVia bragalia\nComune\nBologna\nProvincia\nBologna\nZona\nBorgo Panigale\n+\n−\nLeaflet | © OpenStreetMap contributors\nDettagli\n Aggiornato su Gennaio 27, 2025 presso 6:12 pm\nCodice Immobile:\nNEW560GMN-A4\nPrezzo:\n560.000,00€\nDimensioni Immobile:\n153 mq\nCamere da letto:\n3\nBagni:\n2\nGarage:\n1\nAnno Costruzione:\n2024\nTipologia Immobile:\nCasa a schiera\nContratto Immobile:\nVendita\nDettagli Aggiuntivi\nCertificazione:\nClasse A4\nConsegna:\nA rogito\nPiano:\nnd di 2\nStato immobile:\nsconosciuto\nGiardino privato:\nSI\nTaverna:\n-\nCantina:\n-\nGarage:\nSI\nPosto auto:\n-\nAnno costruzione:\n2024\nAscensore:\n-\nSpese condominiale:\n1 €\nTerrazzi:\n1\nSottotetto/Mansarda:\n-\nCaratteristiche\nAccesso disabili\nGarage\nGiardino\nIngresso indipendente\nNuova costruzione\nPannelli Fotovoltaici\nRiscaldamento a pavimento\nRiscaldamento Autonomo\nImmobili Simili\nEVIDENZA\nVENDITA NUOVA COSTRUZIONE\n560.000,00€\n  \nCasa a schiera in Vendita a Bologna – Borgo Panigale\nVia bragalia, Borgo Panigale, Bologna, Bologna, Italia\n3 \nCamere da letto\n2 \nBagni\n152 \nmq\nProssimo\nGiovanni Militano\nMOSTRA IMMOBILI\nAutorizzo il trattamento dei dati ai sensi dell'art.13 del D.Lgs.n.196 del 30/06/2003 e del reg.UE 2016/679 GDPR*\nInvia richiesta\nChiama\n  \n© MONDORE Srl - Sede Legale: Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.IVA: 03369901206\npec: mondore@pec.it - Informativa privacy - Cookie policy - Revoca consensi privacy - Tutti i diritti riservati\n\nConfronta gli annunci\n\nConfronta Chiudi",
+   "parsed": {
+    "prezzo": "560.000,00€",
+    "mq": "2024",
+    "locali": null,
+    "camere": "2",
+    "bagni": "1",
+    "piano": "nd di 2",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-22.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-22.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-22.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-1.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-8-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-2-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-3-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-4-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-5-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-6-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-7-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4-8-1067x600.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.mondore.it/wp-content/uploads/photo_4352399_NEW560GMN-A4.jpg"
+  },
+  {
+   "url": "https://www.mondore.it/immobile/appartamento-vendita-bologna-centro-storico-boc549cdp/",
+   "title": "Appartamento in Vendita a Bologna - Centro Storico",
+   "h1": "Bologna – Pentalocale in elegante stabile",
+   "h2": [
+    "Scheda immobile",
+    "Descrizione",
+    "Indirizzo",
+    "Dettagli",
+    "Dettagli Aggiuntivi",
+    "Immobili Simili"
+   ],
+   "ogTitle": "Bologna - Pentalocale in elegante stabile",
+   "ogImage": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP.jpg",
+   "ogDesc": "Bologna - Pentalocale in elegante stabile",
+   "desc": "Bologna - Pentalocale in elegante stabile",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/\",\"name\":\"Appartamento in Vendita a Bologna - Centro Storico\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3413_BOC549CDP.jpg\",\"datePublished\":\"2026-09-09T07:19:10+00:00\",\"dateModified\":\"2026-10-23T06:31:34+00:00\",\"description\":\"Bologna - Pentalocale in elegante stabile\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/#primaryimage\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3413_BOC549CDP.jpg\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3413_BOC549CDP.jpg\",\"width\":1280,\"height\":853},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-centro-storico-boc549cdp\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.mondore.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.mondore.it\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bologna &#8211; Pentalocale in elegante stabile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.mondore.it\\/#website\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"name\":\"MONDORE\",\"description\":\"Agenzie Immobiliari a Bologna e Roma\",\"publisher\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\"},\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.mondore.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\",\"name\":\"MONDORE\",\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"width\":148,\"height\":64,\"caption\":\"MONDORE\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-24.jpg",
+     "w": 1280,
+     "h": 853,
+     "rw": 845.96875
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP.jpg",
+     "w": 1280,
+     "h": 853,
+     "rw": 845.96875
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-1.jpg",
+     "w": 1280,
+     "h": 853,
+     "rw": 845.96875
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-2.jpg",
+     "w": 1280,
+     "h": 853,
+     "rw": 845.96875
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-3.jpg",
+     "w": 1280,
+     "h": 853,
+     "rw": 845.96875
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-4.jpg",
+     "w": 1280,
+     "h": 853,
+     "rw": 845.96875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-23-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-3-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-4-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-8-900x600.jpg"
+   ],
+   "descBlock": "Bologna Centro – Percorrendo una delle arterie più suggestive della città, via Guglielmo Oberdan, attraversando via Alessandrini e via Irnerio, tra via Capo di Lucca e via del Pallone, in contesto storico-signorile, che ha ospitato la sede della Cassa di Risparmio, al quinto piano con ascensore, proponiamo in vendita esclusivo appartamento di 130 mq circa in ottime condizioni, caratterizzato da suggestivi affacci panoramici sulla storia di Bologna.\nL’immobile, grazie al piano alto e alla favorevole esposizione, gode di grande luminosità e di una distribuzione degli spazi particolarmente funzionale. Risulta quindi ottimamente disposto e così composto: ingresso finestrato e arredabile, disimpegno, tre ampie camere (di cui una facilmente utilizzabile come soggiorno), cucina abitabile, sala da bagno e secondo bagno finestrato.\nCompleta la proprietà un’utile cantina, ideale come spazio di deposito.\nLa residenza conserva il fascino autentico delle finiture originali d’epoca: pavimenti in cotto con piastrelle esagonali dei primi del ’900, eleganti porte in legno originali con maniglie in ottone stile art deco perfettamente mantenute e raffinato parquet artigianale del periodo, elementi di pregio che conferiscono agli ambienti carattere, calore e un’atmosfera di rara autenticità. Anche gli interni dello stabile conservano pavimenti e dettagli originali che, insieme al suggestivo ascensore con accesso in ferro battuto, conferiscono valore aggiunto alla proprietà.\nL’appartamento è stato inoltre recentemente valorizzato con nuovi infissi in doppi vetri e nuovi scuri esterni che assicurano un ottimo isolamento termo-acustico, e l’installazione di una nuova caldaia a condensazione, interventi che contribuiscono a migliorare comfort ed efficienza dell’abitazione.\nLa soluzione si presta perfettamente sia come residenza privata nel cuore della città, sia come investimento o struttura ricettiva di pregio, grazie alla posizione strategica, a pochi passi dai principali servizi, dall’Università e dal centro storico.\nLibero subito.\nCertificazione energetica: classe D – IPE 101,93\nPrezzo richiesto: € 549.000\nPossibilità di ampi posti auto in autorimessa privata e protetta limitrofi all’abitazione.\nServizio CAMBIO CASA – la soluzione MONDORE pensata per chi desidera acquistare una nuova abitazione dovendo prima vendere il proprio immobile.",
+   "text": "CHI SIAMO\nIMMOBILI\nPER CHI ACQUISTA\nPER CHI VENDE\nPER CHI INVESTE\nPER I COSTRUTTORI\nPER I PROFESSIONISTI\nCONTATTI\nPrevious\nNext\nHome\nBologna\nCentro Storico\nBologna – Pentalocale in elegante stabile\n  \nBologna – Pentalocale in elegante stabile\n549.000,00€\nVia Irnerio,Centro Storico,Bologna, Bologna,Italia\nEVIDENZAVENDITAEVIDENZA\nScheda immobile\nCodice Immobile: BOC549CDP\nAppartamento\nTipologia Immobile\n 3\nCamere da letto\n 2\nBagni\n 130\nmq\n 1929\nAnno Costruzione\nDescrizione\n\nBologna Centro – Percorrendo una delle arterie più suggestive della città, via Guglielmo Oberdan, attraversando via Alessandrini e via Irnerio, tra via Capo di Lucca e via del Pallone, in contesto storico-signorile, che ha ospitato la sede della Cassa di Risparmio, al quinto piano con ascensore, proponiamo in vendita esclusivo appartamento di 130 mq circa in ottime condizioni, caratterizzato da suggestivi affacci panoramici sulla storia di Bologna.\nL’immobile, grazie al piano alto e alla favorevole esposizione, gode di grande luminosità e di una distribuzione degli spazi particolarmente funzionale. Risulta quindi ottimamente disposto e così composto: ingresso finestrato e arredabile, disimpegno, tre ampie camere (di cui una facilmente utilizzabile come soggiorno), cucina abitabile, sala da bagno e secondo bagno finestrato.\nCompleta la proprietà un’utile cantina, ideale come spazio di deposito.\nLa residenza conserva il fascino autentico delle finiture originali d’epoca: pavimenti in cotto con piastrelle esagonali dei primi del ’900, eleganti porte in legno originali con maniglie in ottone stile art deco perfettamente mantenute e raffinato parquet artigianale del periodo, elementi di pregio che conferiscono agli ambienti carattere, calore e un’atmosfera di rara autenticità. Anche gli interni dello stabile conservano pavimenti e dettagli originali che, insieme al suggestivo ascensore con accesso in ferro battuto, conferiscono valore aggiunto alla proprietà.\nL’appartamento è stato inoltre recentemente valorizzato con nuovi infissi in doppi vetri e nuovi scuri esterni che assicurano un ottimo isolamento termo-acustico, e l’installazione di una nuova caldaia a condensazione, interventi che contribuiscono a migliorare comfort ed efficienza dell’abitazione.\nLa soluzione si presta perfettamente sia come residenza privata nel cuore della città, sia come investimento o struttura ricettiva di pregio, grazie alla posizione strategica, a pochi passi dai principali servizi, dall’Università e dal centro storico.\nLibero subito.\nCertificazione energetica: classe D – IPE 101,93\nPrezzo richiesto: € 549.000\nPossibilità di ampi posti auto in autorimessa privata e protetta limitrofi all’abitazione.\nServizio CAMBIO CASA – la soluzione MONDORE pensata per chi desidera acquistare una nuova abitazione dovendo prima vendere il proprio immobile.\n\nIndirizzo\n Apri con Google Maps\nIndirizzo\nVia Irnerio\nComune\nBologna\nProvincia\nBologna\nCAP\n40100\nZona\nCentro Storico\n+\n−\nLeaflet | © OpenStreetMap contributors\nDettagli\n Aggiornato su Ottobre 23, 2026 presso 8:31 am\nCodice Immobile:\nBOC549CDP\nPrezzo:\n549.000,00€\nDimensioni Immobile:\n130 mq\nCamere da letto:\n3\nBagni:\n2\nAnno Costruzione:\n1929\nTipologia Immobile:\nAppartamento\nContratto Immobile:\nVendita\nDettagli Aggiuntivi\nCertificazione:\nClasse D IPE 101,93\nPiano immobile:\n5\nPiani stabile:\n6\nStato immobile:\nRistrutturato\nStato occupazione:\nLibero\nGiardino:\n-\nBox:\n-\nPosto auto:\n-\nAnno costruzione:\n1929\nAscensore:\n-\nTerrazzo:\n-\nSpese condominiali:\nRiscaldamento:\nAutonomo Metano\nAria condizionata:\nNo\nImmobili Simili\nVENDITA\n598.000,00€\n  \nMascarella Investi nel Cuore Strategico della Città.\nVia Mascarella, 40126 Bologna BO, Italia,Centro Storico,Bologna, Bologna,Italia\n2 \nCamere da letto\n2 \nBagni\n80 \nmq\nVENDITA\n768.000,00€\n  \nBologna Centro Storico. Esclusiva Residenza 189 mq\nStr. Maggiore,Centro Storico,Bologna, Bologna,Italia\n3 \nCamere da letto\n4 \nBagni\n189 \nmq\nVENDITA\n329.000,00€\n  \nAppartamento in centro con 3 camere ottima redditività\nVia San Petronio Vecchio,Centro Storico,Bologna, Bologna,Italia\n3 \nCamere da letto\n1 \nBagno\n79 \nmq\nVENDITA\n379.000,00€\n  \nBologna Centro Storico NUDA PROPRIETA’ con terrazzo ab\nVia delle Belle Arti,Centro Storico,Bologna, Bologna,Italia\n3 \nCamere da letto\n2 \nBagni\n149 \nmq\nPrecedente\nProssimo\nCarmine Della Porta\nMOSTRA IMMOBILI\nAutorizzo il trattamento dei dati ai sensi dell'art.13 del D.Lgs.n.196 del 30/06/2003 e del reg.UE 2016/679 GDPR*\nInvia richiesta\nChiama\n  \n© MONDORE Srl - Sede Legale: Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.IVA: 03369901206\npec: mondore@pec.it - Informativa privacy - Cookie policy - Revoca consensi privacy - Tutti i diritti riservati\n\nConfronta gli annunci\n\nConfronta Chiudi",
+   "parsed": {
+    "prezzo": "€ 549.000",
+    "mq": "1929",
+    "locali": null,
+    "camere": "2",
+    "bagni": "130",
+    "piano": "immobile:",
+    "classe_energetica": "D IPE 101,93",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-24.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-1.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-3.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-23-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-3-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-4-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP-8-900x600.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.mondore.it/wp-content/uploads/photo-3413_BOC549CDP.jpg"
+  },
+  {
+   "url": "https://www.mondore.it/immobile/appartamento-vendita-bologna-dagnini-orti-sm359sr/",
+   "title": "Appartamento in Vendita a Bologna - Dagnini / Orti",
+   "h1": "Ampio e luminoso appartamento in zona Murri",
+   "h2": [
+    "Scheda immobile",
+    "Descrizione",
+    "Indirizzo",
+    "Dettagli",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche"
+   ],
+   "ogTitle": "Ampio e luminoso appartamento in zona Murri",
+   "ogImage": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR.jpg",
+   "ogDesc": "Ampio e luminoso appartamento in zona Murri",
+   "desc": "Ampio e luminoso appartamento in zona Murri",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/\",\"name\":\"Appartamento in Vendita a Bologna - Dagnini \\/ Orti\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3404_SM359SR.jpg\",\"datePublished\":\"2026-09-03T15:17:34+00:00\",\"dateModified\":\"2026-10-19T08:00:13+00:00\",\"description\":\"Ampio e luminoso appartamento in zona Murri\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/#primaryimage\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3404_SM359SR.jpg\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3404_SM359SR.jpg\",\"width\":1280,\"height\":853},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-dagnini-orti-sm359sr\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.mondore.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.mondore.it\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ampio e luminoso appartamento in zona Murri\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.mondore.it\\/#website\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"name\":\"MONDORE\",\"description\":\"Agenzie Immobiliari a Bologna e Roma\",\"publisher\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\"},\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.mondore.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\",\"name\":\"MONDORE\",\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"width\":148,\"height\":64,\"caption\":\"MONDORE\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-4.jpg",
+     "w": 1550,
+     "h": 1032,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-8.jpg",
+     "w": 1550,
+     "h": 1032,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-9.jpg",
+     "w": 1550,
+     "h": 1032,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-4.jpg",
+     "w": 1550,
+     "h": 1032,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-8.jpg",
+     "w": 1550,
+     "h": 1032,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-9.jpg",
+     "w": 1550,
+     "h": 1032,
+     "rw": 845.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-23-901x600.png",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-3-901x600.png",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-4-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-8-901x600.jpg"
+   ],
+   "descBlock": "Nel rinomato e tranquillo quartiere Murri, a pochi passi dai Giardini Margherita, proponiamo in vendita un ampio appartamento posto al primo piano di una palazzina curata e circondata da verde condominiale recintato.",
+   "text": "CHI SIAMO\nIMMOBILI\nPER CHI ACQUISTA\nPER CHI VENDE\nPER CHI INVESTE\nPER I COSTRUTTORI\nPER I PROFESSIONISTI\nCONTATTI\nPrevious\nNext\nHome\nBologna\nDagnini / Orti\nAmpio e luminoso appartamento in zona Murri\n  \nAmpio e luminoso appartamento in zona Murri\n359.000,00€\nVia Giuseppe Dagnini, 8, 40137 Bologna BO, Italia,Dagnini / Orti,Bologna, Bologna,Italia\nEVIDENZAVENDITAEVIDENZA\nScheda immobile\nCodice Immobile: SM359SR\nAppartamento\nTipologia Immobile\n 2\nCamere da letto\n 1\nBagno\n 101\nmq\nDescrizione\n\nAmpio e luminoso appartamento in zona Murri (Ad.ze Giardini Margherita)\n\nNel rinomato e tranquillo quartiere Murri, a pochi passi dai Giardini Margherita, proponiamo in vendita un ampio appartamento posto al primo piano di una palazzina curata e circondata da verde condominiale recintato.\n\nComposizione dell’immobile:\n\nZona giorno: Ingresso arredabile e cucina abitabile.\n\nZona notte/Living: Soggiorno, due camere da letto e bagno finestrato.\n\nFlessibilità: Possibilità di ricavare facilmente una terza camera utilizzando l’attuale soggiorno.\n\nSpazi esterni: Due balconi ideali per godersi il verde circostante.\n\nPertinenze: Una comoda cantina, ottima come deposito o per le biciclette.\n\nPunti di forza:\n\nLuminosità: La doppia esposizione rende gli ambienti ariosi e pieni di luce naturale per tutto il giorno.\n\nPosizione strategica: Vicinissimo a supermercati, scuole e fermate dell’autobus. Il centro storico è rapidamente raggiungibile a piedi o tramite le vicine piste ciclabili.\n\nSpese contenute: Le spese condominiali ammontano a soli 60 € al mese.\n\nUna soluzione eccellente sia per famiglie alla ricerca di comodità in un contesto signorile, sia come investimento sicuro, vista l’altissima e costante richiesta locativa della zona..\n\nIndirizzo\n Apri con Google Maps\nIndirizzo\nVia Giuseppe Dagnini, 8, 40137 Bologna BO, Italia\nComune\nBologna\nProvincia\nBologna\nCAP\n40137\nZona\nDagnini / Orti\n+\n−\nLeaflet | © OpenStreetMap contributors\nDettagli\n Aggiornato su Ottobre 19, 2026 presso 10:00 am\nCodice Immobile:\nSM359SR\nPrezzo:\n359.000,00€\nDimensioni Immobile:\n101 mq\nCamere da letto:\n2\nBagno:\n1\nTipologia Immobile:\nAppartamento\nContratto Immobile:\nVendita\nDettagli Aggiuntivi\nCertificazione:\nClasse E IPE 149\nPiano immobile:\n1\nPiani stabile:\n4\nStato immobile:\nOttimo Stato\nStato occupazione:\nLibero\nGiardino:\n-\nBox:\n-\nPosto auto:\n-\nAnno costruzione:\nAscensore:\n-\nTerrazzo:\n-\nSpese condominiali:\n900€\nRiscaldamento:\nAutonomo Metano\nAria condizionata:\nSi\nCaratteristiche\nAria condizionata\nGiardino\nTerrazzo\nPrecedente\nProssimo\nSusanna Randi\nMOSTRA IMMOBILI\nAutorizzo il trattamento dei dati ai sensi dell'art.13 del D.Lgs.n.196 del 30/06/2003 e del reg.UE 2016/679 GDPR*\nInvia richiesta\nChiama\n  \n© MONDORE Srl - Sede Legale: Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.IVA: 03369901206\npec: mondore@pec.it - Informativa privacy - Cookie policy - Revoca consensi privacy - Tutti i diritti riservati\n\nConfronta gli annunci\n\nConfronta Chiudi",
+   "parsed": {
+    "prezzo": "359.000,00€",
+    "mq": "Descrizione",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": "immobile:",
+    "classe_energetica": "E IPE 149",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-8.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-9.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-8.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-9.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-23-901x600.png",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-3-901x600.png",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-4-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR-8-901x600.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.mondore.it/wp-content/uploads/photo-3404_SM359SR.jpg"
+  },
+  {
+   "url": "https://www.mondore.it/immobile/villa-vendita-pianoro-boc629fed/",
+   "title": "Villa in Vendita a Pianoro",
+   "h1": "Pianoro: Villa Esclusiva acquisto flessibile",
+   "h2": [
+    "Scheda immobile",
+    "Descrizione",
+    "Indirizzo",
+    "Dettagli",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche"
+   ],
+   "ogTitle": "Pianoro: Villa Esclusiva acquisto flessibile",
+   "ogImage": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED.jpg",
+   "ogDesc": "Pianoro: Villa Esclusiva acquisto flessibile",
+   "desc": "Pianoro: Villa Esclusiva acquisto flessibile",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/\",\"name\":\"Villa in Vendita a Pianoro\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3544_BOC629FED.jpg\",\"datePublished\":\"2026-10-26T09:56:09+00:00\",\"description\":\"Pianoro: Villa Esclusiva acquisto flessibile\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/#primaryimage\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3544_BOC629FED.jpg\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3544_BOC629FED.jpg\",\"width\":1550,\"height\":1033},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/villa-vendita-pianoro-boc629fed\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.mondore.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.mondore.it\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pianoro: Villa Esclusiva acquisto flessibile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.mondore.it\\/#website\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"name\":\"MONDORE\",\"description\":\"Agenzie Immobiliari a Bologna e Roma\",\"publisher\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\"},\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.mondore.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\",\"name\":\"MONDORE\",\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"width\":148,\"height\":64,\"caption\":\"MONDORE\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-1.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-2.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-3.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-4.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-5.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-23-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-3-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-4-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-8-900x600.jpg"
+   ],
+   "descBlock": "La Zona Giorno e la Maxi Terrazza (Piano Primo) Il cuore rappresentativo della casa si sviluppa al primo piano. L’ingresso principale si apre su un salone di grande fascino, pavimentato in pregiato marmo e arricchito da un termocamino. Adiacente alla sala, troviamo un’ampia cucina abitabile, un pratico studio e un bagno. L’estensione naturale di questo livello è l’introvabile terrazza abitabile di 60 mq: un palcoscenico straordinario per ospitare cene all’aperto, ricevimenti estivi o per godersi il relax quotidiano in totale libertà.",
+   "text": "CHI SIAMO\nIMMOBILI\nPER CHI ACQUISTA\nPER CHI VENDE\nPER CHI INVESTE\nPER I COSTRUTTORI\nPER I PROFESSIONISTI\nCONTATTI\nPrevious\nNext\nHome\nPianoro\nPianoro\nPianoro: Villa Esclusiva acquisto flessibile\n  \nPianoro: Villa Esclusiva acquisto flessibile\n629.000,00€\nVia Fratelli dall'Olio,Pianoro,Pianoro, Bologna,Italia\nEVIDENZAVENDITAEVIDENZA\nScheda immobile\nCodice Immobile: BOC629FED\nVilla\nTipologia Immobile\n 5\nCamere da letto\n 4\nBagni\n 366\nmq\nDescrizione\n\nVilla indipendente al Villaggio Baldisserra con formule di acquisto flessibili: permuta e acquisto dilazionato (simil Rent to Buy).\nScopri il privilegio di abitare nel rinomato Villaggio Baldisserra, a Pianoro Vecchio. Questa splendida villa, finemente ristrutturata nel 2009, rappresenta un perfetto connubio tra design elegante, comfort hi-tech ed ecologia. Circondata da un magnifico e riservato giardino di 850 mq, la dimora offre un rifugio di assoluta tranquillità, ideale per vivere appieno il contatto con la natura mantenendo i massimi standard di privacy e sicurezza.\n\nLa Zona Giorno e la Maxi Terrazza (Piano Primo) Il cuore rappresentativo della casa si sviluppa al primo piano. L’ingresso principale si apre su un salone di grande fascino, pavimentato in pregiato marmo e arricchito da un termocamino. Adiacente alla sala, troviamo un’ampia cucina abitabile, un pratico studio e un bagno. L’estensione naturale di questo livello è l’introvabile terrazza abitabile di 60 mq: un palcoscenico straordinario per ospitare cene all’aperto, ricevimenti estivi o per godersi il relax quotidiano in totale libertà.\n\nConvivialità e Area Benessere (Piano Terra) Il piano terra ospita una spaziosa taverna – servita da riscaldamento a pavimento e aria condizionata, e direttamente collegata al corpo principale – che sfocia in una luminosa veranda porticata da sfruttare tutto l’anno. Il relax è garantito da una vera “Spa privata” domestica: un bagno esclusivo dotato di sauna e vasca idromassaggio. A completare il livello, una comoda cantina finestrata e un grande garage di 42 mq.\n\nLa Zona Notte (Piano Secondo) Salendo al secondo piano entriamo nell’area dedicata al riposo della famiglia. L’ambiente è composto da quattro luminose camere da letto, servite da tre balconi, oltre a due bagni completi, un disimpegno e un capiente ripostiglio.\n\nSpazi Extra (Piano Terzo) All’ultimo livello, la proprietà dispone di un comodo sottotetto, uno spazio essenziale e versatile per l’organizzazione ottimale della casa.\n\nTecnologia, Efficienza e Sicurezza L’immobile vanta dotazioni impiantistiche di eccellenza, pensate per il massimo comfort e per abbattere i consumi:\n• Efficienza Energetica: Impianto fotovoltaico e solare termico integrato al sistema di riscaldamento.\n• Climatizzazione: Sistema Daikin con 12 split distribuiti strategicamente in tutte le stanze.\n• Finiture: Infissi in legno/alluminio con doppio vetro e tapparelle motorizzate con comando centralizzato ai piani.\n• Praticità: Impianto di aspirazione centralizzata presente su ogni livello.\n• Esterni: Irrigazione automatica del giardino alimentata da un sistema ecologico di recupero delle acque piovane.\n• Sicurezza: Antifurto completo, sia volumetrico che perimetrale.\n\nPosizione Strategica Vivere immersi nel verde collinare con la città a portata di mano. Grazie alla nuova viabilità del Nodo di Rastignano, il centro di Bologna dista solamente 20 minuti di auto. La soluzione definitiva per chi cerca il lusso dello spazio, l’aria pulita e la comodità urbana.\n\nVuoi acquistare ma hai bisogno di flessibilità?\nModalità di acquisto:\n• Permuta: si valuta scambio immobiliare, sia alla pari che con conguaglio a compensazione.\n• Acquisto dilazionato (simil Rent to Buy): è possibile concordare un piano di acquisto agevolato che prevede un anticipo iniziale, rate mensili imputate come caparra e il versamento del saldo al rogito notarile (cifra su cui potrai richiedere il mutuo).\n\nClasse energetica: E\nRichiesta: 629.000 €\n\nNOTA: Le immagini e il virtual tour presentano un intervento di home staging virtuale finalizzato a migliorare la percezione degli spazi, in quanto gli ambienti risultano attualmente più arredati e ricchi di oggetti personali rispetto a quanto visibile nelle elaborazioni digitali.\n\nIndirizzo\n Apri con Google Maps\nIndirizzo\nVia Fratelli dall'Olio\nComune\nPianoro\nProvincia\nBologna\nCAP\n40065\nZona\nPianoro\n+\n−\nLeaflet | © OpenStreetMap contributors\nDettagli\n Aggiornato su Ottobre 26, 2026 presso 10:56 am\nCodice Immobile:\nBOC629FED\nPrezzo:\n629.000,00€\nDimensioni Immobile:\n366 mq\nCamere da letto:\n5\nBagni:\n4\nTipologia Immobile:\nVilla\nContratto Immobile:\nVendita\nDettagli Aggiuntivi\nCertificazione:\nClasse E IPE 241,76\nPiano immobile:\nT\nPiani stabile:\n4\nStato immobile:\nBuono\nStato occupazione:\nLibero\nGiardino:\n-\nBox:\n-\nPosto auto:\n-\nAnno costruzione:\nAscensore:\n-\nTerrazzo:\n-\nSpese condominiali:\nRiscaldamento:\nAutonomo Gas\nAria condizionata:\nSi\nCaratteristiche\nAria condizionata\nBox\nGiardino\nTerrazzo\nImmobili Simili\nVENDITA\n590.000,00€\n  \nPianoro – Villa per due nuclei famigliari nel parco\nVia Casale, 4,Pianoro,Pianoro, Bologna,Italia\n6 \nCamere da letto\n5 \nBagni\n441 \nmq\nVENDITA\n329.000,00€\n  \nVilla di nuova costruzione immersa nel verde\nVia nazionale 219 livegnano,Pianoro,Pianoro, Bologna,Italia\n4 \nCamere da letto\n4 \nBagni\n255 \nmq\nVENDITA\n349.000,00€\n  \nPianoro – Bifamiliare di 185 mq con giardino esterno\nPianoro,Pianoro, Bologna,Italia\n3 \nCamere da letto\n2 \nBagni\n185 \nmq\nVENDITA\n395.000,00€\n  \nPianoro – Bifamiliare di testa con parco secolare\nPianoro,Pianoro, Bologna,Italia\n3 \nCamere da letto\n3 \nBagni\n256 \nmq\nPrecedente\nProssimo\nFederico Brosco\nMOSTRA IMMOBILI\nAutorizzo il trattamento dei dati ai sensi dell'art.13 del D.Lgs.n.196 del 30/06/2003 e del reg.UE 2016/679 GDPR*\nInvia richiesta\nChiama\n  \n© MONDORE Srl - Sede Legale: Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.IVA: 03369901206\npec: mondore@pec.it - Informativa privacy - Cookie policy - Revoca consensi privacy - Tutti i diritti riservati\n\nConfronta gli annunci\n\nConfronta Chiudi",
+   "parsed": {
+    "prezzo": "629.000,00€",
+    "mq": "Descrizione",
+    "locali": null,
+    "camere": "4",
+    "bagni": "366",
+    "piano": "ro",
+    "classe_energetica": "E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-1.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-3.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-5.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-23-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-3-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-4-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED-8-900x600.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.mondore.it/wp-content/uploads/photo-3544_BOC629FED.jpg"
+  },
+  {
+   "url": "https://www.mondore.it/immobile/appartamento-vendita-bologna-barca-boc299mp/",
+   "title": "Appartamento in Vendita a Bologna - Barca",
+   "h1": "Bologna Barca/Terme Felsinee Appartamento riqualificato",
+   "h2": [
+    "Scheda immobile",
+    "Descrizione",
+    "Indirizzo",
+    "Dettagli",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche"
+   ],
+   "ogTitle": "Bologna Barca/Terme Felsinee Appartamento riqualificato",
+   "ogImage": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP.jpg",
+   "ogDesc": "Bologna Barca/Terme Felsinee Appartamento riqualificato",
+   "desc": "Bologna Barca/Terme Felsinee Appartamento riqualificato",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/\",\"name\":\"Appartamento in Vendita a Bologna - Barca\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3498_BOC299MP.jpg\",\"datePublished\":\"2026-10-13T08:15:29+00:00\",\"dateModified\":\"2026-10-19T11:09:30+00:00\",\"description\":\"Bologna Barca\\/Terme Felsinee Appartamento riqualificato\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/#primaryimage\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3498_BOC299MP.jpg\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo-3498_BOC299MP.jpg\",\"width\":1550,\"height\":1033},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/appartamento-vendita-bologna-barca-boc299mp\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.mondore.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.mondore.it\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bologna Barca\\/Terme Felsinee Appartamento riqualificato\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.mondore.it\\/#website\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"name\":\"MONDORE\",\"description\":\"Agenzie Immobiliari a Bologna e Roma\",\"publisher\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\"},\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.mondore.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\",\"name\":\"MONDORE\",\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"width\":148,\"height\":64,\"caption\":\"MONDORE\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-24.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-1.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-2.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-3.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-4.jpg",
+     "w": 1550,
+     "h": 1033,
+     "rw": 845.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-23-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-3-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-4-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-8-900x600.jpg"
+   ],
+   "descBlock": "Cerchi uno spazio luminoso, immerso nel verde e perfetto per la tua famiglia? In Via Ambrogio e Piero Lorenzetti, all’interno di un curato contesto residenziale con parco condominiale (attrezzato con campo da basket e ping pong), proponiamo un appartamento luminoso al primo piano con ascensore. La palazzina e stata interamente riqualificata con il Superbonus 110% (cappotto termico, caldaia di ultima generazione e ascensore moderno), garantendo eccellente efficienza energetica e risparmio sulle utenze.\nDistribuzione degli Spazi: Grande sala con zona pranzo e veranda chiusa affacciata sul verde, cucina abitabile separata, disimpegno notte con 2 ampie camere matrimoniali, bagno finestrato e ripostiglio.\nPotenziale di Personalizzazione: La pianta consente facilmente di creare un moderno open space con cucina a vista, trasformando l’attuale cucina in una terza camera da letto o studio.\nFiniture e Comfort: Pavimenti in marmo, nuovi infissi in PVC con doppio vetro, riscaldamento con contabilizzatori autonomi, cantina di pertinenza e possibilita di acquistare un garage privato.\nLa Posizione: Servizi raggiungibili a piedi: scuole (dal nido alle medie), supermercati (Coop ed Esselunga), farmacie e fermate bus (linee 14 e 36 verso il centro e la stazione). Accesso immediato a tangenziale, autostrada e Asse Attrezzato.\nDettagli Economici:\nPrezzo: euro 299.000 piu garage\nConsegna: entro 6 mesi dal preliminare\nDevi vendere la tua attuale casa per acquistare? Scopri il servizio MONDORE CAMBIO CASA, la formula pensata per gestire vendita e riacquisto in totale serenita e senza stress di tempistiche.\nContattaci subito per fissare una visita!",
+   "text": "CHI SIAMO\nIMMOBILI\nPER CHI ACQUISTA\nPER CHI VENDE\nPER CHI INVESTE\nPER I COSTRUTTORI\nPER I PROFESSIONISTI\nCONTATTI\nPrevious\nNext\nHome\nBologna\nBarca\nBologna Barca/Terme Felsinee Appartamento riqualificato\n  \nBologna Barca/Terme Felsinee Appartamento riqualificato\n299.000,00€\nVia Ambrogio E Pietro Lorenzetti,Barca,Bologna, Bologna,Italia\nEVIDENZAVENDITAEVIDENZA\nScheda immobile\nCodice Immobile: BOC299MP\nAppartamento\nTipologia Immobile\n 2\nCamere da letto\n 1\nBagno\n 105\nmq\n 1974\nAnno Costruzione\nDescrizione\n\nCerchi uno spazio luminoso, immerso nel verde e perfetto per la tua famiglia? In Via Ambrogio e Piero Lorenzetti, all’interno di un curato contesto residenziale con parco condominiale (attrezzato con campo da basket e ping pong), proponiamo un appartamento luminoso al primo piano con ascensore. La palazzina e stata interamente riqualificata con il Superbonus 110% (cappotto termico, caldaia di ultima generazione e ascensore moderno), garantendo eccellente efficienza energetica e risparmio sulle utenze.\nDistribuzione degli Spazi: Grande sala con zona pranzo e veranda chiusa affacciata sul verde, cucina abitabile separata, disimpegno notte con 2 ampie camere matrimoniali, bagno finestrato e ripostiglio.\nPotenziale di Personalizzazione: La pianta consente facilmente di creare un moderno open space con cucina a vista, trasformando l’attuale cucina in una terza camera da letto o studio.\nFiniture e Comfort: Pavimenti in marmo, nuovi infissi in PVC con doppio vetro, riscaldamento con contabilizzatori autonomi, cantina di pertinenza e possibilita di acquistare un garage privato.\nLa Posizione: Servizi raggiungibili a piedi: scuole (dal nido alle medie), supermercati (Coop ed Esselunga), farmacie e fermate bus (linee 14 e 36 verso il centro e la stazione). Accesso immediato a tangenziale, autostrada e Asse Attrezzato.\nDettagli Economici:\nPrezzo: euro 299.000 piu garage\nConsegna: entro 6 mesi dal preliminare\nDevi vendere la tua attuale casa per acquistare? Scopri il servizio MONDORE CAMBIO CASA, la formula pensata per gestire vendita e riacquisto in totale serenita e senza stress di tempistiche.\nContattaci subito per fissare una visita!\n\nIndirizzo\n Apri con Google Maps\nIndirizzo\nVia Ambrogio E Pietro Lorenzetti\nComune\nBologna\nProvincia\nBologna\nCAP\n40133\nZona\nBarca\n+\n−\nLeaflet | © OpenStreetMap contributors\nDettagli\n Aggiornato su Ottobre 19, 2026 presso 1:09 pm\nCodice Immobile:\nBOC299MP\nPrezzo:\n299.000,00€\nDimensioni Immobile:\n105 mq\nCamere da letto:\n2\nBagno:\n1\nAnno Costruzione:\n1974\nTipologia Immobile:\nAppartamento\nContratto Immobile:\nVendita\nDettagli Aggiuntivi\nCertificazione:\nClasse C IPE 97,26\nPiano immobile:\n1\nPiani stabile:\n9\nStato immobile:\nRistrutturato\nStato occupazione:\nLibero\nGiardino:\n-\nBox:\n-\nPosto auto:\n-\nAnno costruzione:\n1974\nAscensore:\n-\nTerrazzo:\n-\nSpese condominiali:\n2400€\nRiscaldamento:\nCentr.Metano\nAria condizionata:\nNo\nCaratteristiche\nAscensore\nBox\nGiardino\nPrecedente\nProssimo\nMassimiliano Pace\nMOSTRA IMMOBILI\nAutorizzo il trattamento dei dati ai sensi dell'art.13 del D.Lgs.n.196 del 30/06/2003 e del reg.UE 2016/679 GDPR*\nInvia richiesta\nChiama\n  \n© MONDORE Srl - Sede Legale: Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.IVA: 03369901206\npec: mondore@pec.it - Informativa privacy - Cookie policy - Revoca consensi privacy - Tutti i diritti riservati\n\nConfronta gli annunci\n\nConfronta Chiudi",
+   "parsed": {
+    "prezzo": "euro 299.000 piu garage",
+    "mq": "1974",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": "immobile:",
+    "classe_energetica": "C IPE 97,26",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-24.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-1.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-3.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-4.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-23-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-2-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-3-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-4-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-5-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-6-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-7-900x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP-8-900x600.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.mondore.it/wp-content/uploads/photo-3498_BOC299MP.jpg"
+  },
+  {
+   "url": "https://www.mondore.it/immobile/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2/",
+   "title": "Bologna Borgo Panigale - villa a schiera",
+   "h1": "Casa a schiera in Vendita a Bologna – Borgo Panigale",
+   "h2": [
+    "Scheda immobile",
+    "Descrizione",
+    "Indirizzo",
+    "Dettagli",
+    "Dettagli Aggiuntivi",
+    "Caratteristiche"
+   ],
+   "ogTitle": "Bologna Borgo Panigale - villa a schiera",
+   "ogImage": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2.jpg",
+   "ogDesc": "Borgo Panigale villette di nuova costruzione Trattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti. Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino. Composizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage. Con comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e/o bagno e terrazzo. All’esterno del borgo verranno realizzati diversi posti auto dedicati. Affrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti. Prezzi a partire da € 560.000 Prenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili. CONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI",
+   "desc": "Borgo Panigale villette di nuova costruzione Trattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti. Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino. Composizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage. Con comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e/o bagno e terrazzo. All’esterno del borgo verranno realizzati diversi posti auto dedicati. Affrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti. Prezzi a partire da € 560.000 Prenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili. CONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/\",\"name\":\"Bologna Borgo Panigale - villa a schiera\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo_4352211_NEW560GMN-A2.jpg\",\"datePublished\":\"2025-01-27T17:20:19+00:00\",\"description\":\"Borgo Panigale villette di nuova costruzione Trattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti. Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino. Composizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage. Con comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e\\/o bagno e terrazzo. All’esterno del borgo verranno realizzati diversi posti auto dedicati. Affrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti. Prezzi a partire da € 560.000 Prenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili. CONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/#primaryimage\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo_4352211_NEW560GMN-A2.jpg\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/photo_4352211_NEW560GMN-A2.jpg\",\"width\":1280,\"height\":852},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.mondore.it\\/immobile\\/casa-a-schiera-vendita-bologna-borgo-panigale-new560gmn-a2\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.mondore.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.mondore.it\\/immobile\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Casa a schiera in Vendita a Bologna &#8211; Borgo Panigale\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.mondore.it\\/#website\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"name\":\"MONDORE\",\"description\":\"Agenzie Immobiliari a Bologna e Roma\",\"publisher\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\"},\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.mondore.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.mondore.it\\/#organization\",\"name\":\"MONDORE\",\"alternateName\":\"Gruppo Immobiliare Agenzie a Bologna e Provincia e Roma\",\"url\":\"https:\\/\\/www.mondore.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"contentUrl\":\"https:\\/\\/www.mondore.it\\/wp-content\\/uploads\\/logo-mondore.png\",\"width\":148,\"height\":64,\"caption\":\"MONDORE\"},\"image\":{\"@id\":\"https:\\/\\/www.mondore.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-22.jpg",
+     "w": 905,
+     "h": 1280,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-22.jpg",
+     "w": 905,
+     "h": 1280,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-22.jpg",
+     "w": 905,
+     "h": 1280,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2.jpg",
+     "w": 1280,
+     "h": 852,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-1.jpg",
+     "w": 1280,
+     "h": 852,
+     "rw": 845.984375
+    },
+    {
+     "src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-2.jpg",
+     "w": 1280,
+     "h": 852,
+     "rw": 845.984375
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-8-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-2-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-3-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-4-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-5-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-6-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-7-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-8-1067x600.jpg"
+   ],
+   "descBlock": "Le costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino.",
+   "text": "CHI SIAMO\nIMMOBILI\nPER CHI ACQUISTA\nPER CHI VENDE\nPER CHI INVESTE\nPER I COSTRUTTORI\nPER I PROFESSIONISTI\nCONTATTI\nPrevious\nNext\nHome\nBologna\nBorgo Panigale\nCasa a schiera in Vendita a Bologna – Borgo Panigale\n  \nCasa a schiera in Vendita a Bologna – Borgo Panigale\n560.000,00€\nVia bragalia, Borgo Panigale, Bologna, Bologna, Italia\nEVIDENZAVENDITANUOVA COSTRUZIONE\nScheda immobile\nCodice Immobile: NEW560GMN-A2\nCasa a schiera\nTipologia Immobile\n 3\nCamere da letto\n 2\nBagni\n 1\nGarage\n 152\nmq\n 2024\nAnno Costruzione\nDescrizione\n\nBorgo Panigale villette di nuova costruzione\n\nTrattiamo la vendita di un intervento di n°10 villette situato in piena città, ma all’interno di un borgo incastonato in un’ampia area verde che tale rimarrà; in zona riservata e silenziosa, vicinissima a tutti i servizi ( a piedi) e il nuovo tram veloce che porterà in centro città in pochi minuti.\n\nLe costruzioni sono realizzate in classe A4 con struttura antisismica in bioedilizia, isolamento acustico, isolamento termico e fonti di energia alternativa in quanto dotate di impianto fotovoltaico e riscaldamento a pavimento. Ogni villetta inoltre è dotata di cisterna per la raccolta delle acque piovane per l’irrigazione del giardino.\n\nComposizione: al piano terra troviamo un ingresso giorno con grandi vetrate che girano tutte intorno ad patio interno incantevole, cucina, zona living, giardino bagno ospiti e un garage.\n\nCon comoda scala si raggiunge il primo piano dove troviamo ingresso con accesso alle tre camere di cui una con cabina armadio e/o bagno e terrazzo.\nAll’esterno del borgo verranno realizzati diversi posti auto dedicati.\n\nAffrettati a prenotare la tua nuova villa per avere la possibilità di effettuare a costo ZERO personalizzazione degli ambienti e degli impianti.\n\nPrezzi a partire da € 560.000\n\nPrenota ora la tua nuova casa!! Scoprirai il nostro servizio permute coordinato “CAMBIO CASA” e la modalità di pagamento personalizzabili.\nCONTATTACI ALLO 051.728890 E VIENI A TROVARCI PRESSO I NOSTRI UFFICI\n\nIndirizzo\n Apri con Google Maps\nIndirizzo\nVia bragalia\nComune\nBologna\nProvincia\nBologna\nZona\nBorgo Panigale\n+\n−\nLeaflet | © OpenStreetMap contributors\nDettagli\n Aggiornato su Gennaio 27, 2025 presso 6:20 pm\nCodice Immobile:\nNEW560GMN-A2\nPrezzo:\n560.000,00€\nDimensioni Immobile:\n152 mq\nCamere da letto:\n3\nBagni:\n2\nGarage:\n1\nAnno Costruzione:\n2024\nTipologia Immobile:\nCasa a schiera\nContratto Immobile:\nVendita\nDettagli Aggiuntivi\nCertificazione:\nClasse A4\nConsegna:\nA rogito\nPiano:\nnd di 2\nStato immobile:\nsconosciuto\nGiardino privato:\nSI\nTaverna:\n-\nCantina:\n-\nGarage:\nSI\nPosto auto:\n-\nAnno costruzione:\n2024\nAscensore:\n-\nSpese condominiale:\n1 €\nTerrazzi:\n1\nSottotetto/Mansarda:\n-\nCaratteristiche\nAccesso disabili\nGarage\nGiardino\nIngresso indipendente\nNuova costruzione\nPannelli Fotovoltaici\nRiscaldamento a pavimento\nRiscaldamento Autonomo\nImmobili Simili\nEVIDENZA\nVENDITA NUOVA COSTRUZIONE\n560.000,00€\n  \nCasa a schiera in Vendita a Bologna – Borgo Panigale\nVia bragalia, Borgo Panigale, Bologna, Bologna, Italia\n3 \nCamere da letto\n2 \nBagni\n153 \nmq\nPrecedente\nProssimo\nGiovanni Militano\nMOSTRA IMMOBILI\nAutorizzo il trattamento dei dati ai sensi dell'art.13 del D.Lgs.n.196 del 30/06/2003 e del reg.UE 2016/679 GDPR*\nInvia richiesta\nChiama\n  \n© MONDORE Srl - Sede Legale: Via Castiglione 12/a 40124 Bologna - REA: BO-513838 - P.IVA: 03369901206\npec: mondore@pec.it - Informativa privacy - Cookie policy - Revoca consensi privacy - Tutti i diritti riservati\n\nConfronta gli annunci\n\nConfronta Chiudi",
+   "parsed": {
+    "prezzo": "560.000,00€",
+    "mq": "2024",
+    "locali": null,
+    "camere": "2",
+    "bagni": "1",
+    "piano": "nd di 2",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-22.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-22.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-22.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-1.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-2.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-8-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-2-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-3-901x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-4-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-5-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-6-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-7-1067x600.jpg",
+    "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2-8-1067x600.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.mondore.it/wp-content/uploads/photo_4352211_NEW560GMN-A2.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.mondore.it/wp-content/uploads/logo-mondore.png",
+  "size": 2984
+ }
+}

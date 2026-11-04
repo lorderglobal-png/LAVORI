@@ -1,0 +1,92 @@
+{
+  "nome": "Puntocasa Soluzioni Abitative",
+  "slug": "puntocasa-soluzioni-abitative",
+  "sito": "https://www.puntocasa.bo.it/",
+  "email": "info@puntocasa.bo.it",
+  "email_fonte": "https://www.puntocasa.bo.it/",
+  "telefono": null,
+  "indirizzo": null,
+  "zona": null,
+  "slogan": null,
+  "colori": {
+    "primario": "#b90a1a",
+    "secondario": "#127f1a",
+    "sfondo": "#ffffff",
+    "sfondo_tipo": "chiaro",
+    "testo": "#495057",
+    "fonte": "computed style della homepage (bottoni, sfondi, link, titoli)"
+  },
+  "font": "Alata",
+  "font_tutti": [
+    "Alata"
+  ],
+  "logo": "logo.png",
+  "logo_fonte": "https://www.puntocasa.bo.it/images/Logo%20PuntoCasa%20rosso%20e%20bianco.png",
+  "screenshot_home": "home.png",
+  "annunci": [
+    {
+      "titolo": "Real Estate| Residenziali | Bilocale in vendita Via Zanardi",
+      "tipo": "vendita",
+      "comune": null,
+      "zona": "Via Zanardi",
+      "prezzo": null,
+      "mq": 40,
+      "locali": null,
+      "camere": 1,
+      "bagni": 1,
+      "piano": "Secondo",
+      "classe_energetica": "F",
+      "descrizione": "Bilocale in vendita in buono stato in via Zanardi al secondo ed ultimo piano in piccola palazzina, con due posti auto di propieta'.",
+      "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/bilocale-in-vendita-via-zanardi",
+      "foto": "foto-1.jpg"
+    },
+    {
+      "titolo": "Real Estate| Residenziali | MONOLOCALE AD.ZA PORTA SAN FELICE",
+      "tipo": "vendita",
+      "comune": null,
+      "zona": "Via Saffi",
+      "prezzo": null,
+      "mq": 35,
+      "locali": null,
+      "camere": 1,
+      "bagni": 1,
+      "piano": "Rialzato",
+      "classe_energetica": "F",
+      "descrizione": "Proponiamo in vendita IN ESCLUSIVA , un monolocale ad.za Porta San Felice al piano rialzato in una palazzina con giardino condominiale e possibilita' di posti auto, ristrutturato una decina di anni fa quindi in OTTIMO STATO con cantina e aria condizionata. LIBERO A MAGGIO 2027. Per ulteriori informazioni e appuntamenti potete contattarci al numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.",
+      "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/monolocale-in-vendita-ad-za-porta-san-felice",
+      "foto": "foto-2.jpg"
+    },
+    {
+      "titolo": "Real Estate| Residenziali | Ampio trilocale a Croce di Casalecchio",
+      "tipo": "vendita",
+      "comune": "Casalecchio di Reno",
+      "zona": "Via Saffi",
+      "prezzo": null,
+      "mq": 65,
+      "locali": null,
+      "camere": 2,
+      "bagni": 1,
+      "piano": "Terzo",
+      "classe_energetica": "In fase di definizione",
+      "descrizione": "Proponiamo in vendita alla Croce di Casalecchio zona pedecollinare trilocale al 3 piano senza ascensore ma in fase di realizzo, trilocale in buono stato composto da: ingresso, disimpegno, soggiorno, cucina abitabile, bagno, balcone e cantina. Il riscaldamento e' autonomo. Possibilita' di parcheggio in corte interna condominiale.",
+      "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/croce-di-casalecchio",
+      "foto": "foto-3.jpg"
+    },
+    {
+      "titolo": "Real Estate| Residenziali | Trilocale in vendita Saffi interno",
+      "tipo": "vendita",
+      "comune": null,
+      "zona": "via Saffi",
+      "prezzo": null,
+      "mq": null,
+      "locali": null,
+      "camere": 2,
+      "bagni": 1,
+      "piano": "Quarto",
+      "classe_energetica": "In fase di definizione",
+      "descrizione": "Proponiamo in vendita Trilocale in buono stato in zona interna di via di via Saffi ( Via Podgora) , in zona comoda ai servizi, un trilocale in OTTIMO STATO al 4 piano con ascensore composto da: ingresso, soggiorno con angolo cottura, ampio ripostiglio, due camere da letto, bagno, balcone e cantina e posto auto condominiale e posto bici .",
+      "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/trilocale-in-vendita-via-podgora",
+      "foto": "foto-4.jpg"
+    }
+  ]
+}

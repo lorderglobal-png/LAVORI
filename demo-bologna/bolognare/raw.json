@@ -1,0 +1,806 @@
+{
+ "cfg": {
+  "slug": "bolognare",
+  "nome": "BolognaRE",
+  "home": "https://www.bolognare.it/",
+  "index": [
+   "https://www.bolognare.it/immobili/"
+  ],
+  "rx": "bolognare[.]it/immobili/[a-z0-9-]+/?$",
+  "n": 6
+ },
+ "home": {
+  "title": "BolognaRE – Agenzia Immobiliare Bologna",
+  "desc": null,
+  "emails": [
+   "info@agenziacostasaragozza.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://bolognare.it/wp-content/uploads/Logo-BolognaRE.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(112, 112, 112)",
+   "font": "\"Varela Round\""
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(112, 112, 112)",
+   "font": "\"Varela Round\""
+  },
+  "footer": null,
+  "h1": null,
+  "a": {
+   "bg": "rgb(25, 34, 193)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"Varela Round\""
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    1
+   ],
+   [
+    "rgb(25, 34, 193)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    376
+   ],
+   [
+    "rgb(255, 255, 255)",
+    40
+   ],
+   [
+    "rgba(74, 74, 76, 0.7)",
+    33
+   ],
+   [
+    "rgb(237, 28, 36)",
+    10
+   ],
+   [
+    "rgb(252, 252, 252)",
+    3
+   ],
+   [
+    "rgb(25, 34, 193)",
+    1
+   ],
+   [
+    "rgb(247, 247, 247)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(51, 51, 51)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(25, 34, 193)",
+    39
+   ],
+   [
+    "rgb(112, 112, 112)",
+    22
+   ],
+   [
+    "rgb(51, 51, 51)",
+    17
+   ],
+   [
+    "rgb(153, 153, 153)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(136, 136, 136)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Varela Round\"",
+    226
+   ]
+  ],
+  "heads": [],
+  "addr": null,
+  "final": "https://www.bolognare.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-indipendenza-ad-ze-via-volturno/",
+  "https://www.bolognare.it/immobili/camera-in-affitto-bologna-via-sabotino-ad-ze-via-del-carso/",
+  "https://www.bolognare.it/immobili/capannone-in-vendita-san-lazzaro-di-savena-via-emilia-ad-ze-via-lambertini/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-castel-maggiore-via-lirone-ad-ze-centro-pertini/",
+  "https://www.bolognare.it/immobili/appartamento-in-affitto-bologna-via-valdossola-ad-ze-via-tolmino/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-casalecchio-di-reno-via-della-bastia-ad-ze-via-canonica/",
+  "https://www.bolognare.it/immobili/ufficio-in-vendita-san-lazzaro-di-savena-via-emilia-cicogna/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-giuseppe-giusti/",
+  "https://www.bolognare.it/immobili/capannone-in-vendita-bologna-via-due-portoni/",
+  "https://www.bolognare.it/immobili/attico-mansarda-in-vendita-bologna-via-xxi-aprile-1945-ad-ze-via-turati-interno/",
+  "https://www.bolognare.it/immobili/attivita-commerciale-in-vendita-castel-san-pietro-terme-castel-san-pietro-terme/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-san-lazzaro-di-savena-via-paolo-poggi/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-ranzani/",
+  "https://www.bolognare.it/immobili/negozio-in-vendita-bologna-via-san-mamolo-ad-ze-via-toscanini/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-mariani/",
+  "https://www.bolognare.it/immobili/casa-indipendente-in-vendita-san-lazzaro-di-savena-via-emilia-ad-ze-via-lambertini/",
+  "https://www.bolognare.it/immobili/attico-mansarda-in-vendita-san-lazzaro-di-savena-via-emilia-cicogna/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-ozzano-dellemilia-via-emilia/",
+  "https://www.bolognare.it/immobili/garage-in-affitto-bologna-vicolo-bianchetti/",
+  "https://www.bolognare.it/immobili/negozio-in-vendita-san-lazzaro-di-savena-via-emilia/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-san-lazzaro-di-savena-via-emilia-ad-ze-via-lambertini/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-mascarella-parte-nuova/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-casalecchio-di-reno-via-del-lavoro/",
+  "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-donato-creti-ad-ze-via-franceschini/",
+  "https://www.bolognare.it/immobili/negozio-in-affitto-bologna-via-mascarella-parte-alta/",
+  "https://www.bolognare.it/immobili/camera-in-affitto-bologna-via-valle-daosta/",
+  "https://www.bolognare.it/immobili/negozio-in-vendita-bologna-via-mascarella-parte-alta/",
+  "https://www.bolognare.it/immobili/negozio-in-vendita-bologna-via-enrico-mattei/",
+  "https://www.bolognare.it/immobili/capannone-in-vendita-bologna-via-maestri-del-lavoro/",
+  "https://www.bolognare.it/immobili/negozio-ufficio-in-affitto-bologna-via-di-ravone/",
+  "https://www.bolognare.it/immobili/garage-in-vendita-bologna-via-camillo-ranzani/",
+  "https://www.bolognare.it/immobili/negozio-in-vendita-bologna-via-bertocchi-ad-ze-via-altobelli/",
+  "https://www.bolognare.it/immobili/posto-auto-in-affitto-bologna-via-del-meloncello-ad-ze-via-saragozza/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.bolognare.it/immobili/appartamento-in-vendita-bologna-via-indipendenza-ad-ze-via-volturno/",
+   "title": "Appartamento – Centro storico – Bologna – BolognaRE",
+   "h1": null,
+   "h2": [
+    "Appartamento – Centro storico – Bologna Vendita",
+    "Descrizione",
+    "Dettagli",
+    "Posizione",
+    "Immobili Simili",
+    "Immobili Selezionati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+     "w": 820,
+     "h": 600,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+     "w": 840,
+     "h": 522,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+     "w": 840,
+     "h": 510,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644746-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644739-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644737-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    }
+   ],
+   "bgs": [
+    "https://www.bolognare.it/wp-content/uploads/644754.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644756.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644736.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644738.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644746.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644739.jpg"
+   ],
+   "dataSrc": [
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-32x32.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-192x192.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-180x180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644756.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644736.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644738.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644746.jpg"
+   ],
+   "descBlock": "Via Indipendenza ad.ze Via Volturno: appartamento completamente ristrutturato, al primo piano di stabile signorile affacciato sulla via principale del centro di Bologna, dotato di ascensore e comodo servizio di portierato. L’appartamento gode di affacci interni e silenziosi ed è composto da ingresso su un lungo disimpegno, ampio soggiorno, cucina semi-abitabile, due camere spaziose, due bagni finestrati. Pavimenti in parquet, finiture di pregio, riscaldamento e raffrescamento autonomi, impianto di ricambio dell’aria, posizione davvero invidiabile e strategica, ottima classe energetica, bassi consumi. (APE A3 46,00) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/",
+   "text": " 051 4399031  info@agenziacostasaragozza.it\nHome\nChi siamo\nImmobili\nServizi\nBlog\nLavora con noi\nContatti\nAppartamento – Centro storico – Bologna Vendita\nVia Indipendenza ad.ze Via Volturno Bologna\n650.000€\nRif.: CSGL650C\nPrevious\nNext\n115\nm²\n4\nLocali\n2\nCamere\n2\nBagni\nDescrizione\n\nVia Indipendenza ad.ze Via Volturno: appartamento completamente ristrutturato, al primo piano di stabile signorile affacciato sulla via principale del centro di Bologna, dotato di ascensore e comodo servizio di portierato. L’appartamento gode di affacci interni e silenziosi ed è composto da ingresso su un lungo disimpegno, ampio soggiorno, cucina semi-abitabile, due camere spaziose, due bagni finestrati. Pavimenti in parquet, finiture di pregio, riscaldamento e raffrescamento autonomi, impianto di ricambio dell’aria, posizione davvero invidiabile e strategica, ottima classe energetica, bassi consumi. (APE A3 46,00) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/\n\nMostra tutto \nDettagli\nAscensore: Si\nAnno Costruzione: 1920\nPiano: 1\nPiani immobile: 5\nSpese Condominiali: 150 € mensili\nCondizioni: Ristrutturato\nLibero: PRONTA CONSEGNA\nGarage: No\nPosto Auto: Assente\nCantina: Cantina Assente\nBalcone mq: -\nTerrazzo mq: -\nGiardino privato mq: -\nGiardino condominiale: No\nClimatizzazione: Autonomo\nCertificazione Energetica: Classe A3\nTipo riscaldamento: Autonomo a Metano\nImpianto riscaldamento: A norma\nImpianto Elettrico: A norma\nArredamento: Non arredato\nPosizione\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nStreet View\nImmobili Simili\nAffitto\n350€\nCamera – Costa/Saragozza – Bologna\nVia Sabotino ad.ze Via del carso Bologna\nDettagli\n136 m²1 Locali4 Camere2 Bagni\nVendita\n235.000€\nAppartamento – Toscana/S. Ruffillo – Bologna\nVia Mariani Bologna\nDettagli\n109 m²4 Locali2 Camere1 Bagni\nAffitto\n760€\nAppartamento – Costa/Saragozza – Bologna\nVia Valdossola ad.ze Via Tolmino Bologna\nDettagli\n61 m²3 Locali2 Camere1 Bagni\nRag. Gabriele Lenghi\n051 4399031\n\nImmobili Selezionati\nIn evidenza\nVendita\nAppartamento – Centro storico – Bologna\n650.000€\n115\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – Casalecchio di Reno – Casalecchio di Reno\n165.000€\n42\nm²\n1\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – Corticella/Ippodromo – Bologna\n205.000€\n60\nm²\n2\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\n449.000€\n120\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – San Donato – Bologna\n235.000€\n52\nm²\n2\nLocali\n1\nCamere\nContatti\n\nBolognaRE Immobiliare\nVia Andrea Costa 28/C – 40134 Bologna\n\nTelefono: 051 4399031\nFax: 051 4399031\nE-mail: info@agenziacostasaragozza.it\n\nOrari\ndal Lunedì al Venerdì\n9.00 - 12.30 e 15.00 - 19.30\n\nSabato su appuntamento\nUltime dal Blog\nAttestazione Bilaterale di Rispondenza ex D.M. 16/01/2017\nSe ci affidi il tuo immobile ti regaliamo l’Attestato di Prestazione Energetica\nI Costi per l’Acquisto della Casa\nValuta il tuo Immobile\nSospensione dei Termini per Agevolazioni “Prima Casa”\nAgenzia Costa Saragozza di Lenghi Gabriele & C. SAS - P.IVA 02176851208 - Iscr. Ruolo 2476 CCIAA BO - Associato FIAIP",
+   "parsed": {
+    "prezzo": "650.000€",
+    "mq": "-",
+    "locali": "2",
+    "camere": "2",
+    "bagni": "Descrizione",
+    "piano": "1",
+    "classe_energetica": "e",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644746-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644739-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644737-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644756.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644736.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644738.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644746.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644739.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644756.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644736.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644738.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644746.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.bolognare.it/wp-content/uploads/642502.jpg"
+  },
+  {
+   "url": "https://www.bolognare.it/immobili/camera-in-affitto-bologna-via-sabotino-ad-ze-via-del-carso/",
+   "title": "Camera – Costa/Saragozza – Bologna – BolognaRE",
+   "h1": null,
+   "h2": [
+    "Camera – Costa/Saragozza – Bologna Affitto",
+    "Descrizione",
+    "Dettagli",
+    "Posizione",
+    "Immobili Simili",
+    "Immobili Selezionati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+     "w": 820,
+     "h": 600,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+     "w": 840,
+     "h": 522,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+     "w": 840,
+     "h": 510,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643984-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643975-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643977-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    }
+   ],
+   "bgs": [
+    "https://www.bolognare.it/wp-content/uploads/643992.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643990.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643989.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643988.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643984.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643975.jpg"
+   ],
+   "dataSrc": [
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-32x32.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-192x192.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-180x180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643992.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643990.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643989.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643988.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643984.jpg"
+   ],
+   "descBlock": "Via Sabotino ad,ze Via del Carso: affittasi POSTO LETTO IN STANZA DOPPIA a ragazza studentessa con garante O ragazza lavoratrice con redditi dimostrabili. La stanza è davvero ampia e con comodi accessori come scrivania e mobile capiente (COLORE VERDE IN PLANIMETRIA – CAMERA 2 DOPPIA) Le parti comuni (COLORE GIALLO IN PLANIMETRIA) consistono in una spaziosa zona living con cucina a vista, balcone con vista collinare verso San Luca, due bagni finestrati, uno con doccia e uno con vasca. E’ tutto arredato e pronto da abitare, è libero subito. Le spese condominiali comprendono anche le utenze (gas, luce, acqua, wi-fi, tassa smaltimento rifiuti). (APE D 132,61) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile.",
+   "text": " 051 4399031  info@agenziacostasaragozza.it\nHome\nChi siamo\nImmobili\nServizi\nBlog\nLavora con noi\nContatti\nCamera – Costa/Saragozza – Bologna Affitto\nVia Sabotino ad.ze Via del carso Bologna\n350€\nRif.: CSGL0.35PL\nPrevious\nNext\n136\nm²\n1\nLocali\n4\nCamere\n2\nBagni\nDescrizione\n\nVia Sabotino ad,ze Via del Carso: affittasi POSTO LETTO IN STANZA DOPPIA a ragazza studentessa con garante O ragazza lavoratrice con redditi dimostrabili. La stanza è davvero ampia e con comodi accessori come scrivania e mobile capiente (COLORE VERDE IN PLANIMETRIA – CAMERA 2 DOPPIA) Le parti comuni (COLORE GIALLO IN PLANIMETRIA) consistono in una spaziosa zona living con cucina a vista, balcone con vista collinare verso San Luca, due bagni finestrati, uno con doccia e uno con vasca. E’ tutto arredato e pronto da abitare, è libero subito. Le spese condominiali comprendono anche le utenze (gas, luce, acqua, wi-fi, tassa smaltimento rifiuti). (APE D 132,61) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile.\n\nDettagli\nAscensore: No\nAnno Costruzione: 1961\nPiano: 5\nPiani immobile: 7\nSpese Condominiali: 76 € mensili\nCondizioni: Ottimo\nLibero: SUBITO\nGarage: No\nPosto Auto: Assente\nCantina: Cantina non ciclabile\nBalcone mq: 20\nTerrazzo mq: -\nGiardino privato mq: -\nGiardino condominiale: No\nClimatizzazione: Autonomo\nCertificazione Energetica: Classe D\nTipo riscaldamento: Centralizzato con conta calorie\nImpianto riscaldamento: A norma\nImpianto Elettrico: A norma\nArredamento: Arredato\nPosizione\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nStreet View\nImmobili Simili\nAffitto\n600€\nNegozio – Centro storico – Bologna\nVia Mascarella (parte alta) Bologna\nDettagli\n25 m²2 Locali2 Camere1 Bagni\nVendita\n35.000€\nGarage – San Donato – Bologna\nVia Camillo Ranzani Bologna\nDettagli\n15 m²1 Locali\nAffitto\n300€\nCamera – Bellaria/Savena – Bologna\nVia Valle D'Aosta Bologna\nDettagli\n123 m²5 Locali3 Camere2 Bagni\nRag. Gabriele Lenghi\n051 4399031\n\nImmobili Selezionati\nIn evidenza\nVendita\nAppartamento – Centro storico – Bologna\n650.000€\n115\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – Casalecchio di Reno – Casalecchio di Reno\n165.000€\n42\nm²\n1\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – Corticella/Ippodromo – Bologna\n205.000€\n60\nm²\n2\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\n449.000€\n120\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – San Donato – Bologna\n235.000€\n52\nm²\n2\nLocali\n1\nCamere\nContatti\n\nBolognaRE Immobiliare\nVia Andrea Costa 28/C – 40134 Bologna\n\nTelefono: 051 4399031\nFax: 051 4399031\nE-mail: info@agenziacostasaragozza.it\n\nOrari\ndal Lunedì al Venerdì\n9.00 - 12.30 e 15.00 - 19.30\n\nSabato su appuntamento\nUltime dal Blog\nAttestazione Bilaterale di Rispondenza ex D.M. 16/01/2017\nSe ci affidi il tuo immobile ti regaliamo l’Attestato di Prestazione Energetica\nI Costi per l’Acquisto della Casa\nValuta il tuo Immobile\nSospensione dei Termini per Agevolazioni “Prima Casa”\nAgenzia Costa Saragozza di Lenghi Gabriele & C. SAS - P.IVA 02176851208 - Iscr. Ruolo 2476 CCIAA BO - Associato FIAIP",
+   "parsed": {
+    "prezzo": "35.000€",
+    "mq": "20",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "Descrizione",
+    "piano": "5",
+    "classe_energetica": "D",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643984-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643975-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643977-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643992.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643990.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643989.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643988.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643984.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643975.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643992.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643990.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643989.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643988.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643984.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.bolognare.it/wp-content/uploads/642502.jpg"
+  },
+  {
+   "url": "https://www.bolognare.it/immobili/capannone-in-vendita-san-lazzaro-di-savena-via-emilia-ad-ze-via-lambertini/",
+   "title": "Capannone – Idice – San Lazzaro di Savena – BolognaRE",
+   "h1": null,
+   "h2": [
+    "Capannone – Idice – San Lazzaro di Savena Vendita",
+    "Descrizione",
+    "Dettagli",
+    "Posizione",
+    "Immobili Simili",
+    "Immobili Selezionati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+     "w": 820,
+     "h": 600,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+     "w": 840,
+     "h": 522,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+     "w": 840,
+     "h": 510,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643582-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643581-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643586-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    }
+   ],
+   "bgs": [
+    "https://www.bolognare.it/wp-content/uploads/643512.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643582.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643581.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643586.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643585.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643584.jpg"
+   ],
+   "dataSrc": [
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-32x32.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-192x192.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-180x180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643512.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643582.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643581.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643586.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643585.jpg"
+   ],
+   "descBlock": "Via Emilia ad.ze Via Lambertini: capannone dotato di spaziosa area cortiliva di pertinenza, composto da un grande locale con soffitti di oltre 7 metri, doppio accesso carrabile, uffici, magazzini e cantine oltre a comoda tettoia sul retro parzialmente coperta. Il capannone consta di oltre 830 mq, i magazzini/uffici sono di oltre 190 mq. Il capannone è attualmente locato a conduttore storico, con un buon reddito annuo (prossima scadenza naturale maggio 2030). (APE G 321) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/",
+   "text": " 051 4399031  info@agenziacostasaragozza.it\nHome\nChi siamo\nImmobili\nServizi\nBlog\nLavora con noi\nContatti\nCapannone – Idice – San Lazzaro di Savena Vendita\nVia Emilia ad.ze Via Lambertini San Lazzaro di Savena\n290.000€\nRif.: CSGL290CAP\nPrevious\nNext\n1.020\nm²\n11\nLocali\n10\nCamere\n2\nBagni\nDescrizione\n\nVia Emilia ad.ze Via Lambertini: capannone dotato di spaziosa area cortiliva di pertinenza, composto da un grande locale con soffitti di oltre 7 metri, doppio accesso carrabile, uffici, magazzini e cantine oltre a comoda tettoia sul retro parzialmente coperta. Il capannone consta di oltre 830 mq, i magazzini/uffici sono di oltre 190 mq. Il capannone è attualmente locato a conduttore storico, con un buon reddito annuo (prossima scadenza naturale maggio 2030). (APE G 321) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/\n\nMostra tutto \nDettagli\nAscensore: No\nAnno Costruzione: 1960\nPiano: Piano Terra\nPiani immobile: 1\nSpese Condominiali: 0 € mensili\nCondizioni: Buono\nLibero: A REDDITO\nGarage: No\nPosto Auto: Condominiale libero\nCantina: Cantina non ciclabile\nGiardino privato mq: -\nGiardino condominiale: SI\nClimatizzazione: Assente\nCertificazione Energetica: Classe G\nTipo riscaldamento: Autonomo a Metano\nImpianto riscaldamento: A norma\nImpianto Elettrico: A norma\nArredamento: Non arredato\nPosizione\nStreet View\nImmobili Simili\nIn evidenza\nVendita\n890.000€\nAttico / Mansarda – Cicogna – San Lazzaro di Savena\nVia Emilia (Cicogna) San Lazzaro di Savena\nDettagli\n260 m²6 Locali4 Camere3 Bagni\nIn evidenza\nVendita\n449.000€\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\nVia Paolo Poggi San Lazzaro di Savena\nDettagli\n120 m²4 Locali2 Camere2 Bagni\nVendita\n238.000€\nNegozio – Idice – San Lazzaro di Savena\nVia Emilia San Lazzaro di Savena\nDettagli\n142 m²5 Locali3 Camere2 Bagni\nRag. Gabriele Lenghi\n051 4399031\n\nImmobili Selezionati\nIn evidenza\nVendita\nAppartamento – Centro storico – Bologna\n650.000€\n115\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – Casalecchio di Reno – Casalecchio di Reno\n165.000€\n42\nm²\n1\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – Corticella/Ippodromo – Bologna\n205.000€\n60\nm²\n2\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\n449.000€\n120\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – San Donato – Bologna\n235.000€\n52\nm²\n2\nLocali\n1\nCamere\nContatti\n\nBolognaRE Immobiliare\nVia Andrea Costa 28/C – 40134 Bologna\n\nTelefono: 051 4399031\nFax: 051 4399031\nE-mail: info@agenziacostasaragozza.it\n\nOrari\ndal Lunedì al Venerdì\n9.00 - 12.30 e 15.00 - 19.30\n\nSabato su appuntamento\nUltime dal Blog\nAttestazione Bilaterale di Rispondenza ex D.M. 16/01/2017\nSe ci affidi il tuo immobile ti regaliamo l’Attestato di Prestazione Energetica\nI Costi per l’Acquisto della Casa\nValuta il tuo Immobile\nSospensione dei Termini per Agevolazioni “Prima Casa”\nAgenzia Costa Saragozza di Lenghi Gabriele & C. SAS - P.IVA 02176851208 - Iscr. Ruolo 2476 CCIAA BO - Associato FIAIP",
+   "parsed": {
+    "prezzo": "290.000€",
+    "mq": "-",
+    "locali": "10",
+    "camere": "2",
+    "bagni": "Descrizione",
+    "piano": "Piano Terra",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643582-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643581-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643586-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643512.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643582.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643581.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643586.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643585.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643584.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643512.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643582.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643581.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643586.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643585.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.bolognare.it/wp-content/uploads/642502.jpg"
+  },
+  {
+   "url": "https://www.bolognare.it/immobili/appartamento-in-vendita-castel-maggiore-via-lirone-ad-ze-centro-pertini/",
+   "title": "Appartamento – Castel Maggiore – Castel Maggiore – BolognaRE",
+   "h1": null,
+   "h2": [
+    "Appartamento – Castel Maggiore – Castel Maggiore Vendita",
+    "Descrizione",
+    "Dettagli",
+    "Posizione",
+    "Immobili Selezionati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+     "w": 820,
+     "h": 600,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+     "w": 840,
+     "h": 522,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+     "w": 840,
+     "h": 510,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643233-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643229-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/643231-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    }
+   ],
+   "bgs": [
+    "https://www.bolognare.it/wp-content/uploads/643224.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643238.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643223.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643225.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643233.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643229.jpg"
+   ],
+   "dataSrc": [
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-32x32.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-192x192.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-180x180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643224.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643238.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643223.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643225.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643233.jpg"
+   ],
+   "descBlock": "Via Lirone ad.ze Centro Pertini: appartamento composto da ingresso su spazioso disimpegno, luminoso soggiorno con balcone a cui si accede attraverso la comoda cucina abitabile, due ampie camere matrimoniali, bagno, riscaldamento centralizzato con conta-calorie, libero a marzo 2027. (APE F 183) L’immobile gode di un garage di 16 mq accessibile dal cortile interno; è comunque presente un vasto parcheggio pubblico proprio di fronte allo stabile che rende comodo e facile il posteggio dell’auto. Lo stabile è ben tenuto ed è presente un bel giardino condominiale godibile nelle belle giornate. L’appartamento è da immaginare vuoto dalla grande massa di mobili e suppellettili ora presenti e disposti disordinatamente, necessità di una leggera opera di ammodernamento inferiore a quanto si possa immaginare. La posizione è davvero invidiabile, in centro a Castel Maggiore per cui tutte le comodità sono raggiungibili a piedi con una breve passeggiata. Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/",
+   "text": " 051 4399031  info@agenziacostasaragozza.it\nHome\nChi siamo\nImmobili\nServizi\nBlog\nLavora con noi\nContatti\nAppartamento – Castel Maggiore – Castel Maggiore Vendita\nVia Lirone ad.ze Centro Pertini Castel Maggiore\n215.000€\nRif.: CSGL215CM\nPrevious\nNext\n78\nm²\n4\nLocali\n2\nCamere\n1\nBagni\nDescrizione\n\nVia Lirone ad.ze Centro Pertini: appartamento composto da ingresso su spazioso disimpegno, luminoso soggiorno con balcone a cui si accede attraverso la comoda cucina abitabile, due ampie camere matrimoniali, bagno, riscaldamento centralizzato con conta-calorie, libero a marzo 2027. (APE F 183) L’immobile gode di un garage di 16 mq accessibile dal cortile interno; è comunque presente un vasto parcheggio pubblico proprio di fronte allo stabile che rende comodo e facile il posteggio dell’auto. Lo stabile è ben tenuto ed è presente un bel giardino condominiale godibile nelle belle giornate. L’appartamento è da immaginare vuoto dalla grande massa di mobili e suppellettili ora presenti e disposti disordinatamente, necessità di una leggera opera di ammodernamento inferiore a quanto si possa immaginare. La posizione è davvero invidiabile, in centro a Castel Maggiore per cui tutte le comodità sono raggiungibili a piedi con una breve passeggiata. Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/\n\nMostra tutto \nDettagli\nAscensore: No\nAnno Costruzione: 1960\nPiano: 1\nPiani immobile: 3\nSpese Condominiali: 200 € mensili\nCondizioni: Buono\nLibero: MARZO 2027\nGarage: 1\nPosto Auto: Assente\nCantina: Cantina Assente\nBalcone mq: 3\nTerrazzo mq: -\nGiardino privato mq: -\nGiardino condominiale: SI\nClimatizzazione: Assente\nCertificazione Energetica: Classe F\nTipo riscaldamento: Centralizzato con conta calorie\nImpianto riscaldamento: A norma\nImpianto Elettrico: A norma\nArredamento: Arredato\nPosizione\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nStreet View\nRag. Gabriele Lenghi\n051 4399031\n\nImmobili Selezionati\nIn evidenza\nVendita\nAppartamento – Centro storico – Bologna\n650.000€\n115\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – Casalecchio di Reno – Casalecchio di Reno\n165.000€\n42\nm²\n1\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – Corticella/Ippodromo – Bologna\n205.000€\n60\nm²\n2\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\n449.000€\n120\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – San Donato – Bologna\n235.000€\n52\nm²\n2\nLocali\n1\nCamere\nContatti\n\nBolognaRE Immobiliare\nVia Andrea Costa 28/C – 40134 Bologna\n\nTelefono: 051 4399031\nFax: 051 4399031\nE-mail: info@agenziacostasaragozza.it\n\nOrari\ndal Lunedì al Venerdì\n9.00 - 12.30 e 15.00 - 19.30\n\nSabato su appuntamento\nUltime dal Blog\nAttestazione Bilaterale di Rispondenza ex D.M. 16/01/2017\nSe ci affidi il tuo immobile ti regaliamo l’Attestato di Prestazione Energetica\nI Costi per l’Acquisto della Casa\nValuta il tuo Immobile\nSospensione dei Termini per Agevolazioni “Prima Casa”\nAgenzia Costa Saragozza di Lenghi Gabriele & C. SAS - P.IVA 02176851208 - Iscr. Ruolo 2476 CCIAA BO - Associato FIAIP",
+   "parsed": {
+    "prezzo": "215.000€",
+    "mq": "3",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "Descrizione",
+    "piano": "1",
+    "classe_energetica": "F",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643233-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643229-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643231-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643224.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643238.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643223.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643225.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643233.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643229.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643224.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643238.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643223.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643225.jpg",
+    "https://www.bolognare.it/wp-content/uploads/643233.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.bolognare.it/wp-content/uploads/642502.jpg"
+  },
+  {
+   "url": "https://www.bolognare.it/immobili/appartamento-in-affitto-bologna-via-valdossola-ad-ze-via-tolmino/",
+   "title": "Appartamento – Costa/Saragozza – Bologna – BolognaRE",
+   "h1": null,
+   "h2": [
+    "Appartamento – Costa/Saragozza – Bologna Affitto",
+    "Descrizione",
+    "Dettagli",
+    "Posizione",
+    "Immobili Simili",
+    "Immobili Selezionati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+     "w": 820,
+     "h": 600,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+     "w": 840,
+     "h": 522,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+     "w": 840,
+     "h": 510,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644180-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644184-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644185-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    }
+   ],
+   "bgs": [
+    "https://www.bolognare.it/wp-content/uploads/644178.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644306.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644179.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644193.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644184.jpg"
+   ],
+   "dataSrc": [
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-32x32.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-192x192.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-180x180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644178.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644306.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644179.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644193.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644180.jpg"
+   ],
+   "descBlock": "Via Valdossola ad.ze Via Tolmino: la locazione dell’appartamento è destinata a studenti, astenersi altre tipologie. E’ sito al quarto ed ultimo piano senza ascensore, è composto da ingresso su disimpegno, cucina abitabile, due ampie camere singole, bagno, balcone panoramico, cantina al piano interrato, parzialmente arredato (come risulta dalle fotografie), libero subito, riscaldamento autonomo, molto luminoso ed arioso. (APE G 258) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile.",
+   "text": " 051 4399031  info@agenziacostasaragozza.it\nHome\nChi siamo\nImmobili\nServizi\nBlog\nLavora con noi\nContatti\nAppartamento – Costa/Saragozza – Bologna Affitto\nVia Valdossola ad.ze Via Tolmino Bologna\n760€\nRif.: CSGL0.76\nPrevious\nNext\n61\nm²\n3\nLocali\n2\nCamere\n1\nBagni\nDescrizione\n\nVia Valdossola ad.ze Via Tolmino: la locazione dell’appartamento è destinata a studenti, astenersi altre tipologie. E’ sito al quarto ed ultimo piano senza ascensore, è composto da ingresso su disimpegno, cucina abitabile, due ampie camere singole, bagno, balcone panoramico, cantina al piano interrato, parzialmente arredato (come risulta dalle fotografie), libero subito, riscaldamento autonomo, molto luminoso ed arioso. (APE G 258) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile.\n\nDettagli\nAscensore: No\nAnno Costruzione: 1955\nPiano: 4\nPiani immobile: 4\nSpese Condominiali: 60 € mensili\nCondizioni: Buono\nLibero: SUBITO\nGarage: No\nPosto Auto: Assente\nCantina: Cantina non ciclabile\nBalcone mq: 4\nTerrazzo mq: -\nGiardino privato mq: -\nGiardino condominiale: No\nClimatizzazione: Assente\nCertificazione Energetica: Classe G\nTipo riscaldamento: Autonomo a Metano\nImpianto riscaldamento: A norma\nImpianto Elettrico: A norma\nArredamento: Parzialmente arredato\nPosizione\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nStreet View\nImmobili Simili\nIn evidenza\nVendita\n235.000€\nAppartamento – San Donato – Bologna\nVia Ranzani Bologna\nDettagli\n52 m²2 Locali1 Camere1 Bagni\nVendita\n35.000€\nGarage – San Donato – Bologna\nVia Camillo Ranzani Bologna\nDettagli\n15 m²1 Locali\nIn evidenza\nVendita\n163.000€\nAppartamento – Centro storico – Bologna\nVia Mascarella (parte nuova) Bologna\nDettagli\n27 m²1 Locali1 Camere1 Bagni\nRag. Gabriele Lenghi\n051 4399031\n\nImmobili Selezionati\nIn evidenza\nVendita\nAppartamento – Centro storico – Bologna\n650.000€\n115\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – Casalecchio di Reno – Casalecchio di Reno\n165.000€\n42\nm²\n1\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – Corticella/Ippodromo – Bologna\n205.000€\n60\nm²\n2\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\n449.000€\n120\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – San Donato – Bologna\n235.000€\n52\nm²\n2\nLocali\n1\nCamere\nContatti\n\nBolognaRE Immobiliare\nVia Andrea Costa 28/C – 40134 Bologna\n\nTelefono: 051 4399031\nFax: 051 4399031\nE-mail: info@agenziacostasaragozza.it\n\nOrari\ndal Lunedì al Venerdì\n9.00 - 12.30 e 15.00 - 19.30\n\nSabato su appuntamento\nUltime dal Blog\nAttestazione Bilaterale di Rispondenza ex D.M. 16/01/2017\nSe ci affidi il tuo immobile ti regaliamo l’Attestato di Prestazione Energetica\nI Costi per l’Acquisto della Casa\nValuta il tuo Immobile\nSospensione dei Termini per Agevolazioni “Prima Casa”\nAgenzia Costa Saragozza di Lenghi Gabriele & C. SAS - P.IVA 02176851208 - Iscr. Ruolo 2476 CCIAA BO - Associato FIAIP",
+   "parsed": {
+    "prezzo": "235.000€",
+    "mq": "4",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "Descrizione",
+    "piano": "4",
+    "classe_energetica": "G",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644180-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644184-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644185-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644178.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644306.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644179.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644193.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644184.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644178.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644306.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644179.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644193.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644180.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.bolognare.it/wp-content/uploads/642502.jpg"
+  },
+  {
+   "url": "https://www.bolognare.it/immobili/appartamento-in-vendita-casalecchio-di-reno-via-della-bastia-ad-ze-via-canonica/",
+   "title": "Appartamento – Casalecchio di Reno – Casalecchio di Reno – BolognaRE",
+   "h1": null,
+   "h2": [
+    "Appartamento – Casalecchio di Reno – Casalecchio di Reno Vendita",
+    "Descrizione",
+    "Dettagli",
+    "Posizione",
+    "Immobili Simili",
+    "Immobili Selezionati"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": null,
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+     "w": 820,
+     "h": 600,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+     "w": 840,
+     "h": 522,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+     "w": 840,
+     "h": 510,
+     "rw": 353
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642948-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642941-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    },
+    {
+     "src": "https://www.bolognare.it/wp-content/uploads/642942-520x397.jpg",
+     "w": 520,
+     "h": 397,
+     "rw": 188
+    }
+   ],
+   "bgs": [
+    "https://www.bolognare.it/wp-content/uploads/642947.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642950.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642946.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642945.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642948.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642941.jpg"
+   ],
+   "dataSrc": [
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-32x32.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-192x192.jpg",
+    "https://www.bolognare.it/wp-content/uploads/cropped-Logo-512x512-1-180x180.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642950.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642946.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642945.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642948.jpg"
+   ],
+   "descBlock": "Via della Bastia ad.ze Via Canonica: appartamento comodo al piano rialzato, composto da grande vano unico intelligentemente separato in due zone ben distinte. Ampia zona giorno con cucina a vista e comoda zona notte, antibagno e bagno finestrato, grazioso balconcino con accesso esterno sul giardinetto condominiale. L’appartamento volendo è già tutto arredato, è dotato di impianto di riscaldamento centralizzato con conta-calorie autonomo, climatizzazione autonoma, porta blindata e cancelletti apribili, è libero subito. (APE G 235) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/",
+   "text": " 051 4399031  info@agenziacostasaragozza.it\nHome\nChi siamo\nImmobili\nServizi\nBlog\nLavora con noi\nContatti\nAppartamento – Casalecchio di Reno – Casalecchio di Reno Vendita\nVia della Bastia ad.ze Via Canonica Casalecchio di Reno\n165.000€\nRif.: CSGL165CAS\nPrevious\nNext\n42\nm²\n1\nLocali\n1\nCamere\n1\nBagni\nDescrizione\n\nVia della Bastia ad.ze Via Canonica: appartamento comodo al piano rialzato, composto da grande vano unico intelligentemente separato in due zone ben distinte. Ampia zona giorno con cucina a vista e comoda zona notte, antibagno e bagno finestrato, grazioso balconcino con accesso esterno sul giardinetto condominiale. L’appartamento volendo è già tutto arredato, è dotato di impianto di riscaldamento centralizzato con conta-calorie autonomo, climatizzazione autonoma, porta blindata e cancelletti apribili, è libero subito. (APE G 235) Per visionare ulteriori fotografie e/o planimetrie dell’immobile mandateci una richiesta. Vi risponderemo appena possibile. Quanto vale il tuo immobile? Utilizza il valutatore automatico alla pagina https://www.bolognare.it/valutazione-immobile/ e se vuoi una stima più puntuale non esitare a contattarci allo 0514399031 Hai un immobile da vendere o affittare? Se ce lo affidi ti regaliamo l’Attestato di Prestazione Energetica: https://www.bolognare.it/se-ci-affidi-il-tuo-immobile-di-regaliamo-lattestato-di-prestazione-energetica/\n\nMostra tutto \nDettagli\nAscensore: No\nAnno Costruzione: 1961\nPiano: Piano Rialzato\nPiani immobile: 3\nSpese Condominiali: 100 € mensili\nCondizioni: Ottimo\nLibero: SUBITO\nGarage: No\nPosto Auto: Assente\nCantina: Cantina Assente\nBalcone mq: 2\nTerrazzo mq: -\nGiardino privato mq: -\nGiardino condominiale: SI\nClimatizzazione: Assente\nCertificazione Energetica: Classe G\nTipo riscaldamento: Centralizzato con conta calorie\nImpianto riscaldamento: A norma\nImpianto Elettrico: A norma\nArredamento: Arredato\nPosizione\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nStreet View\nImmobili Simili\nVendita\n300.000€\nAppartamento – Meridiana – Casalecchio di Reno\nVia del Lavoro Casalecchio di Reno\nDettagli\n145 m²5 Locali3 Camere2 Bagni\nRag. Gabriele Lenghi\n051 4399031\n\nImmobili Selezionati\nIn evidenza\nVendita\nAppartamento – Centro storico – Bologna\n650.000€\n115\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – Casalecchio di Reno – Casalecchio di Reno\n165.000€\n42\nm²\n1\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – Corticella/Ippodromo – Bologna\n205.000€\n60\nm²\n2\nLocali\n1\nCamere\nIn evidenza\nVendita\nAppartamento – San Lazzaro di Savena – San Lazzaro di Savena\n449.000€\n120\nm²\n4\nLocali\n2\nCamere\nIn evidenza\nVendita\nAppartamento – San Donato – Bologna\n235.000€\n52\nm²\n2\nLocali\n1\nCamere\nContatti\n\nBolognaRE Immobiliare\nVia Andrea Costa 28/C – 40134 Bologna\n\nTelefono: 051 4399031\nFax: 051 4399031\nE-mail: info@agenziacostasaragozza.it\n\nOrari\ndal Lunedì al Venerdì\n9.00 - 12.30 e 15.00 - 19.30\n\nSabato su appuntamento\nUltime dal Blog\nAttestazione Bilaterale di Rispondenza ex D.M. 16/01/2017\nSe ci affidi il tuo immobile ti regaliamo l’Attestato di Prestazione Energetica\nI Costi per l’Acquisto della Casa\nValuta il tuo Immobile\nSospensione dei Termini per Agevolazioni “Prima Casa”\nAgenzia Costa Saragozza di Lenghi Gabriele & C. SAS - P.IVA 02176851208 - Iscr. Ruolo 2476 CCIAA BO - Associato FIAIP",
+   "parsed": {
+    "prezzo": "165.000€",
+    "mq": "2",
+    "locali": "1",
+    "camere": "1",
+    "bagni": "Descrizione",
+    "piano": "Piano Rialzato",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.bolognare.it/wp-content/uploads/642502.jpg",
+    "https://www.bolognare.it/wp-content/uploads/644754-840x522.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947-840x510.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642948-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642941-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642942-520x397.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642950.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642946.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642945.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642948.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642941.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642947.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642950.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642946.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642945.jpg",
+    "https://www.bolognare.it/wp-content/uploads/642948.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.bolognare.it/wp-content/uploads/642502.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://bolognare.it/wp-content/uploads/Logo-BolognaRE.png",
+  "size": 4610
+ }
+}

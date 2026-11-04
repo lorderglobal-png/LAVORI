@@ -1,0 +1,755 @@
+{
+ "cfg": {
+  "slug": "santi-immobiliare",
+  "nome": "Santi Immobiliare",
+  "home": "https://www.santi-immobiliare.it/",
+  "index": [
+   "https://www.santi-immobiliare.it/immobili-in-vendita/",
+   "https://www.santi-immobiliare.it/immobili-in-affitto/"
+  ],
+  "rx": "/immobile/[0-9]+-",
+  "n": 6,
+  "contact": "https://www.santi-immobiliare.it/contattaci/"
+ },
+ "home": {
+  "title": "Homepage - Santi Immobiliare",
+  "desc": "Santi Immobiliare - Agenzia Immobiliare Bologna Centro e Casalecchio di Reno",
+  "emails": [
+   "info@santi-immobiliare.it"
+  ],
+  "tels": [
+   "+39051590333​",
+   "+39051%20590333",
+   "051590333"
+  ],
+  "logos": [
+   "https://www.santi-immobiliare.it/wp-content/uploads/2022/02/logo.png",
+   "https://www.santi-immobiliare.it/wp-content/uploads/2022/02/logo_white.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 54, 82)",
+   "font": "Arimo, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 54, 82)",
+   "font": "Arimo, sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 54, 82)",
+   "font": "Arimo, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Arimo, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Arimo, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    63
+   ],
+   [
+    "rgb(0, 0, 0)",
+    13
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    1010
+   ],
+   [
+    "rgb(0, 0, 0)",
+    49
+   ],
+   [
+    "rgb(255, 255, 255)",
+    26
+   ],
+   [
+    "rgb(37, 211, 102)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 0, 0)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    45
+   ],
+   [
+    "rgb(204, 51, 102)",
+    34
+   ],
+   [
+    "rgb(0, 0, 0)",
+    12
+   ],
+   [
+    "rgb(38, 42, 43)",
+    8
+   ],
+   [
+    "rgb(153, 153, 153)",
+    5
+   ],
+   [
+    "rgb(105, 114, 125)",
+    3
+   ]
+  ],
+  "fonts": [
+   [
+    "Arimo, sans-serif",
+    203
+   ]
+  ],
+  "heads": [
+   "ULTIME NOTIZIE",
+   "Intermediazione digitale: come vendere casa a distanza",
+   "Intelligenza artificiale: può aiutare a vendere casa?",
+   "Esperienza cliente e presenza online: scrivere gli annunci",
+   "Virtual staging: come valorizzare un immobile per la vendita",
+   "Intermediazione digitale: come vendere casa a distanza",
+   "Intelligenza artificiale: può aiutare a vendere casa?",
+   "Esperienza cliente e presenza online: scrivere gli annunci"
+  ],
+  "addr": null,
+  "final": "https://www.santi-immobiliare.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.santi-immobiliare.it/contattaci/",
+  "emails": [
+   "info@santi-immobiliare.it"
+  ],
+  "tels": [
+   "+39051590333​",
+   "+39051%20590333",
+   "051590333"
+  ],
+  "addr": "Vicolo Tubertini 2/A • 40126 • Bologna (BO)"
+ },
+ "candidates": [
+  "https://www.santi-immobiliare.it/immobile/2674-Appartamento-Monolocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2673-Appartamento-Monolocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2672-Appartamento-Trilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2671-Appartamento-Trilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2682-Appartamento-Monolocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2681-Appartamento-Trilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2680-Appartamento-Trilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2679-Appartamento-Trilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2678-Appartamento-Monolocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2677-Appartamento-Bilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2676-Appartamento-Trilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2675-Appartamento-Bilocale--in-vendita-Bologna",
+  "https://www.santi-immobiliare.it/immobile/2664-appartamento-quadrilocale--in-vendita-casalecchio-di-reno-meridiana",
+  "https://www.santi-immobiliare.it/immobile/2682-appartamento-monolocale--in-vendita-bologna",
+  "https://www.santi-immobiliare.it/immobile/2678-appartamento-monolocale--in-vendita-bologna",
+  "https://www.santi-immobiliare.it/immobile/2681-appartamento-trilocale--in-vendita-bologna",
+  "https://www.santi-immobiliare.it/immobile/2680-appartamento-trilocale--in-vendita-bologna",
+  "https://www.santi-immobiliare.it/immobile/2679-appartamento-trilocale--in-vendita-bologna",
+  "https://www.santi-immobiliare.it/immobile/2675-appartamento-bilocale--in-vendita-bologna",
+  "https://www.santi-immobiliare.it/immobile/2580-appartamento-bilocale--in-vendita-bologna-borgo-panigale",
+  "https://www.santi-immobiliare.it/immobile/2661-appartamento-bilocale--in-affitto-bologna-borgo-panigale",
+  "https://www.santi-immobiliare.it/immobile/1757-appartamento-monolocale--in-affitto-bologna-marconi-lame",
+  "https://www.santi-immobiliare.it/immobile/2353-appartamento-bilocale--in-affitto-casalecchio-di-reno",
+  "https://www.santi-immobiliare.it/immobile/1745-appartamento-quadrilocale--in-affitto-monzuno-rioveggio",
+  "https://www.santi-immobiliare.it/immobile/2051-ufficio--in-affitto-sasso-marconi",
+  "https://www.santi-immobiliare.it/immobile/2222-ufficio--in-affitto-sasso-marconi-borgonuovo"
+ ],
+ "listings": [
+  {
+   "url": "https://www.santi-immobiliare.it/immobile/2674-Appartamento-Monolocale--in-vendita-Bologna/",
+   "title": "Appartamento, Monolocale Vendita a Bologna - Santi Immobiliare",
+   "h1": null,
+   "h2": [
+    "Richiedi informazioni",
+    "Descrizione",
+    "Immobili Simili",
+    "Mappa",
+    "Sede Legale",
+    "Agenzia"
+   ],
+   "ogTitle": "Appartamento, Monolocale Vendita a Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/600/0/22435.png",
+   "ogDesc": "Bologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un appartamento monolocale nuovo da impresa in fase di totale ristrutturazione. Posto al piano primo si sviluppa su una superficie commerciale di circa 37 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti. La zona giorno open space prevede un angolo cottura a vista moderno, una camera a vita, bagno e balcone. Classe energetica a fine lavori. Predisposizione aria condizionata. Consegna estate 2027. Rif. N0344M5 € 190.000",
+   "desc": "Bologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un appartamento monolocale nuovo da impresa in fase di totale ristrutturazione. Posto al piano primo si sviluppa su una superficie commerciale di circa 37 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti. La zona giorno open space prevede un angolo cottura a vista moderno, una camera a vita, bagno e balcone. Classe energetica a fine lavori. Predisposizione aria condizionata. Consegna estate 2027. Rif. N0344M5 € 190.000",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"name\":\"immobile - Santi\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\"},\"datePublished\":\"2022-02-15T08:13:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.santi-immobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"name\":\"Santi\",\"description\":\"Agenzia Immobiliare Bologna e Provincia\",\"publisher\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.santi-immobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\",\"name\":\"Santi\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"contentUrl\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"width\":1240,\"height\":449,\"caption\":\"Santi\"},\"image\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34818/23697.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34819/23697.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34818/23696.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34819/23696.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34818/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34819/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/1000/0/22435.png",
+    "https://static3.agimonline.com/images/4Zzo12NzE07O2M6eMTtp2ZDoy3MjQz6NjtlfeHQ60cG5n2O3Y67MTt3eOjE72Y29t3cDox6/1000/0/22436.png",
+    "https://static3.agimonline.com/images/4Zzo19NzE02O2M6dMTtp2ZDoyfMjQzfODtl1eHQ65cG5n9O3Y62MTt3dOjE72Y29tfcDoxf/1000/0/22438.png",
+    "https://static3.agimonline.com/images/4Zzo12NzE0dO2M6dMTtp5ZDoy3MjQz9OTtlbeHQ6acG5n2O3Y6dMTt3dOjE75Y29t3cDox9/1000/0/22439.png",
+    "https://static3.agimonline.com/images/4Zzo17NzE0dO2M6dMTtpaZDoy3MjQ0fMDtlaeHQ68cG5n7O3Y6dMTt3dOjE7aY29t3cDoxf/1000/0/22440.png",
+    "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/400/0/22435.png"
+   ],
+   "dataSrc": [],
+   "descBlock": "Bologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un appartamento monolocale nuovo da impresa in fase di totale ristrutturazione. Posto al piano primo si sviluppa su una superficie commerciale di circa 37 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti. La zona giorno open space prevede un angolo cottura a vista moderno, una camera a vita, bagno e balcone. Classe energetica a fine lavori. Predisposizione aria condizionata. Consegna estate 2027. Rif. N0344M5 € 190.000",
+   "text": "+39 051 59 03 33\n+39 340 61 89 680\ninfo@santi-immobiliare.it\nInstagram\n \nFacebook-f\n \nYoutube\nHome\nAffitto\nVendita\nServizi\nChi Siamo\nNews\nContattaci\nTi interessa questo immobile? Contattaci ora\nAppartamento, Monolocale\n  Bologna\n37mq\n1\n1\nVENDITA\n€ 190.000\nRif: N0344M5\n Aggiungi ai preferiti\nCondividi annuncio:\nRichiedi informazioni\n\n\n\n\n\n   Ho letto l'informativa privacy e acconsento alla memorizzazione dei miei dati secondo quanto stabilito dal regolamento europeo per la protezione dei dati personali n. 679/2016, GDPR.\n\n\n\nDescrizione\n\nBologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un appartamento monolocale nuovo da impresa in fase di totale ristrutturazione. Posto al piano primo si sviluppa su una superficie commerciale di circa 37 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti. La zona giorno open space prevede un angolo cottura a vista moderno, una camera a vita, bagno e balcone. Classe energetica a fine lavori. Predisposizione aria condizionata. Consegna estate 2027. Rif. N0344M5 € 190.000\n\nCaratteristiche\nDettagli principali\nPrezzo€ 190.000\nMQ37\nLocali1\nClasse Energ.VA\nDettagli aggiuntivi\nCondizioniRistrutturato\nClassificazioneEconomico\nCaratteristiche interne\nBagni\nCamere a Vista\nCucina Angolo cottura\nDoppi Vetri\nIngresso\nZona Giorno Sala\nImpianti\nAlimentazione Riscaldamento Gas\nDi Riscaldamento Radiatori\nElettrico A norma\nIdraulico A norma\nPorta Blindata\nPredisposizione Raffrescamento\nRiscaldamento Centralizzato a contatori\nVideo Citofono\nCaratteristiche esterne\nAscensore\nBalcone/i\nImmobili Simili\nAppartamento\n€ 200.000\n61mq\nAppartamento\n€ 144.000\n36mq\nAppartamento\n€ 184.000\n40mq\nMappa\n+\n−\n Leaflet | © OpenStreetMap contributors\nSede Legale\n\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nAgenzia\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nP.IVA: 03514621204\nREA: BO-525032\nCap. Sociale: 10.000 € int. versato\n\nLink utili\nImmobili in affitto\nImmobili in vendita\nServizi\nChi Siamo\nContatti\n+39 051 590333\n+39 340 6189680\ninfo@santi-immobiliare.it\n\n© 2026 Santi • Developed by Agim Gestionale Immobiliare\n\nCookie policy\nPrivacy policy",
+   "parsed": {
+    "prezzo": "€ 190.000",
+    "mq": "37",
+    "locali": "1",
+    "camere": "a Vista",
+    "bagni": "Camere a Vista",
+    "piano": null,
+    "classe_energetica": "Energ.VA",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/600/0/22435.png",
+    "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/1000/0/22435.png",
+    "https://static3.agimonline.com/images/4Zzo12NzE07O2M6eMTtp2ZDoy3MjQz6NjtlfeHQ60cG5n2O3Y67MTt3eOjE72Y29t3cDox6/1000/0/22436.png",
+    "https://static3.agimonline.com/images/4Zzo19NzE02O2M6dMTtp2ZDoyfMjQzfODtl1eHQ65cG5n9O3Y62MTt3dOjE72Y29tfcDoxf/1000/0/22438.png",
+    "https://static3.agimonline.com/images/4Zzo12NzE0dO2M6dMTtp5ZDoy3MjQz9OTtlbeHQ6acG5n2O3Y6dMTt3dOjE75Y29t3cDox9/1000/0/22439.png",
+    "https://static3.agimonline.com/images/4Zzo17NzE0dO2M6dMTtpaZDoy3MjQ0fMDtlaeHQ68cG5n7O3Y6dMTt3dOjE7aY29t3cDoxf/1000/0/22440.png",
+    "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/400/0/22435.png"
+   ],
+   "foto": "foto-1.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzo18NzE0dO2M6dMTtpfZDoy9MjQz7NTtl5eHQ6bcG5n8O3Y6dMTt3dOjE7fY29t9cDox7/600/0/22435.png"
+  },
+  {
+   "url": "https://www.santi-immobiliare.it/immobile/2673-Appartamento-Monolocale--in-vendita-Bologna/",
+   "title": "Appartamento, Monolocale Vendita a Bologna - Santi Immobiliare",
+   "h1": null,
+   "h2": [
+    "Richiedi informazioni",
+    "Descrizione",
+    "Immobili Simili",
+    "Mappa",
+    "Sede Legale",
+    "Agenzia"
+   ],
+   "ogTitle": "Appartamento, Monolocale Vendita a Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/600/0/22431.png",
+   "ogDesc": "Bologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un loft nuovo da impresa in fase di totale ristrutturazione. Posto al piano terra con ingresso indipendente e si sviluppa su una superficie commerciale di circa 35 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti, valorizzata da un capitolato di pregio e da altezze importanti che consentono l'installazione di un soppalco in struttura d'arredo volto a ottimizzare lo spazio e a separare nettamente la zona notte dal living. La zona giorno open space prevede un angolo cottura a vista moderno, mentre il servizio è un bagno finestrato. Classe energetica a fine lavori. Predisposizione aria condizionata. Rif. N0344MT5 € 180.000",
+   "desc": "Bologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un loft nuovo da impresa in fase di totale ristrutturazione. Posto al piano terra con ingresso indipendente e si sviluppa su una superficie commerciale di circa 35 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti, valorizzata da un capitolato di pregio e da altezze importanti che consentono l'installazione di un soppalco in struttura d'arredo volto a ottimizzare lo spazio e a separare nettamente la zona notte dal living. La zona giorno open space prevede un angolo cottura a vista moderno, mentre il servizio è un bagno finestrato. Classe energetica a fine lavori. Predisposizione aria condizionata. Rif. N0344MT5 € 180.000",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"name\":\"immobile - Santi\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\"},\"datePublished\":\"2022-02-15T08:13:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.santi-immobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"name\":\"Santi\",\"description\":\"Agenzia Immobiliare Bologna e Provincia\",\"publisher\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.santi-immobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\",\"name\":\"Santi\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"contentUrl\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"width\":1240,\"height\":449,\"caption\":\"Santi\"},\"image\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34818/23697.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34819/23697.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34818/23696.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34819/23696.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34818/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34819/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/1000/0/22431.png",
+    "https://static3.agimonline.com/images/4Zzo1fNzE0bO2M62MTtp4ZDoy5MjQzeMDtl2eHQ66cG5nfO3Y6bMTt32OjE74Y29t5cDoxe/1000/0/22430.png",
+    "https://static3.agimonline.com/images/4Zzo11NzE02O2M6eMTtp8ZDoy1MjQz1Mjtl9eHQ6aanBn1O3Y62MTt3eOjE78Y29t1cDox1/1000/0/22432.jpg",
+    "https://static3.agimonline.com/images/4Zzo19NzE00O2M65MTtp8ZDoyeMjQz6Mztl7eHQ6acG5n9O3Y60MTt35OjE78Y29tecDox6/1000/0/22433.png",
+    "https://static3.agimonline.com/images/4Zzo15NzE07O2M6aMTtp2ZDoy3MjQzfNDtl1eHQ6acG5n5O3Y67MTt3aOjE72Y29t3cDoxf/1000/0/22434.png",
+    "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/400/0/22431.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzo11NzE02O2M6eMTtp8ZDoy1MjQz1Mjtl9eHQ6aanBn1O3Y62MTt3eOjE78Y29t1cDox1/1200/0/22432.jpg"
+   ],
+   "descBlock": "Bologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un loft nuovo da impresa in fase di totale ristrutturazione. Posto al piano terra con ingresso indipendente e si sviluppa su una superficie commerciale di circa 35 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti, valorizzata da un capitolato di pregio e da altezze importanti che consentono l'installazione di un soppalco in struttura d'arredo volto a ottimizzare lo spazio e a separare nettamente la zona notte dal living. La zona giorno open space prevede un angolo cottura a vista moderno, mentre il servizio è un bagno finestrato. Classe energetica a fine lavori. Predisposizione aria condizionata. Rif. N0344MT5 € 180.000",
+   "text": "+39 051 59 03 33\n+39 340 61 89 680\ninfo@santi-immobiliare.it\nInstagram\n \nFacebook-f\n \nYoutube\nHome\nAffitto\nVendita\nServizi\nChi Siamo\nNews\nContattaci\nTi interessa questo immobile? Contattaci ora\nAppartamento, Monolocale\n  Bologna\n35mq\n1\n1\nVENDITA\n€ 180.000\nRif: N0344MT5\n Aggiungi ai preferiti\nCondividi annuncio:\nRichiedi informazioni\n\n\n\n\n\n   Ho letto l'informativa privacy e acconsento alla memorizzazione dei miei dati secondo quanto stabilito dal regolamento europeo per la protezione dei dati personali n. 679/2016, GDPR.\n\n\n\nDescrizione\n\nBologna In contesto residenziale e comodo a tutti i servizi, a pochi passi dal cuore della città e precisamente in via Libero Battistelli 2, è disponibile per l'acquisto un loft nuovo da impresa in fase di totale ristrutturazione. Posto al piano terra con ingresso indipendente e si sviluppa su una superficie commerciale di circa 35 mq, configurandosi come una soluzione dal carattere contemporaneo ideale come investimento ad alta redditività. Gli interni si contraddistinguono per una distribuzione molto congeniale degli ambienti, valorizzata da un capitolato di pregio e da altezze importanti che consentono l'installazione di un soppalco in struttura d'arredo volto a ottimizzare lo spazio e a separare nettamente la zona notte dal living. La zona giorno open space prevede un angolo cottura a vista moderno, mentre il servizio è un bagno finestrato. Classe energetica a fine lavori. Predisposizione aria condizionata. Rif. N0344MT5 € 180.000\n\nCaratteristiche\nDettagli principali\nPrezzo€ 180.000\nMQ35\nLocali1\nClasse Energ.VA\nDettagli aggiuntivi\nCondizioniRistrutturato\nClassificazioneEconomico\nCaratteristiche interne\nBagni\nCamere a Vista\nCucina Angolo cottura\nDoppi Vetri\nIngresso\nSoppalco\nZona Giorno Sala\nImpianti\nAlimentazione Riscaldamento Gas\nDi Riscaldamento Radiatori\nElettrico A norma\nIdraulico A norma\nPorta Blindata\nPredisposizione Raffrescamento\nRiscaldamento Centralizzato a contatori\nImmobili Simili\nAppartamento\n€ 200.000\n61mq\nAppartamento\n€ 144.000\n36mq\nAppartamento\n€ 184.000\n40mq\nMappa\n+\n−\n Leaflet | © OpenStreetMap contributors\nSede Legale\n\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nAgenzia\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nP.IVA: 03514621204\nREA: BO-525032\nCap. Sociale: 10.000 € int. versato\n\nLink utili\nImmobili in affitto\nImmobili in vendita\nServizi\nChi Siamo\nContatti\n+39 051 590333\n+39 340 6189680\ninfo@santi-immobiliare.it\n\n© 2026 Santi • Developed by Agim Gestionale Immobiliare\n\nCookie policy\nPrivacy policy",
+   "parsed": {
+    "prezzo": "€ 180.000",
+    "mq": "35",
+    "locali": "1",
+    "camere": "a Vista",
+    "bagni": "Camere a Vista",
+    "piano": null,
+    "classe_energetica": "Energ.VA",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/600/0/22431.png",
+    "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/1000/0/22431.png",
+    "https://static3.agimonline.com/images/4Zzo1fNzE0bO2M62MTtp4ZDoy5MjQzeMDtl2eHQ66cG5nfO3Y6bMTt32OjE74Y29t5cDoxe/1000/0/22430.png",
+    "https://static3.agimonline.com/images/4Zzo11NzE02O2M6eMTtp8ZDoy1MjQz1Mjtl9eHQ6aanBn1O3Y62MTt3eOjE78Y29t1cDox1/1000/0/22432.jpg",
+    "https://static3.agimonline.com/images/4Zzo19NzE00O2M65MTtp8ZDoyeMjQz6Mztl7eHQ6acG5n9O3Y60MTt35OjE78Y29tecDox6/1000/0/22433.png",
+    "https://static3.agimonline.com/images/4Zzo15NzE07O2M6aMTtp2ZDoy3MjQzfNDtl1eHQ6acG5n5O3Y67MTt3aOjE72Y29t3cDoxf/1000/0/22434.png",
+    "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/400/0/22431.png",
+    "https://static3.agimonline.com/images/4Zzo11NzE02O2M6eMTtp8ZDoy1MjQz1Mjtl9eHQ6aanBn1O3Y62MTt3eOjE78Y29t1cDox1/1200/0/22432.jpg"
+   ],
+   "foto": "foto-2.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzo1bNzE04O2M60MTtpaZDoy8MjQz5MTtl4eHQ6acG5nbO3Y64MTt30OjE7aY29t8cDox5/600/0/22431.png"
+  },
+  {
+   "url": "https://www.santi-immobiliare.it/immobile/2672-Appartamento-Trilocale--in-vendita-Bologna/",
+   "title": "Appartamento, Trilocale Vendita a Bologna - Santi Immobiliare",
+   "h1": null,
+   "h2": [
+    "Richiedi informazioni",
+    "Descrizione",
+    "Immobili Simili",
+    "Mappa",
+    "Sede Legale",
+    "Agenzia"
+   ],
+   "ogTitle": "Appartamento, Trilocale Vendita a Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzo12NzE08O2M63MTtpbZDoy9MjQx5ODtl8eHQ66cG5n2O3Y68MTt33OjE7bY29t9cDox5/600/0/22418.png",
+   "ogDesc": "BOLOGNA Trilocale con grande terrazzo abitale composto da ingresso su soggiorno con cuci a vista, 2 camere (una con cabina armadio) e  2 bagni. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TC € 375.000 ",
+   "desc": "BOLOGNA Trilocale con grande terrazzo abitale composto da ingresso su soggiorno con cuci a vista, 2 camere (una con cabina armadio) e  2 bagni. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TC € 375.000 ",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"name\":\"immobile - Santi\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\"},\"datePublished\":\"2022-02-15T08:13:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.santi-immobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"name\":\"Santi\",\"description\":\"Agenzia Immobiliare Bologna e Provincia\",\"publisher\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.santi-immobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\",\"name\":\"Santi\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"contentUrl\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"width\":1240,\"height\":449,\"caption\":\"Santi\"},\"image\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34828/23699.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34829/23699.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34828/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34829/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34828/23700.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34829/23700.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzo12NzE08O2M63MTtpbZDoy9MjQx5ODtl8eHQ66cG5n2O3Y68MTt33OjE7bY29t9cDox5/1000/0/22418.png",
+    "https://static3.agimonline.com/images/4Zzo1cNzE02O2M6bMTtp3ZDoyaMjQy5MDtlaeHQ6aanBncO3Y62MTt3bOjE73Y29tacDox5/1000/0/22420.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE07O2M64MTtpaZDoy2MjQy8MTtlbeHQ6aanBncO3Y67MTt34OjE7aY29t2cDox8/1000/0/22421.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0cO2M6aMTtp2ZDoy7MjQyfMjtlbeHQ60anBn6O3Y6cMTt3aOjE72Y29t7cDoxf/1000/0/22422.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE00O2M63MTtpdZDoy8MjQy3Mztl5eHQ65anBn2O3Y60MTt33OjE7dY29t8cDox3/1000/0/22423.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE0cO2M69MTtp0ZDoyaMjQy0NDtl9eHQ6danBn1O3Y6cMTt39OjE70Y29tacDox0/1000/0/22424.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzo1cNzE02O2M6bMTtp3ZDoyaMjQy5MDtlaeHQ6aanBncO3Y62MTt3bOjE73Y29tacDox5/1200/0/22420.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE07O2M64MTtpaZDoy2MjQy8MTtlbeHQ6aanBncO3Y67MTt34OjE7aY29t2cDox8/1200/0/22421.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0cO2M6aMTtp2ZDoy7MjQyfMjtlbeHQ60anBn6O3Y6cMTt3aOjE72Y29t7cDoxf/1200/0/22422.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE00O2M63MTtpdZDoy8MjQy3Mztl5eHQ65anBn2O3Y60MTt33OjE7dY29t8cDox3/1200/0/22423.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE0cO2M69MTtp0ZDoyaMjQy0NDtl9eHQ6danBn1O3Y6cMTt39OjE70Y29tacDox0/1200/0/22424.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE0bO2M63MTtp4ZDoy3MjQydNTtl9eHQ6fanBn2O3Y6bMTt33OjE74Y29t3cDoxd/1200/0/22425.jpg"
+   ],
+   "descBlock": "BOLOGNA Trilocale con grande terrazzo abitale composto da ingresso su soggiorno con cuci a vista, 2 camere (una con cabina armadio) e 2 bagni. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TC € 375.000",
+   "text": "+39 051 59 03 33\n+39 340 61 89 680\ninfo@santi-immobiliare.it\nInstagram\n \nFacebook-f\n \nYoutube\nHome\nAffitto\nVendita\nServizi\nChi Siamo\nNews\nContattaci\nTi interessa questo immobile? Contattaci ora\nAppartamento, Trilocale\n  Bologna\n90mq\n2\n2\nVENDITA\n€ 375.000\nRif: N0342TC\n Aggiungi ai preferiti\nCondividi annuncio:\nRichiedi informazioni\n\n\n\n\n\n   Ho letto l'informativa privacy e acconsento alla memorizzazione dei miei dati secondo quanto stabilito dal regolamento europeo per la protezione dei dati personali n. 679/2016, GDPR.\n\n\n\nDescrizione\n\nBOLOGNA Trilocale con grande terrazzo abitale composto da ingresso su soggiorno con cuci a vista, 2 camere (una con cabina armadio) e 2 bagni. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TC € 375.000\n\nCaratteristiche\nDettagli principali\nPrezzo€ 375.000\nMQ90\nLocali3\nClasse Energ.A4\nDettagli aggiuntivi\nCondizioniIn costruzione\nClassificazioneEconomico\nCaratteristiche interne\nBagni2\nCamere2\nCucina A Vista\nDoppi Vetri\nIngresso\nZona Giorno Sala\nImpianti\nAlimentazione Riscaldamento Pompa di calore\nAria Condizionata Autonomo\nDi Riscaldamento Pavimento\nElettrico A norma\nIdraulico A norma\nPannelli Solari Fotovoltaici\nPorta Blindata\nRiscaldamento Autonomo\nVideo Citofono\nCaratteristiche esterne\nAscensore\nCantina\nGiardino Condominiale\nTerrazzo/i\nImmobili Simili\nAppartamento\n€ 335.000\n83mq\nMappa\n+\n−\n Leaflet | © OpenStreetMap contributors\nSede Legale\n\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nAgenzia\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nP.IVA: 03514621204\nREA: BO-525032\nCap. Sociale: 10.000 € int. versato\n\nLink utili\nImmobili in affitto\nImmobili in vendita\nServizi\nChi Siamo\nContatti\n+39 051 590333\n+39 340 6189680\ninfo@santi-immobiliare.it\n\n© 2026 Santi • Developed by Agim Gestionale Immobiliare\n\nCookie policy\nPrivacy policy",
+   "parsed": {
+    "prezzo": "€ 375.000",
+    "mq": "90",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "Energ.A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzo12NzE08O2M63MTtpbZDoy9MjQx5ODtl8eHQ66cG5n2O3Y68MTt33OjE7bY29t9cDox5/600/0/22418.png",
+    "https://static3.agimonline.com/images/4Zzo12NzE08O2M63MTtpbZDoy9MjQx5ODtl8eHQ66cG5n2O3Y68MTt33OjE7bY29t9cDox5/1000/0/22418.png",
+    "https://static3.agimonline.com/images/4Zzo1cNzE02O2M6bMTtp3ZDoyaMjQy5MDtlaeHQ6aanBncO3Y62MTt3bOjE73Y29tacDox5/1000/0/22420.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE07O2M64MTtpaZDoy2MjQy8MTtlbeHQ6aanBncO3Y67MTt34OjE7aY29t2cDox8/1000/0/22421.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0cO2M6aMTtp2ZDoy7MjQyfMjtlbeHQ60anBn6O3Y6cMTt3aOjE72Y29t7cDoxf/1000/0/22422.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE00O2M63MTtpdZDoy8MjQy3Mztl5eHQ65anBn2O3Y60MTt33OjE7dY29t8cDox3/1000/0/22423.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE0cO2M69MTtp0ZDoyaMjQy0NDtl9eHQ6danBn1O3Y6cMTt39OjE70Y29tacDox0/1000/0/22424.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE02O2M6bMTtp3ZDoyaMjQy5MDtlaeHQ6aanBncO3Y62MTt3bOjE73Y29tacDox5/1200/0/22420.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE07O2M64MTtpaZDoy2MjQy8MTtlbeHQ6aanBncO3Y67MTt34OjE7aY29t2cDox8/1200/0/22421.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0cO2M6aMTtp2ZDoy7MjQyfMjtlbeHQ60anBn6O3Y6cMTt3aOjE72Y29t7cDoxf/1200/0/22422.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE00O2M63MTtpdZDoy8MjQy3Mztl5eHQ65anBn2O3Y60MTt33OjE7dY29t8cDox3/1200/0/22423.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE0cO2M69MTtp0ZDoyaMjQy0NDtl9eHQ6danBn1O3Y6cMTt39OjE70Y29tacDox0/1200/0/22424.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE0bO2M63MTtp4ZDoy3MjQydNTtl9eHQ6fanBn2O3Y6bMTt33OjE74Y29t3cDoxd/1200/0/22425.jpg"
+   ],
+   "foto": "foto-3.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzo12NzE08O2M63MTtpbZDoy9MjQx5ODtl8eHQ66cG5n2O3Y68MTt33OjE7bY29t9cDox5/600/0/22418.png"
+  },
+  {
+   "url": "https://www.santi-immobiliare.it/immobile/2671-Appartamento-Trilocale--in-vendita-Bologna/",
+   "title": "Appartamento, Trilocale Vendita a Bologna - Santi Immobiliare",
+   "h1": null,
+   "h2": [
+    "Richiedi informazioni",
+    "Descrizione",
+    "Immobili Simili",
+    "Mappa",
+    "Sede Legale",
+    "Agenzia"
+   ],
+   "ogTitle": "Appartamento, Trilocale Vendita a Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/600/0/22395.jpg",
+   "ogDesc": "BOLOGNA trilocale composto da ingresso su soggiorno con cucina a vista, 2 camere, bagno e balcone. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TD € 335.000 ",
+   "desc": "BOLOGNA trilocale composto da ingresso su soggiorno con cucina a vista, 2 camere, bagno e balcone. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TD € 335.000 ",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"name\":\"immobile - Santi\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\"},\"datePublished\":\"2022-02-15T08:13:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.santi-immobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"name\":\"Santi\",\"description\":\"Agenzia Immobiliare Bologna e Provincia\",\"publisher\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.santi-immobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\",\"name\":\"Santi\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"contentUrl\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"width\":1240,\"height\":449,\"caption\":\"Santi\"},\"image\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34824/23700.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34825/23700.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34824/23701.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34825/23701.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34824/23699.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34825/23699.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/1000/0/22395.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0eO2M67MTtp4ZDoyfMjM56Njtl2eHQ64anBn6O3Y6eMTt37OjE74Y29tfcDox6/1000/0/22396.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE08O2M69MTtp1ZDoyeMjM5fNztl9eHQ64anBncO3Y68MTt39OjE71Y29tecDoxf/1000/0/22397.jpg",
+    "https://static3.agimonline.com/images/4Zzo1aNzE01O2M6cMTtpdZDoy7MjM5dODtl1eHQ62anBnaO3Y61MTt3cOjE7dY29t7cDoxd/1000/0/22398.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE03O2M66MTtp3ZDoy8MjM5fOTtl4eHQ6aanBn2O3Y63MTt36OjE73Y29t8cDoxf/1000/0/22399.jpg",
+    "https://static3.agimonline.com/images/4Zzo17NzE01O2M65MTtpeZDoy2MjQx0NztlceHQ64cG5n7O3Y61MTt35OjE7eY29t2cDox0/1000/0/22417.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/1200/0/22395.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0eO2M67MTtp4ZDoyfMjM56Njtl2eHQ64anBn6O3Y6eMTt37OjE74Y29tfcDox6/1200/0/22396.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE08O2M69MTtp1ZDoyeMjM5fNztl9eHQ64anBncO3Y68MTt39OjE71Y29tecDoxf/1200/0/22397.jpg",
+    "https://static3.agimonline.com/images/4Zzo1aNzE01O2M6cMTtpdZDoy7MjM5dODtl1eHQ62anBnaO3Y61MTt3cOjE7dY29t7cDoxd/1200/0/22398.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE03O2M66MTtp3ZDoy8MjM5fOTtl4eHQ6aanBn2O3Y63MTt36OjE73Y29t8cDoxf/1200/0/22399.jpg"
+   ],
+   "descBlock": "BOLOGNA trilocale composto da ingresso su soggiorno con cucina a vista, 2 camere, bagno e balcone. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TD € 335.000",
+   "text": "+39 051 59 03 33\n+39 340 61 89 680\ninfo@santi-immobiliare.it\nInstagram\n \nFacebook-f\n \nYoutube\nHome\nAffitto\nVendita\nServizi\nChi Siamo\nNews\nContattaci\nTi interessa questo immobile? Contattaci ora\nAppartamento, Trilocale\n  Bologna\n83mq\n2\n1\nVENDITA\n€ 335.000\nRif: N0342TD\n Aggiungi ai preferiti\nCondividi annuncio:\nRichiedi informazioni\n\n\n\n\n\n   Ho letto l'informativa privacy e acconsento alla memorizzazione dei miei dati secondo quanto stabilito dal regolamento europeo per la protezione dei dati personali n. 679/2016, GDPR.\n\n\n\nDescrizione\n\nBOLOGNA trilocale composto da ingresso su soggiorno con cucina a vista, 2 camere, bagno e balcone. IN NUOVO COMPLESSO RESIDENZIALE IN CLASSE A4 SENZA SPESE DI MEDIAZIONE DA PARTE ACQUIRENTE NEI PRESSI DELL' OSPEDALE MAGGIORE E DELLA FACOLTA DI INGEGNERIA In via Terracini/via Maria Callas prende vita un esclusivo intervento residenziale all'avanguardia progettato secondo le più moderne tecniche edili per garantire la massima efficienza energetica. Il totale rispetto ambientale e una totale sicurezza antisismica. La posizione è strategica e rendendo questa proposta un opportunità unica sia per abitare sia come investimento ad altissima redditività. Il fabbricato si sviluppa su due corpi scala e propone diverse tipologie abitative pronte a soddisfare ogni esigenza di spazio dal funzionale monolocale o bilocale fino ai più ampi e luminosi trilocali e quadrilocali. Ogni unità immobiliare è completamente autonoma climatizzata e dotata di cantina di pertinenza con la possibilità di abbinare comodissimi box auto e posti auto coperti. La consegna degli immobili è prevista per gennaio 2028. Classe A4. Rif N0342TD € 335.000\n\nCaratteristiche\nDettagli principali\nPrezzo€ 335.000\nMQ83\nLocali3\nClasse Energ.A4\nDettagli aggiuntivi\nCondizioniIn costruzione\nClassificazioneEconomico\nCaratteristiche interne\nBagni\nCamere2\nCucina A Vista\nDoppi Vetri\nIngresso\nZona Giorno Sala\nImpianti\nAlimentazione Riscaldamento Pompa di calore\nAria Condizionata Autonomo\nDi Riscaldamento Pavimento\nElettrico A norma\nIdraulico A norma\nPannelli Solari Fotovoltaici\nPorta Blindata\nRiscaldamento Autonomo\nVideo Citofono\nCaratteristiche esterne\nAscensore\nBalcone/i\nCantina\nGiardino Condominiale\nImmobili Simili\nAppartamento\n€ 375.000\n90mq\nAppartamento\n€ 240.000\n60mq\nMappa\n+\n−\n Leaflet | © OpenStreetMap contributors\nSede Legale\n\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nAgenzia\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nP.IVA: 03514621204\nREA: BO-525032\nCap. Sociale: 10.000 € int. versato\n\nLink utili\nImmobili in affitto\nImmobili in vendita\nServizi\nChi Siamo\nContatti\n+39 051 590333\n+39 340 6189680\ninfo@santi-immobiliare.it\n\n© 2026 Santi • Developed by Agim Gestionale Immobiliare\n\nCookie policy\nPrivacy policy",
+   "parsed": {
+    "prezzo": "€ 335.000",
+    "mq": "83",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "Camere2",
+    "piano": null,
+    "classe_energetica": "Energ.A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/600/0/22395.jpg",
+    "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/1000/0/22395.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0eO2M67MTtp4ZDoyfMjM56Njtl2eHQ64anBn6O3Y6eMTt37OjE74Y29tfcDox6/1000/0/22396.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE08O2M69MTtp1ZDoyeMjM5fNztl9eHQ64anBncO3Y68MTt39OjE71Y29tecDoxf/1000/0/22397.jpg",
+    "https://static3.agimonline.com/images/4Zzo1aNzE01O2M6cMTtpdZDoy7MjM5dODtl1eHQ62anBnaO3Y61MTt3cOjE7dY29t7cDoxd/1000/0/22398.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE03O2M66MTtp3ZDoy8MjM5fOTtl4eHQ6aanBn2O3Y63MTt36OjE73Y29t8cDoxf/1000/0/22399.jpg",
+    "https://static3.agimonline.com/images/4Zzo17NzE01O2M65MTtpeZDoy2MjQx0NztlceHQ64cG5n7O3Y61MTt35OjE7eY29t2cDox0/1000/0/22417.png",
+    "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/1200/0/22395.jpg",
+    "https://static3.agimonline.com/images/4Zzo16NzE0eO2M67MTtp4ZDoyfMjM56Njtl2eHQ64anBn6O3Y6eMTt37OjE74Y29tfcDox6/1200/0/22396.jpg",
+    "https://static3.agimonline.com/images/4Zzo1cNzE08O2M69MTtp1ZDoyeMjM5fNztl9eHQ64anBncO3Y68MTt39OjE71Y29tecDoxf/1200/0/22397.jpg",
+    "https://static3.agimonline.com/images/4Zzo1aNzE01O2M6cMTtpdZDoy7MjM5dODtl1eHQ62anBnaO3Y61MTt3cOjE7dY29t7cDoxd/1200/0/22398.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE03O2M66MTtp3ZDoy8MjM5fOTtl4eHQ6aanBn2O3Y63MTt36OjE73Y29t8cDoxf/1200/0/22399.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzo10NzE04O2M6fMTtpfZDoyeMjM51NTtl6eHQ6banBn0O3Y64MTt3fOjE7fY29tecDox1/600/0/22395.jpg"
+  },
+  {
+   "url": "https://www.santi-immobiliare.it/immobile/2682-Appartamento-Monolocale--in-vendita-Bologna/",
+   "title": "Appartamento, Monolocale Vendita a Bologna - Santi Immobiliare",
+   "h1": null,
+   "h2": [
+    "Richiedi informazioni",
+    "Descrizione",
+    "Immobili Simili",
+    "Mappa",
+    "Sede Legale",
+    "Agenzia"
+   ],
+   "ogTitle": "Appartamento, Monolocale Vendita a Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/600/0/22495.png",
+   "ogDesc": "DECUMANA 62 Bologna appartamento monolocale composto da ingresso su soggiorno con cucina e camera a vista, bagno e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne.\nL'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico.\nCaratteristiche tecniche e impianti:\n• Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento.\n• Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas.\n• Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta.\n• Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte.\nLa soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti.\nRif. N03318 € 170.000",
+   "desc": "DECUMANA 62 Bologna appartamento monolocale composto da ingresso su soggiorno con cucina e camera a vista, bagno e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne.\nL'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico.\nCaratteristiche tecniche e impianti:\n• Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento.\n• Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas.\n• Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta.\n• Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte.\nLa soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti.\nRif. N03318 € 170.000",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"name\":\"immobile - Santi\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\"},\"datePublished\":\"2022-02-15T08:13:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.santi-immobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"name\":\"Santi\",\"description\":\"Agenzia Immobiliare Bologna e Provincia\",\"publisher\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.santi-immobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\",\"name\":\"Santi\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"contentUrl\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"width\":1240,\"height\":449,\"caption\":\"Santi\"},\"image\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34818/23697.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34819/23697.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34818/23696.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34819/23696.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34818/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34819/23698.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/1000/0/22495.png",
+    "https://static3.agimonline.com/images/4Zzo16NzE07O2M65MTtpaZDoy9MjQ5bNjtldeHQ64cG5n6O3Y67MTt35OjE7aY29t9cDoxb/1000/0/22496.png",
+    "https://static3.agimonline.com/images/4Zzo18NzE04O2M63MTtp6ZDoyaMjQ51NztlbeHQ6canBn8O3Y64MTt33OjE76Y29tacDox1/1000/0/22497.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE07O2M64MTtp1ZDoy4MjQ55ODtl5eHQ68anBn2O3Y67MTt34OjE71Y29t4cDox5/1000/0/22498.jpg",
+    "https://static3.agimonline.com/images/4Zzo19NzE0eO2M6aMTtpcZDoyeMjQ50OTtlaeHQ6dcG5n9O3Y6eMTt3aOjE7cY29tecDox0/1000/0/22499.png",
+    "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/400/0/22495.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzo18NzE04O2M63MTtp6ZDoyaMjQ51NztlbeHQ6canBn8O3Y64MTt33OjE76Y29tacDox1/1200/0/22497.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE07O2M64MTtp1ZDoy4MjQ55ODtl5eHQ68anBn2O3Y67MTt34OjE71Y29t4cDox5/1200/0/22498.jpg"
+   ],
+   "descBlock": "DECUMANA 62 Bologna appartamento monolocale composto da ingresso su soggiorno con cucina e camera a vista, bagno e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne. L'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico. Caratteristiche tecniche e impianti: • Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento. • Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas. • Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta. • Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte. La soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti. Rif. N03318 € 170.000",
+   "text": "+39 051 59 03 33\n+39 340 61 89 680\ninfo@santi-immobiliare.it\nInstagram\n \nFacebook-f\n \nYoutube\nHome\nAffitto\nVendita\nServizi\nChi Siamo\nNews\nContattaci\nTi interessa questo immobile? Contattaci ora\nAppartamento, Monolocale\n  Bologna\n37mq\n1\n1\nVENDITA\n€ 170.000\nRif: N03318\n Aggiungi ai preferiti\nCondividi annuncio:\nRichiedi informazioni\n\n\n\n\n\n   Ho letto l'informativa privacy e acconsento alla memorizzazione dei miei dati secondo quanto stabilito dal regolamento europeo per la protezione dei dati personali n. 679/2016, GDPR.\n\n\n\nDescrizione\n\nDECUMANA 62 Bologna appartamento monolocale composto da ingresso su soggiorno con cucina e camera a vista, bagno e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne. L'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico. Caratteristiche tecniche e impianti: • Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento. • Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas. • Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta. • Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte. La soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti. Rif. N03318 € 170.000\n\nCaratteristiche\nDettagli principali\nPrezzo€ 170.000\nMQ37\nLocali1\nClasse Energ.A1\nDettagli aggiuntivi\nCondizioniRistrutturato\nClassificazioneMedio\nCaratteristiche interne\nBagni\nCamere A Vista\nCucina A Vista\nDoppi Vetri\nIngresso\nZona Giorno Sala\nImpianti\nAlimentazione Riscaldamento Pompa di calore\nAria Condizionata Autonomo\nDi Riscaldamento Aria\nElettrico A norma\nFognario Allacciato\nIdraulico A norma\nPannelli Solari Fotovoltaici\nPorta Blindata\nRiscaldamento Autonomo\nVideo Citofono\nCaratteristiche esterne\nCantina\nImmobili Simili\nAppartamento\n€ 200.000\n61mq\nAppartamento\n€ 144.000\n36mq\nAppartamento\n€ 184.000\n40mq\nMappa\n+\n−\n Leaflet | © OpenStreetMap contributors\nSede Legale\n\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nAgenzia\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nP.IVA: 03514621204\nREA: BO-525032\nCap. Sociale: 10.000 € int. versato\n\nLink utili\nImmobili in affitto\nImmobili in vendita\nServizi\nChi Siamo\nContatti\n+39 051 590333\n+39 340 6189680\ninfo@santi-immobiliare.it\n\n© 2026 Santi • Developed by Agim Gestionale Immobiliare\n\nCookie policy\nPrivacy policy",
+   "parsed": {
+    "prezzo": "€ 170.000",
+    "mq": "37",
+    "locali": "1",
+    "camere": "A Vista",
+    "bagni": "Camere A Vista",
+    "piano": null,
+    "classe_energetica": "Energ.A1",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/600/0/22495.png",
+    "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/1000/0/22495.png",
+    "https://static3.agimonline.com/images/4Zzo16NzE07O2M65MTtpaZDoy9MjQ5bNjtldeHQ64cG5n6O3Y67MTt35OjE7aY29t9cDoxb/1000/0/22496.png",
+    "https://static3.agimonline.com/images/4Zzo18NzE04O2M63MTtp6ZDoyaMjQ51NztlbeHQ6canBn8O3Y64MTt33OjE76Y29tacDox1/1000/0/22497.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE07O2M64MTtp1ZDoy4MjQ55ODtl5eHQ68anBn2O3Y67MTt34OjE71Y29t4cDox5/1000/0/22498.jpg",
+    "https://static3.agimonline.com/images/4Zzo19NzE0eO2M6aMTtpcZDoyeMjQ50OTtlaeHQ6dcG5n9O3Y6eMTt3aOjE7cY29tecDox0/1000/0/22499.png",
+    "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/400/0/22495.png",
+    "https://static3.agimonline.com/images/4Zzo18NzE04O2M63MTtp6ZDoyaMjQ51NztlbeHQ6canBn8O3Y64MTt33OjE76Y29tacDox1/1200/0/22497.jpg",
+    "https://static3.agimonline.com/images/4Zzo12NzE07O2M64MTtp1ZDoy4MjQ55ODtl5eHQ68anBn2O3Y67MTt34OjE71Y29t4cDox5/1200/0/22498.jpg"
+   ],
+   "foto": "foto-5.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzo1eNzE04O2M63MTtp0ZDoy2MjQ50NTtl1eHQ64cG5neO3Y64MTt33OjE70Y29t2cDox0/600/0/22495.png"
+  },
+  {
+   "url": "https://www.santi-immobiliare.it/immobile/2681-Appartamento-Trilocale--in-vendita-Bologna/",
+   "title": "Appartamento, Trilocale Vendita a Bologna - Santi Immobiliare",
+   "h1": null,
+   "h2": [
+    "Richiedi informazioni",
+    "Descrizione",
+    "Immobili Simili",
+    "Mappa",
+    "Sede Legale",
+    "Agenzia"
+   ],
+   "ogTitle": "Appartamento, Trilocale Vendita a Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzo14NzE0bO2M68MTtp0ZDoy9MjQ4dODtl3eHQ6dcG5n4O3Y6bMTt38OjE70Y29t9cDoxd/600/0/22488.png",
+   "ogDesc": "DECUMANA 62 Bologna appartamento trilocale ultimo piano su 2 livelli composto da ingresso su soggiorno con cucina a vista, 2 camere, 2 bagni, balcone, terrazzino, cabina armadio e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne.\nL'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico.\nCaratteristiche tecniche e impianti:\n• Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento.\n• Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas.\n• Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta.\n• Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte.\nLa soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti.\nRif. N03317 € 260.000",
+   "desc": "DECUMANA 62 Bologna appartamento trilocale ultimo piano su 2 livelli composto da ingresso su soggiorno con cucina a vista, 2 camere, 2 bagni, balcone, terrazzino, cabina armadio e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne.\nL'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico.\nCaratteristiche tecniche e impianti:\n• Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento.\n• Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas.\n• Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta.\n• Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte.\nLa soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti.\nRif. N03317 € 260.000",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\",\"name\":\"immobile - Santi\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\"},\"datePublished\":\"2022-02-15T08:13:25+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/immobile\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.santi-immobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"immobile\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"name\":\"Santi\",\"description\":\"Agenzia Immobiliare Bologna e Provincia\",\"publisher\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.santi-immobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#organization\",\"name\":\"Santi\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"contentUrl\":\"https:\\/\\/www.santi-immobiliare.it\\/wp-content\\/uploads\\/2022\\/02\\/logo.png\",\"width\":1240,\"height\":449,\"caption\":\"Santi\"},\"image\":{\"@id\":\"https:\\/\\/www.santi-immobiliare.it\\/#\\/schema\\/logo\\/image\\/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34824/23700.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34825/23700.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://b.tile.openstreetmap.org/16/34824/23701.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34825/23701.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://c.tile.openstreetmap.org/16/34824/23699.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://a.tile.openstreetmap.org/16/34825/23699.png",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzo14NzE0bO2M68MTtp0ZDoy9MjQ4dODtl3eHQ6dcG5n4O3Y6bMTt38OjE70Y29t9cDoxd/1000/0/22488.png",
+    "https://static3.agimonline.com/images/4Zzo15NzE06O2M6fMTtp2ZDoy3MjQ42OTtl0eHQ69cG5n5O3Y66MTt3fOjE72Y29t3cDox2/1000/0/22489.png",
+    "https://static3.agimonline.com/images/4Zzo19NzE0bO2M6cMTtpaZDoy8MjQ50MDtl1eHQ63cG5n9O3Y6bMTt3cOjE7aY29t8cDox0/1000/0/22490.png",
+    "https://static3.agimonline.com/images/4Zzo1aNzE07O2M69MTtp9ZDoy9MjQ50MTtlaeHQ6aanBnaO3Y67MTt39OjE79Y29t9cDox0/1000/0/22491.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE08O2M61MTtpcZDoydMjQ51MjtlaeHQ60anBn1O3Y68MTt31OjE7cY29tdcDox1/1000/0/22492.jpg",
+    "https://static3.agimonline.com/images/4Zzo10NzE01O2M6dMTtpcZDoy3MjQ52Mztl0eHQ64cG5n0O3Y61MTt3dOjE7cY29t3cDox2/1000/0/22493.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzo1aNzE07O2M69MTtp9ZDoy9MjQ50MTtlaeHQ6aanBnaO3Y67MTt39OjE79Y29t9cDox0/1200/0/22491.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE08O2M61MTtpcZDoydMjQ51MjtlaeHQ60anBn1O3Y68MTt31OjE7cY29tdcDox1/1200/0/22492.jpg"
+   ],
+   "descBlock": "DECUMANA 62 Bologna appartamento trilocale ultimo piano su 2 livelli composto da ingresso su soggiorno con cucina a vista, 2 camere, 2 bagni, balcone, terrazzino, cabina armadio e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne. L'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico. Caratteristiche tecniche e impianti: • Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento. • Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas. • Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta. • Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte. La soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti. Rif. N03317 € 260.000",
+   "text": "+39 051 59 03 33\n+39 340 61 89 680\ninfo@santi-immobiliare.it\nInstagram\n \nFacebook-f\n \nYoutube\nHome\nAffitto\nVendita\nServizi\nChi Siamo\nNews\nContattaci\nTi interessa questo immobile? Contattaci ora\nAppartamento, Trilocale\n  Bologna\n62mq\n2\n2\nVENDITA\n€ 260.000\nRif: N03317\n Aggiungi ai preferiti\nCondividi annuncio:\nRichiedi informazioni\n\n\n\n\n\n   Ho letto l'informativa privacy e acconsento alla memorizzazione dei miei dati secondo quanto stabilito dal regolamento europeo per la protezione dei dati personali n. 679/2016, GDPR.\n\n\n\nDescrizione\n\nDECUMANA 62 Bologna appartamento trilocale ultimo piano su 2 livelli composto da ingresso su soggiorno con cucina a vista, 2 camere, 2 bagni, balcone, terrazzino, cabina armadio e cantina in piccola palazzina in fase di ristrutturazione, classe A1, con consegna a fine 2027, possibilità di personalizzare totalmente le finiture interne. L'immobile unisce l'intimità di un contesto di poche unità abitative alle più moderne tecnologie costruttive orientate alla sostenibilità e al massimo risparmio economico. Caratteristiche tecniche e impianti: • Efficienza Energetica: Classe A1, grazie al cappotto termico e agli infissi ad alto isolamento. • Climatizzazione: Impianto autonomo a pompa di calore per il riscaldamento invernale e il raffrescamento estivo, senza utilizzo di gas. • Energia Green: Impianto fotovoltaico dedicato per la produzione di elettricità pulita e l'abbattimento dei costi in bolletta. • Interni su misura: Ampio capitolato per la scelta personalizzata di pavimenti, rivestimenti e porte. La soluzione perfetta per chi cerca una casa tecnologica, con abbattimento emissioni e creata su misura per i propri gusti. Rif. N03317 € 260.000\n\nCaratteristiche\nDettagli principali\nPrezzo€ 260.000\nMQ62\nLocali3\nClasse Energ.A1\nDettagli aggiuntivi\nCondizioniRistrutturato\nClassificazioneMedio\nCaratteristiche interne\nBagni2\nCabina Armadio\nCamere2\nCucina A Vista\nDoppi Vetri\nIngresso\nZona Giorno Sala\nImpianti\nAlimentazione Riscaldamento Pompa di calore\nAria Condizionata Autonomo\nDi Riscaldamento Aria\nElettrico A norma\nFognario Allacciato\nIdraulico A norma\nPannelli Solari Fotovoltaici\nPorta Blindata\nRiscaldamento Autonomo\nVideo Citofono\nCaratteristiche esterne\nBalcone/i\nCantina\nTerrazzo/i A Falda\nImmobili Simili\nAppartamento\n€ 335.000\n83mq\nAppartamento\n€ 240.000\n60mq\nAppartamento\n€ 230.000\n57mq\nMappa\n+\n−\n Leaflet | © OpenStreetMap contributors\nSede Legale\n\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nAgenzia\nVicolo Tubertini 2/A\n40126 • Bologna (BO)\n\nP.IVA: 03514621204\nREA: BO-525032\nCap. Sociale: 10.000 € int. versato\n\nLink utili\nImmobili in affitto\nImmobili in vendita\nServizi\nChi Siamo\nContatti\n+39 051 590333\n+39 340 6189680\ninfo@santi-immobiliare.it\n\n© 2026 Santi • Developed by Agim Gestionale Immobiliare\n\nCookie policy\nPrivacy policy",
+   "parsed": {
+    "prezzo": "€ 260.000",
+    "mq": "62",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "Energ.A1",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzo14NzE0bO2M68MTtp0ZDoy9MjQ4dODtl3eHQ6dcG5n4O3Y6bMTt38OjE70Y29t9cDoxd/600/0/22488.png",
+    "https://static3.agimonline.com/images/4Zzo14NzE0bO2M68MTtp0ZDoy9MjQ4dODtl3eHQ6dcG5n4O3Y6bMTt38OjE70Y29t9cDoxd/1000/0/22488.png",
+    "https://static3.agimonline.com/images/4Zzo15NzE06O2M6fMTtp2ZDoy3MjQ42OTtl0eHQ69cG5n5O3Y66MTt3fOjE72Y29t3cDox2/1000/0/22489.png",
+    "https://static3.agimonline.com/images/4Zzo19NzE0bO2M6cMTtpaZDoy8MjQ50MDtl1eHQ63cG5n9O3Y6bMTt3cOjE7aY29t8cDox0/1000/0/22490.png",
+    "https://static3.agimonline.com/images/4Zzo1aNzE07O2M69MTtp9ZDoy9MjQ50MTtlaeHQ6aanBnaO3Y67MTt39OjE79Y29t9cDox0/1000/0/22491.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE08O2M61MTtpcZDoydMjQ51MjtlaeHQ60anBn1O3Y68MTt31OjE7cY29tdcDox1/1000/0/22492.jpg",
+    "https://static3.agimonline.com/images/4Zzo10NzE01O2M6dMTtpcZDoy3MjQ52Mztl0eHQ64cG5n0O3Y61MTt3dOjE7cY29t3cDox2/1000/0/22493.png",
+    "https://static3.agimonline.com/images/4Zzo1aNzE07O2M69MTtp9ZDoy9MjQ50MTtlaeHQ6aanBnaO3Y67MTt39OjE79Y29t9cDox0/1200/0/22491.jpg",
+    "https://static3.agimonline.com/images/4Zzo11NzE08O2M61MTtpcZDoydMjQ51MjtlaeHQ60anBn1O3Y68MTt31OjE7cY29tdcDox1/1200/0/22492.jpg"
+   ],
+   "foto": "foto-6.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzo14NzE0bO2M68MTtp0ZDoy9MjQ4dODtl3eHQ6dcG5n4O3Y6bMTt38OjE70Y29t9cDoxd/600/0/22488.png"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.santi-immobiliare.it/wp-content/uploads/2022/02/logo.png",
+  "size": 12314
+ }
+}

@@ -1,0 +1,810 @@
+{
+ "cfg": {
+  "slug": "komodo-immobiliare",
+  "nome": "Komodo Immobiliare",
+  "home": "https://www.komodoimmobiliare.it/",
+  "index": [
+   "https://www.komodoimmobiliare.it/immobili-in-vendita/",
+   "https://www.komodoimmobiliare.it/affitti-komodo/"
+  ],
+  "rx": "komodoimmobiliare[.]it/immobili/[a-z0-9-]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Komodo Immobiliare - Agenzia Bologna e Modena - Komodo Immobiliare",
+  "desc": null,
+  "emails": [
+   "areatecnica@komodoristrutturare.it",
+   "bonaveri@komodoservizi.it",
+   "info@komodoimmobiliare.it",
+   "binianna@gmail.com"
+  ],
+  "tels": [
+   "+393938524334",
+   "051/0017281",
+   "%2B390510017281"
+  ],
+  "logos": [
+   "https://www.komodoimmobiliare.it/wp-content/uploads/2025/11/komodo-immobiliare-logo-white.png"
+  ],
+  "svgLogo": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\" version=\"1.1\" style=\"shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;\" viewBox=\"0 0 295.64 369.5375\" x=\"0px\" y=\"0px\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><defs></defs><g><path class=\"fil0\" d=\"M231.99 189.12c18.12,10.07 36.25,20.14 54.37,30.21 7.8,4.33 11.22,13.52 8.15,21.9 -15.59,42.59 -61.25,65.07 -104.21,49.39 -87.97,-32.11 -153.18,-97.32 -185.29,-185.29 -15.68,-42.96 6.8,-88.62 49.39,-104.21 8.38,-3.07 17.57,0.35 21.91,8.15 10.06,18.12 20.13,36.25 30.2,54.37 4.72,8.5 3.61,18.59 -2.85,25.85 -8.46,9.52 -16.92,19.04 -25.38,28.55 18.06,43.98 55.33,81.25 99.31,99.31 9.51,-8.46 19.03,-16.92 28.55,-25.38 7.27,-6.46 17.35,-7.57 25.85,-2.85z\"></path></g></svg>",
+  "body": {
+   "bg": "rgb(42, 84, 100)",
+   "color": "rgb(92, 114, 125)",
+   "font": "Roboto, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(92, 114, 125)",
+   "font": "Roboto, sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(10, 51, 91)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Roboto, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Roboto, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(52, 78, 90)",
+   "font": "Roboto, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    33
+   ],
+   [
+    "rgb(214, 164, 71)",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    5
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    612
+   ],
+   [
+    "rgb(255, 255, 255)",
+    36
+   ],
+   [
+    "color(srgb 0.156863 0.184314 0.360784 / 0.85)",
+    13
+   ],
+   [
+    "rgb(17, 91, 104)",
+    9
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    6
+   ],
+   [
+    "color(srgb 0.411765 0.756863 0.490196 / 0.85)",
+    5
+   ],
+   [
+    "rgb(187, 188, 188)",
+    4
+   ],
+   [
+    "rgb(0, 37, 71)",
+    4
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(34, 34, 34)",
+    18
+   ],
+   [
+    "rgb(255, 255, 255)",
+    16
+   ],
+   [
+    "rgb(24, 28, 35)",
+    4
+   ],
+   [
+    "rgb(14, 13, 13)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    48
+   ],
+   [
+    "rgb(52, 78, 90)",
+    12
+   ],
+   [
+    "rgb(34, 34, 34)",
+    11
+   ],
+   [
+    "rgb(92, 114, 125)",
+    8
+   ],
+   [
+    "rgb(40, 47, 92)",
+    5
+   ],
+   [
+    "rgb(214, 164, 71)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    4
+   ],
+   [
+    "rgb(158, 116, 69)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Roboto, sans-serif",
+    166
+   ]
+  ],
+  "heads": [
+   "La TUA Casa, Con Komodo®",
+   "Compravendita Immobiliare"
+  ],
+  "addr": "Via Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)",
+  "final": "https://www.komodoimmobiliare.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.komodoimmobiliare.it/immobili/appartamento-zola-predosa-centro-in-a3/",
+  "https://www.komodoimmobiliare.it/immobili/luminoso-appartamento-zola-predosa-centro/",
+  "https://www.komodoimmobiliare.it/immobili/villa-indipendente-a-crespellano/",
+  "https://www.komodoimmobiliare.it/immobili/villa-in-vendita-a-crespellano/",
+  "https://www.komodoimmobiliare.it/immobili/villa-unifamiliare-via-lea-padovani/",
+  "https://www.komodoimmobiliare.it/immobili/trilocale-in-vendita-a-casalecchio-di-reno/",
+  "https://www.komodoimmobiliare.it/immobili/monolocale-a-bologna-zona-santa-viola/",
+  "https://www.komodoimmobiliare.it/immobili/trilocale-con-giardino-a-bologna/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.komodoimmobiliare.it/immobili/appartamento-zola-predosa-centro-in-a3/",
+   "title": "Appartamento Zola Predosa centro in A3 - Komodo Immobiliare",
+   "h1": "Appartamento Zola Predosa centro in A3",
+   "h2": [
+    "Classe Energetica",
+    "Indirizzo",
+    "Dettagli",
+    "Caratteristiche",
+    "Video",
+    "Mappa"
+   ],
+   "ogTitle": "Appartamento Zola Predosa centro in A3 - Komodo Immobiliare",
+   "ogImage": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296-1024x768.jpg",
+   "ogDesc": "Zola Predosa, zona centrale ma molto tranquilla e verde, proponiamo in piccolo condominio completamente ristrutturato con Ecobonus appartamento al 2 e ultimo",
+   "desc": "Zola Predosa, zona centrale ma molto tranquilla e verde, proponiamo in piccolo condominio completamente ristrutturato con Ecobonus appartamento al 2 e ultimo",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6270-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6273-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6301-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 224.65625
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    }
+   ],
+   "bgs": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg"
+   ],
+   "dataSrc": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6301-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6270.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6273.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6275.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6248.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6249.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6252.jpg"
+   ],
+   "descBlock": "Tempo\n                                          07:00\n                                                  07:15\n                                                  07:30\n                                                  07:45\n                                                  08:00\n                                                  08:15\n                                                  08:30\n                                                  08:45\n                                                  09:00\n                                                  09:15\n                                                  09:30\n                                                  09:45\n                                                  10:00\n                                                  10:15\n                                                  10:30\n                                                  10:45\n                                                  11:00\n                                                  11:15\n                                                  11:30\n                                                  11:45\n                                                  12:00\n                                                  12:15\n                                                  12:30\n                                                  12:45\n                                                  13:00\n                                                  13:15\n                                                  13:30\n                                                  13:45\n                                                  14:00\n                                                  14:15\n                                                  14:30\n                                                  14:45\n                                                  15:00\n                                                  15:15\n                                                  15:30\n                                                  15:45\n                                                  16:00\n                                                  16:15\n                                                  16:30\n                                                  16:45\n                                                  17:00\n                                                  17:15\n                                                  17:30\n                                                  17:45\n                                                  18:00\n                                                  18:15\n                                                  18:30\n                                                  18:45\n                                                  19:00\n                                                  19:15\n                                                  19:30\n                                                  19:45",
+   "text": "Home\n \nVendita\n \nAffitto\n \nRistrutturazioni\n \nManutenzioni\n \nCantieri\n \nChi Siamo\n \nBlog\n \nContatti\n+393938524334\nHomepage Appartamenti, Condomini  Appartamento Zola Predosa centro in A3\nVendita Appartamenti, Condomini\nAppartamento Zola Predosa centro in A3\n325.000 €\n Via romita 8 - Zola Predosa, Bologna, Bologna, Zola Predosa\nCondividere\nPreferito\nStampa\nNuova offerta\nPanoramica\nAggiornato al:\n3 Novembre 2026\n2 Letti\n2 Bagni\n1 Garage\n97 m2\nAnno1980\n \nDescrizione\n\nZola Predosa, zona centrale ma molto tranquilla e verde, proponiamo in piccolo condominio completamente ristrutturato con Ecobonus appartamento al 2 e ultimo piano senza ascensore, composto da soggiorno con caminetto in pellet, cucina abitabile e arredata con balcone, disimpegno notte con ampio armadio a muro, 2 camere matrimoniali, 2 bagni e ampio garage con basculante elettrica, cantina finestrata, e posto auto. Riscaldamento autonomo, condizionatori caldo/freddo, infissi pvc con zanzariere e inferiate, Classe energetica A3, capotto esterno.\n\n \nClasse Energetica\nClasse energetica: A\nA+\nClasse energetica A\nA\nB\nC\nD\nE\nF\nG\nH\n \nIndirizzo\nIndirizzo: Via romita 8 - Zola Predosa\nProvincia: Bologna\nCittà: Bologna, Zola Predosa\nStato / Paese: Italia\nNazione: Italia\nApri in Google Maps\n \nDettagli\nListing Id: ZOL - 02\nPrezzo: 325.000 €\nSuperficie calpestabile: 97 m2\nCamere: 4\nLetti: 2\nBagni: 2\nID personalizzato: ZOL - 02\nAnno di costruzione: 1980\nGarage: 1\nDimensioni garage: 24\nDisponibile da: 2027-06-30\nTipo di struttura: Cemento\nPiani: 2\n \nCaratteristiche\nDettagli esterni\nBalcone o Terrazzo\nCancello Elettrico\nCantina\nCortile\nGarage\nPosto Auto\nVideocitofono\nDettagli interni\nCucina Abitabile\nImpianto di Climatizzazione\nImpianto TV\nInferriate\nPorta Blindata\nRiscaldamento\nTapparelle Elettriche\nZanzariere\n \nVideo\n \nMappa\n \nPlanimetrie\nappartamento\ngarage\n \nChi ha visto questo immobile\n \nPrenota una visita\nSi prega di selezionare l'ora\n10:00\n10:30\n11:00\n11:30\n12:00\n12:30\n13:00\n14:30\n15:00\n15:30\n \nDi persona\nVia Video\nLe tue informazioni\n Acconsento al trattamento dei dati GDPR\n \nCalcolo mutuo\n1,666.34 €\nal mese\nPrincipio e interessi Tassa sulla proprietà Quota HOA\nPrincipio e interessi 1,260.09 € Tassa sulla proprietà\nSpese condominiali, se presenti (valore espresso mensilmente)\nPrezzo della casa\nAcconto\nDurata (*in anni)\nInteresse\nFilippa Poma\nShow Agent / Real Estate Assistant\n051/0017281\n393/8524334\ninfo@komodoimmobiliare.it\nContattami\n Acconsento al trattamento dei dati GDPR\n Chiama 051/0017281\n WhatsApp\nAltri agenti\nFilippa Poma\nShow Agent / Real Estate Assistant\nLa socievolezza, lo spirito indipendente e l’incredibile servizio clienti di Filippa ...\nAnnunci Simili\n7\nBologna, Zola Predosa, Bologna\nPrevious\nNext\nEvidenza\nVendita\nNuova Offerta\nLuminoso Appartamento Zola Predosa centro\n299.000 €\nProponiamo in Vendita un Luminoso Appartamento in zona centrale a Zola Predosa, di circa 9 …\n2\n2\n101 m2\n9\nBologna, Casalecchio di Reno, Bologna\nPrevious\nNext\nVendita\nDisponibile\nVenduto\nTrilocale in vendita a Casalecchio di Reno\n325.000 €\nAppartamento in Vendita a Casalecchio di Reno -zona piena di verde e tranquillità Scopri q …\n2\n1\n114 m2\nRichiedi Informazioni\nRichiedi informazioni\nFilippa Poma\nShow Agent / Real Estate Assistant\nFilippa Poma\nShow Agent / Real Estate Assistant\n Acconsento al trattamento dei dati GDPR\nChiama\nWhatsApp\nCalcolatore di mutui\nPrezzo di vendita\nPercentuale anticipo\nTermine (anni)\nTasso di interesse in %\nCalcola\nTrilocale BOX INCLUSO in Vendita a Crespellano\nfeatured\nNovità\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nVilla in Vendita a Crespellano\n508.000 €\nTutte le categorie\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nIn evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nAbout\n\nCrediamo che dietro ogni immobile ci sia una storia, un progetto di vita o un investimento importante.\n\nPer questo, mettiamo la nostra passione e competenza al vostro servizio, guidandovi con trasparenza in ogni fase del percorso. Il nostro obiettivo è garantire la vostra serenità, perché con noi puoi stare Komodo®.\n\nContattaci\n\nVia Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)\n\n+390510017281\n\n +393938524334\n\ninfo@komodoimmobiliare.it\n\nImmobili per categoria\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nProprietà in evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nUltime proprietà\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nEsplora\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nCopyright Komodo® SRL. P.I. 04290731209\nPrivacy e Cookie Policy\nConfronto immobili\nConfronta",
+   "parsed": {
+    "prezzo": "325.000 €",
+    "mq": "97 m2",
+    "locali": null,
+    "camere": "4",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "Classe energetica: A",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296-1024x768.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6270-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6273-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6301-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6301-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6270.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6273.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6275.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6248.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6249.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6252.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/11/IMG_6296-1024x768.jpg"
+  },
+  {
+   "url": "https://www.komodoimmobiliare.it/immobili/luminoso-appartamento-zola-predosa-centro/",
+   "title": "Luminoso Appartamento Zola Predosa centro - Komodo Immobiliare",
+   "h1": "Luminoso Appartamento Zola Predosa centro",
+   "h2": [
+    "Classe Energetica",
+    "Indirizzo",
+    "Dettagli",
+    "Caratteristiche",
+    "Video",
+    "Mappa"
+   ],
+   "ogTitle": "Luminoso Appartamento Zola Predosa centro - Komodo Immobiliare",
+   "ogImage": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157-768x1024.jpg",
+   "ogDesc": "Proponiamo in Vendita un Luminoso Appartamento in zona centrale a Zola Predosa, di circa 90 mq con Terrazzo, Garage e Posto Auto. Situato al primo piano di un",
+   "desc": "Proponiamo in Vendita un Luminoso Appartamento in zona centrale a Zola Predosa, di circa 90 mq con Terrazzo, Garage e Posto Auto. Situato al primo piano di un",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5130-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5135-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5136-835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 224.65625
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    }
+   ],
+   "bgs": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg"
+   ],
+   "dataSrc": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5136-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5130.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5135.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/camera-due-senza-foto.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5139.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5136.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/PLANIMETRIA-PIANO-PRIMO.jpg"
+   ],
+   "descBlock": "Proponiamo in Vendita un Luminoso Appartamento in zona centrale a Zola Predosa, di circa 90 mq con Terrazzo, Garage e Posto Auto. Situato al primo piano di un curato edificio servito da ascensore. Una soluzione perfetta per chi desidera un’abitazione in cui ogni dettaglio è pensato per la massima funzionalità. Gli interni spaziosi, da una zona giorno con cucina a vista, un ripostiglio, e una vivibile terrazza di quasi 10mq; la zona notte con 2 bagni e due camere da letto. Per completare questo immobile, incluso nel prezzo, troviamo anche un box auto di ampia metratura e una cantina con porta blindata. L’immobile è dotato di riscaldamento centralizzato, condizionatori autonomi caldo / freddo, inferriate alle finestre e porte finestre che sono tutte con apertura Vasistas. Spese condominiali incluso riscaldamento e acqua circa 150 euro al mese.",
+   "text": "Home\n \nVendita\n \nAffitto\n \nRistrutturazioni\n \nManutenzioni\n \nCantieri\n \nChi Siamo\n \nBlog\n \nContatti\n+393938524334\nHomepage Appartamenti, Condomini  Luminoso Appartamento Zola Predosa centro\nVendita Appartamenti, Condomini\nLuminoso Appartamento Zola Predosa centro\n299.000 €\n Via Tasso, 2 - Zola predosa, Bologna, Bologna, Zola Predosa\nCondividere\nPreferito\nStampa\nNuova offerta\nPanoramica\nAggiornato al:\n15 Ottobre 2026\n2 Letti\n2 Bagni\n1 Garage\n101 m2\nAnno1970\n \nDescrizione\n\nProponiamo in Vendita un Luminoso Appartamento in zona centrale a Zola Predosa, di circa 90 mq con Terrazzo, Garage e Posto Auto. Situato al primo piano di un curato edificio servito da ascensore. Una soluzione perfetta per chi desidera un’abitazione in cui ogni dettaglio è pensato per la massima funzionalità. Gli interni spaziosi, da una zona giorno con cucina a vista, un ripostiglio, e una vivibile terrazza di quasi 10mq; la zona notte con 2 bagni e due camere da letto. Per completare questo immobile, incluso nel prezzo, troviamo anche un box auto di ampia metratura e una cantina con porta blindata. L’immobile è dotato di riscaldamento centralizzato, condizionatori autonomi caldo / freddo, inferriate alle finestre e porte finestre che sono tutte con apertura Vasistas. Spese condominiali incluso riscaldamento e acqua circa 150 euro al mese.\n\n \nClasse Energetica\nClasse energetica: D\nA+\nA\nB\nC\nClasse energetica D\nD\nE\nF\nG\nH\n \nIndirizzo\nIndirizzo: Via Tasso, 2 - Zola predosa\nProvincia: Bologna\nCittà: Bologna, Zola Predosa\nStato / Paese: Italia\nNazione: Italia\nApri in Google Maps\n \nDettagli\nListing Id: ZOL - 01\nPrezzo: 299.000 €\nSuperficie calpestabile: 101 m2\nCamere: 4\nLetti: 2\nBagni: 2\nID personalizzato: ZOL - 01\nAnno di costruzione: 1970\nGarage: 1\nDisponibile da: 2027-06-30\nSeminterrato: 1\nTipo di struttura: Cemento\nPiani: 5\n \nCaratteristiche\nDettagli esterni\nBalcone o Terrazzo\nCancello Elettrico\nCantina\nCortile\nGarage\nVideocitofono\nDettagli interni\nCucina a Vista\nImpianto di Climatizzazione\nImpianto TV\nInferriate\nPorta Blindata\nRiscaldamento\n \nVideo\n \nMappa\n \nPlanimetrie\n \nChi ha visto questo immobile\n \nPrenota una visita\nSi prega di selezionare l'ora\n10:00\n10:30\n11:00\n11:30\n12:00\n12:30\n13:00\n14:30\n15:00\n15:30\n \nDi persona\nVia Video\nLe tue informazioni\n Acconsento al trattamento dei dati GDPR\n \nCalcolo mutuo\n1,533.03 €\nal mese\nPrincipio e interessi Tassa sulla proprietà Quota HOA\nPrincipio e interessi 1,159.28 € Tassa sulla proprietà\nSpese condominiali, se presenti (valore espresso mensilmente)\nPrezzo della casa\nAcconto\nDurata (*in anni)\nInteresse\nFilippa Poma\nShow Agent / Real Estate Assistant\n051/0017281\n393/8524334\ninfo@komodoimmobiliare.it\nContattami\n Acconsento al trattamento dei dati GDPR\n Chiama 051/0017281\n WhatsApp\nAltri agenti\nFilippa Poma\nShow Agent / Real Estate Assistant\nLa socievolezza, lo spirito indipendente e l’incredibile servizio clienti di Filippa ...\nAnnunci Simili\n17\nBologna, Zola Predosa, Bologna\nPrevious\nNext\nEvidenza\nVendita\nNuova Offerta\nAppartamento Zola Predosa centro in A3\n325.000 €\nZola Predosa, zona centrale ma molto tranquilla e verde, proponiamo in piccolo condominio …\n2\n2\n97 m2\n9\nBologna, Casalecchio di Reno, Bologna\nPrevious\nNext\nVendita\nDisponibile\nVenduto\nTrilocale in vendita a Casalecchio di Reno\n325.000 €\nAppartamento in Vendita a Casalecchio di Reno -zona piena di verde e tranquillità Scopri q …\n2\n1\n114 m2\nRichiedi Informazioni\nRichiedi informazioni\nFilippa Poma\nShow Agent / Real Estate Assistant\nFilippa Poma\nShow Agent / Real Estate Assistant\n Acconsento al trattamento dei dati GDPR\nChiama\nWhatsApp\nCalcolatore di mutui\nPrezzo di vendita\nPercentuale anticipo\nTermine (anni)\nTasso di interesse in %\nCalcola\nTrilocale BOX INCLUSO in Vendita a Crespellano\nfeatured\nNovità\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nVilla in Vendita a Crespellano\n508.000 €\nTutte le categorie\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nIn evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nAbout\n\nCrediamo che dietro ogni immobile ci sia una storia, un progetto di vita o un investimento importante.\n\nPer questo, mettiamo la nostra passione e competenza al vostro servizio, guidandovi con trasparenza in ogni fase del percorso. Il nostro obiettivo è garantire la vostra serenità, perché con noi puoi stare Komodo®.\n\nContattaci\n\nVia Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)\n\n+390510017281\n\n +393938524334\n\ninfo@komodoimmobiliare.it\n\nImmobili per categoria\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nProprietà in evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nUltime proprietà\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nEsplora\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nCopyright Komodo® SRL. P.I. 04290731209\nPrivacy e Cookie Policy\nConfronto immobili\nConfronta",
+   "parsed": {
+    "prezzo": "299.000 €",
+    "mq": "101 m2",
+    "locali": null,
+    "camere": "4",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "Classe energetica: D",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157-768x1024.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5130-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5135-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5136-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5136-835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5130.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5135.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/camera-due-senza-foto.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5139.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5136.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/PLANIMETRIA-PIANO-PRIMO.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/10/IMG_5157-768x1024.jpg"
+  },
+  {
+   "url": "https://www.komodoimmobiliare.it/immobili/villa-indipendente-a-crespellano/",
+   "title": "Villa Indipendente a Crespellano - Komodo Immobiliare",
+   "h1": "Villa Indipendente a Crespellano",
+   "h2": [
+    "Classe Energetica",
+    "Indirizzo",
+    "Dettagli",
+    "Caratteristiche",
+    "Video",
+    "Mappa"
+   ],
+   "ogTitle": "Villa Indipendente a Crespellano - Komodo Immobiliare",
+   "ogImage": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1-1024x576.jpeg",
+   "ogDesc": "Valsamoggia, nel cuore di Crespellano, proponiamo ultima Villa indipendente, libera sui quattro lati, ideale per chi desidera coniugare privacy, comfort e",
+   "desc": "Valsamoggia, nel cuore di Crespellano, proponiamo ultima Villa indipendente, libera sui quattro lati, ideale per chi desidera coniugare privacy, comfort e",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1024x576.jpeg",
+     "w": 1024,
+     "h": 576,
+     "rw": 704
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1-835x467.jpeg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0001-835x467.jpeg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0004-835x467.jpeg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 224.65625
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1-143x83.jpeg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    }
+   ],
+   "bgs": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg"
+   ],
+   "dataSrc": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0004-835x467.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0001.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0000.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0001.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0002.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0003.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0004.jpeg"
+   ],
+   "descBlock": "Tempo\n                                          07:00\n                                                  07:15\n                                                  07:30\n                                                  07:45\n                                                  08:00\n                                                  08:15\n                                                  08:30\n                                                  08:45\n                                                  09:00\n                                                  09:15\n                                                  09:30\n                                                  09:45\n                                                  10:00\n                                                  10:15\n                                                  10:30\n                                                  10:45\n                                                  11:00\n                                                  11:15\n                                                  11:30\n                                                  11:45\n                                                  12:00\n                                                  12:15\n                                                  12:30\n                                                  12:45\n                                                  13:00\n                                                  13:15\n                                                  13:30\n                                                  13:45\n                                                  14:00\n                                                  14:15\n                                                  14:30\n                                                  14:45\n                                                  15:00\n                                                  15:15\n                                                  15:30\n                                                  15:45\n                                                  16:00\n                                                  16:15\n                                                  16:30\n                                                  16:45\n                                                  17:00\n                                                  17:15\n                                                  17:30\n                                                  17:45\n                                                  18:00\n                                                  18:15\n                                                  18:30\n                                                  18:45\n                                                  19:00\n                                                  19:15\n                                                  19:30\n                                                  19:45",
+   "text": "Home\n \nVendita\n \nAffitto\n \nRistrutturazioni\n \nManutenzioni\n \nCantieri\n \nChi Siamo\n \nBlog\n \nContatti\n+393938524334\nHomepage Ville  Villa Indipendente a Crespellano\nVendita Ville\nVilla Indipendente a Crespellano\n499.000 €\n Via Pietro Calamandrei 3 Crespellano, Bologna, Crespellano, Valsamoggia\nCondividere\nPreferito\nStampa\nDisponibile\nPanoramica\nAggiornato al:\n22 Settembre 2026\n3 Letti\n3 Bagni\n1 Garage\n164 m2\nAnno2026\n \nDescrizione\n\nValsamoggia, nel cuore di Crespellano, proponiamo ultima Villa indipendente, libera sui quattro lati, ideale per chi desidera coniugare privacy, comfort e vicinanza ai principali servizi. Disposta su due livelli, la villa si apre al piano terra con un luminoso soggiorno, perfetto per momenti di relax in famiglia, e una cucina abitabile separata, con comodo accesso diretto al giardino esclusivo; completano il piano terra un bagno finestrato, pratico e ben rifinito. La zona notte, al primo piano, comprende tre spaziose camere da letto, tra cui una con accesso a un balcone privato, e due bagni: uno finestrato a servizio dell’intero piano e uno interno, non finestrato, ad uso esclusivo di una delle camere, ideale come bagno privato. All’esterno, la villa è circondata da un giardino privato, curato e riservato, perfetto per vivere all’aperto in ogni stagione. Inclusi nella proprietà un garage, due posti auto privati e l’ingresso completamente indipendente, che garantisce riservatezza e autonomia.\n\n \nClasse Energetica\nClasse energetica: A+\nClasse energetica A+\nA+\nA\nB\nC\nD\nE\nF\nG\nH\n \nIndirizzo\nIndirizzo: Via Pietro Calamandrei 3 Crespellano\nProvincia: Bologna\nCittà: Crespellano, Valsamoggia\nStato / Paese: Italia\nNazione: Italia\nApri in Google Maps\n \nDettagli\nListing Id: VILLA 2\nPrezzo: 499.000 €\nSuperficie calpestabile: 164 m2\nCamere: 4\nLetti: 3\nBagni: 3\nID personalizzato: VILLA 2\nAnno di costruzione: 2026\nGarage: 1\nDimensioni garage: 23\nDisponibile da: 2027-03-31\nTipo di struttura: Cemento\nPiani: Non disponibile\n \nCaratteristiche\nDettagli esterni\nBalcone o Terrazzo\nCancello Elettrico\nCortile\nGarage\nGiardino\nVideocitofono\nDettagli interni\nCucina Abitabile\nImpianto di Climatizzazione\nImpianto TV\nPorta Blindata\nRiscaldamento\nTapparelle Elettriche\n \nVideo\n \nMappa\n \nPlanimetrie\n \nChi ha visto questo immobile\n \nPrenota una visita\nSi prega di selezionare l'ora\n10:00\n10:30\n11:00\n11:30\n12:00\n12:30\n13:00\n14:30\n15:00\n15:30\n \nDi persona\nVia Video\nLe tue informazioni\n Acconsento al trattamento dei dati GDPR\n \nCalcolo mutuo\n2,558.47 €\nal mese\nPrincipio e interessi Tassa sulla proprietà Quota HOA\nPrincipio e interessi 1,934.72 € Tassa sulla proprietà\nSpese condominiali, se presenti (valore espresso mensilmente)\nPrezzo della casa\nAcconto\nDurata (*in anni)\nInteresse\nFilippa Poma\nShow Agent / Real Estate Assistant\n051/0017281\n393/8524334\ninfo@komodoimmobiliare.it\nContattami\n Acconsento al trattamento dei dati GDPR\n Chiama 051/0017281\n WhatsApp\nAltri agenti\nFilippa Poma\nShow Agent / Real Estate Assistant\nLa socievolezza, lo spirito indipendente e l’incredibile servizio clienti di Filippa ...\nAnnunci Simili\n15\nBazzano, Valsamoggia, Bologna\nPrevious\nNext\nEvidenza\nVendita\nVenduto\nVilletta in Vendita Bazzano\n428.000 €\nSplendida Villetta su 2 livelli, con giardino, più seminterrato con garage e cantina / tav …\n3\n2\n150 m2\n8\nCrespellano, Bologna\nPrevious\nNext\nEvidenza\nVendita\nDisponibile\nVilla in Vendita a Crespellano\n508.000 €\nValsamoggia, nel cuore di Crespellano, prenotiamo nuove ville indipendenti in esclusivo co …\n3\n2\n150 m2\nRichiedi Informazioni\nRichiedi informazioni\nFilippa Poma\nShow Agent / Real Estate Assistant\nFilippa Poma\nShow Agent / Real Estate Assistant\n Acconsento al trattamento dei dati GDPR\nChiama\nWhatsApp\nCalcolatore di mutui\nPrezzo di vendita\nPercentuale anticipo\nTermine (anni)\nTasso di interesse in %\nCalcola\nTrilocale BOX INCLUSO in Vendita a Crespellano\nfeatured\nNovità\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nVilla in Vendita a Crespellano\n508.000 €\nTutte le categorie\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nIn evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nAbout\n\nCrediamo che dietro ogni immobile ci sia una storia, un progetto di vita o un investimento importante.\n\nPer questo, mettiamo la nostra passione e competenza al vostro servizio, guidandovi con trasparenza in ogni fase del percorso. Il nostro obiettivo è garantire la vostra serenità, perché con noi puoi stare Komodo®.\n\nContattaci\n\nVia Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)\n\n+390510017281\n\n +393938524334\n\ninfo@komodoimmobiliare.it\n\nImmobili per categoria\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nProprietà in evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nUltime proprietà\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nEsplora\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nCopyright Komodo® SRL. P.I. 04290731209\nPrivacy e Cookie Policy\nConfronto immobili\nConfronta",
+   "parsed": {
+    "prezzo": "499.000 €",
+    "mq": "164 m2",
+    "locali": null,
+    "camere": "4",
+    "bagni": "3",
+    "piano": null,
+    "classe_energetica": "Classe energetica: A+",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1-1024x576.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1024x576.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1-835x467.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0001-835x467.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0004-835x467.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0004-835x467.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0001.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0000.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0001.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0002.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0003.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Interni_Villa.0004.jpeg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/2k_A944_Render_Esterni_Villetta.0002-1-1024x576.jpeg"
+  },
+  {
+   "url": "https://www.komodoimmobiliare.it/immobili/villa-in-vendita-a-crespellano/",
+   "title": "Villa in Vendita a Crespellano - Komodo Immobiliare",
+   "h1": "Villa in Vendita a Crespellano",
+   "h2": [
+    "Classe Energetica",
+    "Indirizzo",
+    "Dettagli",
+    "Caratteristiche",
+    "Video",
+    "Mappa"
+   ],
+   "ogTitle": "Villa in Vendita a Crespellano - Komodo Immobiliare",
+   "ogImage": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-1024x724.jpg",
+   "ogDesc": "Valsamoggia, nel cuore di Crespellano, prenotiamo nuove ville indipendenti in esclusivo complesso residenziale di prossima realizzazione Le unità sono",
+   "desc": "Valsamoggia, nel cuore di Crespellano, prenotiamo nuove ville indipendenti in esclusivo complesso residenziale di prossima realizzazione Le unità sono",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 224.65625
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/5.jpg-143x83.jpeg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/10.jpg-143x83.jpeg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/16-.jpg-143x83.jpeg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/17.jpg-143x83.jpeg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    }
+   ],
+   "bgs": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg"
+   ],
+   "dataSrc": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-143x83.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/5.jpg-scaled.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/10.jpg-scaled.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/16-.jpg-scaled.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/17.jpg.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/X.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/1n.jpg-scaled.jpeg"
+   ],
+   "descBlock": "Tempo\n                                          07:00\n                                                  07:15\n                                                  07:30\n                                                  07:45\n                                                  08:00\n                                                  08:15\n                                                  08:30\n                                                  08:45\n                                                  09:00\n                                                  09:15\n                                                  09:30\n                                                  09:45\n                                                  10:00\n                                                  10:15\n                                                  10:30\n                                                  10:45\n                                                  11:00\n                                                  11:15\n                                                  11:30\n                                                  11:45\n                                                  12:00\n                                                  12:15\n                                                  12:30\n                                                  12:45\n                                                  13:00\n                                                  13:15\n                                                  13:30\n                                                  13:45\n                                                  14:00\n                                                  14:15\n                                                  14:30\n                                                  14:45\n                                                  15:00\n                                                  15:15\n                                                  15:30\n                                                  15:45\n                                                  16:00\n                                                  16:15\n                                                  16:30\n                                                  16:45\n                                                  17:00\n                                                  17:15\n                                                  17:30\n                                                  17:45\n                                                  18:00\n                                                  18:15\n                                                  18:30\n                                                  18:45\n                                                  19:00\n                                                  19:15\n                                                  19:30\n                                                  19:45",
+   "text": "Home\n \nVendita\n \nAffitto\n \nRistrutturazioni\n \nManutenzioni\n \nCantieri\n \nChi Siamo\n \nBlog\n \nContatti\n+393938524334\nHomepage Ville  Villa in Vendita a Crespellano\nVendita Ville\nVilla in Vendita a Crespellano\n508.000 €\n Via Pietro Calamandrei 3 Crespellano, Bologna, Crespellano\nCondividere\nPreferito\nStampa\nDisponibile\nPanoramica\nAggiornato al:\n3 Giugno 2026\n3 Letti\n2 Bagni\n1 Garage\n150 m2\nAnno1993\n \nDescrizione\n\nValsamoggia, nel cuore di Crespellano, prenotiamo nuove ville indipendenti in esclusivo complesso residenziale di prossima realizzazione Le unità sono progettate con design moderno e contemporaneo, con caratteristiche tecniche e impiantistiche tali da renderle ad alta efficienza energetica e con standard abitativi confortevoli. Dotate tutte di area verde esclusiva, ingresso riservato, posto auto e box La distribuzione interna prevede una zona giorno al piano terra molto luminosa con ampia vetrata sul giardino e cucina open space (separabile) e bagno al primo piano sono previste due camere matrimoniali, una camera doppia, due bagni, terrazzo e balcone. Riscaldamento e raffreddamento a pavimento con pompa di calore Daikin-Rotex Impianto fotovoltaico da 6KW indip. per ogni unità Predisposizione domotica\n\n \nClasse Energetica\nClasse energetica: A+\nClasse energetica A+\nA+\nA\nB\nC\nD\nE\nF\nG\nH\n \nIndirizzo\nIndirizzo: Via Pietro Calamandrei 3 Crespellano\nProvincia: Bologna\nCittà: Crespellano\nStato / Paese: Italia\nNazione: Italia\nApri in Google Maps\n \nDettagli\nListing Id: ARK - 02\nPrezzo: 508.000 €\nSuperficie calpestabile: 150 m2\nCamere: 5\nLetti: 3\nBagni: 2\nID personalizzato: ARK - 02\nAnno di costruzione: 1993\nGarage: 1\nTipo di struttura: Cemento\nPiani: Non disponibile\n \nCaratteristiche\nDettagli esterni\nBalcone o Terrazzo\nCancello Elettrico\nCortile\nGarage\nGiardino\nVideocitofono\nDettagli interni\nCucina a Vista\nImpianto di Climatizzazione\nImpianto TV\nPorta Blindata\nRiscaldamento\n \nVideo\n \nMappa\n \nPlanimetrie\n \nChi ha visto questo immobile\n \nPrenota una visita\nSi prega di selezionare l'ora\n10:00\n10:30\n11:00\n11:30\n12:00\n12:30\n13:00\n14:30\n15:00\n15:30\n \nDi persona\nVia Video\nLe tue informazioni\n Acconsento al trattamento dei dati GDPR\n \nCalcolo mutuo\n2,604.62 €\nal mese\nPrincipio e interessi Tassa sulla proprietà Quota HOA\nPrincipio e interessi 1,969.62 € Tassa sulla proprietà\nSpese condominiali, se presenti (valore espresso mensilmente)\nPrezzo della casa\nAcconto\nDurata (*in anni)\nInteresse\nFilippa Poma\nShow Agent / Real Estate Assistant\n051/0017281\n393/8524334\ninfo@komodoimmobiliare.it\nContattami\n Acconsento al trattamento dei dati GDPR\n Chiama 051/0017281\n WhatsApp\nAltri agenti\nFilippa Poma\nShow Agent / Real Estate Assistant\nLa socievolezza, lo spirito indipendente e l’incredibile servizio clienti di Filippa ...\nAnnunci Simili\n8\nCrespellano, Valsamoggia, Bologna\nPrevious\nNext\nEvidenza\nVendita\nDisponibile\nVilla Indipendente a Crespellano\n499.000 €\nValsamoggia, nel cuore di Crespellano, proponiamo ultima Villa indipendente, libera sui qu …\n3\n3\n164 m2\nRichiedi Informazioni\nRichiedi informazioni\nFilippa Poma\nShow Agent / Real Estate Assistant\nFilippa Poma\nShow Agent / Real Estate Assistant\n Acconsento al trattamento dei dati GDPR\nChiama\nWhatsApp\nCalcolatore di mutui\nPrezzo di vendita\nPercentuale anticipo\nTermine (anni)\nTasso di interesse in %\nCalcola\nTrilocale BOX INCLUSO in Vendita a Crespellano\nfeatured\nNovità\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nVilla in Vendita a Crespellano\n508.000 €\nTutte le categorie\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nIn evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nAbout\n\nCrediamo che dietro ogni immobile ci sia una storia, un progetto di vita o un investimento importante.\n\nPer questo, mettiamo la nostra passione e competenza al vostro servizio, guidandovi con trasparenza in ogni fase del percorso. Il nostro obiettivo è garantire la vostra serenità, perché con noi puoi stare Komodo®.\n\nContattaci\n\nVia Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)\n\n+390510017281\n\n +393938524334\n\ninfo@komodoimmobiliare.it\n\nImmobili per categoria\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nProprietà in evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nUltime proprietà\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nEsplora\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nCopyright Komodo® SRL. P.I. 04290731209\nPrivacy e Cookie Policy\nConfronto immobili\nConfronta",
+   "parsed": {
+    "prezzo": "508.000 €",
+    "mq": "150 m2",
+    "locali": null,
+    "camere": "5",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "Classe energetica: A+",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-1024x724.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-143x83.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/5.jpg-scaled.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/10.jpg-scaled.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/16-.jpg-scaled.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/17.jpg.jpeg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/X.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/1n.jpg-scaled.jpeg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/06/2BISn-1024x724.jpg"
+  },
+  {
+   "url": "https://www.komodoimmobiliare.it/immobili/villa-unifamiliare-via-lea-padovani/",
+   "title": "Villetta in Vendita Bazzano - Komodo Immobiliare",
+   "h1": "Villetta in Vendita Bazzano",
+   "h2": [
+    "Classe Energetica",
+    "Indirizzo",
+    "Dettagli",
+    "Caratteristiche",
+    "Video",
+    "Mappa"
+   ],
+   "ogTitle": "Villetta in Vendita Bazzano - Komodo Immobiliare",
+   "ogImage": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/Foto-Immobile-Venduto-1024x689.png",
+   "ogDesc": "Splendida Villetta su 2 livelli, con giardino, più seminterrato con garage e cantina / taverna, in contesto collinare, circondato da zona verde e parco",
+   "desc": "Splendida Villetta su 2 livelli, con giardino, più seminterrato con garage e cantina / taverna, in contesto collinare, circondato da zona verde e parco",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/Foto-Immobile-Venduto-835x467.png",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018254edit--835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018308edit--835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018163edit--835x467.jpg",
+     "w": 835,
+     "h": 467,
+     "rw": 0
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/Foto-Immobile-Venduto-143x83.png",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018254edit--143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    }
+   ],
+   "bgs": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/03/EZE3306edit-okok-120x120.jpg"
+   ],
+   "dataSrc": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018163edit--835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018254edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018308edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018113edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018129edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018115edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018137edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018160edit--scaled.jpg"
+   ],
+   "descBlock": "Tempo\n                                          07:00\n                                                  07:15\n                                                  07:30\n                                                  07:45\n                                                  08:00\n                                                  08:15\n                                                  08:30\n                                                  08:45\n                                                  09:00\n                                                  09:15\n                                                  09:30\n                                                  09:45\n                                                  10:00\n                                                  10:15\n                                                  10:30\n                                                  10:45\n                                                  11:00\n                                                  11:15\n                                                  11:30\n                                                  11:45\n                                                  12:00\n                                                  12:15\n                                                  12:30\n                                                  12:45\n                                                  13:00\n                                                  13:15\n                                                  13:30\n                                                  13:45\n                                                  14:00\n                                                  14:15\n                                                  14:30\n                                                  14:45\n                                                  15:00\n                                                  15:15\n                                                  15:30\n                                                  15:45\n                                                  16:00\n                                                  16:15\n                                                  16:30\n                                                  16:45\n                                                  17:00\n                                                  17:15\n                                                  17:30\n                                                  17:45\n                                                  18:00\n                                                  18:15\n                                                  18:30\n                                                  18:45\n                                                  19:00\n                                                  19:15\n                                                  19:30\n                                                  19:45",
+   "text": "Home\n \nVendita\n \nAffitto\n \nRistrutturazioni\n \nManutenzioni\n \nCantieri\n \nChi Siamo\n \nBlog\n \nContatti\n+393938524334\nHomepage Ville, Villetta su 2 livelli  Villetta in Vendita Bazzano\nVendita Ville, Villetta su 2 livelli\nVilletta in Vendita Bazzano\n428.000 €\n Via Montebudello 20, Bologna, Bazzano, Valsamoggia\nCondividere\nPreferito\nStampa\nVenduto\nPanoramica\nAggiornato al:\n3 Novembre 2026\n3 Letti\n2 Bagni\n1 Garage\n150 m2\nAnno1993\n \nDescrizione\n\nSplendida Villetta su 2 livelli, con giardino, più seminterrato con garage e cantina / taverna, in contesto collinare, circondato da zona verde e parco pubblico in completo rinnovamento.\n\nIl piano terra è composto da una un ampia zona giorno, con soggiorno e sala da pranzo, una cucina separata, un bagno finestrato e uno splendido portico / giardino pavimentato che si affaccia sul verde delle colline; salendo al piano primo troviamo due ampie camere matrimoniali e una camera singola, una delle camere matrimoniali ha un piccolo balcone con affaccio sempre sulle colline circostanti, e un altro bagno. Al piano seminterrato si può trovare una cantina adibita a taverna con piccolo bagnetto / lavanderia e l’autorimessa con una lunghezza di più di 8 metri e larga quasi 3 (basculante motorizzato (anti apertura dall’esterno).\n\nL’immobile è dotato inoltre di parabola condominiale più una autonoma, riscaldamento a pompa di calore caldo / freddo con 4 split tra piano terra e piano primo, addolcitore elettrico per l’acqua, impianto di allarme su tutti gli infissi più volumetrico ambienti per ogni piano incluso il seminterrato, zanzariere e inferriate in tutte le finestre e porte finestre.\n\nE’ stata fatta una ristrutturazione interna completa nel 2015 incluso impianti idro, termo ed elettrico.\n\n \nClasse Energetica\nClasse energetica: E\nA+\nA\nB\nC\nD\nClasse energetica E\nE\nF\nG\nH\n \nIndirizzo\nIndirizzo: Via Montebudello 20\nProvincia: Bologna\nCittà: Bazzano, Valsamoggia\nStato / Paese: Italia\nNazione: Italia\nApri in Google Maps\n \nDettagli\nListing Id: BAZ - 01\nPrezzo: 428.000 €\nSuperficie calpestabile: 150 m2\nCamere: 5\nLetti: 3\nBagni: 2\nID personalizzato: BAZ - 01\nAnno di costruzione: 1993\nGarage: 1\nDisponibile da: 2027-04-30\nSeminterrato: 1\nTipo di struttura: Cemento\nPiani: 1\n \nCaratteristiche\nDettagli esterni\nBalcone o Terrazzo\nCancello Elettrico\nCortile\nGarage\nGiardino\nVideocitofono\nDettagli interni\nCucinotto\nImpianto di Allarme\nImpianto di Climatizzazione\nImpianto TV\nInferriate\nPorta Blindata\nRiscaldamento\nZanzariere\n \nVideo\n \nMappa\n \nPlanimetrie\nPIANO TERRA\nPIANO PRIMO\nPIANO INTERRATO\n \nChi ha visto questo immobile\n \nPrenota una visita\nSi prega di selezionare l'ora\n10:00\n10:30\n11:00\n11:30\n12:00\n12:30\n13:00\n14:30\n15:00\n15:30\n \nDi persona\nVia Video\nLe tue informazioni\n Acconsento al trattamento dei dati GDPR\n \nCalcolo mutuo\n2,194.44 €\nal mese\nPrincipio e interessi Tassa sulla proprietà Quota HOA\nPrincipio e interessi 1,659.44 € Tassa sulla proprietà\nSpese condominiali, se presenti (valore espresso mensilmente)\nPrezzo della casa\nAcconto\nDurata (*in anni)\nInteresse\nFilippa Poma\nShow Agent / Real Estate Assistant\n051/0017281\n393/8524334\ninfo@komodoimmobiliare.it\nContattami\n Acconsento al trattamento dei dati GDPR\n Chiama 051/0017281\n WhatsApp\nAltri agenti\nAnna Bini\nAgente immobiliare\nLa conoscenza, la professionalità, l’onestà, l’integrità e la correttezza di A ...\nAnnunci Simili\n8\nCrespellano, Bologna\nPrevious\nNext\nEvidenza\nVendita\nDisponibile\nVilla in Vendita a Crespellano\n508.000 €\nValsamoggia, nel cuore di Crespellano, prenotiamo nuove ville indipendenti in esclusivo co …\n3\n2\n150 m2\n8\nCrespellano, Valsamoggia, Bologna\nPrevious\nNext\nEvidenza\nVendita\nDisponibile\nVilla Indipendente a Crespellano\n499.000 €\nValsamoggia, nel cuore di Crespellano, proponiamo ultima Villa indipendente, libera sui qu …\n3\n3\n164 m2\nRichiedi Informazioni\nRichiedi informazioni\nFilippa Poma\nShow Agent / Real Estate Assistant\nAnna Bini\nAgente immobiliare\n Acconsento al trattamento dei dati GDPR\nChiama\nWhatsApp\nCalcolatore di mutui\nPrezzo di vendita\nPercentuale anticipo\nTermine (anni)\nTasso di interesse in %\nCalcola\nTrilocale BOX INCLUSO in Vendita a Crespellano\nfeatured\nNovità\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nVilla in Vendita a Crespellano\n508.000 €\nTutte le categorie\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nIn evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nAbout\n\nCrediamo che dietro ogni immobile ci sia una storia, un progetto di vita o un investimento importante.\n\nPer questo, mettiamo la nostra passione e competenza al vostro servizio, guidandovi con trasparenza in ogni fase del percorso. Il nostro obiettivo è garantire la vostra serenità, perché con noi puoi stare Komodo®.\n\nContattaci\n\nVia Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)\n\n+390510017281\n\n +393938524334\n\ninfo@komodoimmobiliare.it\n\nImmobili per categoria\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nProprietà in evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nUltime proprietà\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nEsplora\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nCopyright Komodo® SRL. P.I. 04290731209\nPrivacy e Cookie Policy\nConfronto immobili\nConfronta",
+   "parsed": {
+    "prezzo": "428.000 €",
+    "mq": "150 m2",
+    "locali": null,
+    "camere": "5",
+    "bagni": "2",
+    "piano": "TERRA",
+    "classe_energetica": "Classe energetica: E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/Foto-Immobile-Venduto-1024x689.png",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/Foto-Immobile-Venduto-835x467.png",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018254edit--835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018308edit--835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018163edit--835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/03/EZE3306edit-okok-120x120.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018163edit--835x467.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018254edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018308edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018113edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018129edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018115edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018137edit--scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/1018160edit--scaled.jpg"
+   ],
+   "foto": "foto-5.png",
+   "foto_src": "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/Foto-Immobile-Venduto-1024x689.png"
+  },
+  {
+   "url": "https://www.komodoimmobiliare.it/immobili/trilocale-in-vendita-a-casalecchio-di-reno/",
+   "title": "Trilocale in vendita a Casalecchio di Reno - Komodo Immobiliare",
+   "h1": "Trilocale in vendita a Casalecchio di Reno",
+   "h2": [
+    "Classe Energetica",
+    "Indirizzo",
+    "Dettagli",
+    "Caratteristiche",
+    "Video",
+    "Mappa"
+   ],
+   "ogTitle": "Trilocale in vendita a Casalecchio di Reno - Komodo Immobiliare",
+   "ogImage": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/Foto-Immobile-Venduto-1024x730.png",
+   "ogDesc": "Appartamento in Vendita a Casalecchio di Reno -zona piena di verde e tranquillità",
+   "desc": "Appartamento in Vendita a Casalecchio di Reno -zona piena di verde e tranquillità",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/Foto-Immobile-Venduto-1024x730.png",
+     "w": 1024,
+     "h": 730,
+     "rw": 704
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/Foto-Immobile-Venduto-143x83.png",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/DSC_1983-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/DSC_1985-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1114-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    },
+    {
+     "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1125-143x83.jpg",
+     "w": 143,
+     "h": 83,
+     "rw": 143
+    }
+   ],
+   "bgs": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg"
+   ],
+   "dataSrc": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/DSC_1983-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/DSC_1985-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1114-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1125-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1131-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/serra1.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/serra4.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/serra5.jpg"
+   ],
+   "descBlock": "Tempo\n                                          07:00\n                                                  07:15\n                                                  07:30\n                                                  07:45\n                                                  08:00\n                                                  08:15\n                                                  08:30\n                                                  08:45\n                                                  09:00\n                                                  09:15\n                                                  09:30\n                                                  09:45\n                                                  10:00\n                                                  10:15\n                                                  10:30\n                                                  10:45\n                                                  11:00\n                                                  11:15\n                                                  11:30\n                                                  11:45\n                                                  12:00\n                                                  12:15\n                                                  12:30\n                                                  12:45\n                                                  13:00\n                                                  13:15\n                                                  13:30\n                                                  13:45\n                                                  14:00\n                                                  14:15\n                                                  14:30\n                                                  14:45\n                                                  15:00\n                                                  15:15\n                                                  15:30\n                                                  15:45\n                                                  16:00\n                                                  16:15\n                                                  16:30\n                                                  16:45\n                                                  17:00\n                                                  17:15\n                                                  17:30\n                                                  17:45\n                                                  18:00\n                                                  18:15\n                                                  18:30\n                                                  18:45\n                                                  19:00\n                                                  19:15\n                                                  19:30\n                                                  19:45",
+   "text": "Home\n \nVendita\n \nAffitto\n \nRistrutturazioni\n \nManutenzioni\n \nCantieri\n \nChi Siamo\n \nBlog\n \nContatti\n+393938524334\nHomepage Appartamenti, Condomini  Trilocale in vendita a Casalecchio di Reno\nVendita Appartamenti, Condomini\nTrilocale in vendita a Casalecchio di Reno\n325.000 €\n Via Sozzi 20 casalecchio di reno, Bologna, Bologna, Casalecchio di Reno\nCondividere\nPreferito\nStampa\nDisponibile\nVenduto\nPanoramica\nAggiornato al:\n22 Settembre 2026\n2 Letti\n1 Bagni\n1 Garage\n114 m2\nAnno2026\n \nDescrizione\n\nAppartamento in Vendita a Casalecchio di Reno –\nzona piena di verde e tranquillità\n\nScopri questa splendida opportunità immobiliare nel cuore di Casalecchio di Reno! Si tratta di un elegante appartamento al piano rialzato, situato in una palazzina di poche unità in una zona residenziale estremamente tranquilla, eppure a pochi passi dal centro storico. La posizione strategica ti permette di godere della serenità della periferia senza rinunciare alla vicinanza ai servizi e alle attrazioni del centro.\n\nL’immobile, recentemente ristrutturato e in buono stato, vanta 115 m² commerciali e 98 m² calpestabili distribuiti su 4 locali luminosi. Il soggiorno accogliente si affaccia su un balcone e la cucina abitabile, arredata e funzionale, dispone anch’essa di un balcone e di un pratico ripostiglio per l’organizzazione dello spazio.\n\nDue ampie camere matrimoniali offrono comfort e versatilità, ideali per famiglie o per chi desidera uno spazio ospitale. Un bagno completo serve l’intera abitazione. La proprietà include un’ampia cantina finestrata, perfetta per lo stoccaggio, e un garage al piano terra incluso nel prezzo, garantendo praticità e sicurezza per il tuo veicolo\n\n \nClasse Energetica\nClasse energetica: E\nA+\nA\nB\nC\nD\nClasse energetica E\nE\nF\nG\nH\n \nIndirizzo\nIndirizzo: Via Sozzi 20 casalecchio di reno\nProvincia: Bologna\nCittà: Bologna, Casalecchio di Reno\nStato / Paese: Italia\nNazione: Italia\nApri in Google Maps\n \nDettagli\nListing Id: CAS 01\nPrezzo: 325.000 €\nSuperficie calpestabile: 114 m2\nLetti: 2\nBagni: 1\nID personalizzato: CAS / 01\nAnno di costruzione: 2026\nGarage: 1\nDisponibile da: 2027-03-31\nCostruzione esterna: PIETRA A VISTA\nTipo di struttura: Mattone\nPiani: 1\n \nCaratteristiche\nDettagli esterni\nBalcone o Terrazzo\nCortile\nGarage\nGiardino\nVideocitofono\nDettagli interni\nCucina Abitabile\nImpianto di Climatizzazione\nImpianto TV\nPorta Blindata\nRiscaldamento\n \nVideo\n \nMappa\n \nPlanimetrie\nprimo piano\n \nChi ha visto questo immobile\n \nPrenota una visita\nSi prega di selezionare l'ora\n10:00\n10:30\n11:00\n11:30\n12:00\n12:30\n13:00\n14:30\n15:00\n15:30\n \nDi persona\nVia Video\nLe tue informazioni\n Acconsento al trattamento dei dati GDPR\n \nCalcolo mutuo\n1,666.34 €\nal mese\nPrincipio e interessi Tassa sulla proprietà Quota HOA\nPrincipio e interessi 1,260.09 € Tassa sulla proprietà\nSpese condominiali, se presenti (valore espresso mensilmente)\nPrezzo della casa\nAcconto\nDurata (*in anni)\nInteresse\nFilippa Poma\nShow Agent / Real Estate Assistant\n051/0017281\n393/8524334\ninfo@komodoimmobiliare.it\nContattami\n Acconsento al trattamento dei dati GDPR\n Chiama 051/0017281\n WhatsApp\nAnnunci Simili\n  7\nBologna, Zola Predosa, Bologna\nPrevious\nNext\nEvidenza\nVendita\nNuova offerta\nLuminoso Appartamento Zola Predosa centro\n299.000 €\nProponiamo in Vendita un Luminoso Appartamento in zona centrale a Zola Predosa, di circa 9 …\n22101 m2Dettagli\n  17\nBologna, Zola Predosa, Bologna\nPrevious\nNext\nEvidenza\nVendita\nNuova offerta\nAppartamento Zola Predosa centro in A3\n325.000 €\nZola Predosa, zona centrale ma molto tranquilla e verde, proponiamo in piccolo condominio …\n2297 m2Dettagli\nRichiedi Informazioni\nRichiedi informazioni\nFilippa Poma\nShow Agent / Real Estate Assistant\n Acconsento al trattamento dei dati GDPR\nChiama\nWhatsApp\nCalcolatore di mutui\nPrezzo di vendita\nPercentuale anticipo\nTermine (anni)\nTasso di interesse in %\nCalcola\nTrilocale BOX INCLUSO in Vendita a Crespellano\nfeatured\nNovità\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nVilla in Vendita a Crespellano\n508.000 €\nTutte le categorie\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nIn evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nAbout\n\nCrediamo che dietro ogni immobile ci sia una storia, un progetto di vita o un investimento importante.\n\nPer questo, mettiamo la nostra passione e competenza al vostro servizio, guidandovi con trasparenza in ogni fase del percorso. Il nostro obiettivo è garantire la vostra serenità, perché con noi puoi stare Komodo®.\n\nContattaci\n\nVia Salvatore Quasimodo 46, 40013 - Castel Maggiore (BO)\n\n+390510017281\n\n +393938524334\n\ninfo@komodoimmobiliare.it\n\nImmobili per categoria\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nProprietà in evidenza\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nUltime proprietà\nAppartamento Zola Predosa centro in...\n325.000 €\nLuminoso Appartamento Zola Predosa ...\n299.000 €\nVilla Indipendente a Crespellano\n499.000 €\nEsplora\nAppartamenti\n(14)\nCondomini\n(14)\nVille\n(3)\nVilletta su 2 livelli\n(1)\nCopyright Komodo® SRL. P.I. 04290731209\nPrivacy e Cookie Policy\nConfronto immobili\nConfronta",
+   "parsed": {
+    "prezzo": "325.000 €",
+    "mq": "114 m2",
+    "locali": "4",
+    "camere": null,
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": "Classe energetica: E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/Foto-Immobile-Venduto-1024x730.png",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/Foto-Immobile-Venduto-1024x730.png",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2014/05/EZE3267edit-1--525x328.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/DSC_1983-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/DSC_1985-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1114-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1125-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/IMG_1131-scaled.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/serra1.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/serra4.jpg",
+    "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/serra5.jpg"
+   ],
+   "foto": "foto-6.png",
+   "foto_src": "https://www.komodoimmobiliare.it/wp-content/uploads/2026/07/Foto-Immobile-Venduto-1024x730.png"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.komodoimmobiliare.it/wp-content/uploads/2025/11/komodo-immobiliare-logo-white.png",
+  "size": 11861
+ }
+}

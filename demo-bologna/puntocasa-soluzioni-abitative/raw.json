@@ -1,0 +1,574 @@
+{
+ "cfg": {
+  "slug": "puntocasa-soluzioni-abitative",
+  "nome": "Puntocasa Soluzioni Abitative",
+  "home": "https://www.puntocasa.bo.it/",
+  "index": [
+   "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte"
+  ],
+  "rx": "tutte-le-proposte/(residenziali|commerciali|affitti?)/[a-z0-9-]+$",
+  "n": 6
+ },
+ "home": {
+  "title": "Agenzia immobiliare Punto Casa Bologna",
+  "desc": "NGO Joomla template, non-profit joomla template, joomla template for non-profit, responsive ngo Joomla template",
+  "emails": [
+   "info@puntocasa.bo.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.puntocasa.bo.it/images/Logo%20PuntoCasa%20rosso%20e%20bianco.png",
+   "https://www.puntocasa.bo.it/images/bullet_yellow.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(73, 80, 87)",
+   "font": "Alata"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(73, 80, 87)",
+   "font": "Alata"
+  },
+  "footer": null,
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Alata"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(185, 10, 26)",
+   "font": "Alata"
+  },
+  "btnBg": [
+   [
+    "rgb(185, 10, 26)",
+    9
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    2
+   ],
+   [
+    "rgb(242, 244, 246)",
+    1
+   ],
+   [
+    "rgb(18, 127, 26)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    339
+   ],
+   [
+    "rgb(185, 10, 26)",
+    12
+   ],
+   [
+    "rgb(255, 255, 255)",
+    6
+   ],
+   [
+    "rgb(18, 127, 26)",
+    5
+   ],
+   [
+    "rgb(211, 180, 113)",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    3
+   ],
+   [
+    "rgb(233, 236, 239)",
+    2
+   ],
+   [
+    "rgb(246, 246, 246)",
+    2
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    13
+   ],
+   [
+    "rgb(18, 127, 26)",
+    6
+   ],
+   [
+    "rgb(211, 180, 113)",
+    2
+   ],
+   [
+    "rgb(185, 10, 26)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    9
+   ],
+   [
+    "rgb(185, 10, 26)",
+    8
+   ],
+   [
+    "rgb(119, 119, 119)",
+    8
+   ],
+   [
+    "rgb(73, 80, 87)",
+    6
+   ],
+   [
+    "rgb(238, 238, 238)",
+    6
+   ],
+   [
+    "rgb(211, 180, 113)",
+    4
+   ],
+   [
+    "rgb(33, 37, 41)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Alata",
+    78
+   ]
+  ],
+  "heads": [
+   "Da 40 anni, casa è il nostro mestiere",
+   "La tua casa, nel cuore di Bologna.",
+   "Da 40 anni, casa è il nostro mestiere",
+   "La tua casa, nel cuore di Bologna.",
+   "Da 40 anni, casa è il nostro mestiere",
+   "La tua casa, nel cuore di Bologna.",
+   "051 522546",
+   "Esperienza immobiliare, conoscenza del territorio"
+  ],
+  "addr": null,
+  "final": "https://www.puntocasa.bo.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/bilocale-in-vendita-via-zanardi",
+  "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/monolocale-in-vendita-ad-za-porta-san-felice",
+  "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/croce-di-casalecchio",
+  "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/trilocale-in-vendita-via-podgora"
+ ],
+ "listings": [
+  {
+   "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/bilocale-in-vendita-via-zanardi",
+   "title": "Real Estate| Residenziali | Bilocale in vendita Via Zanardi",
+   "h1": null,
+   "h2": [
+    "",
+    "",
+    "Bilocale in vendita Via Zanardi",
+    "Il gruppo",
+    "Raggiungici",
+    "Cosa cerchi?"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Residenziali | Bilocale in vendita Via Zanardi | Bilocale in vendita in buono stato in via Zanardi al secondo ed ultimo piano in piccola palazzina, con due posti auto di propieta'.OTTIMO ANCHE PER INVESTIMENTO VISTA LA VICINANZA AL NUOVO POLO UNIVERSITARIO E AL MAGGIORE.Per ulteriori informazioni e",
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.puntocasa.bo.it/#/schema/BreadcrumbList/17\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.puntocasa.bo.it/index.php\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TUTTE LE PROPOSTE\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Residenziali\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Bilocale in vendita Via Zanardi\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.puntocasa.bo.it/images/40anni1.png",
+     "w": 1254,
+     "h": 1612,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/images/valutazione_test.png",
+     "w": 1080,
+     "h": 1080,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/0B16706A-40CF-6653-D348-2D978EECAB34_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/10D76308-49D5-9B0C-7639-D40ED1B9EB7B_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/155981B3-155D-63FC-B664-D941AAA2C555_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/FECFE7D6-3D33-6B00-26B9-6EA1C001F44C_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/0B16706A-40CF-6653-D348-2D978EECAB34.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/10D76308-49D5-9B0C-7639-D40ED1B9EB7B.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/155981B3-155D-63FC-B664-D941AAA2C555.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/FECFE7D6-3D33-6B00-26B9-6EA1C001F44C.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/C41E7343-D172-E0E0-77F4-4E18A5C17F8D.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/10383235-B758-19ED-E979-FFFF72F97C7F.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/72E25D3A-3911-0091-8ED8-471E79E6EEE6.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/DD116630-0F56-906E-8DA1-BA9F137FFB89.jpg"
+   ],
+   "descBlock": "PuntoCasa è un punto di riferimento per chi vende, acquista o cerca casa a Bologna. Esperienza, conoscenza del territorio e attenzione alle persone guidano ogni nostra attività, con un approccio diretto, trasparente e professionale. Ogni immobile ha una storia, ogni cliente un’esigenza diversa: il nostro lavoro è trasformarle in una scelta consapevole e serena.",
+   "text": "Utilizziamo cookies per garantire il corretto funzionamento del sito, analizzare il nostro traffico e, ove previsto, fornire i servizi dei social media.\nI cookies sono DISATTIVATI. Puoi scegliere se accettare l'uso degli stessi o disattivarli.\nOk, accetto!DisattivaMaggiori informazioni\n\nIndirizzo:\n\nVia Aurelio Saffi, 24/a\n\nEmail\n\ninfo@puntocasa.bo.it\n\nContattaci\n\n051 522546\nBENVENUTI\nDA 40 ANNI\nIMMOBILI\nNEWS\nCONTATTI\nAREA PRIVATA\nHome \nIMMOBILI \nTUTTE LE PROPOSTE \nResidenziali \nBilocale in vendita Via Zanardi\nBilocale in vendita Via Zanardi\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\n \n \n \n \n \n \n \n \n \n Italy, BO, BOLOGNA, 40121,\nUSD 159.550,56\nEUR 142.000,00\n Ambienti: 2\n Bagni: 1\n Camere: 1\n Metratura: 40 Mq\nCantina\nPosto auto\nTipologia:\nAppartamento\nID Proprietà:\nIM-7806\nContratto:\nIn vendita\nClasse Energetica:\nF\nZona:\nBologna Ovest\nCondizioni:\nBuono\nPiano:\nSecondo\nCucina:\nAngolo cottura\nDisponibilità:\nDisponibile da subito\nRiscaldamento:\nAutonomo\nDescrizione\nBilocale in vendita in buono stato in via Zanardi al secondo ed ultimo piano in piccola palazzina, con due posti auto di propieta'.\nOTTIMO ANCHE PER INVESTIMENTO VISTA LA VICINANZA AL NUOVO POLO UNIVERSITARIO E AL MAGGIORE.\nPer ulteriori informazioni e appuntamenti contattate: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.\nTeatri in zona\nPalestre in zona\nParchi in zona\nSupermercati in zona\nNegozi in zona\nAsili/materne in zona\nScuole in zona\nUniversità in zona\nForze dell'ordine in zona\nRistoranti in zona\nOspedali in zona\nAeroporto\nChiese in zona\nCimiteri in zona\n+\n−\n© OpenStreetMap contributors.\nAPE(kWH/m):\nA4\n(≤ 27.88)\nA3\n(≤ 41.83)\nA2\n(≤ 55.77)\nA1\n(≤ 69.71)\nB\n(≤ 83.65)\nC\n(≤ 104.57)\nD\n(≤ 139.42)\nE\n(≤ 181.25)\nF\n(≤ 243.99)\n243\nG\n(> 243.99)\nIPE(kg/m):\nA1\n(≤ 24.86)\nA2\n(≤ 37.29)\nA3\n(≤ 49.72)\nA4\n(≤ 62.15)\nB\n(≤ 74.58)\nC\n(≤ 93.23)\nD\n(≤ 124.31)\nE\n(≤ 161.60)\nF\n(≤ 217.54)\nG\n(> 217.54)\n237\n\nContatta Agente\nFederica Bizzini\nPuntoCasa\ninfo@puntocasa.bo.it\nInvia messaggio\n\n\n\nInserisci nella casella sottostante i caratteri che vedi nellʹimmagine qui sopra.\n Back\nPlease past text to modal\n \n\nPuntoCasa è un punto di riferimento per chi vende, acquista o cerca casa a Bologna. Esperienza, conoscenza del territorio e attenzione alle persone guidano ogni nostra attività, con un approccio diretto, trasparente e professionale. Ogni immobile ha una storia, ogni cliente un’esigenza diversa: il nostro lavoro è trasformarle in una scelta consapevole e serena.\n\nIl gruppo\nAzienda\nPrivacy\nRaggiungici\nContatti\nCosa cerchi?\nProposta in vendita\nProposta in affitto\nCopyright © 2026 Punto Casa Bologna. P.I. 04073251201 - Via Aurelio Saffi 24/A, Bologna. Sito creato da BBMnet.",
+   "parsed": {
+    "prezzo": null,
+    "mq": "40",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": "Secondo",
+    "classe_energetica": "F",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.puntocasa.bo.it/images/40anni1.png",
+    "https://www.puntocasa.bo.it/images/valutazione_test.png",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/0B16706A-40CF-6653-D348-2D978EECAB34_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/10D76308-49D5-9B0C-7639-D40ED1B9EB7B_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/155981B3-155D-63FC-B664-D941AAA2C555_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/FECFE7D6-3D33-6B00-26B9-6EA1C001F44C_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/0B16706A-40CF-6653-D348-2D978EECAB34.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/10D76308-49D5-9B0C-7639-D40ED1B9EB7B.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/155981B3-155D-63FC-B664-D941AAA2C555.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/FECFE7D6-3D33-6B00-26B9-6EA1C001F44C.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/C41E7343-D172-E0E0-77F4-4E18A5C17F8D.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/10383235-B758-19ED-E979-FFFF72F97C7F.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/72E25D3A-3911-0091-8ED8-471E79E6EEE6.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/DD116630-0F56-906E-8DA1-BA9F137FFB89.jpg"
+   ],
+   "foto": "foto-1.png",
+   "foto_src": "https://www.puntocasa.bo.it/images/40anni1.png"
+  },
+  {
+   "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/monolocale-in-vendita-ad-za-porta-san-felice",
+   "title": "Real Estate| Residenziali | MONOLOCALE AD.ZA PORTA SAN FELICE",
+   "h1": null,
+   "h2": [
+    "",
+    "",
+    "MONOLOCALE AD.ZA PORTA SAN FELICE",
+    "Il gruppo",
+    "Raggiungici",
+    "Cosa cerchi?"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Residenziali | MONOLOCALE AD.ZA PORTA SAN FELICE | Proponiamo in vendita IN ESCLUSIVA , un monolocale ad.za Porta San Felice  al piano rialzato in una palazzina con giardino condominiale e possibilita' di posti auto, ristrutturato una decina di anni fa quindi in OTTIMO STATO con cantina e aria",
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.puntocasa.bo.it/#/schema/BreadcrumbList/17\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.puntocasa.bo.it/index.php\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TUTTE LE PROPOSTE\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Residenziali\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"MONOLOCALE AD.ZA PORTA SAN FELIC\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.puntocasa.bo.it/images/40anni1.png",
+     "w": 1254,
+     "h": 1612,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/images/valutazione_test.png",
+     "w": 1080,
+     "h": 1080,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/CCDB3C74-6295-1EB7-66E6-D2511B32C772_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/739BB9BA-C1DD-97C7-9E15-D473D95CB6EF_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7D11F2A0-BBFC-269E-55B7-24DBE2B2A68A_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/93471171-8EA1-B938-6CF1-7F8C56DE01FC_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/CCDB3C74-6295-1EB7-66E6-D2511B32C772.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/739BB9BA-C1DD-97C7-9E15-D473D95CB6EF.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7D11F2A0-BBFC-269E-55B7-24DBE2B2A68A.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/93471171-8EA1-B938-6CF1-7F8C56DE01FC.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/14E6EA18-40A8-CCA8-EC75-E8EB1D307A8E.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/82E3ECB3-2506-18F4-BE81-1A0F90E2D062.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/A9309E73-412D-FD83-64D9-8DE13E396E37.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/F6A7A330-EA00-A5DF-1033-C408FDE97EB1.jpg"
+   ],
+   "descBlock": "Descrizione\nProponiamo in vendita IN ESCLUSIVA , un monolocale ad.za Porta San Felice al piano rialzato in una palazzina con giardino condominiale e possibilita' di posti auto, ristrutturato una decina di anni fa quindi in OTTIMO STATO con cantina e aria condizionata. LIBERO A MAGGIO 2027.\nPer ulteriori informazioni e appuntamenti potete contattarci al numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.",
+   "text": "Utilizziamo cookies per garantire il corretto funzionamento del sito, analizzare il nostro traffico e, ove previsto, fornire i servizi dei social media.\nI cookies sono DISATTIVATI. Puoi scegliere se accettare l'uso degli stessi o disattivarli.\nOk, accetto!DisattivaMaggiori informazioni\n\nIndirizzo:\n\nVia Aurelio Saffi, 24/a\n\nEmail\n\ninfo@puntocasa.bo.it\n\nContattaci\n\n051 522546\nBENVENUTI\nDA 40 ANNI\nIMMOBILI\nNEWS\nCONTATTI\nAREA PRIVATA\nHome \nIMMOBILI \nTUTTE LE PROPOSTE \nResidenziali \nMONOLOCALE AD.ZA PORTA SAN FELIC\nMONOLOCALE AD.ZA PORTA SAN FELICE\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Italy, BO, BOLOGNA, 40121,\nUSD 174.157,30\nEUR 155.000,00\n Ambienti: 1\n Bagni: 1\n Camere: 1\n Metratura: 35 Mq\nCantina\nCondizionatore\nTipologia:\nAppartamento\nID Proprietà:\nIM-7796\nContratto:\nIn vendita\nClasse Energetica:\nF\nZona:\nBologna Ovest\nGiardino:\nComune\nCondizioni:\nRistrutturato\nPiano:\nRialzato\nCucina:\nAngolo cottura\nRiscaldamento:\nAutonomo\nDescrizione\nProponiamo in vendita IN ESCLUSIVA , un monolocale ad.za Porta San Felice al piano rialzato in una palazzina con giardino condominiale e possibilita' di posti auto, ristrutturato una decina di anni fa quindi in OTTIMO STATO con cantina e aria condizionata. LIBERO A MAGGIO 2027.\nPer ulteriori informazioni e appuntamenti potete contattarci al numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.\nNessuna posizione disponibile\nAPE(kWH/m):\nA4\n(≤ 27.88)\nA3\n(≤ 41.83)\nA2\n(≤ 55.77)\nA1\n(≤ 69.71)\nB\n(≤ 83.65)\nC\n(≤ 104.57)\nD\n(≤ 139.42)\nE\n(≤ 181.25)\nF\n(≤ 243.99)\n243\nG\n(> 243.99)\nIPE(kg/m):\nA1\n(≤ 24.86)\nA2\n(≤ 37.29)\nA3\n(≤ 49.72)\nA4\n(≤ 62.15)\n3\nB\n(≤ 74.58)\nC\n(≤ 93.23)\nD\n(≤ 124.31)\nE\n(≤ 161.60)\nF\n(≤ 217.54)\nG\n(> 217.54)\n\nContatta Agente\nFederica Bizzini\nPuntoCasa\ninfo@puntocasa.bo.it\nInvia messaggio\n\n\n\nInserisci nella casella sottostante i caratteri che vedi nellʹimmagine qui sopra.\n Back\nPlease past text to modal\n \n\nPuntoCasa è un punto di riferimento per chi vende, acquista o cerca casa a Bologna. Esperienza, conoscenza del territorio e attenzione alle persone guidano ogni nostra attività, con un approccio diretto, trasparente e professionale. Ogni immobile ha una storia, ogni cliente un’esigenza diversa: il nostro lavoro è trasformarle in una scelta consapevole e serena.\n\nIl gruppo\nAzienda\nPrivacy\nRaggiungici\nContatti\nCosa cerchi?\nProposta in vendita\nProposta in affitto\nCopyright © 2026 Punto Casa Bologna. P.I. 04073251201 - Via Aurelio Saffi 24/A, Bologna. Sito creato da BBMnet.",
+   "parsed": {
+    "prezzo": null,
+    "mq": "35",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": "Rialzato",
+    "classe_energetica": "F",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.puntocasa.bo.it/images/40anni1.png",
+    "https://www.puntocasa.bo.it/images/valutazione_test.png",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/CCDB3C74-6295-1EB7-66E6-D2511B32C772_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/739BB9BA-C1DD-97C7-9E15-D473D95CB6EF_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7D11F2A0-BBFC-269E-55B7-24DBE2B2A68A_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/93471171-8EA1-B938-6CF1-7F8C56DE01FC_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/CCDB3C74-6295-1EB7-66E6-D2511B32C772.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/739BB9BA-C1DD-97C7-9E15-D473D95CB6EF.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7D11F2A0-BBFC-269E-55B7-24DBE2B2A68A.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/93471171-8EA1-B938-6CF1-7F8C56DE01FC.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/14E6EA18-40A8-CCA8-EC75-E8EB1D307A8E.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/82E3ECB3-2506-18F4-BE81-1A0F90E2D062.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/A9309E73-412D-FD83-64D9-8DE13E396E37.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/F6A7A330-EA00-A5DF-1033-C408FDE97EB1.jpg"
+   ],
+   "foto": "foto-2.png",
+   "foto_src": "https://www.puntocasa.bo.it/images/40anni1.png"
+  },
+  {
+   "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/croce-di-casalecchio",
+   "title": "Real Estate| Residenziali | Ampio trilocale a Croce di Casalecchio",
+   "h1": null,
+   "h2": [
+    "",
+    "",
+    "Ampio trilocale a Croce di Casalecchio",
+    "Il gruppo",
+    "Raggiungici",
+    "Cosa cerchi?"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Residenziali | Ampio trilocale a Croce di Casalecchio | Proponiamo in vendita alla Croce di Casalecchio zona pedecollinare trilocale al 3 piano senza ascensore ma in fase di realizzo, trilocale in buono stato composto da: ingresso, disimpegno, soggiorno, cucina abitabile, bagno, balcone e cantina.",
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.puntocasa.bo.it/#/schema/BreadcrumbList/17\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.puntocasa.bo.it/index.php\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TUTTE LE PROPOSTE\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Residenziali\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Ampio trilocale a Croce di Casal\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.puntocasa.bo.it/images/40anni1.png",
+     "w": 1254,
+     "h": 1612,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/images/valutazione_test.png",
+     "w": 1080,
+     "h": 1080,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B837AF1C-2B8C-0E92-84E5-E3B1F596C8CC_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7365DE1B-8CCD-D149-9180-957D23087D9D_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/D0C896FD-1143-AC8B-76B7-B72D03C4E837_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/21617CE1-0013-8E6C-EDA8-7CA2B318D97C_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B837AF1C-2B8C-0E92-84E5-E3B1F596C8CC.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7365DE1B-8CCD-D149-9180-957D23087D9D.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/D0C896FD-1143-AC8B-76B7-B72D03C4E837.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/21617CE1-0013-8E6C-EDA8-7CA2B318D97C.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/BCCEDB45-3AC8-D192-8417-344BD6E01B5E.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/E7B2669F-9F29-6804-E6BD-E8E7B85140FE.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/04264A8E-AF56-A61A-9A8E-CB904B90B775.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/31BB5743-78D6-B656-490E-BCC6C8275C60.jpg"
+   ],
+   "descBlock": "Descrizione\nProponiamo in vendita alla Croce di Casalecchio zona pedecollinare trilocale al 3 piano senza ascensore ma in fase di realizzo, trilocale in buono stato composto da: ingresso, disimpegno, soggiorno, cucina abitabile, bagno, balcone e cantina. Il riscaldamento e' autonomo. Possibilita' di parcheggio in corte interna condominiale.\nPer ulteriori informazioni e appuntamenti potete contattarci al numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.",
+   "text": "Utilizziamo cookies per garantire il corretto funzionamento del sito, analizzare il nostro traffico e, ove previsto, fornire i servizi dei social media.\nI cookies sono DISATTIVATI. Puoi scegliere se accettare l'uso degli stessi o disattivarli.\nOk, accetto!DisattivaMaggiori informazioni\n\nIndirizzo:\n\nVia Aurelio Saffi, 24/a\n\nEmail\n\ninfo@puntocasa.bo.it\n\nContattaci\n\n051 522546\nBENVENUTI\nDA 40 ANNI\nIMMOBILI\nNEWS\nCONTATTI\nAREA PRIVATA\nHome \nIMMOBILI \nTUTTE LE PROPOSTE \nResidenziali \nAmpio trilocale a Croce di Casal\nAmpio trilocale a Croce di Casalecchio\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\n \n \n \n \n \n \n \n \n \n \n \n Italy, BO, CASALECCHIO DI RENO, 40033,\nUSD 297.752,81\nEUR 265.000,00\n Ambienti: 3\n Bagni: 1\n Camere: 2\n Metratura: 65 Mq\nBalcone\nCantina\nPosto auto\nTipologia:\nAppartamento\nID Proprietà:\nIM-7799\nContratto:\nIn vendita\nClasse Energetica:\nIn fase di definizione\nZona:\ncasalecchio di reno\nCondizioni:\nAbitabile\nPiano:\nTerzo\nCucina:\nAngolo cottura\nRiscaldamento:\nAutonomo\nDescrizione\nProponiamo in vendita alla Croce di Casalecchio zona pedecollinare trilocale al 3 piano senza ascensore ma in fase di realizzo, trilocale in buono stato composto da: ingresso, disimpegno, soggiorno, cucina abitabile, bagno, balcone e cantina. Il riscaldamento e' autonomo. Possibilita' di parcheggio in corte interna condominiale.\nPer ulteriori informazioni e appuntamenti potete contattarci al numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.\nTeatri in zona\nPalestre in zona\nParchi in zona\nSupermercati in zona\nNegozi in zona\nAsili/materne in zona\nScuole in zona\nUniversità in zona\nForze dell'ordine in zona\nRistoranti in zona\nOspedali in zona\nAeroporto\nChiese in zona\nCimiteri in zona\n+\n−\n© OpenStreetMap contributors.\n\nContatta Agente\nFederica Bizzini\nPuntoCasa\ninfo@puntocasa.bo.it\nInvia messaggio\n\n\n\nInserisci nella casella sottostante i caratteri che vedi nellʹimmagine qui sopra.\n Back\nPlease past text to modal\n \n\nPuntoCasa è un punto di riferimento per chi vende, acquista o cerca casa a Bologna. Esperienza, conoscenza del territorio e attenzione alle persone guidano ogni nostra attività, con un approccio diretto, trasparente e professionale. Ogni immobile ha una storia, ogni cliente un’esigenza diversa: il nostro lavoro è trasformarle in una scelta consapevole e serena.\n\nIl gruppo\nAzienda\nPrivacy\nRaggiungici\nContatti\nCosa cerchi?\nProposta in vendita\nProposta in affitto\nCopyright © 2026 Punto Casa Bologna. P.I. 04073251201 - Via Aurelio Saffi 24/A, Bologna. Sito creato da BBMnet.",
+   "parsed": {
+    "prezzo": null,
+    "mq": "65",
+    "locali": null,
+    "camere": "2",
+    "bagni": "1",
+    "piano": "Terzo",
+    "classe_energetica": "In fase di definizione",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.puntocasa.bo.it/images/40anni1.png",
+    "https://www.puntocasa.bo.it/images/valutazione_test.png",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B837AF1C-2B8C-0E92-84E5-E3B1F596C8CC_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7365DE1B-8CCD-D149-9180-957D23087D9D_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/D0C896FD-1143-AC8B-76B7-B72D03C4E837_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/21617CE1-0013-8E6C-EDA8-7CA2B318D97C_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B837AF1C-2B8C-0E92-84E5-E3B1F596C8CC.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/7365DE1B-8CCD-D149-9180-957D23087D9D.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/D0C896FD-1143-AC8B-76B7-B72D03C4E837.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/21617CE1-0013-8E6C-EDA8-7CA2B318D97C.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/BCCEDB45-3AC8-D192-8417-344BD6E01B5E.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/E7B2669F-9F29-6804-E6BD-E8E7B85140FE.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/04264A8E-AF56-A61A-9A8E-CB904B90B775.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/31BB5743-78D6-B656-490E-BCC6C8275C60.jpg"
+   ],
+   "foto": "foto-3.png",
+   "foto_src": "https://www.puntocasa.bo.it/images/40anni1.png"
+  },
+  {
+   "url": "https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali/trilocale-in-vendita-via-podgora",
+   "title": "Real Estate| Residenziali | Trilocale in vendita Saffi interno",
+   "h1": null,
+   "h2": [
+    "",
+    "",
+    "Trilocale in vendita Saffi interno",
+    "Il gruppo",
+    "Raggiungici",
+    "Cosa cerchi?"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Residenziali | Trilocale in vendita Saffi interno | Proponiamo in vendita Trilocale in buono stato in zona interna di via di via Saffi ( Via Podgora) , in zona comoda ai servizi,  un trilocale in OTTIMO STATO al 4 piano con ascensore composto da: ingresso, soggiorno con angolo cottura, ampio",
+   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.puntocasa.bo.it/#/schema/BreadcrumbList/17\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.puntocasa.bo.it/index.php\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TUTTE LE PROPOSTE\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Residenziali\",\"item\":\"https://www.puntocasa.bo.it/index.php/immobili/tutte-le-proposte/residenziali\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Trilocale in vendita Saffi inter\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.puntocasa.bo.it/images/40anni1.png",
+     "w": 1254,
+     "h": 1612,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/images/valutazione_test.png",
+     "w": 1080,
+     "h": 1080,
+     "rw": 313.5
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/78A5F167-A244-2E6F-ECD9-D90EFEB37BD6_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B448A630-9CC5-D4D2-C310-F7D3D2FF916D_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/1A0F51C9-366E-37F8-EA4C-0C1F6F868A52_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    },
+    {
+     "src": "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/C2CF7D51-5F5C-7C72-58AA-826AFF221A6F_808_440_2_.jpg",
+     "w": 808,
+     "h": 440,
+     "rw": 939
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/78A5F167-A244-2E6F-ECD9-D90EFEB37BD6.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B448A630-9CC5-D4D2-C310-F7D3D2FF916D.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/1A0F51C9-366E-37F8-EA4C-0C1F6F868A52.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/C2CF7D51-5F5C-7C72-58AA-826AFF221A6F.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/BE612B66-04B8-2964-4D47-38863DA29CB9.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/EA621507-200E-5F05-13E0-0942E9F4823E.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/17792251-8C87-B4C2-D2CA-EA7D77792384.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/3C075F87-D661-4EEC-B9BF-D7B7705F2FE3.jpg"
+   ],
+   "descBlock": "Descrizione\nProponiamo in vendita Trilocale in buono stato in zona interna di via di via Saffi ( Via Podgora) , in zona comoda ai servizi, un trilocale in OTTIMO STATO al 4 piano con ascensore composto da: ingresso, soggiorno con angolo cottura, ampio ripostiglio, due camere da letto, bagno,\nbalcone e cantina e posto auto condominiale e posto bici . Per ulteriori informazioni e appuntamenti potete contattarci al seguente numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.o da:",
+   "text": "Utilizziamo cookies per garantire il corretto funzionamento del sito, analizzare il nostro traffico e, ove previsto, fornire i servizi dei social media.\nI cookies sono DISATTIVATI. Puoi scegliere se accettare l'uso degli stessi o disattivarli.\nOk, accetto!DisattivaMaggiori informazioni\n\nIndirizzo:\n\nVia Aurelio Saffi, 24/a\n\nEmail\n\ninfo@puntocasa.bo.it\n\nContattaci\n\n051 522546\nBENVENUTI\nDA 40 ANNI\nIMMOBILI\nNEWS\nCONTATTI\nAREA PRIVATA\nHome \nIMMOBILI \nTUTTE LE PROPOSTE \nResidenziali \nTrilocale in vendita Saffi inter\nTrilocale in vendita Saffi interno\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\nIn vendita\n \n \n \n \n \n \n \n \n \n \n Italy, BO, BOLOGNA, 40121,\nUSD 312.359,55\nEUR 278.000,00\n Ambienti: 3\n Bagni: 1\n Camere: 2\n Metratura: 75 Mq\nBalcone\nCantina\nTipologia:\nAppartamento\nID Proprietà:\nIM-7804\nContratto:\nIn vendita\nMq Commerciali :\n75\nClasse Energetica:\nIn fase di definizione\nZona:\nBologna Ovest\nCondizioni:\nBuono\nPiano:\nQuarto\nRiscaldamento:\nAutonomo\nDescrizione\nProponiamo in vendita Trilocale in buono stato in zona interna di via di via Saffi ( Via Podgora) , in zona comoda ai servizi, un trilocale in OTTIMO STATO al 4 piano con ascensore composto da: ingresso, soggiorno con angolo cottura, ampio ripostiglio, due camere da letto, bagno,\nbalcone e cantina e posto auto condominiale e posto bici . Per ulteriori informazioni e appuntamenti potete contattarci al seguente numero: Puntocasa Soluzioni abitative sas - Via Saffi 24/a - 051/522546.o da:\nNessuna posizione disponibile\n\nContatta Agente\nFederica Bizzini\nPuntoCasa\ninfo@puntocasa.bo.it\nInvia messaggio\n\n\n\nInserisci nella casella sottostante i caratteri che vedi nellʹimmagine qui sopra.\n Back\nPlease past text to modal\n \n\nPuntoCasa è un punto di riferimento per chi vende, acquista o cerca casa a Bologna. Esperienza, conoscenza del territorio e attenzione alle persone guidano ogni nostra attività, con un approccio diretto, trasparente e professionale. Ogni immobile ha una storia, ogni cliente un’esigenza diversa: il nostro lavoro è trasformarle in una scelta consapevole e serena.\n\nIl gruppo\nAzienda\nPrivacy\nRaggiungici\nContatti\nCosa cerchi?\nProposta in vendita\nProposta in affitto\nCopyright © 2026 Punto Casa Bologna. P.I. 04073251201 - Via Aurelio Saffi 24/A, Bologna. Sito creato da BBMnet.",
+   "parsed": {
+    "prezzo": null,
+    "mq": "Commerciali :",
+    "locali": null,
+    "camere": "2",
+    "bagni": "1",
+    "piano": "Quarto",
+    "classe_energetica": "In fase di definizione",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.puntocasa.bo.it/images/40anni1.png",
+    "https://www.puntocasa.bo.it/images/valutazione_test.png",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/78A5F167-A244-2E6F-ECD9-D90EFEB37BD6_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B448A630-9CC5-D4D2-C310-F7D3D2FF916D_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/1A0F51C9-366E-37F8-EA4C-0C1F6F868A52_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/C2CF7D51-5F5C-7C72-58AA-826AFF221A6F_808_440_2_.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/78A5F167-A244-2E6F-ECD9-D90EFEB37BD6.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/B448A630-9CC5-D4D2-C310-F7D3D2FF916D.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/1A0F51C9-366E-37F8-EA4C-0C1F6F868A52.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/C2CF7D51-5F5C-7C72-58AA-826AFF221A6F.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/BE612B66-04B8-2964-4D47-38863DA29CB9.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/EA621507-200E-5F05-13E0-0942E9F4823E.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/17792251-8C87-B4C2-D2CA-EA7D77792384.jpg",
+    "https://www.puntocasa.bo.it/components/com_realestatemanager/photos/watermark/3C075F87-D661-4EEC-B9BF-D7B7705F2FE3.jpg"
+   ],
+   "foto": "foto-4.png",
+   "foto_src": "https://www.puntocasa.bo.it/images/40anni1.png"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.puntocasa.bo.it/images/Logo%20PuntoCasa%20rosso%20e%20bianco.png",
+  "size": 539660
+ }
+}

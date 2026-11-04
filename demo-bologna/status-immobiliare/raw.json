@@ -1,0 +1,636 @@
+{
+ "cfg": {
+  "slug": "status-immobiliare",
+  "nome": "Status Immobiliare",
+  "home": "https://www.statusimmobiliare.it/",
+  "index": [],
+  "rx": "/(vendita|affitto)/[^/]+/[^/]+/[^/]+/[0-9]+[.]html",
+  "n": 6
+ },
+ "home": {
+  "title": "Status Agenzia Immobiliare Bologna",
+  "desc": "Status Agenzia Immobiliare a Bologna - Scopri tutte le nostre proposte in vendita e in affitto",
+  "emails": [
+   "immobiliare@statusimmobiliare.it"
+  ],
+  "tels": [
+   "+39051392299"
+  ],
+  "logos": [
+   "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
+   "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
+   "https://www.statusimmobiliare.it/img/bandiera-ita.gif",
+   "https://www.statusimmobiliare.it/img/bandiera-eng.gif",
+   "https://www.statusimmobiliare.it/img/bandiera-fra.gif",
+   "https://www.statusimmobiliare.it/img/bandiera-ted.gif"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(207, 207, 207)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Raleway, sans-serif"
+  },
+  "header": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Raleway, sans-serif"
+  },
+  "footer": null,
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Raleway, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(46, 40, 44)",
+   "font": "Raleway, sans-serif"
+  },
+  "btnBg": [],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    153
+   ],
+   [
+    "rgb(39, 45, 51)",
+    21
+   ],
+   [
+    "rgb(255, 255, 255)",
+    6
+   ],
+   [
+    "rgb(226, 226, 226)",
+    3
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 0, 0)",
+    21
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(46, 40, 44)",
+    40
+   ],
+   [
+    "rgb(245, 245, 245)",
+    15
+   ],
+   [
+    "rgb(233, 231, 232)",
+    9
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(214, 48, 48)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "Raleway, sans-serif",
+    61
+   ],
+   [
+    "Roboto, sans-serif",
+    40
+   ]
+  ],
+  "heads": [
+   "Appartamento Bologna - Mazzini",
+   "Villa San Lazzaro - San Lazzaro",
+   "Appartamento Bologna - Mazzini",
+   "Villetta Cervia",
+   "Ufficio Bologna - Murri",
+   "Villa Pianoro",
+   "Appartamento Bologna - Massarenti",
+   "Appartamento Bologna - Sant Isaia"
+  ],
+  "addr": null,
+  "final": "https://www.statusimmobiliare.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.statusimmobiliare.it/vendita/appartamento/bologna/mazzini/999415.html",
+  "https://www.statusimmobiliare.it/vendita/villa/san-lazzaro/san-lazzaro/998681.html",
+  "https://www.statusimmobiliare.it/vendita/appartamento/bologna/mazzini/997891.html",
+  "https://www.statusimmobiliare.it/vendita/villetta/cervia/tutto-il-comune/998260.html",
+  "https://www.statusimmobiliare.it/vendita/ufficio/bologna/murri/997829.html",
+  "https://www.statusimmobiliare.it/vendita/villa/pianoro/tutto-il-comune/929087.html",
+  "https://www.statusimmobiliare.it/vendita/appartamento/bologna/massarenti/999150.html",
+  "https://www.statusimmobiliare.it/vendita/appartamento/bologna/sant-isaia/54088.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/massarenti/927692.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/murri/909338.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/palazzo-dello-sport/5054.html",
+  "https://www.statusimmobiliare.it/affitto/ufficio/bologna/stazione/57331.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/saragozza-fuori-porta/127684.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/palazzo-dello-sport/20755.html",
+  "https://www.statusimmobiliare.it/affitto/ufficio/bologna/borgo-panigale/48141.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/murri/999413.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/indipendenza/998548.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/centro-storico/995604.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/saragozza/191381.html",
+  "https://www.statusimmobiliare.it/affitto/appartamento/bologna/centro-storico/929443.html"
+ ],
+ "listings": [
+  {
+   "url": "https://www.statusimmobiliare.it/vendita/appartamento/bologna/mazzini/999415.html",
+   "title": "Appartamento - Vendita - BO - Mazzini - Rif. SIM099 | Status Agenzia Immobiliare",
+   "h1": "Appartamento - Vendita - Mazzini - BO",
+   "h2": [
+    "Codice Immobile: SIM099"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Ad.ze VIA FELSINA - In piccola palazzina di tre piani, in zona servitissima ma in contesto tranquillo e silenzioso, vendesi appartamento LIBERO AD APRILE 2027.  posto all'ultimo piano senza...",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/997891_SIM_915930_20231204_094830_8329.jpg",
+     "w": 1000,
+     "h": 462,
+     "rw": 238
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181422-SIM_156198_20201204_181027_6707.jpg",
+     "w": 480,
+     "h": 640,
+     "rw": 313
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181422-SIM_156198_20201204_181027_6707.jpg",
+     "w": 480,
+     "h": 640,
+     "rw": 38
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181254-SIM_156198_20201204_181024_2788.jpg",
+     "w": 480,
+     "h": 640,
+     "rw": 38
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/999415_SIM_137852_20190604_093633_1234.JPG",
+     "w": 640,
+     "h": 480,
+     "rw": 67
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/999415_SIM_137852_20190604_093631_377.JPG",
+     "w": 640,
+     "h": 480,
+     "rw": 67
+    }
+   ],
+   "bgs": [
+    "img/lascia-richiesta.gif"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181422-SIM_156198_20201204_181027_6707.jpg"
+   ],
+   "descBlock": "Ad.ze VIA FELSINA - In piccola palazzina di tre piani, in zona servitissima ma in contesto tranquillo e silenzioso, vendesi appartamento LIBERO AD APRILE 2027. posto all'ultimo piano senza ascensore, con da cucina abitabile e soppalco abitabile, bagno finestrato, due grandi camere da letto matrimoniali. Completano la proprietà una cantina e posto auto condominiale assegnato. Riscaldamento autonomo, basse spese condominiali. € 250.000,00. SIM022",
+   "text": "Appartamento - Vendita - Mazzini - BO\n\nAd.ze VIA FELSINA - In piccola palazzina di tre piani, in zona servitissima ma in contesto tranquillo e silenzioso, vendesi appartamento LIBERO AD APRILE 2027. posto all'ultimo piano senza ascensore, con da cucina abitabile e soppalco abitabile, bagno finestrato, due grandi camere da letto matrimoniali. Completano la proprietà una cantina e posto auto condominiale assegnato. Riscaldamento autonomo, basse spese condominiali. € 250.000,00. SIM022\n\nDettagli dell'immobile\nHome > Vendita > Appartamento > Bologna > Mazzini >\nCODICE:\nSIM099\nOFFERTA:\nVENDITA\nTIPOLOGIA:\nAPPARTAMENTO\nPREZZO:\n250.000\nMETRI QUADRI:\n70\nZONA:\nMAZZINI\nCAMERE:\n2\nBAGNI:\n1\nGARAGE:\nPIANO:\n3°\nCLASSE ENERGETICA:\nG\nIPE:\n321.95\nRISCALDAMENTO:\nRISCALDAMENTO AUTONOMO\nSTATO IMMOBILE:\nA REDDITO\nVANI:\n3\nCUCINA:\nCUCINA ABITABILE\nASCENSORE:\nNOASCENSORE\nGIARDINO:\n< indietro\nVENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE\nAppartamento - BO - Mazzini\n225.000\nVendita\nMAPPA\nMappa\nSatellite\nScorciatoie da tastiera\nDATI MAPPA ©2026 GOOGLE\nTermini\nSegnala un errore nella mappa\nContattaci in Agenzia\nUFFICIO : 051 392299\nCELL : 334 2054393\nFAX : 051 4292609\n\nPuoi contattare direttamente il nostro funzionario telefondo in agenzia o inviare\nun email compilando la richiesta a fianco.\n\nAntonio Festini\nContattaci per Email\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCodice Immobile: SIM099\n€ 250.000\nVENDITA\n70 Mq\nCamere   2\nBagni    1\nGarage   Sì\nTerrazzi   \nStampa\nEmail\n1 / 19\nHOME\nVENDITA\nAFFITTO\nCONTATTI\nCHI SIAMO\nLA NOSTRA PUBBLICITÀ\nSERVIZI\nimmobiliare@statusimmobiliare .it\n051 392299\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Se vuoi saperne di più o negare il consenso ai cookies, consulta la nostra Informativa. Proseguendo la navigazione del sito o cliccando su \"chiudi\" acconsenti all'uso dei cookie.\nCONTATTI MAPPA DEL SITO\nLASCIA LA TUA RICHIESTA\nSTATUS IMMOBILIARE srl\nVia Leandro Alberti 53\n40137 Bologna\nTel. 051 392299 - 334 2054393\nimmobiliare@statusimmobiliare.it\nAppartamenti in vendita a Bologna\nAppartamenti in affitto a Bologna\nVille in vendita a Bologna\nCase in vendita a Bologna\nCase in affitto a Bologna\n\nStai cercando casa? Lascia la tua richiesta e verrai\ncontattato per proporti le nostre novità immobiliari\n\nLascia la tua richiesta\nCopyright 2016 - Status Immobiliare - P.IVA 02390051205 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies",
+   "parsed": {
+    "prezzo": "250.000",
+    "mq": "70",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "3°",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SIM/foto/997891_SIM_915930_20231204_094830_8329.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181422-SIM_156198_20201204_181027_6707.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181422-SIM_156198_20201204_181027_6707.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181254-SIM_156198_20201204_181024_2788.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/999415_SIM_137852_20190604_093633_1234.JPG",
+    "https://www.neox-rms.com/public2/SIM/foto/999415_SIM_137852_20190604_093631_377.JPG",
+    "https://www.statusimmobiliare.it/vendita/appartamento/bologna/mazzini/img/lascia-richiesta.gif",
+    "https://www.neox-rms.com/public2/SIM/foto/999415_20201210181422-SIM_156198_20201204_181027_6707.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SIM/foto/997891_SIM_915930_20231204_094830_8329.jpg"
+  },
+  {
+   "url": "https://www.statusimmobiliare.it/vendita/villa/san-lazzaro/san-lazzaro/998681.html",
+   "title": "Villa - Vendita - San Lazzaro - San Lazzaro - Rif. SIM1009 | Status Agenzia Immobiliare",
+   "h1": "Villa - Vendita - San Lazzaro - San Lazzaro",
+   "h2": [
+    "Codice Immobile: SIM1009"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "VIA NAZIONALE TOSCANA (AD.ZE SCUOLE CESARE PAVESE) a pochi minuti da BOLOGNA, ma nel comune di San Lazzaro,  ed  ottimamente servita dai mezzi pubblici e dalla viabilità ordinaria, su un lotto di...",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123102_6284.jpg",
+     "w": 1920,
+     "h": 1278,
+     "rw": 75
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123059_2791.jpg",
+     "w": 1920,
+     "h": 1278,
+     "rw": 75
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123109_191.jpg",
+     "w": 1920,
+     "h": 1278,
+     "rw": 75
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123120_6274.jpg",
+     "w": 1920,
+     "h": 1278,
+     "rw": 75
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123128_6618.jpg",
+     "w": 1920,
+     "h": 1278,
+     "rw": 75
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123216_6059.jpg",
+     "w": 1920,
+     "h": 1278,
+     "rw": 75
+    }
+   ],
+   "bgs": [
+    "img/lascia-richiesta.gif"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123055_6736.jpg"
+   ],
+   "descBlock": "VIA NAZIONALE TOSCANA (AD.ZE SCUOLE CESARE PAVESE) a pochi minuti da BOLOGNA, ma nel comune di San Lazzaro, ed ottimamente servita dai mezzi pubblici e dalla viabilità ordinaria, su un lotto di circa 1000 mq vendiamo un compendio immobiliare composto da due fabbricati, volendo indipendenti, il primo quello principale è una casa indipendente circa 320 mq commerciali, con ampio giardino privato sui quattro lati. L'abitazione si sviluppa su tre livelli: Piano seminterrato: con quattro vani cantina ed un locale caldaia ( di nuova generazione). Piano terra: ingresso, ampio salone, cucina abitabile con bo window, soggiorno e piccolo bagno finestrato. Piano primo: troviamo, cinque camere da letto, di cui tre matrimoniali ed un altro bagno finestrato, ed un balcone completa la proprietà un giardino di circa 900 mq con alberi di alto fusto. L'immobile è dotato di pannelli solari di recente istallazione, caldaia nuova, infissi in legno bianco con vetrocamera, parquet nella zona notte, impianto elettrico rifatto e con certitifcazione di rispondenza, aria condizionata in tutti gli ambienti. Il secondo blocco è una piccola unità su un piano, di circa 70 mq, ma con probabile ulteriore capacità edificatoria (dependance), attualmente composta da autorimessa doppia (38 mq), con sovrastante soffitta e da un loft con soppalco (circa 35 mq) il tutto circondato da una bella e suggestiva corte e giardino, ideale come spazio per ospiti, studio professionale o locale multifunzionale. La proprietà rappresenta una soluzione ideale anche per 2 nuclei familiari e per chi cerca indipendenza, ampi spazi abitativi e pertinenze accessorie in una posizione comoda e ben collegata. Prezzo di acquisto €.855.000 Rif SIM10",
+   "text": "Villa - Vendita - San Lazzaro - San Lazzaro\n\nVIA NAZIONALE TOSCANA (AD.ZE SCUOLE CESARE PAVESE) a pochi minuti da BOLOGNA, ma nel comune di San Lazzaro, ed ottimamente servita dai mezzi pubblici e dalla viabilità ordinaria, su un lotto di circa 1000 mq vendiamo un compendio immobiliare composto da due fabbricati, volendo indipendenti, il primo quello principale è una casa indipendente circa 320 mq commerciali, con ampio giardino privato sui quattro lati. L'abitazione si sviluppa su tre livelli: Piano seminterrato: con quattro vani cantina ed un locale caldaia ( di nuova generazione). Piano terra: ingresso, ampio salone, cucina abitabile con bo window, soggiorno e piccolo bagno finestrato. Piano primo: troviamo, cinque camere da letto, di cui tre matrimoniali ed un altro bagno finestrato, ed un balcone completa la proprietà un giardino di circa 900 mq con alberi di alto fusto. L'immobile è dotato di pannelli solari di recente istallazione, caldaia nuova, infissi in legno bianco con vetrocamera, parquet nella zona notte, impianto elettrico rifatto e con certitifcazione di rispondenza, aria condizionata in tutti gli ambienti. Il secondo blocco è una piccola unità su un piano, di circa 70 mq, ma con probabile ulteriore capacità edificatoria (dependance), attualmente composta da autorimessa doppia (38 mq), con sovrastante soffitta e da un loft con soppalco (circa 35 mq) il tutto circondato da una bella e suggestiva corte e giardino, ideale come spazio per ospiti, studio professionale o locale multifunzionale. La proprietà rappresenta una soluzione ideale anche per 2 nuclei familiari e per chi cerca indipendenza, ampi spazi abitativi e pertinenze accessorie in una posizione comoda e ben collegata. Prezzo di acquisto €.855.000 Rif SIM10\n\nDettagli dell'immobile\nHome > Vendita > Villa > San Lazzaro > San Lazzaro >\nCODICE:\nSIM1009\nOFFERTA:\nVENDITA\nTIPOLOGIA:\nVILLA\nPREZZO:\n855.000\nMETRI QUADRI:\n330\nZONA:\nSAN LAZZARO\nCAMERE:\n5\nBAGNI:\n2\nGARAGE:\nPIANO:\nTERRA CIELO\nCLASSE ENERGETICA:\nG\nIPE:\nIN FASE DI RILASCIO\nRISCALDAMENTO:\nRISCALDAMENTO AUTONOMO\nSTATO IMMOBILE:\nLIBERO\nVANI:\n9\nCUCINA:\nCUCINA ABITABILE\nASCENSORE:\nNOASCENSORE\nGIARDINO:\n1000MQ\n< indietro\nVENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE\nVilletta - Pianoro\n990.000\nVendita\nMAPPA\nMappa\nSatellite\nScorciatoie da tastiera\nDATI MAPPA ©2026 GOOGLE\nTermini\nSegnala un errore nella mappa\nContattaci in Agenzia\nUFFICIO : 051 392299\nCELL : 334 2054393\nFAX : 051 4292609\n\nPuoi contattare direttamente il nostro funzionario telefondo in agenzia o inviare\nun email compilando la richiesta a fianco.\n\nAntonio Festini\nContattaci per Email\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCodice Immobile: SIM1009\n€ 855.000\nVENDITA\n330 Mq\nCamere   5\nBagni    2\nGarage   \nTerrazzi   \nStampa\nEmail\n1 / 54\nHOME\nVENDITA\nAFFITTO\nCONTATTI\nCHI SIAMO\nLA NOSTRA PUBBLICITÀ\nSERVIZI\nimmobiliare@statusimmobiliare .it\n051 392299\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Se vuoi saperne di più o negare il consenso ai cookies, consulta la nostra Informativa. Proseguendo la navigazione del sito o cliccando su \"chiudi\" acconsenti all'uso dei cookie.\nCONTATTI MAPPA DEL SITO\nLASCIA LA TUA RICHIESTA\nSTATUS IMMOBILIARE srl\nVia Leandro Alberti 53\n40137 Bologna\nTel. 051 392299 - 334 2054393\nimmobiliare@statusimmobiliare.it\nAppartamenti in vendita a Bologna\nAppartamenti in affitto a Bologna\nVille in vendita a Bologna\nCase in vendita a Bologna\nCase in affitto a Bologna\n\nStai cercando casa? Lascia la tua richiesta e verrai\ncontattato per proporti le nostre novità immobiliari\n\nLascia la tua richiesta\nCopyright 2016 - Status Immobiliare - P.IVA 02390051205 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies",
+   "parsed": {
+    "prezzo": "855.000",
+    "mq": "330",
+    "locali": "9",
+    "camere": "5",
+    "bagni": "2",
+    "piano": "TERRA CIELO",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123102_6284.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123059_2791.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123109_191.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123120_6274.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123128_6618.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123216_6059.jpg",
+    "https://www.statusimmobiliare.it/vendita/villa/san-lazzaro/san-lazzaro/img/lascia-richiesta.gif",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123055_6736.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123102_6284.jpg"
+  },
+  {
+   "url": "https://www.statusimmobiliare.it/vendita/appartamento/bologna/mazzini/997891.html",
+   "title": "Appartamento - Vendita - BO - Mazzini - Rif. SIM356 | Status Agenzia Immobiliare",
+   "h1": "Appartamento - Vendita - Mazzini - BO",
+   "h2": [
+    "Codice Immobile: SIM356"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "VIA MAZZINI (AD.ZE VIA SAVIOLI)  Nelle immediate vicinanze di via Savioli, all'interno di un elegante contesto signorile e silenzioso, proponiamo in vendita un ottimo bilocale già arredato e a...",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_999150_20260705_121903_1676.jpeg",
+     "w": 1920,
+     "h": 887,
+     "rw": 238
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114116_7659.jpeg",
+     "w": 1600,
+     "h": 739,
+     "rw": 108
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114113_5739.jpeg",
+     "w": 739,
+     "h": 1600,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114114_2728.jpeg",
+     "w": 1600,
+     "h": 739,
+     "rw": 108
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114115_8064.jpeg",
+     "w": 739,
+     "h": 1600,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114116_4150.jpeg",
+     "w": 739,
+     "h": 1600,
+     "rw": 23
+    }
+   ],
+   "bgs": [
+    "img/lascia-richiesta.gif"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SIM/foto/997891_SIM_915930_20231204_094830_8329.jpg"
+   ],
+   "descBlock": "VIA MAZZINI (AD.ZE VIA SAVIOLI) Nelle immediate vicinanze di via Savioli, all'interno di un elegante contesto signorile e silenzioso, proponiamo in vendita un ottimo bilocale già arredato e a reddito, ideale come investimento sicuro e ad alta redditività.L'immobile, in condizioni interne impeccabili, si trova al primo piano di uno stabile signorile dotato di ascensore ed è così composto: Ingresso accogliente Soggiorno luminoso con cucinotto separato e funzionale Ampia camera da letto matrimoniale Bagno finestrato Zona lavanderia separata con secondo servizio Completa la proprietà una comoda cantina , con il valore aggiunto dell'ascensore che arriva direttamente al piano interrato, abbattendo qualsiasi barriera architettonica. Dotazioni e Comfort: Impianto di aria condizionata• Riscaldamento autonomo per una gestione efficiente dei consumi Situato in una delle zone residenziali più ricercate e servite di Bologna, a pochi minuti dal centro storico e dal Policlinico Sant'Orsola, l'appartamento garantisce una locazione costante e duratura. Prezzo richiesto: € 225.000 Riferimento: RIF SIM356",
+   "text": "Appartamento - Vendita - Mazzini - BO\n\nVIA MAZZINI (AD.ZE VIA SAVIOLI) Nelle immediate vicinanze di via Savioli, all'interno di un elegante contesto signorile e silenzioso, proponiamo in vendita un ottimo bilocale già arredato e a reddito, ideale come investimento sicuro e ad alta redditività.L'immobile, in condizioni interne impeccabili, si trova al primo piano di uno stabile signorile dotato di ascensore ed è così composto: Ingresso accogliente Soggiorno luminoso con cucinotto separato e funzionale Ampia camera da letto matrimoniale Bagno finestrato Zona lavanderia separata con secondo servizio Completa la proprietà una comoda cantina , con il valore aggiunto dell'ascensore che arriva direttamente al piano interrato, abbattendo qualsiasi barriera architettonica. Dotazioni e Comfort: Impianto di aria condizionata• Riscaldamento autonomo per una gestione efficiente dei consumi Situato in una delle zone residenziali più ricercate e servite di Bologna, a pochi minuti dal centro storico e dal Policlinico Sant'Orsola, l'appartamento garantisce una locazione costante e duratura. Prezzo richiesto: € 225.000 Riferimento: RIF SIM356\n\nDettagli dell'immobile\nHome > Vendita > Appartamento > Bologna > Mazzini >\nCODICE:\nSIM356\nOFFERTA:\nVENDITA\nTIPOLOGIA:\nAPPARTAMENTO\nPREZZO:\n225.000\nMETRI QUADRI:\n55\nZONA:\nMAZZINI\nCAMERE:\n1\nBAGNI:\n2\nGARAGE:\nPIANO:\n1°\nCLASSE ENERGETICA:\nIN FASE DI RICHIESTA\nIPE:\nIN FASE DI RILASCIO\nRISCALDAMENTO:\nRISCALDAMENTO AUTONOMO\nSTATO IMMOBILE:\nA REDDITO\nVANI:\n2\nCUCINA:\nANGOLO COTTURA\nASCENSORE:\nASCENSORE\nGIARDINO:\n< indietro\nVENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE\nAppartamento - BO - Massarenti\n165.000\nVendita\nAppartamento - BO - Mazzini\n250.000\nVendita\nMAPPA\nMappa\nSatellite\nScorciatoie da tastiera\nDATI MAPPA ©2026 GOOGLE\nTermini\nSegnala un errore nella mappa\nContattaci in Agenzia\nUFFICIO : 051 392299\nCELL : 334 2054393\nFAX : 051 4292609\n\nPuoi contattare direttamente il nostro funzionario telefondo in agenzia o inviare\nun email compilando la richiesta a fianco.\n\nAntonio Festini\nContattaci per Email\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCodice Immobile: SIM356\n€ 225.000\nVENDITA\n55 Mq\nCamere   1\nBagni    2\nGarage   \nTerrazzi   \nStampa\nEmail\n1 / 21\nHOME\nVENDITA\nAFFITTO\nCONTATTI\nCHI SIAMO\nLA NOSTRA PUBBLICITÀ\nSERVIZI\nimmobiliare@statusimmobiliare .it\n051 392299\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Se vuoi saperne di più o negare il consenso ai cookies, consulta la nostra Informativa. Proseguendo la navigazione del sito o cliccando su \"chiudi\" acconsenti all'uso dei cookie.\nCONTATTI MAPPA DEL SITO\nLASCIA LA TUA RICHIESTA\nSTATUS IMMOBILIARE srl\nVia Leandro Alberti 53\n40137 Bologna\nTel. 051 392299 - 334 2054393\nimmobiliare@statusimmobiliare.it\nAppartamenti in vendita a Bologna\nAppartamenti in affitto a Bologna\nVille in vendita a Bologna\nCase in vendita a Bologna\nCase in affitto a Bologna\n\nStai cercando casa? Lascia la tua richiesta e verrai\ncontattato per proporti le nostre novità immobiliari\n\nLascia la tua richiesta\nCopyright 2016 - Status Immobiliare - P.IVA 02390051205 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies",
+   "parsed": {
+    "prezzo": "225.000",
+    "mq": "55",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "2",
+    "piano": "1°",
+    "classe_energetica": "IN FASE DI RICHIESTA",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_999150_20260705_121903_1676.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114116_7659.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114113_5739.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114114_2728.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114115_8064.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997891_20260404_114116_4150.jpeg",
+    "https://www.statusimmobiliare.it/vendita/appartamento/bologna/mazzini/img/lascia-richiesta.gif",
+    "https://www.neox-rms.com/public2/SIM/foto/997891_SIM_915930_20231204_094830_8329.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SIM/foto/SIM_999150_20260705_121903_1676.jpeg"
+  },
+  {
+   "url": "https://www.statusimmobiliare.it/vendita/villetta/cervia/tutto-il-comune/998260.html",
+   "title": "Villetta - Vendita - - Cervia - Rif. SIM1004 | Status Agenzia Immobiliare",
+   "h1": "Villetta - Vendita - Cervia",
+   "h2": [
+    "Codice Immobile: SIM1004"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "CERVIA VIA MERCURIO: Vendesi splendida villa di testa recentemente ristrutturata, in zona tranquilla ma comoda a tutti i servizi e a pochi passi dal Club Fantini. La villa si compone di quattro...",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/20260505162544-SIM_998260_20260502_162359_2324.jpg",
+     "w": 1657,
+     "h": 1920,
+     "rw": 43
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/plani/20260505162513-SIM_998260_20260502_162502_5848.jpg",
+     "w": 1657,
+     "h": 1920,
+     "rw": 43
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160311_2583.jpg",
+     "w": 1000,
+     "h": 462,
+     "rw": 864
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160311_2583.jpg",
+     "w": 1000,
+     "h": 462,
+     "rw": 108
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160314_4673.jpg",
+     "w": 1000,
+     "h": 462,
+     "rw": 108
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160312_1252.jpg",
+     "w": 1000,
+     "h": 462,
+     "rw": 108
+    }
+   ],
+   "bgs": [
+    "img/lascia-richiesta.gif"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160311_2583.jpg"
+   ],
+   "descBlock": "CERVIA VIA MERCURIO: Vendesi splendida villa di testa recentemente ristrutturata, in zona tranquilla ma comoda a tutti i servizi e a pochi passi dal Club Fantini. La villa si compone di quattro livelli: al piano terra ampio salone da cui si accede al giardino privato, cucina abitabile, bagno finestrato con doccia, lavanderia; al primo piano due camere da letto, bagno finestrato con doccia, balcone; al piano superiore mansarda con una camera da letto, studio, bagno finestrato e al piano interrato taverna finestrata costituita da due ambienti. Completano la proprietà 3 posti auto scoperti. Riscaldamento autonomo, aria condizionata, volendo parzialmente arredata. € 699.000 RIF SIM1004",
+   "text": "Villetta - Vendita - Cervia\n\nCERVIA VIA MERCURIO: Vendesi splendida villa di testa recentemente ristrutturata, in zona tranquilla ma comoda a tutti i servizi e a pochi passi dal Club Fantini. La villa si compone di quattro livelli: al piano terra ampio salone da cui si accede al giardino privato, cucina abitabile, bagno finestrato con doccia, lavanderia; al primo piano due camere da letto, bagno finestrato con doccia, balcone; al piano superiore mansarda con una camera da letto, studio, bagno finestrato e al piano interrato taverna finestrata costituita da due ambienti. Completano la proprietà 3 posti auto scoperti. Riscaldamento autonomo, aria condizionata, volendo parzialmente arredata. € 699.000 RIF SIM1004\n\nDettagli dell'immobile\nHome > Vendita > Villetta > Cervia > Tutto Il Comune >\nCODICE:\nSIM1004\nOFFERTA:\nVENDITA\nTIPOLOGIA:\nVILLETTA\nPREZZO:\n699.000\nMETRI QUADRI:\n160\nZONA:\nCERVIA\nCAMERE:\n3\nBAGNI:\n3\nGARAGE:\nPIANO:\nTERRA CIELO\nCLASSE ENERGETICA:\nIN FASE DI RILASCIO\nIPE:\nIN FASE DI RILASCIO\nRISCALDAMENTO:\nRISCALDAMENTO AUTONOMO\nSTATO IMMOBILE:\nLIBERO\nVANI:\n8\nCUCINA:\nCUCINA ABITABILE\nASCENSORE:\nGIARDINO:\n< indietro\nVENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE\nMAPPA\nMappa\nSatellite\nScorciatoie da tastiera\nDATI MAPPA ©2026 GOOGLE\nTermini\nSegnala un errore nella mappa\nContattaci in Agenzia\nUFFICIO : 051 392299\nCELL : 334 2054393\nFAX : 051 4292609\n\nPuoi contattare direttamente il nostro funzionario telefondo in agenzia o inviare\nun email compilando la richiesta a fianco.\n\nAntonio Festini\nContattaci per Email\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCodice Immobile: SIM1004\n€ 699.000\nVENDITA\n160 Mq\nCamere   3\nBagni    3\nGarage   \nTerrazzi   \nStampa\nEmail\n1 / 32\nHOME\nVENDITA\nAFFITTO\nCONTATTI\nCHI SIAMO\nLA NOSTRA PUBBLICITÀ\nSERVIZI\nimmobiliare@statusimmobiliare .it\n051 392299\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Se vuoi saperne di più o negare il consenso ai cookies, consulta la nostra Informativa. Proseguendo la navigazione del sito o cliccando su \"chiudi\" acconsenti all'uso dei cookie.\nCONTATTI MAPPA DEL SITO\nLASCIA LA TUA RICHIESTA\nSTATUS IMMOBILIARE srl\nVia Leandro Alberti 53\n40137 Bologna\nTel. 051 392299 - 334 2054393\nimmobiliare@statusimmobiliare.it\nAppartamenti in vendita a Bologna\nAppartamenti in affitto a Bologna\nVille in vendita a Bologna\nCase in vendita a Bologna\nCase in affitto a Bologna\n\nStai cercando casa? Lascia la tua richiesta e verrai\ncontattato per proporti le nostre novità immobiliari\n\nLascia la tua richiesta\nCopyright 2016 - Status Immobiliare - P.IVA 02390051205 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies",
+   "parsed": {
+    "prezzo": "699.000",
+    "mq": "160",
+    "locali": "8",
+    "camere": "3",
+    "bagni": "3",
+    "piano": "TERRA CIELO",
+    "classe_energetica": "IN FASE DI RILASCIO",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SIM/foto/20260505162544-SIM_998260_20260502_162359_2324.jpg",
+    "https://www.neox-rms.com/public2/SIM/plani/20260505162513-SIM_998260_20260502_162502_5848.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160311_2583.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160311_2583.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160314_4673.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160312_1252.jpg",
+    "https://www.statusimmobiliare.it/vendita/villetta/cervia/tutto-il-comune/img/lascia-richiesta.gif",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998260_20260502_160311_2583.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SIM/foto/20260505162544-SIM_998260_20260502_162359_2324.jpg"
+  },
+  {
+   "url": "https://www.statusimmobiliare.it/vendita/ufficio/bologna/murri/997829.html",
+   "title": "Ufficio - Vendita - BO - Murri - Rif. SIM1002 | Status Agenzia Immobiliare",
+   "h1": "Ufficio - Vendita - Murri - BO",
+   "h2": [
+    "Codice Immobile: SIM1002"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "ZONA MURRI, VIA SAVIOLI (ADIACENZE VIA MAZZINI)  SPLENDIDO LOFT AD USO UFFICIO CON GIARDINO PRIVATO E POSTO AUTO\nNel cuore di una delle zone più prestigiose e ricercate di Bologna, all'interno di...",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193916_131.jpeg",
+     "w": 887,
+     "h": 1920,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193853_7680.jpeg",
+     "w": 887,
+     "h": 1920,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193911_7524.jpeg",
+     "w": 887,
+     "h": 1920,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193852_7939.jpeg",
+     "w": 887,
+     "h": 1920,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193857_3174.jpeg",
+     "w": 887,
+     "h": 1920,
+     "rw": 23
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193840_6569.jpeg",
+     "w": 1920,
+     "h": 887,
+     "rw": 108
+    }
+   ],
+   "bgs": [
+    "img/lascia-richiesta.gif"
+   ],
+   "dataSrc": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260904_161023_6909.jpeg"
+   ],
+   "descBlock": "ZONA MURRI, VIA SAVIOLI (ADIACENZE VIA MAZZINI) SPLENDIDO LOFT AD USO UFFICIO CON GIARDINO PRIVATO E POSTO AUTO Nel cuore di una delle zone più prestigiose e ricercate di Bologna, all'interno di un contesto interno verde, estremamente silenzioso e riservato, proponiamo in vendita un esclusivo loft ad uso ufficio di generose dimensioni, attualmente locato a un avviato studio professionale con un'eccellente rendita dimostrabile di € 20.000 annui. L'immobile, caratterizzato da ampi spazi versatili e luminosi in perfetto stile loft, si compone di: • Accogliente e spaziosa sala d'attesa/reception per il ricevimento dei clienti. • 5 ampi vani operativi, ideali per uffici singoli, sale riunioni o postazioni di co-working. • 2 servizi igienici moderni e funzionali. Il vero fiore all'occhiello della proprietà è lo splendido giardino privato di circa 83 mq, un'oasi di pace introvabile in città, perfetta per pause relax o per organizzare incontri di lavoro all'aperto. Completa la proposta un prezioso posto auto esclusivo all'interno della corte condominiale. L'unità è dotata di riscaldamento autonomo, garantendo una gestione indipendente dei consumi, e presenta spese condominiali decisamente contenute. Prezzo richiesto: € 565.000 Riferimento annuncio: SIM1002",
+   "text": "Ufficio - Vendita - Murri - BO\n\nZONA MURRI, VIA SAVIOLI (ADIACENZE VIA MAZZINI) SPLENDIDO LOFT AD USO UFFICIO CON GIARDINO PRIVATO E POSTO AUTO Nel cuore di una delle zone più prestigiose e ricercate di Bologna, all'interno di un contesto interno verde, estremamente silenzioso e riservato, proponiamo in vendita un esclusivo loft ad uso ufficio di generose dimensioni, attualmente locato a un avviato studio professionale con un'eccellente rendita dimostrabile di € 20.000 annui. L'immobile, caratterizzato da ampi spazi versatili e luminosi in perfetto stile loft, si compone di: • Accogliente e spaziosa sala d'attesa/reception per il ricevimento dei clienti. • 5 ampi vani operativi, ideali per uffici singoli, sale riunioni o postazioni di co-working. • 2 servizi igienici moderni e funzionali. Il vero fiore all'occhiello della proprietà è lo splendido giardino privato di circa 83 mq, un'oasi di pace introvabile in città, perfetta per pause relax o per organizzare incontri di lavoro all'aperto. Completa la proposta un prezioso posto auto esclusivo all'interno della corte condominiale. L'unità è dotata di riscaldamento autonomo, garantendo una gestione indipendente dei consumi, e presenta spese condominiali decisamente contenute. Prezzo richiesto: € 565.000 Riferimento annuncio: SIM1002\n\nDettagli dell'immobile\nHome > Vendita > Ufficio > Bologna > Murri >\nCODICE:\nSIM1002\nOFFERTA:\nVENDITA\nTIPOLOGIA:\nUFFICIO\nPREZZO:\n565.000\nMETRI QUADRI:\n180\nZONA:\nMURRI\nCAMERE:\n0\nBAGNI:\n2\nGARAGE:\nPIANO:\nTERRA\nCLASSE ENERGETICA:\nIN FASE DI RICHIESTA\nIPE:\nIN FASE DI RILASCIO\nRISCALDAMENTO:\nRISCALDAMENTO AUTONOMO\nSTATO IMMOBILE:\nA REDDITO\nVANI:\n5\nCUCINA:\nASCENSORE:\nGIARDINO:\n83MQ\n< indietro\nVENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE\nMAPPA\nMappa\nSatellite\nScorciatoie da tastiera\nDATI MAPPA ©2026 GOOGLE\nTermini\nSegnala un errore nella mappa\nContattaci in Agenzia\nUFFICIO : 051 392299\nCELL : 334 2054393\nFAX : 051 4292609\n\nPuoi contattare direttamente il nostro funzionario telefondo in agenzia o inviare\nun email compilando la richiesta a fianco.\n\nAntonio Festini\nContattaci per Email\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCodice Immobile: SIM1002\n€ 565.000\nVENDITA\n180 Mq\nCamere   0\nBagni    2\nGarage   \nTerrazzi   \nStampa\nEmail\n1 / 23\nHOME\nVENDITA\nAFFITTO\nCONTATTI\nCHI SIAMO\nLA NOSTRA PUBBLICITÀ\nSERVIZI\nimmobiliare@statusimmobiliare .it\n051 392299\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Se vuoi saperne di più o negare il consenso ai cookies, consulta la nostra Informativa. Proseguendo la navigazione del sito o cliccando su \"chiudi\" acconsenti all'uso dei cookie.\nCONTATTI MAPPA DEL SITO\nLASCIA LA TUA RICHIESTA\nSTATUS IMMOBILIARE srl\nVia Leandro Alberti 53\n40137 Bologna\nTel. 051 392299 - 334 2054393\nimmobiliare@statusimmobiliare.it\nAppartamenti in vendita a Bologna\nAppartamenti in affitto a Bologna\nVille in vendita a Bologna\nCase in vendita a Bologna\nCase in affitto a Bologna\n\nStai cercando casa? Lascia la tua richiesta e verrai\ncontattato per proporti le nostre novità immobiliari\n\nLascia la tua richiesta\nCopyright 2016 - Status Immobiliare - P.IVA 02390051205 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies",
+   "parsed": {
+    "prezzo": "565.000",
+    "mq": "180",
+    "locali": "5",
+    "camere": "0",
+    "bagni": "2",
+    "piano": "TERRA",
+    "classe_energetica": "IN FASE DI RICHIESTA",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193916_131.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193853_7680.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193911_7524.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193852_7939.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193857_3174.jpeg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193840_6569.jpeg",
+    "https://www.statusimmobiliare.it/vendita/ufficio/bologna/murri/img/lascia-richiesta.gif",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260904_161023_6909.jpeg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SIM/foto/SIM_997829_20260603_193916_131.jpeg"
+  },
+  {
+   "url": "https://www.statusimmobiliare.it/vendita/villa/pianoro/tutto-il-comune/929087.html",
+   "title": "Villa - Vendita - - Pianoro - Rif. SIM032 | Status Agenzia Immobiliare",
+   "h1": "Villa - Vendita - Pianoro",
+   "h2": [
+    "Codice Immobile: SIM032"
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "VENDESI RASTIGNANO PEDECOLLINARE AD,ZE SAN RUFFILLO A pochi minuti da BOLOGNA , nella zona pedecollinare di Rastignano, proponiamo in vendita, in contesto signorile ed esclusivo,una villa...",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123055_6736.jpg",
+     "w": 1920,
+     "h": 1276,
+     "rw": 238
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_72738_20230806_101505_2036.jpg",
+     "w": 1280,
+     "h": 960,
+     "rw": 67
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_910800_20231002_125614_7393.JPG",
+     "w": 1280,
+     "h": 876,
+     "rw": 73
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/plani/SIM_910800_20231002_125149_6876.JPG",
+     "w": 1280,
+     "h": 876,
+     "rw": 73
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_72738_20230804_190527_108.JPG",
+     "w": 1280,
+     "h": 854,
+     "rw": 605
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/SIM/foto/SIM_72738_20230804_190527_108.JPG",
+     "w": 1280,
+     "h": 854,
+     "rw": 75
+    }
+   ],
+   "bgs": [
+    "img/lascia-richiesta.gif"
+   ],
+   "dataSrc": [],
+   "descBlock": "VENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE",
+   "text": "Villa - Vendita - Pianoro\n\nVENDESI RASTIGNANO PEDECOLLINARE AD,ZE SAN RUFFILLO A pochi minuti da BOLOGNA , nella zona pedecollinare di Rastignano, proponiamo in vendita, in contesto signorile ed esclusivo,una villa indipendente, gia composta da 2 unita abitative, integrate tra loro, ma volendo ideale per almeno tre nuclei familiari. La villa recentemente ristrutturata, libera sui 4 lati, circondata da un ampio parco privato (circa mq 4000), si inserisce in un contesto urbano, ma allo stesso tempo gode della sua privacy. COMPOSIZIONE la villa è posta su più livelli, serviti tutti da comodo ascensore interno (serve dal seminterrato al 2 piano) , la residenza consta di 2 unità abitative (che, volendo, possono diventare di più, oltre ad appartamento del custode, tutte collegate, ma volendo separabili e con proprio ingresso). Nel dettaglio, la villa è così composta: ingresso di rappresentanza, accesso ad un ampio salone, 2 terrazze vivibili e spettacolare vetrata con vista sul verde contesto collinare; annessa cucina abitabile, locale dispensa e zona pranzo, dotati di finestra e vasto terrazzo che sfocia nel giardino. Completa il piano principale un bagno finestrato. Al piano superiore troviamo 3 camere da letto matrimoniali ognuna con proprio bagno, di cui uno con doccia emozionale, una anche con balconcino, altre 2 camere, di cui una con terrazzo con vista e panorama che si lasciano ricordare, ampia cabina armadio finestrata. Proseguendo allo stesso piano incontriamo una zona che si presta volendo come altro appartamentino indipendente, composto da ingresso, camera matrimoniale, bagno, sala con cucina attrezzata e terrazzo stupendo.Salendo ancora, troviamo ultimo piano mansardato zona studio con una terrazzina in falda panoramica e 2 ampi sottotetti utilizzabili come zona hobby e depositi. Scendendo al piano terra la proprietà presenta una splendida zona ludica, tutta fuori terra, con ampia zona pranzo salone, camino, cucina attrezzata, vastissima zona pranzo per cenoni e feste e sala biliardo, sempre con entrata indipendente dal giardino. Adiacente a questa zona si trova anche un ampio locale attualmente adibito a studio ufficio, con entrata indipendente. Completano la proprietà un locale wellness con grande vasca emozionale, palestra e bagnetto; 3 ampi garage; porta blindata, una vasta zona armadi, una comoda ed ampia lavanderia attrezzata con recuperatore di calore, Al piano rialzato in adiacenza e collegato troviamo un appartamento indipendente signorile e luminosissimo, ma volendo integrabile con la villa principale, di circa 100 mq, con ampie finestre e 2 terrazze panoramiche , un salone con cucina attrezzata a vista e zona pranzo, 2 camere matrimoniali e 1 bagno, ideale per casa vacanza o BB. Infine la proprietà integra anche la residenza del custode, composto da cucina, camera e bagno, con entrata indipendente, ma collegato al corpo centrale, ed ulteriori spazi accessori per cantina, magazzino e centrale termica. CARATTERISTICHE TECNICHE E FINITURE Ottimo stato, recentemente ristrutturata, con attenzione al risparmio energetico, Caldaia di ultima generazione, tetto nuovo, come gli infissi in vetro camera, la maggior parte scorrevoli, inferriate, zanzariere e tapparelle automatizzate, aria condizionata, filodiffusione, wi-fi su tutti i piani, impianto allarme, cancello principale e portoni garage automatizzati, tutta la residenza occupa una superficie di circa 900 mq oltre il parco di 4000 mq. Tra le caratteristiche che rendono unica e vivibile la villa, certamente la razionalità degli spazi e delle funzioni, pur mantenendo le ampiezze ragguardevoli, ma soprattutto la flessibilità, con 5 entrate indipendenti, Inoltre, rappresenta un ottimo investimento, già a reddito , qualora si volesse acquistare in tal senso. € 990.000,00\n\nDettagli dell'immobile\nHome > Vendita > Villa > Pianoro > Tutto Il Comune >\nCODICE:\nSIM032\nOFFERTA:\nVENDITA\nTIPOLOGIA:\nVILLA\nPREZZO:\n990.000\nMETRI QUADRI:\n800\nZONA:\nPIANORO\nCAMERE:\n7\nBAGNI:\n9\nGARAGE:\nGARAGE 3 AUTO\nPIANO:\nTERRA CIELO\nCLASSE ENERGETICA:\nIN FASE DI RICHIESTA\nIPE:\nIN FASE DI RILASCIO\nRISCALDAMENTO:\nRISCALDAMENTO AUTONOMO\nSTATO IMMOBILE:\nLIBERO\nVANI:\n27\nCUCINA:\nCUCINA ABITABILE\nASCENSORE:\nASCENSORE\nGIARDINO:\n4000MQ\n< indietro\nVENDITA / AFFITTO\nSeleziona\nVendita\nAffitto\nLOCALITA'\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nZONA\nSeleziona la zona\nTIPOLOGIA\nSeleziona la tipologia\nPREZZO MASSIMO\nMETRI QUADRI MINIMI\nCAMERE MINIME\nCODICE\nVilletta - San Lazzaro - San Lazzaro\n855.000\nVendita\nMAPPA\nMappa\nSatellite\nScorciatoie da tastiera\nDATI MAPPA ©2026 GOOGLE\nTermini\nSegnala un errore nella mappa\nContattaci in Agenzia\nUFFICIO : 051 392299\nCELL : 334 2054393\nFAX : 051 4292609\n\nPuoi contattare direttamente il nostro funzionario telefondo in agenzia o inviare\nun email compilando la richiesta a fianco.\n\nAntonio Festini\nContattaci per Email\n  Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCodice Immobile: SIM032\n€ 990.000\nVENDITA\n800 Mq\nCamere   7\nBagni    9\nGarage   Si\nTerrazzi   5\nStampa\nEmail\n1 / 52\nHOME\nVENDITA\nAFFITTO\nCONTATTI\nCHI SIAMO\nLA NOSTRA PUBBLICITÀ\nSERVIZI\nimmobiliare@statusimmobiliare .it\n051 392299\nQuesto sito utilizza solo cookie tecnici, propri e di terze parti, utili al funzionamento delle pagine web. Se vuoi saperne di più o negare il consenso ai cookies, consulta la nostra Informativa. Proseguendo la navigazione del sito o cliccando su \"chiudi\" acconsenti all'uso dei cookie.\nCONTATTI MAPPA DEL SITO\nLASCIA LA TUA RICHIESTA\nSTATUS IMMOBILIARE srl\nVia Leandro Alberti 53\n40137 Bologna\nTel. 051 392299 - 334 2054393\nimmobiliare@statusimmobiliare.it\nAppartamenti in vendita a Bologna\nAppartamenti in affitto a Bologna\nVille in vendita a Bologna\nCase in vendita a Bologna\nCase in affitto a Bologna\n\nStai cercando casa? Lascia la tua richiesta e verrai\ncontattato per proporti le nostre novità immobiliari\n\nLascia la tua richiesta\nCopyright 2016 - Status Immobiliare - P.IVA 02390051205 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies",
+   "parsed": {
+    "prezzo": "990.000",
+    "mq": "800",
+    "locali": "27",
+    "camere": "7",
+    "bagni": "9",
+    "piano": "RO",
+    "classe_energetica": "IN FASE DI RICHIESTA",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123055_6736.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_72738_20230806_101505_2036.jpg",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_910800_20231002_125614_7393.JPG",
+    "https://www.neox-rms.com/public2/SIM/plani/SIM_910800_20231002_125149_6876.JPG",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_72738_20230804_190527_108.JPG",
+    "https://www.neox-rms.com/public2/SIM/foto/SIM_72738_20230804_190527_108.JPG",
+    "https://www.statusimmobiliare.it/vendita/villa/pianoro/tutto-il-comune/img/lascia-richiesta.gif"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/SIM/foto/SIM_998681_20260603_123055_6736.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.svg",
+  "src": "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
+  "size": 6225
+ }
+}

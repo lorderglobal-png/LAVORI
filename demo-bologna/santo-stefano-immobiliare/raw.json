@@ -1,0 +1,624 @@
+{
+ "cfg": {
+  "slug": "santo-stefano-immobiliare",
+  "nome": "Santo Stefano Immobiliare",
+  "home": "https://www.santostefanoimmobiliare.it/",
+  "index": [
+   "https://www.santostefanoimmobiliare.it/city/bologna/"
+  ],
+  "rx": "/annunci/[a-z0-9-]+",
+  "n": 6,
+  "contact": "https://www.santostefanoimmobiliare.it/contatti/"
+ },
+ "home": {
+  "title": "Home - Santo Stefano Immobiliare",
+  "desc": "Santo Stefano Immobiliare nasce nel 2007, animando da subito il mercato immobiliare a Bologna e nell'intera Emilia Romagna.",
+  "emails": [
+   "email@email.com",
+   "info@santostefanoimmobiliare.it"
+  ],
+  "tels": [
+   "%2B39+051+65+69+235"
+  ],
+  "logos": [
+   "https://www.santostefanoimmobiliare.it/wp-content/uploads/2020/04/logo-santostefano-nuovo.png",
+   "https://www.santostefanoimmobiliare.it/wp-content/uploads/2022/07/logo-santostefano_bianco_claim.png",
+   "https://www.santostefanoimmobiliare.it/wp-content/uploads/2022/11/logo_EN7_marchio-positivo-1.png",
+   "https://www.santostefanoimmobiliare.it/wp-content/uploads/2022/11/logo-studioscpa-soc-consul-prof-1024x185.jpg",
+   "https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/logoss_footer.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(243, 243, 243)",
+   "color": "rgb(118, 128, 130)",
+   "font": "Ubuntu"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(118, 128, 130)",
+   "font": "Ubuntu"
+  },
+  "footer": {
+   "bg": "rgb(8, 57, 89)",
+   "color": "rgb(114, 119, 127)",
+   "font": "Ubuntu"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(110, 193, 228)",
+   "font": "Roboto, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(30, 115, 190)",
+   "font": "Ubuntu"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    9
+   ],
+   [
+    "rgb(0, 109, 210)",
+    2
+   ],
+   [
+    "rgb(60, 144, 190)",
+    2
+   ],
+   [
+    "rgb(0, 115, 230)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    268
+   ],
+   [
+    "rgb(255, 255, 255)",
+    13
+   ],
+   [
+    "rgb(253, 253, 253)",
+    5
+   ],
+   [
+    "rgb(0, 109, 210)",
+    2
+   ],
+   [
+    "rgb(234, 234, 234)",
+    2
+   ],
+   [
+    "rgb(60, 144, 190)",
+    2
+   ],
+   [
+    "rgba(191, 14, 0, 0.85)",
+    1
+   ],
+   [
+    "rgb(8, 57, 89)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(67, 74, 84)",
+    5
+   ],
+   [
+    "rgb(110, 193, 228)",
+    4
+   ],
+   [
+    "rgb(238, 238, 238)",
+    3
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    17
+   ],
+   [
+    "rgb(118, 128, 130)",
+    11
+   ],
+   [
+    "rgb(67, 74, 84)",
+    10
+   ],
+   [
+    "rgb(34, 34, 34)",
+    7
+   ],
+   [
+    "rgb(92, 114, 125)",
+    6
+   ],
+   [
+    "rgb(110, 193, 228)",
+    3
+   ],
+   [
+    "rgb(114, 119, 127)",
+    3
+   ],
+   [
+    "rgb(0, 112, 159)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Ubuntu",
+    96
+   ],
+   [
+    "Roboto, sans-serif",
+    6
+   ]
+  ],
+  "heads": [
+   "Vuoi vendere il tuo immobile?",
+   "Vuoi acquistare un immobile?",
+   "Le nostre proposte"
+  ],
+  "addr": null,
+  "final": "https://www.santostefanoimmobiliare.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.santostefanoimmobiliare.it/contatti/",
+  "emails": [
+   "info@santostefanoimmobiliare.it"
+  ],
+  "tels": [
+   "%2B39+051+65+69+235"
+  ],
+  "addr": null
+ },
+ "candidates": [
+  "https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/",
+  "https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/",
+  "https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/",
+  "https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/",
+  "https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/",
+  "https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/",
+  "https://www.santostefanoimmobiliare.it/annunci/elegante-trilocale-con-due-balconi/",
+  "https://www.santostefanoimmobiliare.it/annunci/dimora-di-charme-con-attivita-di-bb-efficienza-energetica-di-eccellenza-e-grande-giardino-privato/",
+  "https://www.santostefanoimmobiliare.it/annunci/monterenzio-bisano-appartamento-con-giardino-taverna-box-auto/",
+  "https://www.santostefanoimmobiliare.it/annunci/monterenzio-bisano-app-to-con-grande-terrazzo/",
+  "https://www.santostefanoimmobiliare.it/annunci/elegante-appartamento-con-due-balconi/",
+  "https://www.santostefanoimmobiliare.it/annunci/porzione-di-bifamiliare-di-recente-costruzione-con-parco-privato-di-2-500-mq-classe-a4/",
+  "https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-centro-storico/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/",
+   "title": "NUDA PROPRIETA'- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4 - Santo Stefano Immobiliare",
+   "h1": "NUDA PROPRIETA’- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "Similar Listings"
+   ],
+   "ogTitle": "NUDA PROPRIETA'- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4 - Santo Stefano Immobiliare",
+   "ogImage": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg",
+   "ogDesc": "In una delle zone più tranquille e verdi di Bologna, in località San Ruffillo, con una piacevole vista sulle colline circostanti, proponiamo in vendita la NUDA PROPRIETA’ di un appartamento posto al secondo ed ultimo piano di una recente palazzina servita da ascensore, realizzata nel 2022 e composta da poche unità abitative. L’abitazione gode di una splendida luminosità grazie alla tripla esposizione Est-Sud-Ovest e ...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/\",\"url\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/\",\"name\":\"NUDA PROPRIETA'- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4 - Santo Stefano Immobiliare\",\"isPartOf\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/#primaryimage\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/#primaryimage\"},\"thumbnailUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg\",\"datePublished\":\"2026-10-16T09:14:20+00:00\",\"breadcrumb\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/#primaryimage\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg\",\"width\":1000,\"height\":667},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/nuda-proprieta-appartamento-di-nuova-costruzione-in-classe-energetica-a4/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.santostefanoimmobiliare.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https://www.santostefanoimmobiliare.it/properties/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"NUDA PROPRIETA&#8217;- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.santostefanoimmobiliare.it/#website\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"name\":\"Santo Stefano Immobiliare\",\"description\":\"Immobili in vendita e in affitto a Bologna\",\"publisher\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.santostefanoimmobiliare.it/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\",\"name\":\"Santo Stefano Immobiliare\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"width\":235,\"height\":59,\"caption\":\"Santo Stefano Immobiliare\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-525x328.png",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-525x328.png",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/DSC05698-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_38_22.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_33_11.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_28_53.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_41_46.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-8.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "In una delle zone più tranquille e verdi di Bologna, in località San Ruffillo, con una piacevole vista sulle colline circostanti, proponiamo in vendita la NUDA PROPRIETA’ di un appartamento posto al secondo ed ultimo piano di una recente palazzina servita da ascensore, realizzata nel 2022 e composta da poche unità abitative. L’abitazione gode di una splendida luminosità grazie alla tripla esposizione Est-Sud-Ovest e si distingue per la presenza di numerosi spazi esterni: un ampio terrazzo abitabile, un secondo terrazzo e due balconi che permettono di vivere la casa anche all’aperto e di apprezzare il contesto verde che la circonda.\nL’ingresso si apre su una zona giorno ampia e ben organizzata, con soggiorno, zona pranzo e cucina a vista. La zona notte comprende due camere da letto e due bagni. A valorizzare ulteriormente gli ambienti è il pavimento in legno antico, presente in tutta l’abitazione, che dona carattere e calore alla casa.\nL’immobile è in Classe Energetica A4 ed è dotato di riscaldamento a pavimento centralizzato con contabilizzazione autonoma dei consumi e impianto di climatizzazione.\nCompleta la proprietà un’autorimessa di circa 20 mq.\nUna soluzione recente, efficiente e ben costruita, inserita in un contesto riservato e particolarmente piacevole, ideale per chi desidera effettuare un investimento immobiliare di qualità in una delle aree più apprezzate di Rastignano.",
+   "text": "Home\n \nPersone di casa\n \nIl nostro lavoro\n \nIl valutacasa\n \nProposte\n \nInformazioni\n \nLavora con noi\nPrevious\nNext\nVendita\nNUDA PROPRIETA’- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4\n€ 300.000\n via toscana 202/3, Bologna, San Ruffillo\nCondividi\nStampa\nAnteprima\nAggiornato il:\nOttobre 16, 2026\n2 Bagni\n100 m2\nAnno di costruzione: 2022\n \nDescrizione della proprietà\n\nIn una delle zone più tranquille e verdi di Bologna, in località San Ruffillo, con una piacevole vista sulle colline circostanti, proponiamo in vendita la NUDA PROPRIETA’ di un appartamento posto al secondo ed ultimo piano di una recente palazzina servita da ascensore, realizzata nel 2022 e composta da poche unità abitative. L’abitazione gode di una splendida luminosità grazie alla tripla esposizione Est-Sud-Ovest e si distingue per la presenza di numerosi spazi esterni: un ampio terrazzo abitabile, un secondo terrazzo e due balconi che permettono di vivere la casa anche all’aperto e di apprezzare il contesto verde che la circonda.\nL’ingresso si apre su una zona giorno ampia e ben organizzata, con soggiorno, zona pranzo e cucina a vista. La zona notte comprende due camere da letto e due bagni. A valorizzare ulteriormente gli ambienti è il pavimento in legno antico, presente in tutta l’abitazione, che dona carattere e calore alla casa.\nL’immobile è in Classe Energetica A4 ed è dotato di riscaldamento a pavimento centralizzato con contabilizzazione autonoma dei consumi e impianto di climatizzazione.\nCompleta la proprietà un’autorimessa di circa 20 mq.\nUna soluzione recente, efficiente e ben costruita, inserita in un contesto riservato e particolarmente piacevole, ideale per chi desidera effettuare un investimento immobiliare di qualità in una delle aree più apprezzate di Rastignano.\n\n15,07 kWh/m²a | Classe energetica A+\n\nA+\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\n \nIndirizzo proprietà\nIndirizzo: via toscana 202/3\nCittà: Bologna\nArea: San Ruffillo\nCAP: 40141\nPaese: Italia\nApri in Google Maps\n \nDettagli della struttura\nRiferimento: SF320\nPrezzo: € 300.000\nSuperficie commerciale: 100 m2\nCamere: 2\nBagni: 2\nIndice energetico: 15,07 kWh/m²a\nClasse energetica: A+\nLivelli: 1\nEsposizione lati: 3\nPiano: 2\nNr. box: 1\nRendita catastale: 918,00\nBalconi: 2\nLocali: 3\nAnno di costruzione: 2022\nDimensione Garage: 20\nSanto Stefano Immobiliare\n\nPiazza Trento e Trieste, 5\n         40137 Bologna, IT\n\n+39 051 65 69 235\n\nEmail\n\nInformativa Privacy\n\nInformativa Cookie\n\n\n\n\nInformativa ex-Legge 124/2017\n\nIn riferimento all’art. 1, comma 125-bis, Legge n. 124/2017 e successive modifiche, si segnala che la società ha ricevuto, nel corso dell’esercizio 2021, sovvenzioni, sussidi, vantaggi, contributi o aiuti pubblici in denaro o in natura, non aventi carattere generale e privi di natura corrispettiva, retributiva o risarcitoria. Nello specifico ha beneficiato dei seguenti “aiuti di stato”: Bonus Pubblicità come da art.57-bis del decreto legge 24 aprile 2017, n. 50, convertito dalla legge 21 giugno 2017, n. 96, e successive modificazioni per euro 6.027.\n\nNaviga\nHome\nPersone di casa\nIl nostro metodo\nCASADOPOCASA\nProposte\nNews\nFAQ\nInfo & contatti\nSeguici sui social\n\nFacebook\n\nInstagram\n\nCopyright 2015-2022 Santo Stefano Immobiliare srl - Società Unipersonale | PI/CF : 02740061201\nPrivacy Policy Cookie Policy Credits\nTERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO\nCompare Listings\nCompare\nContattaci",
+   "parsed": {
+    "prezzo": "€ 300.000",
+    "mq": "100 m2",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "2",
+    "classe_energetica": "A+",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-525x328.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-525x328.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/DSC05698-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_38_22.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_33_11.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_28_53.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/ChatGPT-Image-17-giu-2026-14_41_46.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-8.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12.jpg"
+  },
+  {
+   "url": "https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/",
+   "title": "TERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO - Santo Stefano Immobiliare",
+   "h1": "TERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password"
+   ],
+   "ogTitle": "TERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO - Santo Stefano Immobiliare",
+   "ogImage": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg",
+   "ogDesc": "In vendita a Reggiolo, nella zona di Brugneto, un terreno edificabile di ampie dimensioni con una superficie totale di 2.711 m². Questo terreno offre una vista aperta e rappresenta un’opportunità unica per chi desidera sviluppare immobili residenziali. La proprietà consente la costruzione di tre edifici, ciascuno dei quali può ospitare fino a cinque appartamenti di circa 70-80 m². Ogni unità abitativa può essere progettata ...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/\",\"url\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/\",\"name\":\"TERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO - Santo Stefano Immobiliare\",\"isPartOf\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/#primaryimage\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/#primaryimage\"},\"thumbnailUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg\",\"datePublished\":\"2026-10-15T15:24:21+00:00\",\"dateModified\":\"2026-10-15T15:34:52+00:00\",\"breadcrumb\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/#primaryimage\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg\",\"width\":696,\"height\":1052},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/terreno-edificabile-reggiolo-fraz-brugneto/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.santostefanoimmobiliare.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https://www.santostefanoimmobiliare.it/properties/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"TERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.santostefanoimmobiliare.it/#website\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"name\":\"Santo Stefano Immobiliare\",\"description\":\"Immobili in vendita e in affitto a Bologna\",\"publisher\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.santostefanoimmobiliare.it/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\",\"name\":\"Santo Stefano Immobiliare\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"width\":235,\"height\":59,\"caption\":\"Santo Stefano Immobiliare\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\"}}]}",
+   "imgs": [],
+   "bgs": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/dcef37ab-6729-4238-8f5d-8af1370e2441.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/990d76dc-afb7-4f9a-969f-7dacbc16c3b9.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/themes/wpresidence/img/defaults/modalback.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451-696x623.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/dcef37ab-6729-4238-8f5d-8af1370e2441-1110x623.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "In vendita a Reggiolo, nella zona di Brugneto, un terreno edificabile di ampie dimensioni con una superficie totale di 2.711 m². Questo terreno offre una vista aperta e rappresenta un’opportunità unica per chi desidera sviluppare immobili residenziali. La proprietà consente la costruzione di tre edifici, ciascuno dei quali può ospitare fino a cinque appartamenti di circa 70-80 m². Ogni unità abitativa può essere progettata con balconi, terrazzi o giardini privati, accompagnati da autorimesse e posti auto. Inoltre, è prevista un’area verde condominiale, ideale per momenti di relax e socializzazione all’aperto.",
+   "text": "Home\n \nPersone di casa\n \nIl nostro lavoro\n \nIl valutacasa\n \nProposte\n \nInformazioni\n \nLavora con noi\nVenditaTerreno\nTERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO\n€ 350.000\n Via Guastalla 194 Reggiolo, Reggiolo, Reggio Emilia\nCondividi\nStampa\nAnteprima\nAggiornato il:\nOttobre 15, 2026\n16,000 m2\n \nDescrizione della proprietà\n\nIn vendita a Reggiolo, nella zona di Brugneto, un terreno edificabile di ampie dimensioni con una superficie totale di 2.711 m². Questo terreno offre una vista aperta e rappresenta un’opportunità unica per chi desidera sviluppare immobili residenziali. La proprietà consente la costruzione di tre edifici, ciascuno dei quali può ospitare fino a cinque appartamenti di circa 70-80 m². Ogni unità abitativa può essere progettata con balconi, terrazzi o giardini privati, accompagnati da autorimesse e posti auto. Inoltre, è prevista un’area verde condominiale, ideale per momenti di relax e socializzazione all’aperto.\n\n \nIndirizzo proprietà\nIndirizzo: Via Guastalla 194 Reggiolo\nCittà: Reggiolo\nArea: Reggio Emilia\nCAP: 42046\nPaese: Italia\nApri in Google Maps\n \nDettagli della struttura\nPrezzo: € 350.000\nSanto Stefano Immobiliare\n\nPiazza Trento e Trieste, 5\n         40137 Bologna, IT\n\n+39 051 65 69 235\n\nEmail\n\nInformativa Privacy\n\nInformativa Cookie\n\n\n\n\nInformativa ex-Legge 124/2017\n\nIn riferimento all’art. 1, comma 125-bis, Legge n. 124/2017 e successive modifiche, si segnala che la società ha ricevuto, nel corso dell’esercizio 2021, sovvenzioni, sussidi, vantaggi, contributi o aiuti pubblici in denaro o in natura, non aventi carattere generale e privi di natura corrispettiva, retributiva o risarcitoria. Nello specifico ha beneficiato dei seguenti “aiuti di stato”: Bonus Pubblicità come da art.57-bis del decreto legge 24 aprile 2017, n. 50, convertito dalla legge 21 giugno 2017, n. 96, e successive modificazioni per euro 6.027.\n\nNaviga\nHome\nPersone di casa\nIl nostro metodo\nCASADOPOCASA\nProposte\nNews\nFAQ\nInfo & contatti\nSeguici sui social\n\nFacebook\n\nInstagram\n\nCopyright 2015-2022 Santo Stefano Immobiliare srl - Società Unipersonale | PI/CF : 02740061201\nPrivacy Policy Cookie Policy Credits\nVILLA INDIPENDENTE – VIA BATTINDARNO\nNUDA PROPRIETA’- APPARTAMENTO DI NUOVA COSTRUZIONE IN CLASSE ENERGETICA A4\nCompare Listings\nCompare\nContattaci",
+   "parsed": {
+    "prezzo": "€ 350.000",
+    "mq": "16,000",
+    "locali": null,
+    "camere": null,
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/dcef37ab-6729-4238-8f5d-8af1370e2441.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/990d76dc-afb7-4f9a-969f-7dacbc16c3b9.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/themes/wpresidence/img/defaults/modalback.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451-696x623.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/dcef37ab-6729-4238-8f5d-8af1370e2441-1110x623.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/8b94a131-11f6-48f5-8efb-086a2d80d451.jpg"
+  },
+  {
+   "url": "https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/",
+   "title": "VILLA INDIPENDENTE - VIA BATTINDARNO - Santo Stefano Immobiliare",
+   "h1": "VILLA INDIPENDENTE – VIA BATTINDARNO",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "Similar Listings"
+   ],
+   "ogTitle": "VILLA INDIPENDENTE - VIA BATTINDARNO - Santo Stefano Immobiliare",
+   "ogImage": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-1024x683.png",
+   "ogDesc": "In via Battindarno proponiamo in vendita una prestigiosa villa indipendente di 429 mq, una proprietà dal carattere elegante e ricercato. Edificata nel 1934, la villa si sviluppa su tre livelli e presenta ambienti ampi, luminosi e ben distribuiti, completati da un’ampia corte privata e da un terrazzo esterno. Al piano terra, il grande ingresso conduce agli eleganti spazi della zona giorno, dove troviamo la ...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/\",\"url\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/\",\"name\":\"VILLA INDIPENDENTE - VIA BATTINDARNO - Santo Stefano Immobiliare\",\"isPartOf\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/#primaryimage\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/#primaryimage\"},\"thumbnailUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04.png\",\"datePublished\":\"2026-09-24T15:44:17+00:00\",\"dateModified\":\"2026-10-06T15:45:16+00:00\",\"breadcrumb\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/#primaryimage\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04.png\",\"width\":1536,\"height\":1024},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/villa-indipendente-via-battindarno/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.santostefanoimmobiliare.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https://www.santostefanoimmobiliare.it/properties/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"VILLA INDIPENDENTE &#8211; VIA BATTINDARNO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.santostefanoimmobiliare.it/#website\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"name\":\"Santo Stefano Immobiliare\",\"description\":\"Immobili in vendita e in affitto a Bologna\",\"publisher\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.santostefanoimmobiliare.it/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\",\"name\":\"Santo Stefano Immobiliare\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"width\":235,\"height\":59,\"caption\":\"Santo Stefano Immobiliare\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/05/GRANAROLO-VIA-BALLINA-17-42-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/03/DSC02939-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2025/09/DSC08432-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2024/05/MONTELUNGO-29-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-17_48_03.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-17_50_02.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-17_51_39.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_56_46.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-16_01_45.png"
+   ],
+   "dataSrc": [],
+   "descBlock": null,
+   "text": "Home\n \nPersone di casa\n \nIl nostro lavoro\n \nIl valutacasa\n \nProposte\n \nInformazioni\n \nLavora con noi\nPrevious\nNext\nVenditaVilla\nVILLA INDIPENDENTE – VIA BATTINDARNO\n€ 1.390.000\n Via Battindarno 244 Bologna, Bologna, Bologna\nCondividi\nStampa\nAnteprima\nAggiornato il:\nOttobre 6, 2026\n4 Bagni\n1 Garages\n429 m2\nAnno di costruzione: 1930\n \nDescrizione della proprietà\n\nIn via Battindarno proponiamo in vendita una prestigiosa villa indipendente di 429 mq, una proprietà dal carattere elegante e ricercato. Edificata nel 1934, la villa si sviluppa su tre livelli e presenta ambienti ampi, luminosi e ben distribuiti, completati da un’ampia corte privata e da un terrazzo esterno. Al piano terra, il grande ingresso conduce agli eleganti spazi della zona giorno, dove troviamo la cucina abitabile, completamente attrezzata, l’ampio soggiorno e la sala da pranzo. Le grandi finestre contribuiscono a rendere gli ambienti particolarmente luminosi e piacevoli, creando uno spazio ideale sia per la vita quotidiana sia per accogliere gli ospiti. Al livello superiore si sviluppa la zona notte, composta da quattro camere da letto e quattro bagni: una distribuzione che garantisce ampi spazi e privacy a tutta la famiglia. La presenza di ulteriori ambienti permette inoltre di ricavare comodamente uno studio, una zona hobby o spazi dedicati agli ospiti. La proprietà è stata ristrutturata con particolare attenzione anche agli aspetti impiantistici: il riscaldamento è affidato a una pompa di calore, integrata da un impianto fotovoltaico. Una soluzione ideale per chi cerca una villa indipendente di importante metratura, caratterizzata da ambienti eleganti e rappresentativi, ampi spazi abitativi e dotazioni moderne, in una posizione comoda all’interno del contesto bolognese.\n\nA+\n\nA\n\nB\n\nC\n\nD\n\n193,15 kWh/m²a | Classe energetica E\n\nE\n\nF\n\nG\n\nH\n\n \nIndirizzo proprietà\nIndirizzo: Via Battindarno 244 Bologna\nCittà: Bologna\nArea: Bologna\nCAP: 40133\nPaese: Italia\nApri in Google Maps\n \nDettagli della struttura\nRiferimento: CAM1390\nPrezzo: € 1.390.000\nSuperficie commerciale: 429 m2\nCamere: 4\nBagni: 4\nIndice energetico: 193,15 kWh/m²a\nClasse energetica: E\nLivelli: 3\nEsposizione lati: 4\nLocali: 9\nAnno di costruzione: 1930\nGarages: 1\nDimensione Garage: 21\nSanto Stefano Immobiliare\n\nPiazza Trento e Trieste, 5\n         40137 Bologna, IT\n\n+39 051 65 69 235\n\nEmail\n\nInformativa Privacy\n\nInformativa Cookie\n\n\n\n\nInformativa ex-Legge 124/2017\n\nIn riferimento all’art. 1, comma 125-bis, Legge n. 124/2017 e successive modifiche, si segnala che la società ha ricevuto, nel corso dell’esercizio 2021, sovvenzioni, sussidi, vantaggi, contributi o aiuti pubblici in denaro o in natura, non aventi carattere generale e privi di natura corrispettiva, retributiva o risarcitoria. Nello specifico ha beneficiato dei seguenti “aiuti di stato”: Bonus Pubblicità come da art.57-bis del decreto legge 24 aprile 2017, n. 50, convertito dalla legge 21 giugno 2017, n. 96, e successive modificazioni per euro 6.027.\n\nNaviga\nHome\nPersone di casa\nIl nostro metodo\nCASADOPOCASA\nProposte\nNews\nFAQ\nInfo & contatti\nSeguici sui social\n\nFacebook\n\nInstagram\n\nCopyright 2015-2022 Santo Stefano Immobiliare srl - Società Unipersonale | PI/CF : 02740061201\nPrivacy Policy Cookie Policy Credits\nAMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA\nTERRENO EDIFICABILE REGGIOLO FRAZ. BRUGNETO\nCompare Listings\nCompare\nContattaci",
+   "parsed": {
+    "prezzo": "€ 1.390.000",
+    "mq": "429 m2",
+    "locali": "9",
+    "camere": "4",
+    "bagni": "4",
+    "piano": null,
+    "classe_energetica": "E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-1024x683.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/05/GRANAROLO-VIA-BALLINA-17-42-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/03/DSC02939-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2025/09/DSC08432-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2024/05/MONTELUNGO-29-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-17_48_03.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-17_50_02.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-17_51_39.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_56_46.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-16_01_45.png"
+   ],
+   "foto": "foto-3.png",
+   "foto_src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-1024x683.png"
+  },
+  {
+   "url": "https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/",
+   "title": "AMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA - Santo Stefano Immobiliare",
+   "h1": "AMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "Similar Listings"
+   ],
+   "ogTitle": "AMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA - Santo Stefano Immobiliare",
+   "ogImage": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg",
+   "ogDesc": "A Castenaso, in posizione comoda e residenziale, proponiamo in vendita un ampio e luminoso quadrilocale, situato al secondo piano, caratterizzato da ambienti generosi e ben distribuiti. La zona giorno, è composta da un ingresso arredabile e da una cucina abitabile, dotata di accesso diretto al primo balcone. Proseguendo troviamo un luminoso e spazioso soggiorno con accesso diretto ad un ampio terrazzo, che offre un ...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/\",\"url\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/\",\"name\":\"AMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA - Santo Stefano Immobiliare\",\"isPartOf\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/#primaryimage\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/#primaryimage\"},\"thumbnailUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg\",\"datePublished\":\"2026-08-31T11:02:01+00:00\",\"dateModified\":\"2026-09-24T14:26:54+00:00\",\"breadcrumb\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/#primaryimage\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg\",\"width\":1000,\"height\":667},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/ampio-quadrilocale-con-terrazzo-autorimessa-e-cantina/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.santostefanoimmobiliare.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https://www.santostefanoimmobiliare.it/properties/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.santostefanoimmobiliare.it/#website\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"name\":\"Santo Stefano Immobiliare\",\"description\":\"Immobili in vendita e in affitto a Bologna\",\"publisher\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.santostefanoimmobiliare.it/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\",\"name\":\"Santo Stefano Immobiliare\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"width\":235,\"height\":59,\"caption\":\"Santo Stefano Immobiliare\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-525x328.png",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-525x328.png",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/DSC05698-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-28.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-29.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-30.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-1.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-10.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "A Castenaso, in posizione comoda e residenziale, proponiamo in vendita un ampio e luminoso quadrilocale, situato al secondo piano, caratterizzato da ambienti generosi e ben distribuiti.\nLa zona giorno, è composta da un ingresso arredabile e da una cucina abitabile, dotata di accesso diretto al primo balcone.\nProseguendo troviamo un luminoso e spazioso soggiorno con accesso diretto ad un ampio terrazzo, che offre un piacevole sfogo esterno.\nLa zona notte è composta da due camere matrimoniali, una delle quali dispone di accesso diretto ad un ulteriore balcone, oltre ad un bagno.\nCompletano la proprietà una cantina e un’autorimessa, elementi che garantiscono ulteriore comodità e spazio a servizio dell’abitazione.\nUna soluzione ideale per chi è alla ricerca di un’abitazione spaziosa, funzionale e pronta per essere abitata, in una zona residenziale di Castenaso.",
+   "text": "Home\n \nPersone di casa\n \nIl nostro lavoro\n \nIl valutacasa\n \nProposte\n \nInformazioni\n \nLavora con noi\nPrevious\nNext\nVendita\nAMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA\n€ 248.000\n Via Filippo Turati 31 Castenaso, Bologna, Castenaso\nCondividi\nStampa\nAnteprima\nAggiornato il:\nSettembre 24, 2026\n1 Bagni\n1 Garages\n101 m2\n \nDescrizione della proprietà\n\nA Castenaso, in posizione comoda e residenziale, proponiamo in vendita un ampio e luminoso quadrilocale, situato al secondo piano, caratterizzato da ambienti generosi e ben distribuiti.\nLa zona giorno, è composta da un ingresso arredabile e da una cucina abitabile, dotata di accesso diretto al primo balcone.\nProseguendo troviamo un luminoso e spazioso soggiorno con accesso diretto ad un ampio terrazzo, che offre un piacevole sfogo esterno.\nLa zona notte è composta da due camere matrimoniali, una delle quali dispone di accesso diretto ad un ulteriore balcone, oltre ad un bagno.\nCompletano la proprietà una cantina e un’autorimessa, elementi che garantiscono ulteriore comodità e spazio a servizio dell’abitazione.\nUna soluzione ideale per chi è alla ricerca di un’abitazione spaziosa, funzionale e pronta per essere abitata, in una zona residenziale di Castenaso.\n\nA+\n\nA\n\nB\n\nC\n\n172,81 kWh/m²a | Classe energetica D\n\nD\n\nE\n\nF\n\nG\n\nH\n\n \nIndirizzo proprietà\nIndirizzo: Via Filippo Turati 31 Castenaso\nCittà: Bologna\nArea: Castenaso\nCAP: 40134\nPaese: Italia\nApri in Google Maps\n \nDettagli della struttura\nRiferimento: LP248\nPrezzo: € 248.000\nSuperficie commerciale: 101 m2\nCamere: 2\nBagni: 1\nIndice energetico: 172,81 kWh/m²a\nClasse energetica: D\nLivelli: 1\nEsposizione lati: 3\nPiano: 2\nmq cantina: 5\nRendita catastale: 468,68\nBalconi: 2\nLocali: 4\nTerrazzi: 1\nGarages: 1\nDimensione Garage: 16 mq\nSanto Stefano Immobiliare\n\nPiazza Trento e Trieste, 5\n         40137 Bologna, IT\n\n+39 051 65 69 235\n\nEmail\n\nInformativa Privacy\n\nInformativa Cookie\n\n\n\n\nInformativa ex-Legge 124/2017\n\nIn riferimento all’art. 1, comma 125-bis, Legge n. 124/2017 e successive modifiche, si segnala che la società ha ricevuto, nel corso dell’esercizio 2021, sovvenzioni, sussidi, vantaggi, contributi o aiuti pubblici in denaro o in natura, non aventi carattere generale e privi di natura corrispettiva, retributiva o risarcitoria. Nello specifico ha beneficiato dei seguenti “aiuti di stato”: Bonus Pubblicità come da art.57-bis del decreto legge 24 aprile 2017, n. 50, convertito dalla legge 21 giugno 2017, n. 96, e successive modificazioni per euro 6.027.\n\nNaviga\nHome\nPersone di casa\nIl nostro metodo\nCASADOPOCASA\nProposte\nNews\nFAQ\nInfo & contatti\nSeguici sui social\n\nFacebook\n\nInstagram\n\nCopyright 2015-2022 Santo Stefano Immobiliare srl - Società Unipersonale | PI/CF : 02740061201\nPrivacy Policy Cookie Policy Credits\nLUMINOSO BILOCALE ZONA BARCA\nVILLA INDIPENDENTE – VIA BATTINDARNO\nCompare Listings\nCompare\nContattaci",
+   "parsed": {
+    "prezzo": "€ 248.000",
+    "mq": "101 m2",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "2",
+    "classe_energetica": "D",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-525x328.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-525x328.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/DSC05698-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-28.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-29.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-30.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-1.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-10.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5.jpg"
+  },
+  {
+   "url": "https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/",
+   "title": "LUMINOSO BILOCALE ZONA BARCA - Santo Stefano Immobiliare",
+   "h1": "LUMINOSO BILOCALE ZONA BARCA",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "Similar Listings"
+   ],
+   "ogTitle": "LUMINOSO BILOCALE ZONA BARCA - Santo Stefano Immobiliare",
+   "ogImage": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-1024x683.png",
+   "ogDesc": "In contesto residenziale tranquillo e ben curato, ai margini del suggestivo Parco Fluviale lungo il fiume Reno, nel quartiere Barca, proponiamo in vendita un luminoso bilocale posto al secondo piano di una palazzina di soli tre piani ricostruita nel 2004. L’appartamento, in ottimo stato manutentivo, si distingue per la silenziosità garantita dall’affaccio interno e per la razionale distribuzione degli spazi. L’ingresso si apre su ...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/\",\"url\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/\",\"name\":\"LUMINOSO BILOCALE ZONA BARCA - Santo Stefano Immobiliare\",\"isPartOf\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/#primaryimage\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/#primaryimage\"},\"thumbnailUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15.png\",\"datePublished\":\"2026-08-28T13:45:12+00:00\",\"breadcrumb\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/#primaryimage\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15.png\",\"width\":1535,\"height\":1024},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/luminoso-bilocale-zona-barca/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.santostefanoimmobiliare.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https://www.santostefanoimmobiliare.it/properties/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"LUMINOSO BILOCALE ZONA BARCA\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.santostefanoimmobiliare.it/#website\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"name\":\"Santo Stefano Immobiliare\",\"description\":\"Immobili in vendita e in affitto a Bologna\",\"publisher\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.santostefanoimmobiliare.it/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\",\"name\":\"Santo Stefano Immobiliare\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"width\":235,\"height\":59,\"caption\":\"Santo Stefano Immobiliare\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-525x328.png",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    },
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/DSC05698-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_14.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_16.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_17.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_7.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_6.png"
+   ],
+   "dataSrc": [],
+   "descBlock": null,
+   "text": "Home\n \nPersone di casa\n \nIl nostro lavoro\n \nIl valutacasa\n \nProposte\n \nInformazioni\n \nLavora con noi\nPrevious\nNext\nVendita\nLUMINOSO BILOCALE ZONA BARCA\n€ 215.000\n via Coriolano vighi 3/4, Bologna, Bologna\nCondividi\nStampa\nAnteprima\nAggiornato il:\nAgosto 28, 2026\n1 Bagni\n1 Garages\n51 m2\nAnno di costruzione: 2001\n \nDescrizione della proprietà\n\nIn contesto residenziale tranquillo e ben curato, ai margini del suggestivo Parco Fluviale lungo il fiume Reno, nel quartiere Barca, proponiamo in vendita un luminoso bilocale posto al secondo piano di una palazzina di soli tre piani ricostruita nel 2004. L’appartamento, in ottimo stato manutentivo, si distingue per la silenziosità garantita dall’affaccio interno e per la razionale distribuzione degli spazi. L’ingresso si apre su un corridoio-disimpegno lungo il quale trovano spazio la camera matrimoniale e il bagno finestrato, mentre sul fondo si apre l’accogliente soggiorno con angolo cottura, valorizzato dall’accesso diretto a una comoda loggia ideale per momenti di relax all’aperto. La camera dispone inoltre di una seconda loggia più raccolta e riservata. Le finiture includono pavimenti in ceramica nella zona giorno e parquet nella camera da letto. L’immobile è inoltre dotato di aria condizionata, porta blindata e riscaldamento autonomo. Completa la proprietà un ampio box auto al piano interrato, particolarmente comodo per dimensioni e facilità di manovra.\nIl fabbricato si inserisce in un intervento di riqualificazione bioecologica residenziale, caratterizzato da un linguaggio architettonico contemporaneo, progettato per dialogare con il verde del Parco Fluviale del Reno attraverso logge, schermature frangisole e un attento rapporto tra luce, privacy e spazi esterni. La qualità architettonica dell’intervento è stata inoltre valorizzata all’interno di una pubblicazione della rivista Paesaggio Urbano di Maggioli Editore, dedicata alla trasformazione urbanistica e architettonica del quartiere Barca.\n\nA+\n\nA\n\nB\n\nC\n\n197,97 kWh/m²a | Classe energetica D\n\nD\n\nE\n\nF\n\nG\n\nH\n\n \nIndirizzo proprietà\nIndirizzo: via Coriolano vighi 3/4\nCittà: Bologna\nArea: Bologna\nCAP: 40133\nPaese: Italia\nApri in Google Maps\n \nDettagli della struttura\nRiferimento: SF215\nPrezzo: € 215.000\nSuperficie commerciale: 51 m2\nCamere: 1\nBagni: 1\nIndice energetico: 197,97 kWh/m²a\nClasse energetica: D\nLivelli: 1\nEsposizione lati: 2\nPiano: 2\nNr. box: 1\nRendita catastale: 464,81\nLocali: 2\nNumero altre camere: 1\nTerrazzi: 1\nAltezza soffitto: 2,70\nmq terrazzi: 9\nAnno di costruzione: 2001\nGarages: 1\nDimensione Garage: 26\nSanto Stefano Immobiliare\n\nPiazza Trento e Trieste, 5\n         40137 Bologna, IT\n\n+39 051 65 69 235\n\nEmail\n\nInformativa Privacy\n\nInformativa Cookie\n\n\n\n\nInformativa ex-Legge 124/2017\n\nIn riferimento all’art. 1, comma 125-bis, Legge n. 124/2017 e successive modifiche, si segnala che la società ha ricevuto, nel corso dell’esercizio 2021, sovvenzioni, sussidi, vantaggi, contributi o aiuti pubblici in denaro o in natura, non aventi carattere generale e privi di natura corrispettiva, retributiva o risarcitoria. Nello specifico ha beneficiato dei seguenti “aiuti di stato”: Bonus Pubblicità come da art.57-bis del decreto legge 24 aprile 2017, n. 50, convertito dalla legge 21 giugno 2017, n. 96, e successive modificazioni per euro 6.027.\n\nNaviga\nHome\nPersone di casa\nIl nostro metodo\nCASADOPOCASA\nProposte\nNews\nFAQ\nInfo & contatti\nSeguici sui social\n\nFacebook\n\nInstagram\n\nCopyright 2015-2022 Santo Stefano Immobiliare srl - Società Unipersonale | PI/CF : 02740061201\nPrivacy Policy Cookie Policy Credits\nSOLUZIONE INDIPENDENTE CON AMPIO GIARDINO A FAENZA – VIA LUNGA\nAMPIO QUADRILOCALE CON TERRAZZO, AUTORIMESSA E CANTINA\nCompare Listings\nCompare\nContattaci",
+   "parsed": {
+    "prezzo": "€ 215.000",
+    "mq": "51 m2",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "1",
+    "piano": "2",
+    "classe_energetica": "D",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-1024x683.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/10/VIA-TOSCANA-NUDA-PROPRIETA-12-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/09/ChatGPT-Image-11-set-2026-15_52_04-525x328.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/CASTENASO-VIA-TURATI-5-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/DSC05698-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_14.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_16.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_17.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_7.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_6.png"
+   ],
+   "foto": "foto-5.png",
+   "foto_src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-VIGHI_15-1024x683.png"
+  },
+  {
+   "url": "https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/",
+   "title": "VIA MASSARENTI VILLETTA CON GIARDINO E INGRESSO INDIPENDENTE - Santo Stefano Immobiliare",
+   "h1": "VIA MASSARENTI VILLETTA CON GIARDINO E INGRESSO INDIPENDENTE",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "Similar Listings"
+   ],
+   "ogTitle": "VIA MASSARENTI VILLETTA CON GIARDINO E INGRESSO INDIPENDENTE - Santo Stefano Immobiliare",
+   "ogImage": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38-1024x683.png",
+   "ogDesc": "In posizione comoda ai principali servizi e inserita in un contesto tranquillo e riservato, proponiamo in vendita una caratteristica soluzione indipendente con giardino privato esclusivo, ideale per chi desidera vivere in totale autonomia senza rinunciare alle comodità della città. L’immobile si sviluppa su tre livelli collegati internamente e si distingue per la versatilità degli spazi e le interessanti possibilità di utilizzo. Al piano terra ...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/\",\"url\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/\",\"name\":\"VIA MASSARENTI VILLETTA CON GIARDINO E INGRESSO INDIPENDENTE - Santo Stefano Immobiliare\",\"isPartOf\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/#primaryimage\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/#primaryimage\"},\"thumbnailUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38.png\",\"datePublished\":\"2026-08-28T11:44:22+00:00\",\"breadcrumb\":{\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/#primaryimage\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38.png\",\"width\":1535,\"height\":1024},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.santostefanoimmobiliare.it/annunci/via-massarenti-villetta-con-giardino-e-ingresso-indipendente/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.santostefanoimmobiliare.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https://www.santostefanoimmobiliare.it/properties/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"VIA MASSARENTI VILLETTA CON GIARDINO E INGRESSO INDIPENDENTE\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.santostefanoimmobiliare.it/#website\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"name\":\"Santo Stefano Immobiliare\",\"description\":\"Immobili in vendita e in affitto a Bologna\",\"publisher\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.santostefanoimmobiliare.it/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.santostefanoimmobiliare.it/#organization\",\"name\":\"Santo Stefano Immobiliare\",\"url\":\"https://www.santostefanoimmobiliare.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\",\"url\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"contentUrl\":\"https://www.santostefanoimmobiliare.it/wp-content/uploads/2014/12/sslogo.png\",\"width\":235,\"height\":59,\"caption\":\"Santo Stefano Immobiliare\"},\"image\":{\"@id\":\"https://www.santostefanoimmobiliare.it/#/schema/logo/image/\"}}]}",
+   "imgs": [
+    {
+     "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/02/TINTORIA-12-67-525x328.jpg",
+     "w": 525,
+     "h": 328,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-24.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-25.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-26.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_31_40.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-1.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "In posizione comoda ai principali servizi e inserita in un contesto tranquillo e riservato, proponiamo in vendita una caratteristica soluzione indipendente con giardino privato esclusivo, ideale per chi desidera vivere in totale autonomia senza rinunciare alle comodità della città. L’immobile si sviluppa su tre livelli collegati internamente e si distingue per la versatilità degli spazi e le interessanti possibilità di utilizzo.\nAl piano terra trovano spazio il soggiorno, la cucina, una camera da letto e il bagno finestrato. Salendo al piano superiore si raggiunge un ampio sottotetto collegato da scala interna. La presenza di questo ambiente rappresenta un prezioso valore aggiunto che, pur mantenendo la propria destinazione accessoria, amplia sensibilmente la fruibilità dell’abitazione, offrendo uno spazio ideale multifunzione da adattare alle proprie esigenze. Il piano interrato ospita una spaziosa taverna con antibagno e bagno, un ambiente particolarmente versatile e accogliente, perfetto per momenti conviviali oppure come spazio dedicato al tempo libero. Completa la proprietà il giardino esclusivo, un piacevole spazio esterno che contribuisce a rendere la casa ancora più vivibile e riservata.",
+   "text": "Home\n \nPersone di casa\n \nIl nostro lavoro\n \nIl valutacasa\n \nProposte\n \nInformazioni\n \nLavora con noi\nPrevious\nNext\nvilletta\nVIA MASSARENTI VILLETTA CON GIARDINO E INGRESSO INDIPENDENTE\n€ 310.000\n Via Benvenuto Cellini 2/1A Bologna, Bologna, Massarenti\nCondividi\nStampa\nAnteprima\nAggiornato il:\nAgosto 28, 2026\n2 Bagni\nAnno di costruzione: 1970\n \nDescrizione della proprietà\n\nIn posizione comoda ai principali servizi e inserita in un contesto tranquillo e riservato, proponiamo in vendita una caratteristica soluzione indipendente con giardino privato esclusivo, ideale per chi desidera vivere in totale autonomia senza rinunciare alle comodità della città. L’immobile si sviluppa su tre livelli collegati internamente e si distingue per la versatilità degli spazi e le interessanti possibilità di utilizzo.\nAl piano terra trovano spazio il soggiorno, la cucina, una camera da letto e il bagno finestrato. Salendo al piano superiore si raggiunge un ampio sottotetto collegato da scala interna. La presenza di questo ambiente rappresenta un prezioso valore aggiunto che, pur mantenendo la propria destinazione accessoria, amplia sensibilmente la fruibilità dell’abitazione, offrendo uno spazio ideale multifunzione da adattare alle proprie esigenze. Il piano interrato ospita una spaziosa taverna con antibagno e bagno, un ambiente particolarmente versatile e accogliente, perfetto per momenti conviviali oppure come spazio dedicato al tempo libero. Completa la proprietà il giardino esclusivo, un piacevole spazio esterno che contribuisce a rendere la casa ancora più vivibile e riservata.\n\nA+\n\nA\n\nB\n\nC\n\nD\n\nE\n\n244,16 kWh/m²a | Classe energetica F\n\nF\n\nG\n\nH\n\n \nIndirizzo proprietà\nIndirizzo: Via Benvenuto Cellini 2/1A Bologna\nCittà: Bologna\nArea: Massarenti\nCAP: 40138\nPaese: Italia\nApri in Google Maps\n \nDettagli della struttura\nRiferimento: MC310\nPrezzo: € 310.000\nSuperficie commerciale: 105 m2\nCamere: 2\nBagni: 2\nIndice energetico: 244,16 kWh/m²a\nClasse energetica: F\nLivelli: 3\nEsposizione lati: 3\nRendita catastale: 697,22\nmq giardino privato: 60\nLocali: 5\nAnno di costruzione: 1970\nSanto Stefano Immobiliare\n\nPiazza Trento e Trieste, 5\n         40137 Bologna, IT\n\n+39 051 65 69 235\n\nEmail\n\nInformativa Privacy\n\nInformativa Cookie\n\n\n\n\nInformativa ex-Legge 124/2017\n\nIn riferimento all’art. 1, comma 125-bis, Legge n. 124/2017 e successive modifiche, si segnala che la società ha ricevuto, nel corso dell’esercizio 2021, sovvenzioni, sussidi, vantaggi, contributi o aiuti pubblici in denaro o in natura, non aventi carattere generale e privi di natura corrispettiva, retributiva o risarcitoria. Nello specifico ha beneficiato dei seguenti “aiuti di stato”: Bonus Pubblicità come da art.57-bis del decreto legge 24 aprile 2017, n. 50, convertito dalla legge 21 giugno 2017, n. 96, e successive modificazioni per euro 6.027.\n\nNaviga\nHome\nPersone di casa\nIl nostro metodo\nCASADOPOCASA\nProposte\nNews\nFAQ\nInfo & contatti\nSeguici sui social\n\nFacebook\n\nInstagram\n\nCopyright 2015-2022 Santo Stefano Immobiliare srl - Società Unipersonale | PI/CF : 02740061201\nPrivacy Policy Cookie Policy Credits\nELEGANTE TRILOCALE CON DUE BALCONI\nSOLUZIONE INDIPENDENTE CON AMPIO GIARDINO A FAENZA – VIA LUNGA\nCompare Listings\nCompare\nContattaci",
+   "parsed": {
+    "prezzo": "€ 310.000",
+    "mq": "105 m2",
+    "locali": "5",
+    "camere": "2",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "F",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38-1024x683.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/02/TINTORIA-12-67-525x328.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-24.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-25.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-26.jpg",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_31_40.png",
+    "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/VIA-CELLINI-1.jpg"
+   ],
+   "foto": "foto-6.png",
+   "foto_src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2026/08/ChatGPT-Image-17-giu-2026-15_47_38-1024x683.png"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.santostefanoimmobiliare.it/wp-content/uploads/2020/04/logo-santostefano-nuovo.png",
+  "size": 16858
+ }
+}

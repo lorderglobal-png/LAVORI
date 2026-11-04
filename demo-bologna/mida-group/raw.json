@@ -1,0 +1,699 @@
+{
+ "cfg": {
+  "slug": "mida-group",
+  "nome": "Mida Group",
+  "home": "https://www.midaimmobiliare.com/",
+  "index": [
+   "https://www.midaimmobiliare.com/vendita/",
+   "https://www.midaimmobiliare.com/affitto/"
+  ],
+  "rx": "/(vendita|affitto)/[^/]+/(bologna|casalecchio|sasso-marconi|san-lazzaro|zola-predosa|anzola|castel-maggiore|pianoro)/[^/]+/[0-9]+[.]html",
+  "n": 6,
+  "contact": "https://www.midaimmobiliare.com/contatti.html"
+ },
+ "home": {
+  "title": "Agenzia immobiliare | Bologna | Mida Group",
+  "desc": "La tua agenzia immobiliare | Mida Group a Bologna - Scopri tutte le nostre proposte in vendita e in affitto",
+  "emails": [
+   "mida2@midaimmobiliare.com"
+  ],
+  "tels": [
+   "//051 5510004"
+  ],
+  "logos": [
+   "https://www.midaimmobiliare.com/img/mida-immobiliare-logo.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(245, 245, 245)",
+   "color": "rgb(139, 146, 147)",
+   "font": "Helvetica, Arial, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(139, 146, 147)",
+   "font": "Helvetica, Arial, sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(37, 42, 43)",
+   "color": "rgb(139, 146, 147)",
+   "font": "Helvetica, Arial, sans-serif"
+  },
+  "h1": {
+   "bg": "rgb(239, 74, 74)",
+   "color": "rgb(231, 239, 247)",
+   "font": "Lato, Helvetica, Arial, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(139, 146, 147)",
+   "font": "Helvetica, Arial, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgb(236, 137, 77)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    200
+   ],
+   [
+    "rgb(239, 74, 74)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    9
+   ],
+   [
+    "rgb(245, 245, 245)",
+    9
+   ],
+   [
+    "rgb(236, 78, 78)",
+    7
+   ],
+   [
+    "rgb(247, 247, 247)",
+    5
+   ],
+   [
+    "rgb(222, 222, 222)",
+    2
+   ],
+   [
+    "rgb(37, 42, 43)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(57, 64, 65)",
+    12
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(231, 239, 247)",
+    1
+   ],
+   [
+    "rgb(222, 222, 224)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(139, 146, 147)",
+    38
+   ],
+   [
+    "rgb(57, 64, 65)",
+    15
+   ],
+   [
+    "rgb(128, 128, 128)",
+    7
+   ],
+   [
+    "rgba(0, 0, 0, 0.8)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "Helvetica, Arial, sans-serif",
+    74
+   ],
+   [
+    "Roboto, Helvetica, Arial, sans-serif",
+    24
+   ],
+   [
+    "Roboto",
+    7
+   ],
+   [
+    "Lato, Helvetica, Arial, sans-serif",
+    6
+   ]
+  ],
+  "heads": [
+   "051 551000",
+   "Per la Tua Casa a Bologna affidati alla nostra Agenzia Immobiliare",
+   "Case e appartamenti in vendita e in affitto",
+   "Abbiamo ancora molti Immobili che Potrebbero Interessarti",
+   "Informativa"
+  ],
+  "addr": null,
+  "final": "https://www.midaimmobiliare.com/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.midaimmobiliare.com/contatti.html",
+  "emails": [
+   "mida2@midaimmobiliare.com"
+  ],
+  "tels": [
+   "//051 5510004",
+   "+39051551000"
+  ],
+  "addr": null
+ },
+ "candidates": [
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/santa-viola/998124.html",
+  "https://www.midaimmobiliare.com/vendita/villa/bologna/mazzini/927387.html",
+  "https://www.midaimmobiliare.com/vendita/villa/bologna/colli-san-mamolo/996477.html",
+  "https://www.midaimmobiliare.com/vendita/villa/san-lazzaro/san-lazzaro/998463.html",
+  "https://www.midaimmobiliare.com/vendita/capannone/san-lazzaro/san-lazzaro/994028.html",
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/san-donato/1000142.html",
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/fiera/1000096.html",
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/zanardi/1000019.html",
+  "https://www.midaimmobiliare.com/vendita/negozio/bologna/palazzo-dello-sport/999958.html",
+  "https://www.midaimmobiliare.com/vendita/ufficio/bologna/d-azeglio/999881.html",
+  "https://www.midaimmobiliare.com/vendita/garage/bologna/mazzini/999872.html",
+  "https://www.midaimmobiliare.com/vendita/garage/bologna/centro-storico/999814.html",
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/mazzini/999739.html",
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/marconi/999593.html",
+  "https://www.midaimmobiliare.com/vendita/appartamento/bologna/aeroporto/999479.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/strada-maggiore/1000054.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/pianoro/tutto-il-comune/1000016.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/costa/1000008.html",
+  "https://www.midaimmobiliare.com/affitto/garage/bologna/fiera/1000006.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/costa/999800.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/costa/999798.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/san-felice/999770.html",
+  "https://www.midaimmobiliare.com/affitto/ufficio/bologna/lunetta-gamberini/999769.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/bolognina/999605.html",
+  "https://www.midaimmobiliare.com/affitto/appartamento/bologna/saffi/999451.html",
+  "https://www.midaimmobiliare.com/affitto/ufficio/casalecchio/meridiana/999198.html",
+  "https://www.midaimmobiliare.com/affitto/ufficio/casalecchio/meridiana/999190.html"
+ ],
+ "listings": [
+  {
+   "url": "https://www.midaimmobiliare.com/vendita/appartamento/bologna/santa-viola/998124.html",
+   "title": "Appartamento in Vendita a Bologna Santa Viola - Rif. 02M1020 | Mida Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "051 551000",
+    "Appartamento - Vendita - Santa Viola - Bologna",
+    "Contattaci In Agenzia",
+    "Federico Scaramagli",
+    "Contattaci Per Email",
+    "Calcola il mutuo"
+   ],
+   "ogTitle": null,
+   "ogImage": "",
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a Bologna Santa Viola - Rif. 02M1020 - Scopri tutte le proposte di Mida Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_998124_20260404_183521_5129.jpg",
+     "w": 1920,
+     "h": 1357,
+     "rw": 812
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_998124_20260404_183521_5129.jpg",
+     "w": 1920,
+     "h": 1357,
+     "rw": 146
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_998124_20261101_161113_3180.jpg",
+     "w": 1920,
+     "h": 1357,
+     "rw": 146
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_998124_20261101_161113_4085.jpg",
+     "w": 1920,
+     "h": 1357,
+     "rw": 146
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/998124_02M_998053_20260405_185148_2091.jpg",
+     "w": 1920,
+     "h": 1285,
+     "rw": 154
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/998124_02M_998053_20260405_185354_4553.jpg",
+     "w": 1920,
+     "h": 1285,
+     "rw": 154
+    }
+   ],
+   "bgs": [
+    "img/top-scheda1.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "Nuovo intervento residenziale a Bologna: Residenza Le Viole. Nel cuore del quartiere Santa Viola, zona in forte espansione e oggetto di importanti interventi di riqualificazione urbana, è in corso di realizzazione, un elegante complesso residenziale composto da 30 unità abitative di diverse tipologie e metrature, pensate per rispondere alle più moderne esigenze abitative. Le soluzioni saranno completamente personalizzabili nelle finiture interne, offrendo la possibilità di creare ambienti su misura, in linea con il proprio stile e le proprie necessità. Ogni unità sarà dotata di riscaldamento autonomo a pavimento con pompa di calore, impianto di climatizzazione, impianto fotovoltaico privato da 1,5 kW, oltre a spazi esterni esclusivi come giardini, terrazzi o ampi balconi. Completano la proprietà posti auto coperti o autorimesse, con predisposizione per la ricarica dei veicoli elettrici. L'edificio sarà realizzato con tecnologie antisismiche e in classe energetica A4, garantendo elevato comfort abitativo, efficienza energetica e ridotti consumi. In posizione strategica, ottimamente collegata al centro città grazie alla nuova linea del tram, che renderà gli spostamenti ancora più comodi e veloci. Ottima opportunità fiscale: per gli acquirenti che acquistano come prima abitazione, è prevista la possibilità di usufruire delle detrazioni fiscali previste dalla normativa vigente, un vantaggio concreto che rende questo intervento ancora più interessante anche dal punto di vista dell'investimento.UNITA' 13: PRIMO PIANO , INGRESSO SU SOGGIORNO CON ANGOLO COTTURA, 2 CAMERE, BAGNO E BALCONE. COMPLETA LA PROPRIETA' POSTO AUTO COPERTO AL PIANO INTERRATO E DUE POSTI BICI. Rif 02M1020/13. Euro 247.600 per l'appartamento e Euro 25.000 per il posto auto.",
+   "text": "051 551000\nAffitto\nVendita\nAgenzia\nVendi casa\nMIDAPP\nNotizie immobiliari\nContatti\n1 / 11\nCodice Immobile : 02M1020\nvendita € 247.600\nMq 63\nCamere 2\nBagni 1\n Indietro\nAppartamento - Vendita - Santa Viola - Bologna\n\nNuovo intervento residenziale a Bologna: Residenza Le Viole. Nel cuore del quartiere Santa Viola, zona in forte espansione e oggetto di importanti interventi di riqualificazione urbana, è in corso di realizzazione, un elegante complesso residenziale composto da 30 unità abitative di diverse tipologie e metrature, pensate per rispondere alle più moderne esigenze abitative. Le soluzioni saranno completamente personalizzabili nelle finiture interne, offrendo la possibilità di creare ambienti su misura, in linea con il proprio stile e le proprie necessità. Ogni unità sarà dotata di riscaldamento autonomo a pavimento con pompa di calore, impianto di climatizzazione, impianto fotovoltaico privato da 1,5 kW, oltre a spazi esterni esclusivi come giardini, terrazzi o ampi balconi. Completano la proprietà posti auto coperti o autorimesse, con predisposizione per la ricarica dei veicoli elettrici. L'edificio sarà realizzato con tecnologie antisismiche e in classe energetica A4, garantendo elevato comfort abitativo, efficienza energetica e ridotti consumi. In posizione strategica, ottimamente collegata al centro città grazie alla nuova linea del tram, che renderà gli spostamenti ancora più comodi e veloci. Ottima opportunità fiscale: per gli acquirenti che acquistano come prima abitazione, è prevista la possibilità di usufruire delle detrazioni fiscali previste dalla normativa vigente, un vantaggio concreto che rende questo intervento ancora più interessante anche dal punto di vista dell'investimento.UNITA' 13: PRIMO PIANO , INGRESSO SU SOGGIORNO CON ANGOLO COTTURA, 2 CAMERE, BAGNO E BALCONE. COMPLETA LA PROPRIETA' POSTO AUTO COPERTO AL PIANO INTERRATO E DUE POSTI BICI. Rif 02M1020/13. Euro 247.600 per l'appartamento e Euro 25.000 per il posto auto.\n\n\n\nDettagli Dell' Immobile\nCODICE:02M1020\nOFFERTA:VENDITA\nTIPOLOGIA:APPARTAMENTO\nPREZZO:247.600\nMETRI QUADRI:63\nZONA:SANTA VIOLA\nCAMERE:2\nBAGNI:1\nGARAGE:\nPIANO:1°\nCLASSE ENERGETICA:A4\nASCENSORE:ascensore\nIPE:in fase di rilascio\nRISCALDAMENTO:riscaldamento autonomo\nSTATO IMMOBILE:libero\nVANI:3\nCUCINA:angolo cottura\nGIARDINO PRIV.:\nARREDO:\nSPESE COND.:\n\n\n\nNote Sulla Zona\n\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nVideo\nCondividi\nFacebook\nX\nEmail\nContattaci In Agenzia\n\n\n\nFederico Scaramagli\n Ufficio : 051 551000\n Fax : 051 0547785\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando la richiesta a fianco.\n\n\nContattaci Per Email\n      Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCerca Casa\nVendita / Affitto\nSeleziona\nvendita\naffitto\nSeleziona\nLocalità\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nSeleziona\nZona\nTipologia\nSeleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia\nPrezzo Massimo\nMQ minimi\nBagni\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCamere\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCodice immobile\nCalcola il mutuo\nPrezzo della casa\n€\nAnticipo\n€\nTasso d'interesse\n%\nDurata mutuo\nAnni\nInizio mutuo\nGen\n2026\nCalcola\nmortgage-advice-online.org\nProposte simili\nContatti\nMIDA GROUP srl\n\nViale Oriani 2\n40137 Bologna\nTel. 051 551000\nMail mida2@midaimmobiliare.com\n\nMappa del sito\nCase in vendita a Bologna\nCase in affitto a Bologna\nLascia la tua richiesta\nAgenzia Immobiliare Bologna\nLascia la tua richiesta\n\nStai cercando casa? Lascia la tua richiesta e verrai contattato per proporti le nostre novità immobiliari\n\nCopyright 2026 Mida Immobiliare - P.IVA 01904871207 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies     ",
+   "parsed": {
+    "prezzo": "247.600",
+    "mq": "63",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "1°",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/02M/foto/02M_998124_20260404_183521_5129.jpg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_998124_20260404_183521_5129.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_998124_20261101_161113_3180.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_998124_20261101_161113_4085.jpg",
+    "https://www.neox-rms.com/public2/02M/foto/998124_02M_998053_20260405_185148_2091.jpg",
+    "https://www.neox-rms.com/public2/02M/foto/998124_02M_998053_20260405_185354_4553.jpg",
+    "https://www.midaimmobiliare.com/vendita/appartamento/bologna/santa-viola/img/top-scheda1.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/02M/foto/02M_998124_20260404_183521_5129.jpg"
+  },
+  {
+   "url": "https://www.midaimmobiliare.com/vendita/villa/bologna/mazzini/927387.html",
+   "title": "Villa in Vendita a Bologna Mazzini - Rif. 02M012 | Mida Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "051 551000",
+    "Villa - Vendita - Mazzini - Bologna",
+    "Contattaci In Agenzia",
+    "Andrea Lenzarini",
+    "Contattaci Per Email",
+    "Calcola il mutuo"
+   ],
+   "ogTitle": null,
+   "ogImage": "",
+   "ogDesc": null,
+   "desc": "Villa in Vendita a Bologna Mazzini - Rif. 02M012 - Scopri tutte le proposte di Mida Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083745_5914.jpg",
+     "w": 1280,
+     "h": 1251,
+     "rw": 105
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083544_7421.jpg",
+     "w": 1280,
+     "h": 1211,
+     "rw": 109
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083705_2442.jpg",
+     "w": 1280,
+     "h": 1206,
+     "rw": 109
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083613_8980.jpg",
+     "w": 1280,
+     "h": 1123,
+     "rw": 117
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083815_1791.jpg",
+     "w": 1280,
+     "h": 1065,
+     "rw": 124
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_927387_20250402_154458_1592.jpg",
+     "w": 1280,
+     "h": 960,
+     "rw": 767
+    }
+   ],
+   "bgs": [
+    "img/top-scheda2.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "VILLA INDIPENDENTE IN VENDITA AD.ZE PIAZZA TRENTO E TRIESTE In posizione esclusiva e riservata, a pochi passi da Piazza Trento e Trieste, proponiamo in vendita una villa indipendente di altissimo livello, circondata da un ampio giardino privato e dotata di area parcheggio per più auto. Una soluzione unica per chi desidera comfort, riservatezza e tecnologia, in un contesto tranquillo e centrale.La villa è stata completamente ricostruita ex novo, con grande attenzione alle finiture, al risparmio energetico e alla sicurezza sismica, dando vita a una proprietà esclusiva, perfetta in ogni dettaglio.La zona giorno, al piano terra, è un ampio open space di oltre 120 mq, impreziosito da ampie vetrate e da una scenografica scala in cristallo che collega elegantemente tutti i livelli della casa.Al primo piano si sviluppano tre camere matrimoniali, tutte con bagno dedicato, un soggiorno passante e un balcone.Anche al secondo piano troviamo altre tre camere da letto, ciascuna con bagno privato, oltre a una riservata zona studio con bagno esclusivo. Al piano interrato, con altezza superiore ai 3 metri, è stato realizzato uno spazio benessere polifunzionale: una piscina interrata con area relax, ideale per momenti di puro comfort in ogni stagione. Dotazioni tecniche e impiantistiche ai massimi livelli:Riscaldamento a pavimento Impianto domotico avanzato Recupero acque piovane Impianto fotovoltaico da 18 kW con accumulo da 15 kW Classe energetica A4 il top in termini di efficienza. La proprietà è completata da un'ampia area di parcheggio in grado di ospitare comodamente più veicoli, anche di grandi dimensioni.Una villa pensata per garantire il massimo benessere, in una posizione di prestigio, con spazi generosi e rifiniture di livello superiore. Maggiori informazioni su richiesta Contattaci per un appuntamento riservato. rif 02m012.",
+   "text": "051 551000\nAffitto\nVendita\nAgenzia\nVendi casa\nMIDAPP\nNotizie immobiliari\nContatti\n1 / 52\nCodice Immobile : 02M012\nvendita € 2.550.000\nMq 680\nCamere 6\nBagni 9\n Indietro\nVilla - Vendita - Mazzini - Bologna\n\nVILLA INDIPENDENTE IN VENDITA AD.ZE PIAZZA TRENTO E TRIESTE In posizione esclusiva e riservata, a pochi passi da Piazza Trento e Trieste, proponiamo in vendita una villa indipendente di altissimo livello, circondata da un ampio giardino privato e dotata di area parcheggio per più auto. Una soluzione unica per chi desidera comfort, riservatezza e tecnologia, in un contesto tranquillo e centrale.La villa è stata completamente ricostruita ex novo, con grande attenzione alle finiture, al risparmio energetico e alla sicurezza sismica, dando vita a una proprietà esclusiva, perfetta in ogni dettaglio.La zona giorno, al piano terra, è un ampio open space di oltre 120 mq, impreziosito da ampie vetrate e da una scenografica scala in cristallo che collega elegantemente tutti i livelli della casa.Al primo piano si sviluppano tre camere matrimoniali, tutte con bagno dedicato, un soggiorno passante e un balcone.Anche al secondo piano troviamo altre tre camere da letto, ciascuna con bagno privato, oltre a una riservata zona studio con bagno esclusivo. Al piano interrato, con altezza superiore ai 3 metri, è stato realizzato uno spazio benessere polifunzionale: una piscina interrata con area relax, ideale per momenti di puro comfort in ogni stagione. Dotazioni tecniche e impiantistiche ai massimi livelli:Riscaldamento a pavimento Impianto domotico avanzato Recupero acque piovane Impianto fotovoltaico da 18 kW con accumulo da 15 kW Classe energetica A4 il top in termini di efficienza. La proprietà è completata da un'ampia area di parcheggio in grado di ospitare comodamente più veicoli, anche di grandi dimensioni.Una villa pensata per garantire il massimo benessere, in una posizione di prestigio, con spazi generosi e rifiniture di livello superiore. Maggiori informazioni su richiesta Contattaci per un appuntamento riservato. rif 02m012.\n\n\n\nDettagli Dell' Immobile\nCODICE:02M012\nOFFERTA:VENDITA\nTIPOLOGIA:VILLA\nPREZZO:2.550.000\nMETRI QUADRI:680\nZONA:MAZZINI\nCAMERE:6\nBAGNI:9\nGARAGE:\nPIANO:TERRA\nCLASSE ENERGETICA:A4\nASCENSORE:noascensore\nIPE:15.95\nRISCALDAMENTO:riscaldamento autonomo\nSTATO IMMOBILE:libero\nVANI:15\nCUCINA:cucina a vista\nGIARDINO PRIV.:\nARREDO:\nSPESE COND.:\n\n\n\nNote Sulla Zona\n\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nCondividi\nFacebook\nX\nEmail\nContattaci In Agenzia\n\n\n\nAndrea Lenzarini\n Ufficio : 051 551000\n Fax : 051 0547785\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando la richiesta a fianco.\n\n\nContattaci Per Email\n      Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCerca Casa\nVendita / Affitto\nSeleziona\nvendita\naffitto\nSeleziona\nLocalità\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nSeleziona\nZona\nTipologia\nSeleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia\nPrezzo Massimo\nMQ minimi\nBagni\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCamere\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCodice immobile\nCalcola il mutuo\nPrezzo della casa\n€\nAnticipo\n€\nTasso d'interesse\n%\nDurata mutuo\nAnni\nInizio mutuo\nGen\n2026\nCalcola\nmortgage-advice-online.org\nProposte simili\nContatti\nMIDA GROUP srl\n\nViale Oriani 2\n40137 Bologna\nTel. 051 551000\nMail mida2@midaimmobiliare.com\n\nMappa del sito\nCase in vendita a Bologna\nCase in affitto a Bologna\nLascia la tua richiesta\nAgenzia Immobiliare Bologna\nLascia la tua richiesta\n\nStai cercando casa? Lascia la tua richiesta e verrai contattato per proporti le nostre novità immobiliari\n\nCopyright 2026 Mida Immobiliare - P.IVA 01904871207 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies     ",
+   "parsed": {
+    "prezzo": "2.550.000",
+    "mq": "680",
+    "locali": "15",
+    "camere": "6",
+    "bagni": "9",
+    "piano": "TERRA",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083745_5914.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083544_7421.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083705_2442.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083613_8980.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083815_1791.jpg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_927387_20250402_154458_1592.jpg",
+    "https://www.midaimmobiliare.com/vendita/villa/bologna/mazzini/img/top-scheda2.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/02M/plani/02M_927387_20250305_083745_5914.jpg"
+  },
+  {
+   "url": "https://www.midaimmobiliare.com/vendita/villa/bologna/colli-san-mamolo/996477.html",
+   "title": "Villa in Vendita a Bologna Colli San Mamolo - Rif. 02M971 | Mida Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "051 551000",
+    "Villa - Vendita - Colli San Mamolo - Bologna",
+    "Contattaci In Agenzia",
+    "Federico Scaramagli",
+    "Contattaci Per Email",
+    "Calcola il mutuo"
+   ],
+   "ogTitle": null,
+   "ogImage": "",
+   "ogDesc": null,
+   "desc": "Villa in Vendita a Bologna Colli San Mamolo - Rif. 02M971 - Scopri tutte le proposte di Mida Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092126_7418.jpg",
+     "w": 1744,
+     "h": 1242,
+     "rw": 145
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_996477_20260101_115959_2175.jpeg",
+     "w": 1920,
+     "h": 1093,
+     "rw": 1940
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_996477_20260101_115959_2175.jpeg",
+     "w": 1920,
+     "h": 1093,
+     "rw": 1920
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092100_8765.jpg",
+     "w": 1796,
+     "h": 1168,
+     "rw": 158
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092012_6854.jpg",
+     "w": 1807,
+     "h": 1151,
+     "rw": 162
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092038_6479.jpg",
+     "w": 1744,
+     "h": 1187,
+     "rw": 151
+    }
+   ],
+   "bgs": [
+    "img/top-scheda3.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "Seleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia",
+   "text": "051 551000\nAffitto\nVendita\nAgenzia\nVendi casa\nMIDAPP\nNotizie immobiliari\nContatti\n– / 54\nCodice Immobile : 02M971\nvendita € Trattativa Riservata\nMq 400\nCamere 4\nBagni 6\n Indietro\nVilla - Vendita - Colli San Mamolo - Bologna\n\nA 5 minuti dal centro città, in via dei Colli, nella collina più bella e panoramica di Bologna, comodamente servita anche dal trasporto pubblico, proponiamo in vendita una villa singola di nuova costruzione, ultimata nel 2023 e in classe energetica A4. La proprietà gode di una splendida posizione panoramica ed è immersa nel verde, circondata da un ampio giardino pianeggiante di oltre 1.500 mq, una caratteristica estremamente rara per la zona, che garantisce privacy e grande vivibilità degli spazi esterni. È inoltre già presente un progetto approvato per la realizzazione di una ampia piscina e di un elegante pergolato esterno, pensati per valorizzare ulteriormente il giardino e creare una vera zona living all'aperto. La villa si sviluppa su più livelli collegati sia da ascensore interno sia da comoda scala interna e presenta al piano terra una splendida zona giorno con una sala di circa 50 mq caratterizzata da ampie vetrate scorrevoli affacciate direttamente sul giardino e sul panorama circostante, creando una continuità naturale tra interno ed esterno, oltre a una cucina abitabile ideale per la vita quotidiana e per ricevere ospiti. Al piano primo si trovano tre camere da letto, tutte dotate di bagno privato, e cabina armadio, mentre al piano superiore è presente un'ulteriore camera con bagno e comodi spazi ripostiglio ricavati nel sottotetto.Al piano interrato la proprietà offre un ampio spazio polivalente con ingresso autonomo, collegato anche tramite ascensore e scala interna, perfetto come palestra, studio professionale, area hobby o zona ospiti, rendendo la villa estremamente versatile e adatta a diverse esigenze abitative. L'immobile è dotato di cappotto termico e di impiantistica di ultima generazione con sistema di allarme, domotica per la gestione integrata di tutti gli impianti, aria condizionata canalizzata, riscaldamento a pavimento con caldaia ibrida, impianto fotovoltaico con accumulo adeguato e colonnina di ricarica per auto elettrica.Una soluzione esclusiva e panoramica che unisce comfort moderno, elevata efficienza energetica e una posizione unica nel verde, a pochi minuti dal centro di Bologna, ideale per chi desidera una villa indipendente senza rinunciare alla comodità dei servizi rif. 02m971\n\n\n\nDettagli Dell' Immobile\nCODICE:02M971\nOFFERTA:VENDITA\nTIPOLOGIA:VILLA\nPREZZO:TRATTATIVA RISERVATA\nMETRI QUADRI:400\nZONA:COLLI SAN MAMOLO\nCAMERE:4\nBAGNI:6\nGARAGE:\nPIANO:TERRA CIELO\nCLASSE ENERGETICA:A4\nASCENSORE:ascensore\nIPE:10.36\nRISCALDAMENTO:riscaldamento autonomo\nSTATO IMMOBILE:libero\nVANI:6\nCUCINA:cucina abitabile\nGIARDINO PRIV.:1500mq\nARREDO:cucina\nSPESE COND.:\n\n\n\nNote Sulla Zona\n\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nCondividi\nFacebook\nX\nEmail\nContattaci In Agenzia\n\n\n\nFederico Scaramagli\n Ufficio : 051 551000\n Fax : 051 0547785\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando la richiesta a fianco.\n\n\nContattaci Per Email\n      Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCerca Casa\nVendita / Affitto\nSeleziona\nvendita\naffitto\nSeleziona\nLocalità\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nSeleziona\nZona\nTipologia\nSeleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia\nPrezzo Massimo\nMQ minimi\nBagni\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCamere\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCodice immobile\nCalcola il mutuo\nPrezzo della casa\n€\nAnticipo\n€\nTasso d'interesse\n%\nDurata mutuo\nAnni\nInizio mutuo\nGen\n2026\nCalcola\nmortgage-advice-online.org\nProposte simili\nContatti\nMIDA GROUP srl\n\nViale Oriani 2\n40137 Bologna\nTel. 051 551000\nMail mida2@midaimmobiliare.com\n\nMappa del sito\nCase in vendita a Bologna\nCase in affitto a Bologna\nLascia la tua richiesta\nAgenzia Immobiliare Bologna\nLascia la tua richiesta\n\nStai cercando casa? Lascia la tua richiesta e verrai contattato per proporti le nostre novità immobiliari\n\nCopyright 2026 Mida Immobiliare - P.IVA 01904871207 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies     ",
+   "parsed": {
+    "prezzo": "TRATTATIVA RISERVATA",
+    "mq": "400",
+    "locali": "6",
+    "camere": "4",
+    "bagni": "6",
+    "piano": "TERRA CIELO",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092126_7418.jpg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_996477_20260101_115959_2175.jpeg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_996477_20260101_115959_2175.jpeg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092100_8765.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092012_6854.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092038_6479.jpg",
+    "https://www.midaimmobiliare.com/vendita/villa/bologna/colli-san-mamolo/img/top-scheda3.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/02M/plani/02M_996477_20260103_092126_7418.jpg"
+  },
+  {
+   "url": "https://www.midaimmobiliare.com/vendita/villa/san-lazzaro/san-lazzaro/998463.html",
+   "title": "Villetta in Vendita a San Lazzaro San Lazzaro - Rif. 02M1029 | Mida Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "051 551000",
+    "Villetta - Vendita - San Lazzaro - San Lazzaro",
+    "Contattaci In Agenzia",
+    "Federico Scaramagli",
+    "Contattaci Per Email",
+    "Calcola il mutuo"
+   ],
+   "ogTitle": null,
+   "ogImage": "",
+   "ogDesc": null,
+   "desc": "Villetta in Vendita a San Lazzaro San Lazzaro - Rif. 02M1029 - Scopri tutte le proposte di Mida Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/20260523104612-02M_998463_20260506_104554_2871.jpg",
+     "w": 1556,
+     "h": 696,
+     "rw": 230
+    },
+    {
+     "src": "https://www.midaimmobiliare.com/images/temp-images/property-img.jpg",
+     "w": 770,
+     "h": 386,
+     "rw": 0
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/20260523104730-02M_998463_20260506_104718_8738.jpg",
+     "w": 804,
+     "h": 359,
+     "rw": 231
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/plani/20260523104822-02M_998463_20260506_104810_3773.jpg",
+     "w": 376,
+     "h": 500,
+     "rw": 77
+    },
+    {
+     "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i17425!3i11858!4i256!2m3!1e0!2sm!3i802568322!3m13!2sit-IT!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyAeYopCcgM2-ecXIbD0On4MBiqMFwJ26UI&token=125686",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    },
+    {
+     "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i17423!3i11859!4i256!2m3!1e0!2sm!3i802568322!3m13!2sit-IT!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyAeYopCcgM2-ecXIbD0On4MBiqMFwJ26UI&token=111295",
+     "w": 256,
+     "h": 256,
+     "rw": 256
+    }
+   ],
+   "bgs": [
+    "img/top-scheda4.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "A pochi minuti dal centro di San Lazzaro di Savena, immersa nello splendido contesto naturale del Parco dei Gessi Bolognesi, proponiamo in vendita la nuda proprietà di una caratteristica porzione di casolare con giardino di proprietà, inserita in una posizione di rara bellezza paesaggistica, circondata dal verde e dalla tranquillità, ma al tempo stesso comoda a tutti i principali servizi.L'unità immobiliare si sviluppa su due livelli ed è caratterizzata dal fascino tipico dei casolari emiliani, con ambienti accoglienti e dettagli che ne valorizzano il carattere autentico.Al piano terra troviamo una grande cucina abitabile con camino, un ampio salone, una sala da pranzo ed un bagno ospiti. La zona giorno risulta calda e conviviale, ideale per chi ama vivere ambienti dal sapore tradizionale immersi nella natura.Al piano superiore si sviluppa la zona notte composta da due camere da letto, un bagno ed un grande ripostiglio finestrato, facilmente utilizzabile come studio, locale hobby o vano pluriuso.La proprietà è dotata di riscaldamento autonomo, tetto in legno con travi a vista e finiture che richiamano il fascino rustico tipico dei casolari di campagna, creando un'atmosfera unica e particolarmente suggestiva.Soluzione ideale per chi è alla ricerca di un investimento patrimoniale di pregio in uno dei contesti naturalistici più esclusivi del territorio bolognese. Rif. 02m1029 Euro 260.000",
+   "text": "051 551000\nAffitto\nVendita\nAgenzia\nVendi casa\nMIDAPP\nNotizie immobiliari\nContatti\n– / 31\nCodice Immobile : 02M1029\nvendita € 260.000\nMq 196\nCamere 3\nBagni 2\n Indietro\nVilletta - Vendita - San Lazzaro - San Lazzaro\n\nA pochi minuti dal centro di San Lazzaro di Savena, immersa nello splendido contesto naturale del Parco dei Gessi Bolognesi, proponiamo in vendita la nuda proprietà di una caratteristica porzione di casolare con giardino di proprietà, inserita in una posizione di rara bellezza paesaggistica, circondata dal verde e dalla tranquillità, ma al tempo stesso comoda a tutti i principali servizi.L'unità immobiliare si sviluppa su due livelli ed è caratterizzata dal fascino tipico dei casolari emiliani, con ambienti accoglienti e dettagli che ne valorizzano il carattere autentico.Al piano terra troviamo una grande cucina abitabile con camino, un ampio salone, una sala da pranzo ed un bagno ospiti. La zona giorno risulta calda e conviviale, ideale per chi ama vivere ambienti dal sapore tradizionale immersi nella natura.Al piano superiore si sviluppa la zona notte composta da due camere da letto, un bagno ed un grande ripostiglio finestrato, facilmente utilizzabile come studio, locale hobby o vano pluriuso.La proprietà è dotata di riscaldamento autonomo, tetto in legno con travi a vista e finiture che richiamano il fascino rustico tipico dei casolari di campagna, creando un'atmosfera unica e particolarmente suggestiva.Soluzione ideale per chi è alla ricerca di un investimento patrimoniale di pregio in uno dei contesti naturalistici più esclusivi del territorio bolognese. Rif. 02m1029 Euro 260.000\n\n\n\nDettagli Dell' Immobile\nCODICE:02M1029\nOFFERTA:VENDITA\nTIPOLOGIA:VILLETTA\nPREZZO:260.000\nMETRI QUADRI:196\nZONA:SAN LAZZARO\nCAMERE:3\nBAGNI:2\nGARAGE:\nPIANO:TERRA CIELO\nCLASSE ENERGETICA:in fase di richiesta\nASCENSORE:noascensore\nIPE:in fase di rilascio\nRISCALDAMENTO:riscaldamento autonomo\nSTATO IMMOBILE:nuda proprietà\nVANI:6\nCUCINA:\nGIARDINO PRIV.:\nARREDO:\nSPESE COND.:\n\n\n\nNote Sulla Zona\n\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nCondividi\nFacebook\nX\nEmail\nContattaci In Agenzia\n\n\n\nFederico Scaramagli\n Ufficio : 051 551000\n Fax : 051 0547785\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando la richiesta a fianco.\n\n\nContattaci Per Email\n      Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCerca Casa\nVendita / Affitto\nSeleziona\nvendita\naffitto\nSeleziona\nLocalità\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nSeleziona\nZona\nTipologia\nSeleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia\nPrezzo Massimo\nMQ minimi\nBagni\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCamere\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCodice immobile\nCalcola il mutuo\nPrezzo della casa\n€\nAnticipo\n€\nTasso d'interesse\n%\nDurata mutuo\nAnni\nInizio mutuo\nGen\n2026\nCalcola\nmortgage-advice-online.org\nProposte simili\nContatti\nMIDA GROUP srl\n\nViale Oriani 2\n40137 Bologna\nTel. 051 551000\nMail mida2@midaimmobiliare.com\n\nMappa del sito\nCase in vendita a Bologna\nCase in affitto a Bologna\nLascia la tua richiesta\nAgenzia Immobiliare Bologna\nLascia la tua richiesta\n\nStai cercando casa? Lascia la tua richiesta e verrai contattato per proporti le nostre novità immobiliari\n\nCopyright 2026 Mida Immobiliare - P.IVA 01904871207 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies     ",
+   "parsed": {
+    "prezzo": "260.000",
+    "mq": "196",
+    "locali": "6",
+    "camere": "3",
+    "bagni": "2",
+    "piano": "TERRA CIELO",
+    "classe_energetica": "in fase di richiesta",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/02M/plani/20260523104612-02M_998463_20260506_104554_2871.jpg",
+    "https://www.midaimmobiliare.com/images/temp-images/property-img.jpg",
+    "https://www.neox-rms.com/public2/02M/plani/20260523104730-02M_998463_20260506_104718_8738.jpg",
+    "https://www.midaimmobiliare.com/vendita/villa/san-lazzaro/san-lazzaro/img/top-scheda4.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/02M/plani/20260523104612-02M_998463_20260506_104554_2871.jpg"
+  },
+  {
+   "url": "https://www.midaimmobiliare.com/vendita/capannone/san-lazzaro/san-lazzaro/994028.html",
+   "title": "Magazzino in Vendita a San Lazzaro San Lazzaro - Rif. 02M864 | Mida Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "051 551000",
+    "Magazzino - Vendita - San Lazzaro - San Lazzaro",
+    "Contattaci In Agenzia",
+    "Federico Scaramagli",
+    "Contattaci Per Email",
+    "Calcola il mutuo"
+   ],
+   "ogTitle": null,
+   "ogImage": "",
+   "ogDesc": null,
+   "desc": "Magazzino in Vendita a San Lazzaro San Lazzaro - Rif. 02M864 - Scopri tutte le proposte di Mida Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/20260130151003-02M_994028_20250901_185133_6937.jpeg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 440
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/20260130151003-02M_994028_20250901_185133_6937.jpeg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 77
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/20260130151014-02M_994028_20250901_185132_5279.jpeg",
+     "w": 1440,
+     "h": 1920,
+     "rw": 77
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_994028_20250901_185131_1121.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_994028_20250901_185129_9577.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_994028_20250901_185125_6847.jpeg",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    }
+   ],
+   "bgs": [
+    "img/top-scheda3.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "San Lazzaro di Savena Via Torino Magazzino in Vendita In posizione centrale e comoda a tutti i servizi, proponiamo in vendita ampio magazzino seminterrato di circa 160 mq, con accesso carrabile diretto. L'immobile si presenta in buono stato ed è ideale come deposito per artigiani, professionisti o attività che necessitano di spazi di stoccaggio. Caratteristiche principali: Porta d'ingresso carrabile con larghezza di 3,35 metri e altezza di 2 metri Altezza interna magazzino: 2,62 metri Libero da subito Ottima opportunità anche per investimento. Richiesta: € 78.000 Rif. 02M864",
+   "text": "051 551000\nAffitto\nVendita\nAgenzia\nVendi casa\nMIDAPP\nNotizie immobiliari\nContatti\n1 / 13\nCodice Immobile : 02M864\nvendita € 78.000\nMq 164\nCamere 0\nBagni 0\n Indietro\nMagazzino - Vendita - San Lazzaro - San Lazzaro\n\nSan Lazzaro di Savena Via Torino Magazzino in Vendita In posizione centrale e comoda a tutti i servizi, proponiamo in vendita ampio magazzino seminterrato di circa 160 mq, con accesso carrabile diretto. L'immobile si presenta in buono stato ed è ideale come deposito per artigiani, professionisti o attività che necessitano di spazi di stoccaggio. Caratteristiche principali: Porta d'ingresso carrabile con larghezza di 3,35 metri e altezza di 2 metri Altezza interna magazzino: 2,62 metri Libero da subito Ottima opportunità anche per investimento. Richiesta: € 78.000 Rif. 02M864\n\n\n\nDettagli Dell' Immobile\nCODICE:02M864\nOFFERTA:VENDITA\nTIPOLOGIA:MAGAZZINO\nPREZZO:78.000\nMETRI QUADRI:164\nZONA:SAN LAZZARO\nCAMERE:0\nBAGNI:0\nGARAGE:\nPIANO:SEMINTERRATO\nCLASSE ENERGETICA:esente da obbligo\nASCENSORE:noascensore\nIPE:in fase di rilascio\nRISCALDAMENTO:\nSTATO IMMOBILE:libero\nVANI:0\nCUCINA:\nGIARDINO PRIV.:\nARREDO:\nSPESE COND.:\n\n\n\nNote Sulla Zona\n\nMappa\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nCondividi\nFacebook\nX\nEmail\nContattaci In Agenzia\n\n\n\nFederico Scaramagli\n Ufficio : 051 551000\n Fax : 051 0547785\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando la richiesta a fianco.\n\n\nContattaci Per Email\n      Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCerca Casa\nVendita / Affitto\nSeleziona\nvendita\naffitto\nSeleziona\nLocalità\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nSeleziona\nZona\nTipologia\nSeleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia\nPrezzo Massimo\nMQ minimi\nBagni\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCamere\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCodice immobile\nCalcola il mutuo\nPrezzo della casa\n€\nAnticipo\n€\nTasso d'interesse\n%\nDurata mutuo\nAnni\nInizio mutuo\nGen\n2026\nCalcola\nmortgage-advice-online.org\nProposte simili\nContatti\nMIDA GROUP srl\n\nViale Oriani 2\n40137 Bologna\nTel. 051 551000\nMail mida2@midaimmobiliare.com\n\nMappa del sito\nCase in vendita a Bologna\nCase in affitto a Bologna\nLascia la tua richiesta\nAgenzia Immobiliare Bologna\nLascia la tua richiesta\n\nStai cercando casa? Lascia la tua richiesta e verrai contattato per proporti le nostre novità immobiliari\n\nCopyright 2026 Mida Immobiliare - P.IVA 01904871207 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies     ",
+   "parsed": {
+    "prezzo": "78.000",
+    "mq": "164",
+    "locali": "0",
+    "camere": "0",
+    "bagni": "0",
+    "piano": "SEMINTERRATO",
+    "classe_energetica": "esente da obbligo",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/02M/foto/20260130151003-02M_994028_20250901_185133_6937.jpeg",
+    "https://www.neox-rms.com/public2/02M/foto/20260130151003-02M_994028_20250901_185133_6937.jpeg",
+    "https://www.neox-rms.com/public2/02M/foto/20260130151014-02M_994028_20250901_185132_5279.jpeg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_994028_20250901_185131_1121.jpeg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_994028_20250901_185129_9577.jpeg",
+    "https://www.neox-rms.com/public2/02M/foto/02M_994028_20250901_185125_6847.jpeg",
+    "https://www.midaimmobiliare.com/vendita/capannone/san-lazzaro/san-lazzaro/img/top-scheda3.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/02M/foto/20260130151003-02M_994028_20250901_185133_6937.jpeg"
+  },
+  {
+   "url": "https://www.midaimmobiliare.com/vendita/appartamento/bologna/san-donato/1000142.html",
+   "title": "Appartamento in Vendita a Bologna San Donato - Rif. 02M1086 | Mida Agenzia Immobiliare",
+   "h1": null,
+   "h2": [
+    "051 551000",
+    "Appartamento - Vendita - San Donato - Bologna",
+    "Contattaci In Agenzia",
+    "Marzia Trimboli",
+    "Contattaci Per Email",
+    "Calcola il mutuo"
+   ],
+   "ogTitle": null,
+   "ogImage": "",
+   "ogDesc": null,
+   "desc": "Appartamento in Vendita a Bologna San Donato - Rif. 02M1086 - Scopri tutte le proposte di Mida Immobiliare",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6673.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 767
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6673.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180504_9841.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_7354.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6358.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    },
+    {
+     "src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180502_1604.JPG",
+     "w": 1920,
+     "h": 1440,
+     "rw": 137
+    }
+   ],
+   "bgs": [
+    "img/top-scheda5.jpg"
+   ],
+   "dataSrc": [],
+   "descBlock": "APPARTAMENTO IN VENDITA A BOLOGNA - IN VIA DI CORTICELLA ULTIMO PIANO CON POSTO AUTO E CORTE DI PROPRIETÀI. Proponiamo in vendita appartamento al secondo e ultimo piano di una palazzina senza ascensore. L'immobile è composto da ingresso ampio e arredabile, soggiorno con vista aperta e luminosa, cucina semiabitabile, bagno finestrato con vasca, camera matrimoniale con cabina armadio e due ulteriori vani ad uso studio, ideali per chi desidera spazi dedicati al lavoro o ai propri interessi ed eventualmente per inserirci due letti singoli con armadio a ponte. Completano la proprietà una cantina, un posto auto scoperto di 13 mq ed una corte privata di 50 mq. Gli interni, ristrutturati negli anni '80, presentano pavimenti in granito, infissi in alluminio e scuri in PVC. Riscaldamento autonomo con caldaia sostituita circa cinque anni fa e aria condizionata.Una soluzione da personalizzare, con la comodità del posto auto e di uno spazio esterno di proprietà. Rif. 02M1086 € 218.000,00",
+   "text": "051 551000\nAffitto\nVendita\nAgenzia\nVendi casa\nMIDAPP\nNotizie immobiliari\nContatti\n1 / 17\nCodice Immobile : 02M1086\nvendita € 218.000\nMq 92.25\nCamere 2\nBagni 1\n Indietro\nAppartamento - Vendita - San Donato - Bologna\n\nAPPARTAMENTO IN VENDITA A BOLOGNA - IN VIA DI CORTICELLA ULTIMO PIANO CON POSTO AUTO E CORTE DI PROPRIETÀI. Proponiamo in vendita appartamento al secondo e ultimo piano di una palazzina senza ascensore. L'immobile è composto da ingresso ampio e arredabile, soggiorno con vista aperta e luminosa, cucina semiabitabile, bagno finestrato con vasca, camera matrimoniale con cabina armadio e due ulteriori vani ad uso studio, ideali per chi desidera spazi dedicati al lavoro o ai propri interessi ed eventualmente per inserirci due letti singoli con armadio a ponte. Completano la proprietà una cantina, un posto auto scoperto di 13 mq ed una corte privata di 50 mq. Gli interni, ristrutturati negli anni '80, presentano pavimenti in granito, infissi in alluminio e scuri in PVC. Riscaldamento autonomo con caldaia sostituita circa cinque anni fa e aria condizionata.Una soluzione da personalizzare, con la comodità del posto auto e di uno spazio esterno di proprietà. Rif. 02M1086 € 218.000,00\n\n\n\nDettagli Dell' Immobile\nCODICE:02M1086\nOFFERTA:VENDITA\nTIPOLOGIA:APPARTAMENTO\nPREZZO:218.000\nMETRI QUADRI:92.25\nZONA:SAN DONATO\nCAMERE:2\nBAGNI:1\nGARAGE:\nPIANO:2°\nCLASSE ENERGETICA:in fase di rilascio\nASCENSORE:noascensore\nIPE:in fase di rilascio\nRISCALDAMENTO:riscaldamento autonomo\nSTATO IMMOBILE:\nVANI:5\nCUCINA:\nGIARDINO PRIV.:\nARREDO:\nSPESE COND.:9\n\n\n\nNote Sulla Zona\n\nCondividi\nFacebook\nX\nEmail\nContattaci In Agenzia\n\n\n\nMarzia Trimboli\n Ufficio : 051 551000\n Fax : 051 0547785\n\nPuoi contattare direttamente il nostro funzionario telefonando in agenzia o inviando un email compilando la richiesta a fianco.\n\n\nContattaci Per Email\n      Autorizzo il trattamento dei dati personali ai sensi del Regolamento UE 2016/679 GDPR. Per leggere l'informativa in forma estesa clicca qui.\n\n\nCerca Casa\nVendita / Affitto\nSeleziona\nvendita\naffitto\nSeleziona\nLocalità\nSeleziona\nBologna\nProvincia di Bologna\nAltre Province\nSeleziona\nZona\nTipologia\nSeleziona la tipologia\nappartamento\nattico\nvilletta a schiera\nvilla\ncasa indipendente\nufficio\nnegozio\nattività commerciale\nbar/ristorante\ncapannone\nmagazzino\nlotto/terreno\nSeleziona la tipologia\nPrezzo Massimo\nMQ minimi\nBagni\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCamere\nSeleziona\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSeleziona\nCodice immobile\nCalcola il mutuo\nPrezzo della casa\n€\nAnticipo\n€\nTasso d'interesse\n%\nDurata mutuo\nAnni\nInizio mutuo\nGen\n2026\nCalcola\nmortgage-advice-online.org\nProposte simili\nContatti\nMIDA GROUP srl\n\nViale Oriani 2\n40137 Bologna\nTel. 051 551000\nMail mida2@midaimmobiliare.com\n\nMappa del sito\nCase in vendita a Bologna\nCase in affitto a Bologna\nLascia la tua richiesta\nAgenzia Immobiliare Bologna\nLascia la tua richiesta\n\nStai cercando casa? Lascia la tua richiesta e verrai contattato per proporti le nostre novità immobiliari\n\nCopyright 2026 Mida Immobiliare - P.IVA 01904871207 - Tutti i diritti riservati - Web By Neox Engineering - Privacy - Cookies     ",
+   "parsed": {
+    "prezzo": "218.000",
+    "mq": "92.25",
+    "locali": "5",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "2°",
+    "classe_energetica": "in fase di rilascio",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6673.JPG",
+    "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6673.JPG",
+    "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180504_9841.JPG",
+    "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_7354.JPG",
+    "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6358.JPG",
+    "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180502_1604.JPG",
+    "https://www.midaimmobiliare.com/vendita/appartamento/bologna/san-donato/img/top-scheda5.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.neox-rms.com/public2/02M/foto/02M_1000142_20261101_180503_6673.JPG"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.midaimmobiliare.com/img/mida-immobiliare-logo.png",
+  "size": 8283
+ }
+}

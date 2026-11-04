@@ -1,0 +1,792 @@
+{
+ "cfg": {
+  "slug": "studio-giannerini",
+  "nome": "Studio Giannerini",
+  "home": "https://www.studiogiannerini.it/",
+  "index": [
+   "https://www.studiogiannerini.it/immobili.php?op=vendita",
+   "https://www.studiogiannerini.it/immobili.php?op=locazione"
+  ],
+  "rx": "scheda[.]php[?]q=",
+  "n": 6
+ },
+ "home": {
+  "title": "Studio Giannerini | Agenzia Immobiliare a Bologna dal 1968",
+  "desc": "Siamo un'Agenzia Immobiliare di Bologna per tradizione di famiglia e ci occupiamo di intermediazione e consulenza immobiliare a tutto tondo.",
+  "emails": [
+   "info@studiogiannerini.it",
+   "k-rxu_vw7ptf0io9egvuhnwadz5sqay8tpc6jmz4knbjrlbd+emyfghoq1l@i2.csx",
+   "giannerini@pec.collegamentimmobiliari.it"
+  ],
+  "tels": [
+   "0516440141",
+   "3271555427"
+  ],
+  "logos": [
+   "https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(85, 85, 85)",
+   "font": "Avenir_roman, Arial, verdana"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Avenir_roman, Arial, verdana"
+  },
+  "footer": {
+   "bg": "rgb(34, 34, 34)",
+   "color": "rgb(221, 221, 221)",
+   "font": "Avenir_roman, Arial, verdana"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Avenir_medium"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(85, 85, 85)",
+   "font": "Avenir_roman, Arial, verdana"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    6
+   ],
+   [
+    "rgb(239, 64, 54)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    279
+   ],
+   [
+    "rgba(255, 255, 255, 0.5)",
+    1
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(238, 238, 238)",
+    1
+   ],
+   [
+    "rgb(34, 34, 34)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 0, 0)",
+    2
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 0, 238)",
+    18
+   ],
+   [
+    "rgb(85, 85, 85)",
+    17
+   ],
+   [
+    "rgb(221, 221, 221)",
+    7
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Avenir_roman, Arial, verdana",
+    44
+   ],
+   [
+    "Avenir_heavy",
+    18
+   ],
+   [
+    "Avenir_medium",
+    4
+   ],
+   [
+    "Arial",
+    1
+   ]
+  ],
+  "heads": [
+   "N O V I T A'",
+   "Agenzia Immobiliare a Bologna dal 1968",
+   "Informativa"
+  ],
+  "addr": null,
+  "final": "https://www.studiogiannerini.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Monolocale-Via-Parigi-Bologna&id=51",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Trilocale-Via-Riva-di-Reno-Bologna&id=54",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Trilocale-Via-Brodolini-Bologna&id=41",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Negozio-Via-Emilia-Ponente-Bologna&id=53",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Laboratorio-Via-Emilia-Ponente-Bologna&id=9",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Garage-via-valdossola-Bologna&id=27",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Monolocale-Via-Parigi-Bologna&id=51&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Trilocale-Via-Brodolini-Bologna&id=41&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Trilocale-Via-Porrettana-Casalecchio-di-Reno&id=26&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Pentalocale-Viale-Salvador-Allende-Ozzano-dell%27Emilia&id=73&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Bilocale-Via-C%26agrave%3B-Borelli-San-Benedetto-Val-di-Sambro&id=50&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Appartamento-Viale-del-Risorgimento-Bologna&id=8&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Trilocale-Via-Da-Faenza-Bologna&id=42&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Quadrilocale-Via-M.-Jacchia-Casalecchio-di-Reno&id=5&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Trilocale-via-dello-Sport-Bologna&id=71&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Laboratorio-Via-Emilia-Ponente-Bologna&id=9&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Monolocale-Via-Giovanni-Cerbai-Bologna&id=29&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Vendita-Casa-Villa-Ind.-Via-puglie-Monte-San-Pietro&id=30&op=vendita&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Trilocale-Via-Riva-di-Reno-Bologna&id=54&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Negozio-Via-Emilia-Ponente-Bologna&id=53&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Trilocale-Bologna&id=48&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Bilocale-Via-Sant%27Isaia-Bologna&id=52&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Porzione-Cielo%2FTerra-Zola-Predosa&id=23&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Monolocale-Via-Manuzio-Bologna&id=43&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Bilocale-Bologna&id=45&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Monolocale-Bologna&id=40&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Garage-via-valdossola-Bologna&id=27&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Pentalocale-Via-Inviti-Bologna&id=49&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Monolocale-Via-Alfredo-Barbacci-Bologna&id=44&op=locazione&start=0&ordina=data_ordina+DESC",
+  "https://www.studiogiannerini.it/scheda.php?q=Affitto-Bilocale-via-Manzoni-Casalecchio-di-Reno&id=46&op=locazione&start=0&ordina=data_ordina+DESC"
+ ],
+ "listings": [
+  {
+   "url": "https://www.studiogiannerini.it/scheda.php?q=Vendita-Monolocale-Via-Parigi-Bologna&id=51",
+   "title": "Vendita Monolocale - Via Parigi, Bologna",
+   "h1": "Monolocale di 37 m2 in Via Parigi",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Vendita Monolocale - Via Parigi, Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/m/0/236863.png",
+   "ogDesc": "VIA PARIGI | Centro Storico\n\nIn splendida posizione, in una via silenziosa, a 5 minuti a piedi da Piazza Maggiore! \nDisponibile monolocale affacciato sulla piazzetta del Museo di San Colombano, appartamento libero e posto al secondo piano di bella palazzina in ottime condizioni. \nL'appartamento è composto da: monolocale ampio con bagno, oltre a cantina posta al piano seminterrato e comodo cortile condominiale per parcheggio biciclette. \nVolendo facilmente trasformabile in bilocale con cucina e camera separati. \n\nRiscaldamento autonomo con caldaia a condensazione installata nel 2024, impianto elettrico appena verificato.\nACE \"G\" Eptot 305,31 \n\nRichiesta €215.000\n\nRIF GI26146",
+   "desc": "Studio Giannerini - Vendita appartamento Centro ",
+   "ld": "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t{\n\t\t\"@type\": \"WebSite\",\n\t\t\"name\": \"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\": \"https://www.studiogiannerini.it/\",\n\t\t\"publisher\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"WebPage\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/scheda#webpage\",\n\t\t\"url\":\"https://www.studiogiannerini.it/scheda\",\n\t\t\"name\":\"Vendita Monolocale - Via Parigi, Bologna\",\n\t\t\"description\":\"Studio Giannerini - Vendita appartamento Centro \",\n\t\t\"isPartOf\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#website\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"Organization\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\",\n\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\":\"https://www.studiogiannerini.it/\",\n\t\t\"logo\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n  \t\t\"telephone\": \"0516440141\",\n\t\t\"contactPoint\":{\n\t\t\t\"@type\":\"ContactPoint\",\n\t\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\t\"email\":\"info@studiogiannerini.it\",\n\t\t\t\"telephone\":\"0516440141\"\n\t\t},\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t},\n\t{\n  \t\t\"@type\": \"LocalBusiness\",\n\t\t\"address\": {\n\t\t\t\"@type\": \"PostalAddress\",\n\t\t\t\"addressCountry\": \"Italy\",\n\t\t\t\"addressLocality\": \"Bologna\",\n\t\t\t\"postalCode\":\"40135\",\n\t\t\t\"streetAddress\": \"Via Saragozza 101/3/C\"\n\t\t},\n    \t\"image\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t}\n\t]\n}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/m/0/236863.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M69MTtpcZDoy8MzY41NTk73ZXh00OnBufZzt2aOjE79dzoxcO2Nv8bXA61MQ==3/m/0/236859.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoydNDU44O2M60MTtpfZDoy5MzY49NjA75ZXh08OnBudZzt24OjE70dzoxfO2Nv5bXA69MQ==5/m/0/236860.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy9NDU42O2M60MTtpaZDoy1MzY50MDQ7dZXh01OnBu9Zzt22OjE70dzoxaO2Nv1bXA60MQ==d/m/0/236904.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyeNDU4cO2M63MTtp5ZDoy1MzY5aMTM71ZXh03OnBueZzt2cOjE73dzox5O2Nv1bXA6aMQ==1/m/0/236913.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NDU46O2M69MTtpaZDoyfMzY56MDU70ZXh0cOnBu2Zzt26OjE79dzoxaO2NvfbXA66MQ==0/m/0/236905.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/r/0/236863.png",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M69MTtpcZDoy8MzY41NTk73ZXh00OnBufZzt2aOjE79dzoxcO2Nv8bXA61MQ==3/r/0/236859.png",
+    "https://static3.agimonline.com/images/4ZzoydNDU44O2M60MTtpfZDoy5MzY49NjA75ZXh08OnBudZzt24OjE70dzoxfO2Nv5bXA69MQ==5/r/0/236860.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU42O2M60MTtpaZDoy1MzY50MDQ7dZXh01OnBu9Zzt22OjE70dzoxaO2Nv1bXA60MQ==d/r/0/236904.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4cO2M63MTtp5ZDoy1MzY5aMTM71ZXh03OnBueZzt2cOjE73dzox5O2Nv1bXA6aMQ==1/r/0/236913.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4ZzoydNDU47O2M6bOTtp5ZDoy1MTkz6MTI71ZXh05OmpwdZzt27OjE7bdzox5O2Nv1bXA66MQ==1/m/0/219312.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU42O2M61NDtp1ZDoy6MzE3eNjQ75ZXh06Ompw9Zzt22OjE71dzox1O2Nv6bXA6eMQ==5/m/0/231764.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU47O2M67MTtp8ZDoy9MjE1dNjk7fZXh06Ompw0Zzt27OjE77dzox8O2Nv9bXA6dMQ==f/m/0/221569.jpg"
+   ],
+   "descBlock": null,
+   "text": "HOME\n \nVENDITE\n \nLOCAZIONI\n \nVALUTAZIONI\n \nCONSULENZE\n \nAGENZIA\nCHI SIAMO\n \nCOSA FACCIAMO\n \nSTAFF\n \nBLOG\n \nNEWS\n \nCONTATTI\nImmobili  Vendita Monolocale - Bologna\nGuarda 17 foto\n POSIZIONE\n PLANIMETRIE\n AGENTE\n DOCUMENTI\nVendita Appartamento Bologna, zona Centro\nMonolocale di 37 m2 in Via Parigi\n€ 215.000,00\nPiano 2\nLocali\n1 \nAltre caratteristiche  \nRif. GI26146\n Condividi\nVIA PARIGI | Centro Storico\n\nIn splendida posizione, in una via silenziosa, a 5 minuti a piedi da Piazza Maggiore!\nDisponibile monolocale affacciato sulla piazzetta del Museo di San Colombano, appartamento libero e posto al secondo piano di bella palazzina in ottime condizioni.\nL'appartamento è composto da: monolocale ampio con bagno, oltre a cantina posta al piano seminterrato e comodo cortile condominiale per parcheggio biciclette.\nVolendo facilmente trasformabile in bilocale con cucina e camera separati.\n\nRiscaldamento autonomo con caldaia a condensazione installata nel 2024, impianto elettrico appena verificato.\nACE \"G\" Eptot 305,31\n\nRichiesta €215.000\n\nRIF GI26146\nRICHIEDI INFORMAZIONI\n\nProposte simili\n\nVendita\nAppartamento - Monterenzio\n \n€ 65.000,00\nRif. 09SVIM868\nVendita\nCasa Villa Ind. - Ozzano dell'Emilia\nVia Ambiente\n€ 630.000,00 + IVA\nRif. 5COM554\nVendita\nIntero Stabile - Monte San Pietro\nVia Landa\n€ 198.000,00\nRif. GI2549\nStudio Giannerini S.n.c. di Anna Maria Giannerini & C.\nVia Saragozza 101/3/C\n40135 Bologna\n  051.6440141\n    327.1555427\n  051.3393072\n info@studiogiannerini.it\n giannerini@pec.collegamentimmobiliari.it\nP.IVA 02283891204\nIscrizione REA: BO - 426997\nCookie Policy | Privacy Policy\n Area riservata\nsiti-web-bologna.com",
+   "parsed": {
+    "prezzo": "€ 215.000,00",
+    "mq": "37",
+    "locali": "1",
+    "camere": null,
+    "bagni": null,
+    "piano": "2",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/m/0/236863.png",
+    "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/m/0/236863.png",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M69MTtpcZDoy8MzY41NTk73ZXh00OnBufZzt2aOjE79dzoxcO2Nv8bXA61MQ==3/m/0/236859.png",
+    "https://static3.agimonline.com/images/4ZzoydNDU44O2M60MTtpfZDoy5MzY49NjA75ZXh08OnBudZzt24OjE70dzoxfO2Nv5bXA69MQ==5/m/0/236860.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU42O2M60MTtpaZDoy1MzY50MDQ7dZXh01OnBu9Zzt22OjE70dzoxaO2Nv1bXA60MQ==d/m/0/236904.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4cO2M63MTtp5ZDoy1MzY5aMTM71ZXh03OnBueZzt2cOjE73dzox5O2Nv1bXA6aMQ==1/m/0/236913.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M69MTtpaZDoyfMzY56MDU70ZXh0cOnBu2Zzt26OjE79dzoxaO2NvfbXA66MQ==0/m/0/236905.png",
+    "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/r/0/236863.png",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M69MTtpcZDoy8MzY41NTk73ZXh00OnBufZzt2aOjE79dzoxcO2Nv8bXA61MQ==3/r/0/236859.png",
+    "https://static3.agimonline.com/images/4ZzoydNDU44O2M60MTtpfZDoy5MzY49NjA75ZXh08OnBudZzt24OjE70dzoxfO2Nv5bXA69MQ==5/r/0/236860.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU42O2M60MTtpaZDoy1MzY50MDQ7dZXh01OnBu9Zzt22OjE70dzoxaO2Nv1bXA60MQ==d/r/0/236904.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4cO2M63MTtp5ZDoy1MzY5aMTM71ZXh03OnBueZzt2cOjE73dzox5O2Nv1bXA6aMQ==1/r/0/236913.png",
+    "https://static3.agimonline.com/images/4ZzoydNDU47O2M6bOTtp5ZDoy1MTkz6MTI71ZXh05OmpwdZzt27OjE7bdzox5O2Nv1bXA66MQ==1/m/0/219312.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU42O2M61NDtp1ZDoy6MzE3eNjQ75ZXh06Ompw9Zzt22OjE71dzox1O2Nv6bXA6eMQ==5/m/0/231764.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU47O2M67MTtp8ZDoy9MjE1dNjk7fZXh06Ompw0Zzt27OjE77dzox8O2Nv9bXA6dMQ==f/m/0/221569.jpg"
+   ],
+   "foto": "foto-1.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy0NDU42O2M64MTtp8ZDoybMzY40NjM75ZXh0fOnBu0Zzt22OjE74dzox8O2NvbbXA60MQ==5/m/0/236863.png"
+  },
+  {
+   "url": "https://www.studiogiannerini.it/scheda.php?q=Affitto-Trilocale-Via-Riva-di-Reno-Bologna&id=54",
+   "title": "Affitto Trilocale - Via Riva di Reno, Bologna",
+   "h1": "Trilocale di 75 m2 in Via Riva di Reno",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Affitto Trilocale - Via Riva di Reno, Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/m/0/236978.jpg",
+   "ogDesc": "VIA RIVA DI RENO | Centro Storico\n\nDisponibile subito, appartamento trilocale di 75m² luminoso, arredato con due camere doppie, ideale per un gruppo di 3 persone.\nPosto al terzo piano senza ascensore, composto internamente da:\ningresso, cucina, due ampie camere, studio, bagno finestrato con doccia e lavatrice. \n\nRiscaldamento autonomo, ottimi infissi, basse spese condominiali. \nACE \"E\" Eptot 130,55\n\n\nContratto a canone libero 4 + 4 | canone mensile €1.050 + €35,00 mensili per le spese condominiali\n\nRIF GI26150",
+   "desc": "Studio Giannerini - Affitto appartamento Centro ",
+   "ld": "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t{\n\t\t\"@type\": \"WebSite\",\n\t\t\"name\": \"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\": \"https://www.studiogiannerini.it/\",\n\t\t\"publisher\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"WebPage\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/scheda#webpage\",\n\t\t\"url\":\"https://www.studiogiannerini.it/scheda\",\n\t\t\"name\":\"Affitto Trilocale - Via Riva di Reno, Bologna\",\n\t\t\"description\":\"Studio Giannerini - Affitto appartamento Centro \",\n\t\t\"isPartOf\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#website\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"Organization\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\",\n\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\":\"https://www.studiogiannerini.it/\",\n\t\t\"logo\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n  \t\t\"telephone\": \"0516440141\",\n\t\t\"contactPoint\":{\n\t\t\t\"@type\":\"ContactPoint\",\n\t\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\t\"email\":\"info@studiogiannerini.it\",\n\t\t\t\"telephone\":\"0516440141\"\n\t\t},\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t},\n\t{\n  \t\t\"@type\": \"LocalBusiness\",\n\t\t\"address\": {\n\t\t\t\"@type\": \"PostalAddress\",\n\t\t\t\"addressCountry\": \"Italy\",\n\t\t\t\"addressLocality\": \"Bologna\",\n\t\t\t\"postalCode\":\"40135\",\n\t\t\t\"streetAddress\": \"Via Saragozza 101/3/C\"\n\t\t},\n    \t\"image\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t}\n\t]\n}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/m/0/236982.jpg",
+     "w": 640,
+     "h": 572,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/m/0/236982.jpg",
+     "w": 640,
+     "h": 572,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy7NDU4eO2M63MTtpbZDoy0MzY5aNzM73ZXh0aOmpw7Zzt2eOjE73dzoxbO2Nv0bXA6aMQ==3/m/0/236973.jpg",
+     "w": 640,
+     "h": 523,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy7NDU4eO2M63MTtpbZDoy0MzY5aNzM73ZXh0aOmpw7Zzt2eOjE73dzoxbO2Nv0bXA6aMQ==3/m/0/236973.jpg",
+     "w": 640,
+     "h": 523,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/m/0/236978.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNDU49O2M6eMTtpfZDoy0MzY56NzY7cZXh0fOmpwfZzt29OjE7edzoxfO2Nv0bXA66MQ==c/m/0/236976.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/r/0/236978.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU49O2M6eMTtpfZDoy0MzY56NzY7cZXh0fOmpwfZzt29OjE7edzoxfO2Nv0bXA66MQ==c/r/0/236976.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4bO2M64MTtpfZDoy6MzY5fODE75ZXh0bOmpw4Zzt2bOjE74dzoxfO2Nv6bXA6fMQ==5/r/0/236981.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4fO2M60MTtpfZDoy6MzY5cNzU7bZXh0cOmpwcZzt2fOjE70dzoxfO2Nv6bXA6cMQ==b/r/0/236975.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/r/0/236982.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NDU4cO2M6dMTtp5ZDoy1MzYz9MDQ72ZXh09Ompw8Zzt2cOjE7ddzox5O2Nv1bXA69MQ==2/m/0/236304.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/r/0/236978.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU49O2M6eMTtpfZDoy0MzY56NzY7cZXh0fOmpwfZzt29OjE7edzoxfO2Nv0bXA66MQ==c/r/0/236976.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4bO2M64MTtpfZDoy6MzY5fODE75ZXh0bOmpw4Zzt2bOjE74dzoxfO2Nv6bXA6fMQ==5/r/0/236981.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4fO2M60MTtpfZDoy6MzY5cNzU7bZXh0cOmpwcZzt2fOjE70dzoxfO2Nv6bXA6cMQ==b/r/0/236975.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/r/0/236982.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NDU41O2M6aMTtpeZDoy6MzY57NzA7dZXh0aOmpw3Zzt21OjE7adzoxeO2Nv6bXA67MQ==d/r/0/236970.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NDU4bO2M6bMTtp8ZDoyaMzY5dNzE70ZXh01Ompw8Zzt2bOjE7bdzox8O2NvabXA6dMQ==0/r/0/236971.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NDU48O2M69MTtp6ZDoydMzY51NzI71ZXh02Ompw3Zzt28OjE79dzox6O2NvdbXA61MQ==1/r/0/236972.jpg"
+   ],
+   "descBlock": null,
+   "text": "HOME\n \nVENDITE\n \nLOCAZIONI\n \nVALUTAZIONI\n \nCONSULENZE\n \nAGENZIA\nCHI SIAMO\n \nCOSA FACCIAMO\n \nSTAFF\n \nBLOG\n \nNEWS\n \nCONTATTI\nImmobili  Affitto Trilocale - Bologna\nGuarda 23 foto\n POSIZIONE\n PLANIMETRIE\n AGENTE\n DOCUMENTI\nAffitto Appartamento Bologna, zona Centro\nTrilocale di 75 m2 in Via Riva di Reno\n€ 1.050,00\nPiano 3\nLocali\n3 \n Camere\n2 \n Bagni\n1 \n Stato\nBuono abitabile\nAltre caratteristiche  \nRif. GI26150\n Condividi\nVIA RIVA DI RENO | Centro Storico\n\nDisponibile subito, appartamento trilocale di 75m² luminoso, arredato con due camere doppie, ideale per un gruppo di 3 persone.\nPosto al terzo piano senza ascensore, composto internamente da:\ningresso, cucina, due ampie camere, studio, bagno finestrato con doccia e lavatrice.\n\nRiscaldamento autonomo, ottimi infissi, basse spese condominiali.\nACE \"E\" Eptot 130,55\n\n\nContratto a canone libero 4 + 4 | canone mensile €1.050 + €35,00 mensili per le spese condominiali\n\nRIF GI26150\nRICHIEDI INFORMAZIONI\n\nProposte simili\n\nAffitto\nBilocale - Bologna\nVia Degli Artieri\n€ 1.250,00\nRif. GI26133\nAffitto\nQuadrilocale - Bologna\nVia Nino Bertocchi\n€ 1.300,00\nRif. GI2667\nAffitto\nPorzione Cielo/Terra - Zola Predosa\nMadonna Prati\n€ 2.000,00\nRif. GI26112\nStudio Giannerini S.n.c. di Anna Maria Giannerini & C.\nVia Saragozza 101/3/C\n40135 Bologna\n  051.6440141\n    327.1555427\n  051.3393072\n info@studiogiannerini.it\n giannerini@pec.collegamentimmobiliari.it\nP.IVA 02283891204\nIscrizione REA: BO - 426997\nCookie Policy | Privacy Policy\n Area riservata\nsiti-web-bologna.com",
+   "parsed": {
+    "prezzo": "€ 1.050,00",
+    "mq": "75",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "3",
+    "classe_energetica": null,
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/m/0/236978.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/m/0/236982.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/m/0/236982.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4eO2M63MTtpbZDoy0MzY5aNzM73ZXh0aOmpw7Zzt2eOjE73dzoxbO2Nv0bXA6aMQ==3/m/0/236973.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4eO2M63MTtpbZDoy0MzY5aNzM73ZXh0aOmpw7Zzt2eOjE73dzoxbO2Nv0bXA6aMQ==3/m/0/236973.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/m/0/236978.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU49O2M6eMTtpfZDoy0MzY56NzY7cZXh0fOmpwfZzt29OjE7edzoxfO2Nv0bXA66MQ==c/m/0/236976.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/r/0/236978.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU49O2M6eMTtpfZDoy0MzY56NzY7cZXh0fOmpwfZzt29OjE7edzoxfO2Nv0bXA66MQ==c/r/0/236976.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4bO2M64MTtpfZDoy6MzY5fODE75ZXh0bOmpw4Zzt2bOjE74dzoxfO2Nv6bXA6fMQ==5/r/0/236981.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4fO2M60MTtpfZDoy6MzY5cNzU7bZXh0cOmpwcZzt2fOjE70dzoxfO2Nv6bXA6cMQ==b/r/0/236975.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/r/0/236982.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NDU4cO2M6dMTtp5ZDoy1MzYz9MDQ72ZXh09Ompw8Zzt2cOjE7ddzox5O2Nv1bXA69MQ==2/m/0/236304.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/r/0/236978.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU49O2M6eMTtpfZDoy0MzY56NzY7cZXh0fOmpwfZzt29OjE7edzoxfO2Nv0bXA66MQ==c/r/0/236976.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4bO2M64MTtpfZDoy6MzY5fODE75ZXh0bOmpw4Zzt2bOjE74dzoxfO2Nv6bXA6fMQ==5/r/0/236981.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4fO2M60MTtpfZDoy6MzY5cNzU7bZXh0cOmpwcZzt2fOjE70dzoxfO2Nv6bXA6cMQ==b/r/0/236975.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU41O2M68MTtp8ZDoydMzY53ODI7bZXh03Ompw2Zzt21OjE78dzox8O2NvdbXA63MQ==b/r/0/236982.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NDU41O2M6aMTtpeZDoy6MzY57NzA7dZXh0aOmpw3Zzt21OjE7adzoxeO2Nv6bXA67MQ==d/r/0/236970.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NDU4bO2M6bMTtp8ZDoyaMzY5dNzE70ZXh01Ompw8Zzt2bOjE7bdzox8O2NvabXA6dMQ==0/r/0/236971.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NDU48O2M69MTtp6ZDoydMzY51NzI71ZXh02Ompw3Zzt28OjE79dzox6O2NvdbXA61MQ==1/r/0/236972.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoybNDU4dO2M67MTtp2ZDoy1MzY5eNzg70ZXh0aOmpwbZzt2dOjE77dzox2O2Nv1bXA6eMQ==0/m/0/236978.jpg"
+  },
+  {
+   "url": "https://www.studiogiannerini.it/scheda.php?q=Vendita-Trilocale-Via-Brodolini-Bologna&id=41",
+   "title": "Vendita Trilocale - Via Brodolini, Bologna",
+   "h1": "Trilocale di 70 m2 in Via Brodolini",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Vendita Trilocale - Via Brodolini, Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/m/0/236552.png",
+   "ogDesc": "VIA BRODOLINI | Zona Barca\n\nDisponibile appartamento trilocale, di 70m², posto al 4° piano con ascensore, in fabbricato dotato di cappotto termico. \nL'appartamento è molto luminoso, con bella vista su San Luca! \nComposto internamente da: \ningresso, soggiorno, cucinotto, disimpegno, due camere, bagno, ripostiglio, balcone oltre ad un vano ad uso cantina al piano interrato. \nRiscaldamento centralizzato a contabilizzazione autonoma ed aria condizionata  \nAPE \"C\" Ep110,96\n\n\nRichiesta €245.000 \nDisponibile volendo garage, richiesta €25.000,00 \n\nRIF GI26138",
+   "desc": "Studio Giannerini - Vendita appartamento Ovest ",
+   "ld": "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t{\n\t\t\"@type\": \"WebSite\",\n\t\t\"name\": \"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\": \"https://www.studiogiannerini.it/\",\n\t\t\"publisher\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"WebPage\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/scheda#webpage\",\n\t\t\"url\":\"https://www.studiogiannerini.it/scheda\",\n\t\t\"name\":\"Vendita Trilocale - Via Brodolini, Bologna\",\n\t\t\"description\":\"Studio Giannerini - Vendita appartamento Ovest \",\n\t\t\"isPartOf\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#website\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"Organization\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\",\n\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\":\"https://www.studiogiannerini.it/\",\n\t\t\"logo\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n  \t\t\"telephone\": \"0516440141\",\n\t\t\"contactPoint\":{\n\t\t\t\"@type\":\"ContactPoint\",\n\t\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\t\"email\":\"info@studiogiannerini.it\",\n\t\t\t\"telephone\":\"0516440141\"\n\t\t},\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t},\n\t{\n  \t\t\"@type\": \"LocalBusiness\",\n\t\t\"address\": {\n\t\t\t\"@type\": \"PostalAddress\",\n\t\t\t\"addressCountry\": \"Italy\",\n\t\t\t\"addressLocality\": \"Bologna\",\n\t\t\t\"postalCode\":\"40135\",\n\t\t\t\"streetAddress\": \"Via Saragozza 101/3/C\"\n\t\t},\n    \t\"image\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t}\n\t]\n}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6bMTtp4ZDoy5MzY41MTA7cZXh08Ompw2Zzt2aOjE7bdzox4O2Nv5bXA61MQ==c/b/0/236810.jpg",
+     "w": 1280,
+     "h": 905,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/m/0/236552.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6fMTtpaZDoyfMzY1bNDc77ZXh07OnBu2Zzt2aOjE7fdzoxaO2NvfbXA6bMQ==7/m/0/236547.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M64MTtp9ZDoy4MzY18NDg7bZXh02OnBu9Zzt2eOjE74dzox9O2Nv4bXA68MQ==b/m/0/236548.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyeNDU4fO2M6aMTtpfZDoybMzY19NTM7aZXh0dOnBueZzt2fOjE7adzoxfO2NvbbXA69MQ==a/m/0/236553.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNDU49O2M60MTtp2ZDoy8MzY1cNDY72ZXh0fOnBufZzt29OjE70dzox2O2Nv8bXA6cMQ==2/m/0/236546.png",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/r/0/236552.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU40O2M6bMTtp4ZDoyaMzY2bNjk7eZXh05OnBueZzt20OjE7bdzox4O2NvabXA6bMQ==e/r/0/236669.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6fMTtpaZDoyfMzY1bNDc77ZXh07OnBu2Zzt2aOjE7fdzoxaO2NvfbXA6bMQ==7/r/0/236547.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M64MTtp9ZDoy4MzY18NDg7bZXh02OnBu9Zzt2eOjE74dzox9O2Nv4bXA68MQ==b/r/0/236548.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4fO2M6aMTtpfZDoybMzY19NTM7aZXh0dOnBueZzt2fOjE7adzoxfO2NvbbXA69MQ==a/r/0/236553.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4fO2M69MTtpaZDoyaMzQ1fOTc7aZXh06OnBu9Zzt2fOjE79dzoxaO2NvabXA6fMQ==a/m/0/234597.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6bMTtp4ZDoy5MzY41MTA7cZXh08Ompw2Zzt2aOjE7bdzox4O2Nv5bXA61MQ==c/b/0/236810.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4fO2M69MTtpaZDoyaMzQ1fOTc7aZXh06OnBu9Zzt2fOjE79dzoxaO2NvabXA6fMQ==a/m/0/234597.png",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4bO2M68MTtp5ZDoy4MzQ49OTk79ZXh01OnBu4Zzt2bOjE78dzox5O2Nv4bXA69MQ==9/m/0/234899.png",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4fO2M69MTtpeZDoy6MzY1dMTI73ZXh03Ompw4Zzt2fOjE79dzoxeO2Nv6bXA6dMQ==3/m/0/236512.jpg"
+   ],
+   "descBlock": null,
+   "text": "HOME\n \nVENDITE\n \nLOCAZIONI\n \nVALUTAZIONI\n \nCONSULENZE\n \nAGENZIA\nCHI SIAMO\n \nCOSA FACCIAMO\n \nSTAFF\n \nBLOG\n \nNEWS\n \nCONTATTI\nImmobili  Vendita Trilocale - Bologna\nGuarda 24 foto\n POSIZIONE\n PLANIMETRIE\n AGENTE\n DOCUMENTI\n IMPOSTE\nVendita Appartamento Bologna, zona Ovest\nTrilocale di 70 m2 in Via Brodolini\n€ 245.000,00\nPiano 4 con ascensore\nLocali\n3 \n Camere\n2 \n Bagni\n1 \n Giardino\nCondominiale\n Stato\nBuono abitabile\n Balcone/i\n \n Cantina\n \n Garage\nAltre caratteristiche  \nRif. GI26138\n Condividi\nVIA BRODOLINI | Zona Barca\n\nDisponibile appartamento trilocale, di 70m², posto al 4° piano con ascensore, in fabbricato dotato di cappotto termico.\nL'appartamento è molto luminoso, con bella vista su San Luca!\nComposto internamente da:\ningresso, soggiorno, cucinotto, disimpegno, due camere, bagno, ripostiglio, balcone oltre ad un vano ad uso cantina al piano interrato.\nRiscaldamento centralizzato a contabilizzazione autonoma ed aria condizionata\nAPE \"C\" Ep110,96\n\n\nRichiesta €245.000\nDisponibile volendo garage, richiesta €25.000,00\n\nRIF GI26138\nRICHIEDI INFORMAZIONI\n\nProposte simili\n\nVendita\nTrilocale - Bologna\nVia Pietro Giannone\n€ 197.000,00\nRif. GI2697\nVendita\nTrilocale - Bologna\nVia Porrettana\n€ 415.000,00\nRif. GI26103\nVendita\nTrilocale - Bologna\nVia Da Faenza\n€ 237.000,00\nRif. GI26139\nStudio Giannerini S.n.c. di Anna Maria Giannerini & C.\nVia Saragozza 101/3/C\n40135 Bologna\n  051.6440141\n    327.1555427\n  051.3393072\n info@studiogiannerini.it\n giannerini@pec.collegamentimmobiliari.it\nP.IVA 02283891204\nIscrizione REA: BO - 426997\nCookie Policy | Privacy Policy\n Area riservata\nsiti-web-bologna.com",
+   "parsed": {
+    "prezzo": "€ 245.000,00",
+    "mq": "70",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "4 con ascensore",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/m/0/236552.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6bMTtp4ZDoy5MzY41MTA7cZXh08Ompw2Zzt2aOjE7bdzox4O2Nv5bXA61MQ==c/b/0/236810.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/m/0/236552.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6fMTtpaZDoyfMzY1bNDc77ZXh07OnBu2Zzt2aOjE7fdzoxaO2NvfbXA6bMQ==7/m/0/236547.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M64MTtp9ZDoy4MzY18NDg7bZXh02OnBu9Zzt2eOjE74dzox9O2Nv4bXA68MQ==b/m/0/236548.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4fO2M6aMTtpfZDoybMzY19NTM7aZXh0dOnBueZzt2fOjE7adzoxfO2NvbbXA69MQ==a/m/0/236553.png",
+    "https://static3.agimonline.com/images/4ZzoyfNDU49O2M60MTtp2ZDoy8MzY1cNDY72ZXh0fOnBufZzt29OjE70dzox2O2Nv8bXA6cMQ==2/m/0/236546.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/r/0/236552.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU40O2M6bMTtp4ZDoyaMzY2bNjk7eZXh05OnBueZzt20OjE7bdzox4O2NvabXA6bMQ==e/r/0/236669.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6fMTtpaZDoyfMzY1bNDc77ZXh07OnBu2Zzt2aOjE7fdzoxaO2NvfbXA6bMQ==7/r/0/236547.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M64MTtp9ZDoy4MzY18NDg7bZXh02OnBu9Zzt2eOjE74dzox9O2Nv4bXA68MQ==b/r/0/236548.png",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4fO2M6aMTtpfZDoybMzY19NTM7aZXh0dOnBueZzt2fOjE7adzoxfO2NvbbXA69MQ==a/r/0/236553.png",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4fO2M69MTtpaZDoyaMzQ1fOTc7aZXh06OnBu9Zzt2fOjE79dzoxaO2NvabXA6fMQ==a/m/0/234597.png",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4aO2M6bMTtp4ZDoy5MzY41MTA7cZXh08Ompw2Zzt2aOjE7bdzox4O2Nv5bXA61MQ==c/b/0/236810.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4fO2M69MTtpaZDoyaMzQ1fOTc7aZXh06OnBu9Zzt2fOjE79dzoxaO2NvabXA6fMQ==a/m/0/234597.png",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4bO2M68MTtp5ZDoy4MzQ49OTk79ZXh01OnBu4Zzt2bOjE78dzox5O2Nv4bXA69MQ==9/m/0/234899.png",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4fO2M69MTtpeZDoy6MzY1dMTI73ZXh03Ompw4Zzt2fOjE79dzoxeO2Nv6bXA6dMQ==3/m/0/236512.jpg"
+   ],
+   "foto": "foto-3.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy2NDU47O2M6fMTtpaZDoybMzY1aNTI7eZXh00OnBu2Zzt27OjE7fdzoxaO2NvbbXA6aMQ==e/m/0/236552.png"
+  },
+  {
+   "url": "https://www.studiogiannerini.it/scheda.php?q=Affitto-Negozio-Via-Emilia-Ponente-Bologna&id=53",
+   "title": "Affitto Negozio - Via Emilia Ponente, Bologna",
+   "h1": "Negozio di 70 m2 in Via Emilia Ponente",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Affitto Negozio - Via Emilia Ponente, Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/m/0/236952.jpg",
+   "ogDesc": "NEGOZIO CON 4 VETRINE e CANNA FUMARIA | Zona Saffi\n\nVia Emilia ponente, precisamente di fronte all'Ospedale Maggiore, con il servizio tram in fase di ultimazione!\nAmpio negozio di 70m², disponibile da gennaio 2027 con 4 vetrine fronte strada, dotato di aria condizionata, riscaldamento centralizzato a pavimento e canna fumaria. \nACE in fase di valutazione. \n\nRichiesti 3 mesi di deposito cauzionale e fideiussione bancaria di 6 mensilità\nCanone mensile €1.600 mensili + circa 200 euro mensili comprensivi di riscaldamento con conguaglio a fine anno\n\nRIF GI26149",
+   "desc": "Studio Giannerini - Affitto commerciale/direzionale Ovest ",
+   "ld": "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t{\n\t\t\"@type\": \"WebSite\",\n\t\t\"name\": \"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\": \"https://www.studiogiannerini.it/\",\n\t\t\"publisher\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"WebPage\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/scheda#webpage\",\n\t\t\"url\":\"https://www.studiogiannerini.it/scheda\",\n\t\t\"name\":\"Affitto Negozio - Via Emilia Ponente, Bologna\",\n\t\t\"description\":\"Studio Giannerini - Affitto commerciale/direzionale Ovest \",\n\t\t\"isPartOf\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#website\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"Organization\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\",\n\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\":\"https://www.studiogiannerini.it/\",\n\t\t\"logo\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n  \t\t\"telephone\": \"0516440141\",\n\t\t\"contactPoint\":{\n\t\t\t\"@type\":\"ContactPoint\",\n\t\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\t\"email\":\"info@studiogiannerini.it\",\n\t\t\t\"telephone\":\"0516440141\"\n\t\t},\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t},\n\t{\n  \t\t\"@type\": \"LocalBusiness\",\n\t\t\"address\": {\n\t\t\t\"@type\": \"PostalAddress\",\n\t\t\t\"addressCountry\": \"Italy\",\n\t\t\t\"addressLocality\": \"Bologna\",\n\t\t\t\"postalCode\":\"40135\",\n\t\t\t\"streetAddress\": \"Via Saragozza 101/3/C\"\n\t\t},\n    \t\"image\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t}\n\t]\n}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/m/0/236952.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy7NDU4fO2M66MTtp5ZDoy6MzY5eNTM7cZXh00Ompw7Zzt2fOjE76dzox5O2Nv6bXA6eMQ==c/m/0/236953.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M6bMTtpdZDoy5MzY59NTU70ZXh07Ompw9Zzt2eOjE7bdzoxdO2Nv5bXA69MQ==0/m/0/236955.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyeNDU41O2M68MTtp6ZDoy4MzY52NTY79ZXh00OmpweZzt21OjE78dzox6O2Nv4bXA62MQ==9/m/0/236956.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy4NDU44O2M64MTtp0ZDoy2MzY5fNTc7dZXh04Ompw4Zzt24OjE74dzox0O2Nv2bXA6fMQ==d/m/0/236957.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy4NDU4aO2M6dMTtpcZDoyfMzY5fNTg73ZXh02Ompw4Zzt2aOjE7ddzoxcO2NvfbXA6fMQ==3/m/0/236958.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/r/0/236952.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4fO2M66MTtp5ZDoy6MzY5eNTM7cZXh00Ompw7Zzt2fOjE76dzox5O2Nv6bXA6eMQ==c/r/0/236953.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M6bMTtpdZDoy5MzY59NTU70ZXh07Ompw9Zzt2eOjE7bdzoxdO2Nv5bXA69MQ==0/r/0/236955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU41O2M68MTtp6ZDoy4MzY52NTY79ZXh00OmpweZzt21OjE78dzox6O2Nv4bXA62MQ==9/r/0/236956.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU44O2M64MTtp0ZDoy2MzY5fNTc7dZXh04Ompw4Zzt24OjE74dzox0O2Nv2bXA6fMQ==d/r/0/236957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M68MTtp5ZDoy0MzQ5fNTg7cZXh0eOmpw2Zzt26OjE78dzox5O2Nv0bXA6fMQ==c/m/0/234958.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/r/0/236952.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4fO2M66MTtp5ZDoy6MzY5eNTM7cZXh00Ompw7Zzt2fOjE76dzox5O2Nv6bXA6eMQ==c/r/0/236953.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M6bMTtpdZDoy5MzY59NTU70ZXh07Ompw9Zzt2eOjE7bdzoxdO2Nv5bXA69MQ==0/r/0/236955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU41O2M68MTtp6ZDoy4MzY52NTY79ZXh00OmpweZzt21OjE78dzox6O2Nv4bXA62MQ==9/r/0/236956.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU44O2M64MTtp0ZDoy2MzY5fNTc7dZXh04Ompw4Zzt24OjE74dzox0O2Nv2bXA6fMQ==d/r/0/236957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4aO2M6dMTtpcZDoyfMzY5fNTg73ZXh02Ompw4Zzt2aOjE7ddzoxcO2NvfbXA6fMQ==3/r/0/236958.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4bO2M61MTtpaZDoy5MzY5dNTk72ZXh09OmpweZzt2bOjE71dzoxaO2Nv5bXA6dMQ==2/r/0/236959.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4bO2M6cMTtp4ZDoybMzY57Njc72ZXh06Ompw7Zzt2bOjE7cdzox4O2NvbbXA67MQ==2/r/0/236967.jpg"
+   ],
+   "descBlock": null,
+   "text": "HOME\n \nVENDITE\n \nLOCAZIONI\n \nVALUTAZIONI\n \nCONSULENZE\n \nAGENZIA\nCHI SIAMO\n \nCOSA FACCIAMO\n \nSTAFF\n \nBLOG\n \nNEWS\n \nCONTATTI\nImmobili  Affitto Negozio - Bologna\nGuarda 17 foto\n POSIZIONE\n PLANIMETRIE\n AGENTE\n DOCUMENTI\nAffitto Commerciale/Direzionale Bologna, zona Ovest\nNegozio di 70 m2 in Via Emilia Ponente\n€ 1.600,00\nPiano terra\nLocali\n4 \n Bagni\n1 \n Stato\nBuono abitabile\nAltre caratteristiche  \nRif. GI26149\n Condividi\nNEGOZIO CON 4 VETRINE e CANNA FUMARIA | Zona Saffi\n\nVia Emilia ponente, precisamente di fronte all'Ospedale Maggiore, con il servizio tram in fase di ultimazione!\nAmpio negozio di 70m², disponibile da gennaio 2027 con 4 vetrine fronte strada, dotato di aria condizionata, riscaldamento centralizzato a pavimento e canna fumaria.\nACE in fase di valutazione.\n\nRichiesti 3 mesi di deposito cauzionale e fideiussione bancaria di 6 mensilità\nCanone mensile €1.600 mensili + circa 200 euro mensili comprensivi di riscaldamento con conguaglio a fine anno\n\nRIF GI26149\nRICHIEDI INFORMAZIONI\n\nProposte simili\n\nAffitto\nNegozio - Bologna\nOvest\n€ 630,00\nRif. GI2639\nAffitto\nNegozio - Bologna\nNord\n€ 450,00\nRif. GI26102\nAffitto\nGarage - Bologna\nvia valdossola\n€ 170,00\nRif. GI26122\nStudio Giannerini S.n.c. di Anna Maria Giannerini & C.\nVia Saragozza 101/3/C\n40135 Bologna\n  051.6440141\n    327.1555427\n  051.3393072\n info@studiogiannerini.it\n giannerini@pec.collegamentimmobiliari.it\nP.IVA 02283891204\nIscrizione REA: BO - 426997\nCookie Policy | Privacy Policy\n Area riservata\nsiti-web-bologna.com",
+   "parsed": {
+    "prezzo": "€ 1.600,00",
+    "mq": "70",
+    "locali": "4",
+    "camere": null,
+    "bagni": "1",
+    "piano": "terra",
+    "classe_energetica": null,
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/m/0/236952.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/m/0/236952.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4fO2M66MTtp5ZDoy6MzY5eNTM7cZXh00Ompw7Zzt2fOjE76dzox5O2Nv6bXA6eMQ==c/m/0/236953.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M6bMTtpdZDoy5MzY59NTU70ZXh07Ompw9Zzt2eOjE7bdzoxdO2Nv5bXA69MQ==0/m/0/236955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU41O2M68MTtp6ZDoy4MzY52NTY79ZXh00OmpweZzt21OjE78dzox6O2Nv4bXA62MQ==9/m/0/236956.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU44O2M64MTtp0ZDoy2MzY5fNTc7dZXh04Ompw4Zzt24OjE74dzox0O2Nv2bXA6fMQ==d/m/0/236957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4aO2M6dMTtpcZDoyfMzY5fNTg73ZXh02Ompw4Zzt2aOjE7ddzoxcO2NvfbXA6fMQ==3/m/0/236958.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/r/0/236952.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4fO2M66MTtp5ZDoy6MzY5eNTM7cZXh00Ompw7Zzt2fOjE76dzox5O2Nv6bXA6eMQ==c/r/0/236953.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M6bMTtpdZDoy5MzY59NTU70ZXh07Ompw9Zzt2eOjE7bdzoxdO2Nv5bXA69MQ==0/r/0/236955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU41O2M68MTtp6ZDoy4MzY52NTY79ZXh00OmpweZzt21OjE78dzox6O2Nv4bXA62MQ==9/r/0/236956.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU44O2M64MTtp0ZDoy2MzY5fNTc7dZXh04Ompw4Zzt24OjE74dzox0O2Nv2bXA6fMQ==d/r/0/236957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M68MTtp5ZDoy0MzQ5fNTg7cZXh0eOmpw2Zzt26OjE78dzox5O2Nv0bXA6fMQ==c/m/0/234958.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/r/0/236952.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4fO2M66MTtp5ZDoy6MzY5eNTM7cZXh00Ompw7Zzt2fOjE76dzox5O2Nv6bXA6eMQ==c/r/0/236953.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9NDU4eO2M6bMTtpdZDoy5MzY59NTU70ZXh07Ompw9Zzt2eOjE7bdzoxdO2Nv5bXA69MQ==0/r/0/236955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU41O2M68MTtp6ZDoy4MzY52NTY79ZXh00OmpweZzt21OjE78dzox6O2Nv4bXA62MQ==9/r/0/236956.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU44O2M64MTtp0ZDoy2MzY5fNTc7dZXh04Ompw4Zzt24OjE74dzox0O2Nv2bXA6fMQ==d/r/0/236957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4aO2M6dMTtpcZDoyfMzY5fNTg73ZXh02Ompw4Zzt2aOjE7ddzoxcO2NvfbXA6fMQ==3/r/0/236958.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNDU4bO2M61MTtpaZDoy5MzY5dNTk72ZXh09OmpweZzt2bOjE71dzoxaO2Nv5bXA6dMQ==2/r/0/236959.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU4bO2M6cMTtp4ZDoybMzY57Njc72ZXh06Ompw7Zzt2bOjE7cdzox4O2NvbbXA67MQ==2/r/0/236967.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M63MTtpcZDoydMzY5cNTI70ZXh04Ompw5Zzt2aOjE73dzoxcO2NvdbXA6cMQ==0/m/0/236952.jpg"
+  },
+  {
+   "url": "https://www.studiogiannerini.it/scheda.php?q=Vendita-Laboratorio-Via-Emilia-Ponente-Bologna&id=9",
+   "title": "Vendita Laboratorio - Via Emilia Ponente, Bologna",
+   "h1": "Laboratorio di 330 m2 in Via Emilia Ponente",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Vendita Laboratorio - Via Emilia Ponente, Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/m/0/233847.jpg",
+   "ogDesc": "OSPEDALE MAGGIORE | Via Emilia Ponente\n\nIN INTERNO VENDIAMO LABORATORIO da ristrutturare libero subito sito al piano terra di circa 300m² con zona uffici bagni doccia ripostigli e zona archivio oltre a  67m² di cortile con passo carraio e possibilità di parcheggio per 5/6 auto  \nAltezza interna da 4m a 4,40m, con bagni soppalco ripostigli.\nPresenti 3 entrate oltre a passo carraio che da accesso al cortile privato in parte coperto da tettoia.\n\nLA zona è molto vicina all'Ospedale Maggiore, quindi al collegamento con asse attrezzato, tangenziale, autostrada e con veloce  la nuova linea del Tram verso il centro di Bologna \nAPE G eptot 273\n\n€365.000 | RIF GI2687",
+   "desc": "Studio Giannerini - Vendita artigianale Ovest ",
+   "ld": "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t{\n\t\t\"@type\": \"WebSite\",\n\t\t\"name\": \"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\": \"https://www.studiogiannerini.it/\",\n\t\t\"publisher\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"WebPage\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/scheda#webpage\",\n\t\t\"url\":\"https://www.studiogiannerini.it/scheda\",\n\t\t\"name\":\"Vendita Laboratorio - Via Emilia Ponente, Bologna\",\n\t\t\"description\":\"Studio Giannerini - Vendita artigianale Ovest \",\n\t\t\"isPartOf\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#website\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"Organization\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\",\n\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\":\"https://www.studiogiannerini.it/\",\n\t\t\"logo\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n  \t\t\"telephone\": \"0516440141\",\n\t\t\"contactPoint\":{\n\t\t\t\"@type\":\"ContactPoint\",\n\t\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\t\"email\":\"info@studiogiannerini.it\",\n\t\t\t\"telephone\":\"0516440141\"\n\t\t},\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t},\n\t{\n  \t\t\"@type\": \"LocalBusiness\",\n\t\t\"address\": {\n\t\t\t\"@type\": \"PostalAddress\",\n\t\t\t\"addressCountry\": \"Italy\",\n\t\t\t\"addressLocality\": \"Bologna\",\n\t\t\t\"postalCode\":\"40135\",\n\t\t\t\"streetAddress\": \"Via Saragozza 101/3/C\"\n\t\t},\n    \t\"image\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t}\n\t]\n}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy6NDU48O2M68MTtpaZDoyeMzM48NjA78ZXh00Ompw6Zzt28OjE78dzoxaO2NvebXA68MQ==8/b/0/233860.jpg",
+     "w": 1280,
+     "h": 891,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/m/0/233847.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoycNDU4cO2M64MTtpcZDoy9MzM43NDg70ZXh04OmpwcZzt2cOjE74dzoxcO2Nv9bXA63MQ==0/m/0/233848.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy0NDU40O2M65MTtp9ZDoydMzM4bNDk77ZXh04Ompw0Zzt20OjE75dzox9O2NvdbXA6bMQ==7/m/0/233849.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoybNDU4bO2M69MTtpfZDoyeMzM4dNTA77ZXh08OmpwbZzt2bOjE79dzoxfO2NvebXA6dMQ==7/m/0/233850.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy6NDU4aO2M68MTtp3ZDoy4MzM43NTE7eZXh0dOmpw6Zzt2aOjE78dzox3O2Nv4bXA63MQ==e/m/0/233851.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/r/0/233847.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4cO2M64MTtpcZDoy9MzM43NDg70ZXh04OmpwcZzt2cOjE74dzoxcO2Nv9bXA63MQ==0/r/0/233848.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU40O2M65MTtp9ZDoydMzM4bNDk77ZXh04Ompw0Zzt20OjE75dzox9O2NvdbXA6bMQ==7/r/0/233849.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4bO2M69MTtpfZDoyeMzM4dNTA77ZXh08OmpwbZzt2bOjE79dzoxfO2NvebXA6dMQ==7/r/0/233850.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NDU4aO2M68MTtp3ZDoy4MzM43NTE7eZXh0dOmpw6Zzt2aOjE78dzox3O2Nv4bXA63MQ==e/r/0/233851.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4eO2M6eMjtp2ZDoy4MzMxbMDQ7aZXh0dOnBu2Zzt2eOjE7edzox2O2Nv4bXA6bMQ==a/m/0/233104.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/r/0/233847.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4cO2M64MTtpcZDoy9MzM43NDg70ZXh04OmpwcZzt2cOjE74dzoxcO2Nv9bXA63MQ==0/r/0/233848.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU40O2M65MTtp9ZDoydMzM4bNDk77ZXh04Ompw0Zzt20OjE75dzox9O2NvdbXA6bMQ==7/r/0/233849.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4bO2M69MTtpfZDoyeMzM4dNTA77ZXh08OmpwbZzt2bOjE79dzoxfO2NvebXA6dMQ==7/r/0/233850.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NDU4aO2M68MTtp3ZDoy4MzM43NTE7eZXh0dOmpw6Zzt2aOjE78dzox3O2Nv4bXA63MQ==e/r/0/233851.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU4dO2M63MTtpeZDoy0MzM40NTI71ZXh0dOmpw0Zzt2dOjE73dzoxeO2Nv0bXA60MQ==1/r/0/233852.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU47O2M69MTtpaZDoy5MzM43NTM7fZXh0bOmpwfZzt27OjE79dzoxaO2Nv5bXA63MQ==f/r/0/233853.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NDU41O2M62MTtp7ZDoy8MzM4fNTQ70ZXh0bOmpw8Zzt21OjE72dzox7O2Nv8bXA6fMQ==0/r/0/233854.jpg"
+   ],
+   "descBlock": null,
+   "text": "HOME\n \nVENDITE\n \nLOCAZIONI\n \nVALUTAZIONI\n \nCONSULENZE\n \nAGENZIA\nCHI SIAMO\n \nCOSA FACCIAMO\n \nSTAFF\n \nBLOG\n \nNEWS\n \nCONTATTI\nImmobili  Vendita Laboratorio - Bologna\nGuarda 33 foto\n POSIZIONE\n PLANIMETRIE\n AGENTE\n DOCUMENTI\nVendita Artigianale Bologna, zona Ovest\nLaboratorio di 330 m2 in Via Emilia Ponente\n€ 365.000,00\nPiano terra\nLocali\n2 \n Bagni\n3 \n Stato\nDa ristrutturare\nAltre caratteristiche  \nRif. GI2687\n Condividi\nOSPEDALE MAGGIORE | Via Emilia Ponente\n\nIN INTERNO VENDIAMO LABORATORIO da ristrutturare libero subito sito al piano terra di circa 300m² con zona uffici bagni doccia ripostigli e zona archivio oltre a 67m² di cortile con passo carraio e possibilità di parcheggio per 5/6 auto\nAltezza interna da 4m a 4,40m, con bagni soppalco ripostigli.\nPresenti 3 entrate oltre a passo carraio che da accesso al cortile privato in parte coperto da tettoia.\n\nLA zona è molto vicina all'Ospedale Maggiore, quindi al collegamento con asse attrezzato, tangenziale, autostrada e con veloce la nuova linea del Tram verso il centro di Bologna\nAPE G eptot 273\n\n€365.000 | RIF GI2687\nRICHIEDI INFORMAZIONI\n\nProposte simili\n\nVendita\n- Zola Predosa\nPiazza Aldo Moro\n€ 850.000,00\nRif. 02CR1065\nVendita\nGarage - Bologna\nVia Ludwig Van Beethoven\n€ 42.000,00\nRif. GI26131\nVendita\nNegozio - Bologna\nPiazza Grigoris Lambrakis\n€ 75.000,00\nRif. GI2594\nStudio Giannerini S.n.c. di Anna Maria Giannerini & C.\nVia Saragozza 101/3/C\n40135 Bologna\n  051.6440141\n    327.1555427\n  051.3393072\n info@studiogiannerini.it\n giannerini@pec.collegamentimmobiliari.it\nP.IVA 02283891204\nIscrizione REA: BO - 426997\nCookie Policy | Privacy Policy\n Area riservata\nsiti-web-bologna.com",
+   "parsed": {
+    "prezzo": "€ 365.000,00",
+    "mq": "330",
+    "locali": "2",
+    "camere": null,
+    "bagni": "3",
+    "piano": "terra",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/m/0/233847.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NDU48O2M68MTtpaZDoyeMzM48NjA78ZXh00Ompw6Zzt28OjE78dzoxaO2NvebXA68MQ==8/b/0/233860.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/m/0/233847.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4cO2M64MTtpcZDoy9MzM43NDg70ZXh04OmpwcZzt2cOjE74dzoxcO2Nv9bXA63MQ==0/m/0/233848.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU40O2M65MTtp9ZDoydMzM4bNDk77ZXh04Ompw0Zzt20OjE75dzox9O2NvdbXA6bMQ==7/m/0/233849.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4bO2M69MTtpfZDoyeMzM4dNTA77ZXh08OmpwbZzt2bOjE79dzoxfO2NvebXA6dMQ==7/m/0/233850.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NDU4aO2M68MTtp3ZDoy4MzM43NTE7eZXh0dOmpw6Zzt2aOjE78dzox3O2Nv4bXA63MQ==e/m/0/233851.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/r/0/233847.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4cO2M64MTtpcZDoy9MzM43NDg70ZXh04OmpwcZzt2cOjE74dzoxcO2Nv9bXA63MQ==0/r/0/233848.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU40O2M65MTtp9ZDoydMzM4bNDk77ZXh04Ompw0Zzt20OjE75dzox9O2NvdbXA6bMQ==7/r/0/233849.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4bO2M69MTtpfZDoyeMzM4dNTA77ZXh08OmpwbZzt2bOjE79dzoxfO2NvebXA6dMQ==7/r/0/233850.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NDU4aO2M68MTtp3ZDoy4MzM43NTE7eZXh0dOmpw6Zzt2aOjE78dzox3O2Nv4bXA63MQ==e/r/0/233851.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU4eO2M6eMjtp2ZDoy4MzMxbMDQ7aZXh0dOnBu2Zzt2eOjE7edzox2O2Nv4bXA6bMQ==a/m/0/233104.png",
+    "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/r/0/233847.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNDU4cO2M64MTtpcZDoy9MzM43NDg70ZXh04OmpwcZzt2cOjE74dzoxcO2Nv9bXA63MQ==0/r/0/233848.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU40O2M65MTtp9ZDoydMzM4bNDk77ZXh04Ompw0Zzt20OjE75dzox9O2NvdbXA6bMQ==7/r/0/233849.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNDU4bO2M69MTtpfZDoyeMzM4dNTA77ZXh08OmpwbZzt2bOjE79dzoxfO2NvebXA6dMQ==7/r/0/233850.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NDU4aO2M68MTtp3ZDoy4MzM43NTE7eZXh0dOmpw6Zzt2aOjE78dzox3O2Nv4bXA63MQ==e/r/0/233851.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NDU4dO2M63MTtpeZDoy0MzM40NTI71ZXh0dOmpw0Zzt2dOjE73dzoxeO2Nv0bXA60MQ==1/r/0/233852.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU47O2M69MTtpaZDoy5MzM43NTM7fZXh0bOmpwfZzt27OjE79dzoxaO2Nv5bXA63MQ==f/r/0/233853.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NDU41O2M62MTtp7ZDoy8MzM4fNTQ70ZXh0bOmpw8Zzt21OjE72dzox7O2Nv8bXA6fMQ==0/r/0/233854.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoydNDU40O2M68MTtp4ZDoy3MzM44NDc77ZXh0fOmpwdZzt20OjE78dzox4O2Nv3bXA64MQ==7/m/0/233847.jpg"
+  },
+  {
+   "url": "https://www.studiogiannerini.it/scheda.php?q=Affitto-Garage-via-valdossola-Bologna&id=27",
+   "title": "Affitto Garage - via valdossola, Bologna",
+   "h1": "12 m2 in via valdossola",
+   "h2": [
+    "Informativa"
+   ],
+   "ogTitle": "Affitto Garage - via valdossola, Bologna",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/m/0/235869.jpg",
+   "ogDesc": "VIA VALDOSSOLA\n\nDisponibile GARAGE all'interno di un cortile recintato con cancello automatico. Il garage presenta le seguenti misure:\nPortone: larghezza 2,18 altezza 1,91 | Misure interne: lunghezza mt 4,60 + 0,40 (tipo ripostiglio) e larghezza mt 2,53 | Altezza interna 2,27\nLa manovra di accesso è semplice.\n\nRichiesta Euro 170 + 10 (spese condominiali)  mensili \n\nRIF GI26122",
+   "desc": "Studio Giannerini - Affitto garage  -  ",
+   "ld": "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t{\n\t\t\"@type\": \"WebSite\",\n\t\t\"name\": \"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\": \"https://www.studiogiannerini.it/\",\n\t\t\"publisher\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"WebPage\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/scheda#webpage\",\n\t\t\"url\":\"https://www.studiogiannerini.it/scheda\",\n\t\t\"name\":\"Affitto Garage - via valdossola, Bologna\",\n\t\t\"description\":\"Studio Giannerini - Affitto garage  -  \",\n\t\t\"isPartOf\":{\n\t\t\t\"@id\":\"https://www.studiogiannerini.it/#website\"\n\t\t}\n\t},\n\t{\n\t\t\"@type\":\"Organization\",\n\t\t\"@id\":\"https://www.studiogiannerini.it/#organization\",\n\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\"url\":\"https://www.studiogiannerini.it/\",\n\t\t\"logo\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n  \t\t\"telephone\": \"0516440141\",\n\t\t\"contactPoint\":{\n\t\t\t\"@type\":\"ContactPoint\",\n\t\t\t\"name\":\"Studio Giannerini S.n.c. di Anna Maria Giannerini & C.\",\n\t\t\t\"email\":\"info@studiogiannerini.it\",\n\t\t\t\"telephone\":\"0516440141\"\n\t\t},\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t},\n\t{\n  \t\t\"@type\": \"LocalBusiness\",\n\t\t\"address\": {\n\t\t\t\"@type\": \"PostalAddress\",\n\t\t\t\"addressCountry\": \"Italy\",\n\t\t\t\"addressLocality\": \"Bologna\",\n\t\t\t\"postalCode\":\"40135\",\n\t\t\t\"streetAddress\": \"Via Saragozza 101/3/C\"\n\t\t},\n    \t\"image\": \"https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png\",\n\t\t\"sameAs\" : [\"https://www.facebook.com/StudioGianneriniBologna\",\"https://www.instagram.com/studiogiannerinisas/\",\"\",\"https://www.linkedin.com/company/studio-giannerini-s-n-c/about/\",\"\",\"\",\"\"]\n\t}\n\t]\n}\n",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/m/0/235869.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M64MTtp6ZDoy8MzU40NjU75ZXh0aOmpw5Zzt2aOjE74dzox6O2Nv8bXA60MQ==5/m/0/235865.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M6fMTtp3ZDoy2MzU49NjY70ZXh02OmpwfZzt2aOjE7fdzox3O2Nv2bXA69MQ==0/m/0/235866.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy4NDU4cO2M68MTtpcZDoy7MzU45Njc75ZXh08Ompw4Zzt2cOjE78dzoxcO2Nv7bXA65MQ==5/m/0/235867.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy1NDU46O2M6bMTtp5ZDoydMzU4fNjg75ZXh00Ompw1Zzt26OjE7bdzox5O2NvdbXA6fMQ==5/m/0/235868.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy7NDU48O2M6eMTtp6ZDoy4MzU40NzA75ZXh0dOmpw7Zzt28OjE7edzox6O2Nv4bXA60MQ==5/m/0/235870.jpg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/r/0/235869.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M64MTtp6ZDoy8MzU40NjU75ZXh0aOmpw5Zzt2aOjE74dzox6O2Nv8bXA60MQ==5/r/0/235865.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M6fMTtp3ZDoy2MzU49NjY70ZXh02OmpwfZzt2aOjE7fdzox3O2Nv2bXA69MQ==0/r/0/235866.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4cO2M68MTtpcZDoy7MzU45Njc75ZXh08Ompw4Zzt2cOjE78dzoxcO2Nv7bXA65MQ==5/r/0/235867.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NDU46O2M6bMTtp5ZDoydMzU4fNjg75ZXh00Ompw1Zzt26OjE7bdzox5O2NvdbXA6fMQ==5/r/0/235868.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M68MTtp5ZDoy0MzQ5fNTg7cZXh0eOmpw2Zzt26OjE78dzox5O2Nv0bXA6fMQ==c/m/0/234958.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/r/0/235869.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M64MTtp6ZDoy8MzU40NjU75ZXh0aOmpw5Zzt2aOjE74dzox6O2Nv8bXA60MQ==5/r/0/235865.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M6fMTtp3ZDoy2MzU49NjY70ZXh02OmpwfZzt2aOjE7fdzox3O2Nv2bXA69MQ==0/r/0/235866.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4cO2M68MTtpcZDoy7MzU45Njc75ZXh08Ompw4Zzt2cOjE78dzoxcO2Nv7bXA65MQ==5/r/0/235867.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NDU46O2M6bMTtp5ZDoydMzU4fNjg75ZXh00Ompw1Zzt26OjE7bdzox5O2NvdbXA6fMQ==5/r/0/235868.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU48O2M6eMTtp6ZDoy4MzU40NzA75ZXh0dOmpw7Zzt28OjE7edzox6O2Nv4bXA60MQ==5/r/0/235870.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNDU47O2M60MTtp1ZDoyfMzU44ODI7aZXh0bOmpwaZzt27OjE70dzox1O2NvfbXA64MQ==a/r/0/235882.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M68MTtp5ZDoy0MzQ5fNTg7cZXh0eOmpw2Zzt26OjE78dzox5O2Nv0bXA6fMQ==c/m/0/234958.jpg"
+   ],
+   "descBlock": null,
+   "text": "HOME\n \nVENDITE\n \nLOCAZIONI\n \nVALUTAZIONI\n \nCONSULENZE\n \nAGENZIA\nCHI SIAMO\n \nCOSA FACCIAMO\n \nSTAFF\n \nBLOG\n \nNEWS\n \nCONTATTI\nImmobili  Affitto Garage - Bologna\nGuarda 7 foto\n POSIZIONE\n PLANIMETRIE\n AGENTE\n DOCUMENTI\nAffitto Garage Bologna, zona\n12 m2 in via valdossola\n€ 170,00\nPiano terra\nLocali\n1 \nAltre caratteristiche  \nRif. GI26122\n Condividi\nVIA VALDOSSOLA\n\nDisponibile GARAGE all'interno di un cortile recintato con cancello automatico. Il garage presenta le seguenti misure:\nPortone: larghezza 2,18 altezza 1,91 | Misure interne: lunghezza mt 4,60 + 0,40 (tipo ripostiglio) e larghezza mt 2,53 | Altezza interna 2,27\nLa manovra di accesso è semplice.\n\nRichiesta Euro 170 + 10 (spese condominiali) mensili\n\nRIF GI26122\nRICHIEDI INFORMAZIONI\n\nProposte simili\n\nAffitto\nNegozio - Bologna\nOvest\n€ 630,00\nRif. GI2639\nAffitto\nNegozio - Bologna\nNord\n€ 450,00\nRif. GI26102\nAffitto\nNegozio - Bologna\nVia Emilia Ponente\n€ 1.600,00\nRif. GI26149\nStudio Giannerini S.n.c. di Anna Maria Giannerini & C.\nVia Saragozza 101/3/C\n40135 Bologna\n  051.6440141\n    327.1555427\n  051.3393072\n info@studiogiannerini.it\n giannerini@pec.collegamentimmobiliari.it\nP.IVA 02283891204\nIscrizione REA: BO - 426997\nCookie Policy | Privacy Policy\n Area riservata\nsiti-web-bologna.com",
+   "parsed": {
+    "prezzo": "€ 170,00",
+    "mq": "12",
+    "locali": "1",
+    "camere": null,
+    "bagni": null,
+    "piano": "terra",
+    "classe_energetica": null,
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/m/0/235869.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/m/0/235869.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M64MTtp6ZDoy8MzU40NjU75ZXh0aOmpw5Zzt2aOjE74dzox6O2Nv8bXA60MQ==5/m/0/235865.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M6fMTtp3ZDoy2MzU49NjY70ZXh02OmpwfZzt2aOjE7fdzox3O2Nv2bXA69MQ==0/m/0/235866.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4cO2M68MTtpcZDoy7MzU45Njc75ZXh08Ompw4Zzt2cOjE78dzoxcO2Nv7bXA65MQ==5/m/0/235867.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NDU46O2M6bMTtp5ZDoydMzU4fNjg75ZXh00Ompw1Zzt26OjE7bdzox5O2NvdbXA6fMQ==5/m/0/235868.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU48O2M6eMTtp6ZDoy4MzU40NzA75ZXh0dOmpw7Zzt28OjE7edzox6O2Nv4bXA60MQ==5/m/0/235870.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/r/0/235869.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M64MTtp6ZDoy8MzU40NjU75ZXh0aOmpw5Zzt2aOjE74dzox6O2Nv8bXA60MQ==5/r/0/235865.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M6fMTtp3ZDoy2MzU49NjY70ZXh02OmpwfZzt2aOjE7fdzox3O2Nv2bXA69MQ==0/r/0/235866.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4cO2M68MTtpcZDoy7MzU45Njc75ZXh08Ompw4Zzt2cOjE78dzoxcO2Nv7bXA65MQ==5/r/0/235867.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NDU46O2M6bMTtp5ZDoydMzU4fNjg75ZXh00Ompw1Zzt26OjE7bdzox5O2NvdbXA6fMQ==5/r/0/235868.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M68MTtp5ZDoy0MzQ5fNTg7cZXh0eOmpw2Zzt26OjE78dzox5O2Nv0bXA6fMQ==c/m/0/234958.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/r/0/235869.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5NDU4aO2M64MTtp6ZDoy8MzU40NjU75ZXh0aOmpw5Zzt2aOjE74dzox6O2Nv8bXA60MQ==5/r/0/235865.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNDU4aO2M6fMTtp3ZDoy2MzU49NjY70ZXh02OmpwfZzt2aOjE7fdzox3O2Nv2bXA69MQ==0/r/0/235866.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NDU4cO2M68MTtpcZDoy7MzU45Njc75ZXh08Ompw4Zzt2cOjE78dzoxcO2Nv7bXA65MQ==5/r/0/235867.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NDU46O2M6bMTtp5ZDoydMzU4fNjg75ZXh00Ompw1Zzt26OjE7bdzox5O2NvdbXA6fMQ==5/r/0/235868.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NDU48O2M6eMTtp6ZDoy4MzU40NzA75ZXh0dOmpw7Zzt28OjE7edzox6O2Nv4bXA60MQ==5/r/0/235870.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNDU47O2M60MTtp1ZDoyfMzU44ODI7aZXh0bOmpwaZzt27OjE70dzox1O2NvfbXA64MQ==a/r/0/235882.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2NDU46O2M68MTtp5ZDoy0MzQ5fNTg7cZXh0eOmpw2Zzt26OjE78dzox5O2Nv0bXA6fMQ==c/m/0/234958.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy5NDU4dO2M6fMTtp1ZDoy5MzU4aNjk7fZXh02Ompw5Zzt2dOjE7fdzox1O2Nv5bXA6aMQ==f/m/0/235869.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.studiogiannerini.it/immagini/studiogiannerini-agenzia-immobiliare-bologna.png",
+  "size": 13237
+ }
+}

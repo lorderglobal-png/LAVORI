@@ -1,0 +1,786 @@
+{
+ "cfg": {
+  "slug": "immobiliare-cavallo",
+  "nome": "Immobiliare Cavallo",
+  "home": "https://www.immobiliarecavallo.it/",
+  "index": [
+   "https://www.immobiliarecavallo.it/ricerca/"
+  ],
+  "rx": "/focus/[0-9]+/[a-z]",
+  "n": 6,
+  "contact": "https://www.immobiliarecavallo.it/contatti/"
+ },
+ "home": {
+  "title": "Immobiliare Cavallo",
+  "desc": "Immobiliare Cavallo gestisce interamente processi e pratiche di una trattativa, consentendo ai propri clienti di raggiungere serenamente l’obiettivo prefissato.",
+  "emails": [
+   "info@immobiliarecavallo.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://cdn-cookieyes.com/assets/images/poweredbtcky.svg",
+   "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-website-2023_229x100.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Montserrat"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Montserrat"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Montserrat"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Montserrat"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(80, 120, 163)",
+   "font": "Montserrat"
+  },
+  "btnBg": [
+   [
+    "rgba(255, 255, 255, 0)",
+    7
+   ],
+   [
+    "rgb(4, 116, 181)",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    330
+   ],
+   [
+    "rgb(247, 247, 247)",
+    24
+   ],
+   [
+    "rgb(255, 255, 255)",
+    16
+   ],
+   [
+    "rgb(0, 0, 0)",
+    9
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    3
+   ],
+   [
+    "rgb(126, 162, 215)",
+    2
+   ],
+   [
+    "rgb(33, 48, 71)",
+    2
+   ],
+   [
+    "rgb(18, 18, 18)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(115, 172, 224)",
+    3
+   ],
+   [
+    "rgb(54, 53, 52)",
+    1
+   ],
+   [
+    "rgb(51, 51, 51)",
+    1
+   ],
+   [
+    "rgb(33, 48, 71)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(80, 120, 163)",
+    51
+   ],
+   [
+    "rgb(115, 172, 224)",
+    16
+   ]
+  ],
+  "fonts": [
+   [
+    "Montserrat",
+    112
+   ],
+   [
+    "fontawesome",
+    4
+   ]
+  ],
+  "heads": [
+   "Immobiliare Cavallo"
+  ],
+  "addr": null,
+  "final": "https://www.immobiliarecavallo.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.immobiliarecavallo.it/contatti/",
+  "emails": [
+   "info@immobiliarecavallo.it"
+  ],
+  "tels": [],
+  "addr": "Via Mezzofanti 37, 40137 Bologna"
+ },
+ "candidates": [
+  "https://immobiliarecavallo.it/focus/990/appartamento-con-garage-in-vendita-via-jussi-san-lazzaro",
+  "https://immobiliarecavallo.it/focus/1052/bilocale-in-vendita-in-via-della-foscherara-bologna",
+  "https://immobiliarecavallo.it/focus/1053/trilocale-in-vendita-in-via-del-parco-bologna",
+  "https://immobiliarecavallo.it/focus/1024/quadrilocale-in-vendita-con-garage-a-san-lazzaro-di-savena",
+  "https://immobiliarecavallo.it/focus/1061/bilocale-in-vendita-in-zona-bolognina",
+  "https://immobiliarecavallo.it/focus/942/bilocale-in-via-bombelli",
+  "https://immobiliarecavallo.it/focus/1062/monolocale-in-vendita-a-quarto-inferiore",
+  "https://immobiliarecavallo.it/focus/1023/trilocale-in-vendita-in-via-petrarca---zona-san-mamolo",
+  "https://immobiliarecavallo.it/focus/989/bilocale-in-vendita-zona-savena-",
+  "https://immobiliarecavallo.it/focus/609/trilocale-in-locazione-via-mascagni-bologna",
+  "https://immobiliarecavallo.it/focus/1046/quadrilocale-in-vendita-zona-san-ruffillo",
+  "https://immobiliarecavallo.it/focus/435/trilocale-in-locazione-in-via-saragozza",
+  "https://immobiliarecavallo.it/focus/867/trilocale-in-centro-storico-in-locazione",
+  "https://immobiliarecavallo.it/focus/987/laboratorio-in-vendita-in-zona-roveri",
+  "https://immobiliarecavallo.it/focus/981/magazzino-in-vendita-via-spartaco-bologna",
+  "https://immobiliarecavallo.it/focus/991/casa-in-vendita-a-budrio",
+  "https://immobiliarecavallo.it/focus/916/bilocale-in-locazione-a-pianoro",
+  "https://immobiliarecavallo.it/focus/1027/trilocale-in-vendita-con-terrazza-abitabile-zona-santa-rita",
+  "https://immobiliarecavallo.it/focus/840/bilocale-con-corte-privata---via-kennedy-san-lazzaro",
+  "https://immobiliarecavallo.it/focus/988/bilocale-con-corte-privata---via-kennedy-san-lazzaro",
+  "https://immobiliarecavallo.it/focus/932/appartamento-come-nuovo-in-vendita---via-weber-bologna",
+  "https://immobiliarecavallo.it/focus/556/bilocale-in-vendita-via-grassetti-",
+  "https://immobiliarecavallo.it/focus/977/bilocale-in-vendita-via-grassetti-",
+  "https://immobiliarecavallo.it/focus/1009/monolocale-in-vendita-in-via-cartoleria",
+  "https://immobiliarecavallo.it/focus/958/appartamento-arredato-via-albertazzi-bologna",
+  "https://immobiliarecavallo.it/focus/835/bilocale-arredato-zona-savena--via-arno",
+  "https://immobiliarecavallo.it/focus/972/bilocale-in-via-san-carlo---venduto-in-open-house",
+  "https://immobiliarecavallo.it/focus/966/quadrilocale-in-vendita-via-bonafede-con-postoauto-",
+  "https://immobiliarecavallo.it/focus/356/negozio-in-locazione-fossolo-1-viale-felsina",
+  "https://immobiliarecavallo.it/focus/940/centro-storico---monolocale-in-vendita",
+  "https://immobiliarecavallo.it/focus/929/via-panigale---quadrilocale-libero-subito",
+  "https://immobiliarecavallo.it/focus/923/via-ruffini---piano-alto-con-ascensore",
+  "https://immobiliarecavallo.it/focus/882/budrio-centro---trilocale-con-due-bagni",
+  "https://immobiliarecavallo.it/focus/917/imola---quadrilocale-con-due-bagni-e-autorimessa",
+  "https://immobiliarecavallo.it/focus/941/monolocale-in-vendita-libero-subito-",
+  "https://immobiliarecavallo.it/focus/936/bilocale-in-vendita-completamente-ristrutturato",
+  "https://immobiliarecavallo.it/focus/927/quarto-inferiore---ampio-monolocale-divisibile",
+  "https://immobiliarecavallo.it/focus/883/quadrilocale-con-autorimessa-libero-subito",
+  "https://immobiliarecavallo.it/focus/821/via-fornasini---bilocale-con-balcone",
+  "https://immobiliarecavallo.it/focus/606/viale-felsina---quadrilocale-con-garage"
+ ],
+ "listings": [
+  {
+   "url": "https://www.immobiliarecavallo.it/focus/990/appartamento-con-garage-in-vendita-via-jussi-san-lazzaro",
+   "title": "APPARTAMENTO CON GARAGE IN VENDITA VIA JUSSI SAN LAZZARO | Immobiliare Cavallo",
+   "h1": "Focus",
+   "h2": [
+    "APPARTAMENTO CON GARAGE IN VENDITA VIA JUSSI SAN LAZZARO",
+    "Immobiliare Cavallo",
+    "Social Links",
+    "Contatti",
+    "Orari ufficio",
+    "Informative"
+   ],
+   "ogTitle": "Focus | Immobiliare Cavallo",
+   "ogImage": "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-2023.png",
+   "ogDesc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "desc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.immobiliarecavallo.it\",\"nextItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"name\":\"Focus\"}},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"position\":2,\"name\":\"Focus\",\"previousItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"name\":\"Home\"}}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"telephone\":\"+390514071458\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/wp-content\\/uploads\\/2023\\/08\\/Immobiliare-Cavallo___logo-web-2023.png\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\",\"width\":2363,\"height\":2363},\"image\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/immobiliarecavallo\",\"https:\\/\\/www.instagram.com\\/immobiliarecavallo\\/\",\"https:\\/\\/www.youtube.com\\/channel\\/UCgPjV85x-jrDFsoGgiDaxvQ\",\"https:\\/\\/it.linkedin.com\\/company\\/immobiliarecavallo\"]},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#webpage\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/\",\"name\":\"Focus | Immobiliare Cavallo\",\"description\":\"Visualizza le informazioni relative ad immobili, propriet\\u00e0, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\"},\"datePublished\":\"2020-07-13T08:52:11+00:00\",\"dateModified\":\"2023-09-18T13:43:07+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"inLanguage\":\"it-IT\",\"publisher\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\"}}]}\n\t\t\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"RealEstateListing\",\n  \"name\": \"APPARTAMENTO CON GARAGE IN VENDITA VIA JUSSI SAN LAZZARO (03/RV0395)\",\n  \"description\": \"Nel pieno centro di San Lazzaro di Savena, in una delle vie pi&ugrave; vivaci, servite e ricercate del paese, proponiamo in vendita un ampio appartamento libero subito, situato al quarto piano con ascensore.\nL immobile si trova all interno di uno stabile signorile in ottime condizioni manutentive (nessun lavoro straordinario previsto), dotato di un comodo servizio di portineria: un plus esclusivo che garantisce&nbsp;\nmassima sicurezza negli accessi e la comodit&agrave; di ricevere pacchi e corrispondenza a qualsiasi ora.\nL appartamento si compone di ingresso, soggiorno con balcone, cucina separata, disimpegno notte, bagno, una camera e una seconda camera con terrazza.\nTra le pertinenze troviamo:\n- al piano interrato una cantina ciclabile&nbsp;\n- al piano terra posto bici/scooter condominiale\nVolendo, a parte, autorimessa di 15mq\nSono in corso le verifiche catastali e urbanistiche da parte del tecnico incaricato per la relazione tecnica integrata.\nIl riscaldamento &egrave; centralizzato con contacalorie, classe energetica G.\nNota: Alcune foto possono essere generate con l uso dell intelligenza artificiale al solo scopo illustrativo.\nL immobile verr&agrave; presentato in esclusiva tramite un evento OPEN HOUSE con formula di offerta in busta chiusa Gioved&igrave; 2 Luglio 2026, a partire dalle ore 17:00 con prenotazione della fascia oraria obbligatoria.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\nRif. RV0395\nPrezzo richiesto: &euro; 285.000\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza.\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo &egrave; quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\",\n  \"url\": \"https://www.immobiliarecavallo.it/focus/990/appartamento-con-garage-in-vendita-via-jussi-san-lazzaro\",\n  \"image\": \"https://bologna-city.realestatemanage.net/rem/files/399/img/1781706061_img_4738.jpg\",\n  \"datePosted\": \"2026-10-16\",\n  \"validThrough\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"250000\",\n    \"priceCurrency\": \"EUR\",\n    \"availability\": \"http://schema.org/InStock\",\n    \"url\": \"https://www.immobiliarecavallo.it/focus/990/appartamento-con-garage-in-vendita-via-jussi-san-lazzaro\"\n  }\n}\n\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SingleFamilyResidence\",\n  \"name\": \"APPARTAMENTO CON GARAGE IN VENDITA VIA JUSSI SAN LAZZARO (03/RV0395)\",  \n  \"description\": \"Nel pieno centro di San Lazzaro di Savena, in una delle vie pi&ugrave; vivaci, servite e ricercate del paese, proponiamo in vendita un ampio appartamento libero subito, situato al quarto piano con ascensore.\nL immobile si trova all interno di uno stabile signorile in ottime condizioni manutentive (nessun lavoro straordinario previsto), dotato di un comodo servizio di portineria: un plus esclusivo che garantisce&nbsp;\nmassima sicurezza negli accessi e la comodit&agrave; di ricevere pacchi e corrispondenza a qualsiasi ora.\nL appartamento si compone di ingresso, soggiorno con balcone, cucina separata, disimpegno notte, bagno, una camera e una seconda camera con terrazza.\nTra le pertinenze troviamo:\n- al piano interrato una cantina ciclabile&nbsp;\n- al piano terra posto bici/scooter condominiale\nVolendo, a parte, autorimessa di 15mq\nSono in corso le verifiche catastali e urbanistiche da parte del tecnico incaricato per la relazione tecnica integrata.\nIl riscaldamento &egrave; centralizzato con contacalorie, classe energetica G.\nNota: Alcune foto possono essere generate con l uso dell intelligenza artificiale al solo scopo illustrativo.\nL immobile verr&agrave; presentato in esclusiva tramite un evento OPEN HOUSE con formula di offerta in busta chiusa Gioved&igrave; 2 Luglio 2026, a partire dalle ore 17:00 con prenotazione della fascia oraria obbligatoria.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\nRif. RV0395\nPrezzo richiesto: &euro; 285.000\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza.\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo &egrave; quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\",\n  0\n  0\n  \"floorSize\": {\n    \"@type\": \"QuantitativeValue\",\n    \"value\": \"85mq\",\n    \"unitCode\": \"MTR\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"VIA JUSSI 43\"",
+   "imgs": [
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706060_img_4723_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706066_img_4707_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.9798583984375
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706061_img_4738_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706066_img_4707_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706060_img_4723_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 0
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706063_img_4711_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706060_img_4723.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706066_img_4707.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706061_img_4738.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706066_img_4707.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706060_img_4723.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706063_img_4711.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706057_img_4710.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706048_img_4730.jpg"
+   ],
+   "descBlock": "- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo è quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa!",
+   "text": "Salta al contenuto\nFacebook\nInstagram\nLinkedin\nYoutube\n\nImmobiliare Cavallo\n\nIl tuo Immobile, il nostro Impegno, il tuo Guadagno\n\nCerca immobili\nChi siamo\nBlog\nServizi \nVendi casa con noi\nContatti\nFocus\nHome\nFocus\nAPPARTAMENTO CON GARAGE IN VENDITA VIA JUSSI SAN LAZZARO\nCod. proprietà: 03 / RV0395\n \nPlanimetrie\nVideo\nRichiedi info\n\nNel pieno centro di San Lazzaro di Savena, in una delle vie più vivaci, servite e ricercate del paese, proponiamo in vendita un ampio appartamento libero subito, situato al quarto piano con ascensore.\n\nL'immobile si trova all'interno di uno stabile signorile in ottime condizioni manutentive (nessun lavoro straordinario previsto), dotato di un comodo servizio di portineria: un plus esclusivo che garantisce \n\nmassima sicurezza negli accessi e la comodità di ricevere pacchi e corrispondenza a qualsiasi ora.\n\nL'appartamento si compone di ingresso, soggiorno con balcone, cucina separata, disimpegno notte, bagno, una camera e una seconda camera con terrazza.\n\nTra le pertinenze troviamo:\n\n- al piano interrato una cantina ciclabile \n\n- al piano terra posto bici/scooter condominiale\n\nVolendo, a parte, autorimessa di 15mq\n\nSono in corso le verifiche catastali e urbanistiche da parte del tecnico incaricato per la relazione tecnica integrata.\n\nIl riscaldamento è centralizzato con contacalorie, classe energetica G.\n\nNota: Alcune foto possono essere generate con l'uso dell'intelligenza artificiale al solo scopo illustrativo.\n\nL'immobile verrà presentato in esclusiva tramite un evento OPEN HOUSE con formula di offerta in busta chiusa Giovedì 2 Luglio 2026, a partire dalle ore 17:00 con prenotazione della fascia oraria obbligatoria.\n\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n\nRif. RV0395\n\nPrezzo richiesto: € 285.000\n\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillità e sicurezza.\n\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo è quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\n\nRiferimento\t03/RV0395\nProposta\tImmobile residenziale\nLocalità\tSan Lazzaro di Savena (BO)\nContratto\tVendita\nPrezzo\t€ 250000\nTipologia\tQuadrilocale\nStato\tNormale(rest. oltre 20 anni)\nStabile\tAbitazione tipo signorile\nSuperficie\t85mq\nClasse energetica\tG\nRiscaldamento\tCentralizzato\nCam. Matrimoniali\t2\nCamere Singole\tNessuna\nNum. Bagni\t1\nAscensore\tSi\nPiano\tQuarto piano\nSpese condominio\t€ 300 /mese\n1 / 2\n❮\n❯\nPlanimetria\nPlanimetria\n\nImmobile trattato da\nAlex Cavallo\n\nPer richiedere informazioni o concordare una visita a questa proprietà, si prega di riempire i seguenti campi. Verrete a breve ricontattati dal nostro incaricato.\n\nNome e cognome (richiesti)\n\nIndirizzo email (richiesto)\n\nNumero di telefono (richiesto)\n\nTesto del messaggio\n\nAcconsento al trattamento dei dati personali secondo le condizioni espresse nell'informativa Privacy.Leggi informativa Privacy\n\n\n\n\nIn caso di invio corretto, vi sarà recapitata una mail di conferma all'indirizzo inserito nella form.\n\nImmobiliare Cavallo\n\nImmobiliare Cavallo\ndi Cavallo Alex\nVia Mezzofanti, 37\n40137 Bologna\nP.IVA: 02429831205\nC.F.: CVLLXA81A14A944B\n\nSocial Links\n\nContatti\nSede agenzia\nTel. 0514071458\ninfo@immobiliarecavallo.it\nOrari ufficio\nLun-Ven 9:00-13:00 14:00-19:00\n\nInformative\n\nPrivacy Policy\n\nCookie Policy\n\nCopyright © 2026 Immobiliare Cavallo | Website edit by NTT Web Agency\nWhatsApp us",
+   "parsed": {
+    "prezzo": "€ 285.000",
+    "mq": "85mq",
+    "locali": "tà\tSan Lazzaro di Savena (BO)",
+    "camere": "Singole\tNessuna",
+    "bagni": null,
+    "piano": "Quarto piano",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706060_img_4723_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706066_img_4707_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706061_img_4738_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706066_img_4707_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706060_img_4723_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706063_img_4711_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706060_img_4723.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706066_img_4707.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706061_img_4738.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706066_img_4707.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706060_img_4723.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706063_img_4711.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706057_img_4710.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/399/img/1781706048_img_4730.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://bologna-city.realestatemanage.net/rem/files/399/img/thumbs/1781706060_img_4723_640x360.jpg"
+  },
+  {
+   "url": "https://www.immobiliarecavallo.it/focus/1052/bilocale-in-vendita-in-via-della-foscherara-bologna",
+   "title": "BILOCALE IN VENDITA IN VIA DELLA FOSCHERARA BOLOGNA | Immobiliare Cavallo",
+   "h1": "Focus",
+   "h2": [
+    "BILOCALE IN VENDITA IN VIA DELLA FOSCHERARA BOLOGNA",
+    "Immobiliare Cavallo",
+    "Social Links",
+    "Contatti",
+    "Orari ufficio",
+    "Informative"
+   ],
+   "ogTitle": "Focus | Immobiliare Cavallo",
+   "ogImage": "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-2023.png",
+   "ogDesc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "desc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.immobiliarecavallo.it\",\"nextItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"name\":\"Focus\"}},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"position\":2,\"name\":\"Focus\",\"previousItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"name\":\"Home\"}}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"telephone\":\"+390514071458\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/wp-content\\/uploads\\/2023\\/08\\/Immobiliare-Cavallo___logo-web-2023.png\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\",\"width\":2363,\"height\":2363},\"image\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/immobiliarecavallo\",\"https:\\/\\/www.instagram.com\\/immobiliarecavallo\\/\",\"https:\\/\\/www.youtube.com\\/channel\\/UCgPjV85x-jrDFsoGgiDaxvQ\",\"https:\\/\\/it.linkedin.com\\/company\\/immobiliarecavallo\"]},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#webpage\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/\",\"name\":\"Focus | Immobiliare Cavallo\",\"description\":\"Visualizza le informazioni relative ad immobili, propriet\\u00e0, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\"},\"datePublished\":\"2020-07-13T08:52:11+00:00\",\"dateModified\":\"2023-09-18T13:43:07+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"inLanguage\":\"it-IT\",\"publisher\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\"}}]}\n\t\t\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"RealEstateListing\",\n  \"name\": \"BILOCALE IN VENDITA IN VIA DELLA FOSCHERARA BOLOGNA (03/RV0503)\",\n  \"description\": \"Zona San Ruffillo, Via della Foscherara - All interno di palazzina di soli 4 piani con ascensore , proponiamo in vendita appartamento composto da ingresso, cucina, camera matrimoniale, bagno, balcone e posto auto condominiale.\nTra le dotazioni troviamo, infissi in pvc con doppio vetro e apertura a vasistas, zanzariere e caldaia&nbsp;\nE  una casa pronta per essere venduta e abitata da subito.\nOttima opportunit&agrave; di investimento: appartamento dotato di regolare conformit&agrave; catastale. La situazione urbanistica presenta difformit&agrave; di cui si &egrave; gi&agrave; tenuto ampiamente conto nella determinazione del prezzo di richiesta, rendendo l immobile un eccellente affare rispetto ai valori di mercato della zona.\nNel condominio non sono previsti lavori straordinari.\nL immobile &egrave; in classe energetica G.\nNota: Alcune foto possono essere generate con l uso dell intelligenza artificiale al solo scopo illustrativo.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza.\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo e  quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa\",\n  \"url\": \"https://www.immobiliarecavallo.it/focus/1052/bilocale-in-vendita-in-via-della-foscherara-bologna\",\n  \"image\": \"https://bologna-city.realestatemanage.net/rem/files/507/img/1782124103_img_4795.jpg\",\n  \"datePosted\": \"2026-10-09\",\n  \"validThrough\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"165000\",\n    \"priceCurrency\": \"EUR\",\n    \"availability\": \"http://schema.org/InStock\",\n    \"url\": \"https://www.immobiliarecavallo.it/focus/1052/bilocale-in-vendita-in-via-della-foscherara-bologna\"\n  }\n}\n\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SingleFamilyResidence\",\n  \"name\": \"BILOCALE IN VENDITA IN VIA DELLA FOSCHERARA BOLOGNA (03/RV0503)\",  \n  \"description\": \"Zona San Ruffillo, Via della Foscherara - All interno di palazzina di soli 4 piani con ascensore , proponiamo in vendita appartamento composto da ingresso, cucina, camera matrimoniale, bagno, balcone e posto auto condominiale.\nTra le dotazioni troviamo, infissi in pvc con doppio vetro e apertura a vasistas, zanzariere e caldaia&nbsp;\nE  una casa pronta per essere venduta e abitata da subito.\nOttima opportunit&agrave; di investimento: appartamento dotato di regolare conformit&agrave; catastale. La situazione urbanistica presenta difformit&agrave; di cui si &egrave; gi&agrave; tenuto ampiamente conto nella determinazione del prezzo di richiesta, rendendo l immobile un eccellente affare rispetto ai valori di mercato della zona.\nNel condominio non sono previsti lavori straordinari.\nL immobile &egrave; in classe energetica G.\nNota: Alcune foto possono essere generate con l uso dell intelligenza artificiale al solo scopo illustrativo.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza.\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo e  quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa\",\n  0\n  0\n  \"floorSize\": {\n    \"@type\": \"QuantitativeValue\",\n    \"value\": \"40mq\",\n    \"unitCode\": \"MTR\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"VIA FOSCHERARA 1/2\",\n    \"addressLocality\": \"Bologna\",\n\t \n    \"addressRegion\": \"BO\",\n    \"addressCountry\": \"ITALIA\"\n  }\n}\n",
+   "imgs": [
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124103_img_4795_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124093_img_4796_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124100_img_4794_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124098_img_4792_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124091_img_4793_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124114_img_4791_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124103_img_4795.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124093_img_4796.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124100_img_4794.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124098_img_4792.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124091_img_4793.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124114_img_4791.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124108_img_4790.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124095_img_4789.jpg"
+   ],
+   "descBlock": "- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo e' quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa",
+   "text": "Salta al contenuto\nFacebook\nInstagram\nLinkedin\nYoutube\n\nImmobiliare Cavallo\n\nIl tuo Immobile, il nostro Impegno, il tuo Guadagno\n\nCerca immobili\nChi siamo\nBlog\nServizi \nVendi casa con noi\nContatti\nFocus\nHome\nFocus\nBILOCALE IN VENDITA IN VIA DELLA FOSCHERARA BOLOGNA\nCod. proprietà: 03 / RV0503\n \nPlanimetrie\nVideo\nRichiedi info\n\nZona San Ruffillo, Via della Foscherara - All'interno di palazzina di soli 4 piani con ascensore , proponiamo in vendita appartamento composto da ingresso, cucina, camera matrimoniale, bagno, balcone e posto auto condominiale.\n\nTra le dotazioni troviamo, infissi in pvc con doppio vetro e apertura a vasistas, zanzariere e caldaia \n\nE' una casa pronta per essere venduta e abitata da subito.\n\nOttima opportunità di investimento: appartamento dotato di regolare conformità catastale. La situazione urbanistica presenta difformità di cui si è già tenuto ampiamente conto nella determinazione del prezzo di richiesta, rendendo l'immobile un eccellente affare rispetto ai valori di mercato della zona.\n\nNel condominio non sono previsti lavori straordinari.\n\nL'immobile è in classe energetica G.\n\nNota: Alcune foto possono essere generate con l'uso dell'intelligenza artificiale al solo scopo illustrativo.\n\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillità e sicurezza.\n\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo e' quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa\n\nRiferimento\t03/RV0503\nProposta\tImmobile residenziale\nLocalità\tBologna (BO)\nContratto\tVendita\nPrezzo\t€ 165000\nTipologia\tBilocale\nStato\tBuono (restaurato 6-20 anni)\nStabile\tAbitazione tipo civile\nSuperficie\t40mq\nClasse energetica\tG\nRiscaldamento\tAutonomo\nCam. Matrimoniali\t1\nCamere Singole\tNessuna\nNum. Bagni\t1\nAscensore\tNo\nPiano\tPrimo piano\nSpese condominio\t€ 45 /mese\n1 / 1\nPlanimetria\n\nImmobile trattato da\nMaurizio Malpensa\n\nPer richiedere informazioni o concordare una visita a questa proprietà, si prega di riempire i seguenti campi. Verrete a breve ricontattati dal nostro incaricato.\n\nNome e cognome (richiesti)\n\nIndirizzo email (richiesto)\n\nNumero di telefono (richiesto)\n\nTesto del messaggio\n\nAcconsento al trattamento dei dati personali secondo le condizioni espresse nell'informativa Privacy.Leggi informativa Privacy\n\n\n\n\nIn caso di invio corretto, vi sarà recapitata una mail di conferma all'indirizzo inserito nella form.\n\nImmobiliare Cavallo\n\nImmobiliare Cavallo\ndi Cavallo Alex\nVia Mezzofanti, 37\n40137 Bologna\nP.IVA: 02429831205\nC.F.: CVLLXA81A14A944B\n\nSocial Links\n\nContatti\nSede agenzia\nTel. 0514071458\ninfo@immobiliarecavallo.it\nOrari ufficio\nLun-Ven 9:00-13:00 14:00-19:00\n\nInformative\n\nPrivacy Policy\n\nCookie Policy\n\nCopyright © 2026 Immobiliare Cavallo | Website edit by NTT Web Agency\nWhatsApp us",
+   "parsed": {
+    "prezzo": "€ 165000",
+    "mq": "40mq",
+    "locali": "tà\tBologna (BO)",
+    "camere": "Singole\tNessuna",
+    "bagni": null,
+    "piano": "Primo piano",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124103_img_4795_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124093_img_4796_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124100_img_4794_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124098_img_4792_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124091_img_4793_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124114_img_4791_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124103_img_4795.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124093_img_4796.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124100_img_4794.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124098_img_4792.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124091_img_4793.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124114_img_4791.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124108_img_4790.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/507/img/1782124095_img_4789.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://bologna-city.realestatemanage.net/rem/files/507/img/thumbs/1782124103_img_4795_640x360.jpg"
+  },
+  {
+   "url": "https://www.immobiliarecavallo.it/focus/1053/trilocale-in-vendita-in-via-del-parco-bologna",
+   "title": "TRILOCALE IN VENDITA IN VIA DEL PARCO BOLOGNA | Immobiliare Cavallo",
+   "h1": "Focus",
+   "h2": [
+    "TRILOCALE IN VENDITA IN VIA DEL PARCO BOLOGNA",
+    "Immobiliare Cavallo",
+    "Social Links",
+    "Contatti",
+    "Orari ufficio",
+    "Informative"
+   ],
+   "ogTitle": "Focus | Immobiliare Cavallo",
+   "ogImage": "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-2023.png",
+   "ogDesc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "desc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.immobiliarecavallo.it\",\"nextItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"name\":\"Focus\"}},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"position\":2,\"name\":\"Focus\",\"previousItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"name\":\"Home\"}}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"telephone\":\"+390514071458\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/wp-content\\/uploads\\/2023\\/08\\/Immobiliare-Cavallo___logo-web-2023.png\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\",\"width\":2363,\"height\":2363},\"image\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/immobiliarecavallo\",\"https:\\/\\/www.instagram.com\\/immobiliarecavallo\\/\",\"https:\\/\\/www.youtube.com\\/channel\\/UCgPjV85x-jrDFsoGgiDaxvQ\",\"https:\\/\\/it.linkedin.com\\/company\\/immobiliarecavallo\"]},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#webpage\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/\",\"name\":\"Focus | Immobiliare Cavallo\",\"description\":\"Visualizza le informazioni relative ad immobili, propriet\\u00e0, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\"},\"datePublished\":\"2020-07-13T08:52:11+00:00\",\"dateModified\":\"2023-09-18T13:43:07+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"inLanguage\":\"it-IT\",\"publisher\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\"}}]}\n\t\t\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"RealEstateListing\",\n  \"name\": \"TRILOCALE IN VENDITA IN VIA DEL PARCO BOLOGNA (03/RV0994)\",\n  \"description\": \"Proponiamo in vendita un luminoso appartamento pronto per essere abitato, situato al penultimo piano di uno stabile con ascensore nella richiestissima zona Massarenti, a due passi dall Ospedale Sant Orsola.\nL immobile, caratterizzato da una piacevole vista aperta, si apre su un disimpegno d ingresso con porta blindata.&nbsp;\nLa zona giorno &egrave; composta da una cucina con accesso diretto al balcone, mentre la zona notte offre due ampie camere matrimoniali.&nbsp;\nCompletano la disposizione interna un bagno dotato di doccia con una comoda nicchia per la lavatrice e un pratico ripostiglio.\nLa casa &egrave; sempre stata abitata direttamente dalla propriet&agrave;, che nel tempo ne ha curato ogni dettaglio con costante manutenzione.\nLe finiture fondono con eleganza elementi originali e comfort moderni: i pavimenti in palladiana sono perfettamente conservati, le porte interne in legno laccato bianco sono ottimamente tenute e gli infissi sono stati recentemente sostituiti con nuovi serramenti in PVC ad alte prestazioni termiche e acustiche. Anche l impianto di riscaldamento &egrave; autonomo, servito da una caldaia a condensazione installata di recente.\nAl piano seminterrato si trova una comoda e ampia cantina ciclabile di pertinenza. Nota importante per la gestione futura: all interno del condominio non sono previsti n&eacute; deliberati lavori di manutenzione straordinaria. L immobile &egrave; in classe energetica G e sono in corso le verifiche catastali e urbanistiche.\nNota: Alcune foto possono essere generato con l uso dell intelligenza artificiale al solo scopo illustrativo.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n&nbsp;\",\n  \"url\": \"https://www.immobiliarecavallo.it/focus/1053/trilocale-in-vendita-in-via-del-parco-bologna\",\n  \"image\": \"https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106903_ridimensiona-diimg_4954.jpg\",\n  \"datePosted\": \"2026-10-15\",\n  \"validThrough\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"210000\",\n    \"priceCurrency\": \"EUR\",\n    \"availability\": \"http://schema.org/InStock\",\n    \"url\": \"https://www.immobiliarecavallo.it/focus/1053/trilocale-in-vendita-in-via-del-parco-bologna\"\n  }\n}\n\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SingleFamilyResidence\",\n  \"name\": \"TRILOCALE IN VENDITA IN VIA DEL PARCO BOLOGNA (03/RV0994)\",  \n  \"description\": \"Proponiamo in vendita un luminoso appartamento pronto per essere abitato, situato al penultimo piano di uno stabile con ascensore nella richiestissima zona Massarenti, a due passi dall Ospedale Sant Orsola.\nL immobile, caratterizzato da una piacevole vista aperta, si apre su un disimpegno d ingresso con porta blindata.&nbsp;\nLa zona giorno &egrave; composta da una cucina con accesso diretto al balcone, mentre la zona notte offre due ampie camere matrimoniali.&nbsp;\nCompletano la disposizione interna un bagno dotato di doccia con una comoda nicchia per la lavatrice e un pratico ripostiglio.\nLa casa &egrave; sempre stata abitata direttamente dalla propriet&agrave;, che nel tempo ne ha curato ogni dettaglio con costante manutenzione.\nLe finiture fondono con eleganza elementi originali e comfort moderni: i pavimenti in palladiana sono perfettamente conservati, le porte interne in legno laccato bianco sono ottimamente tenute e gli infissi sono stati recentemente sostituiti con nuovi serramenti in PVC ad alte prestazioni termiche e acustiche. Anche l impianto di riscaldamento &egrave; autonomo, servito da una caldaia a condensazione installata di recente.\nAl piano seminterrato si trova una comoda e ampia cantina ciclabile di pertinenza. Nota importante per la gestione futura: all interno del condominio non sono previsti n&eacute; deliberati lavori di manutenzione straordinaria. L immobile &egrave; in classe energetica G e sono in corso le verifiche catastali e urbanistiche.\nNota: Alcune foto possono essere generato con l uso dell intelligenza artificiale al solo scopo illustrativo.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n&nbsp;\",\n  0\n  0\n  \"floorSize\": {\n    \"@type\": \"QuantitativeValue\",\n    \"value\": \"60mq\",\n    \"unitCode\": \"MTR\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"VIA DEL PARCO 2\",\n    \"addressLocality\": \"Bologna\",\n\t \n    \"addressRegion\": \"BO\",\n    \"addressCountry\": \"ITALIA\"\n  }\n}\n",
+   "imgs": [
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106895_ridimensiona-diimg_4936_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106876_ridimensiona-diimg_4935_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.9800415039062
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106903_ridimensiona-diimg_4954_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106900_ridimensiona-diimg_4934_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106895_ridimensiona-diimg_4936_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106876_ridimensiona-diimg_4935_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106895_ridimensiona-diimg_4936.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106876_ridimensiona-diimg_4935.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106903_ridimensiona-diimg_4954.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106900_ridimensiona-diimg_4934.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106895_ridimensiona-diimg_4936.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106876_ridimensiona-diimg_4935.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106865_ridimensiona-diimg_4933.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106886_ridimensiona-diimg_4931.jpg"
+   ],
+   "descBlock": "Le finiture fondono con eleganza elementi originali e comfort moderni: i pavimenti in palladiana sono perfettamente conservati, le porte interne in legno laccato bianco sono ottimamente tenute e gli infissi sono stati recentemente sostituiti con nuovi serramenti in PVC ad alte prestazioni termiche e acustiche. Anche l'impianto di riscaldamento è autonomo, servito da una caldaia a condensazione installata di recente.",
+   "text": "Salta al contenuto\nFacebook\nInstagram\nLinkedin\nYoutube\n\nImmobiliare Cavallo\n\nIl tuo Immobile, il nostro Impegno, il tuo Guadagno\n\nCerca immobili\nChi siamo\nBlog\nServizi \nVendi casa con noi\nContatti\nFocus\nHome\nFocus\nTRILOCALE IN VENDITA IN VIA DEL PARCO BOLOGNA\nCod. proprietà: 03 / RV0994\n \nPlanimetrie\nVideo\nRichiedi info\n\nProponiamo in vendita un luminoso appartamento pronto per essere abitato, situato al penultimo piano di uno stabile con ascensore nella richiestissima zona Massarenti, a due passi dall'Ospedale Sant'Orsola.\n\nL'immobile, caratterizzato da una piacevole vista aperta, si apre su un disimpegno d'ingresso con porta blindata. \n\nLa zona giorno è composta da una cucina con accesso diretto al balcone, mentre la zona notte offre due ampie camere matrimoniali. \n\nCompletano la disposizione interna un bagno dotato di doccia con una comoda nicchia per la lavatrice e un pratico ripostiglio.\n\nLa casa è sempre stata abitata direttamente dalla proprietà, che nel tempo ne ha curato ogni dettaglio con costante manutenzione.\n\nLe finiture fondono con eleganza elementi originali e comfort moderni: i pavimenti in palladiana sono perfettamente conservati, le porte interne in legno laccato bianco sono ottimamente tenute e gli infissi sono stati recentemente sostituiti con nuovi serramenti in PVC ad alte prestazioni termiche e acustiche. Anche l'impianto di riscaldamento è autonomo, servito da una caldaia a condensazione installata di recente.\n\nAl piano seminterrato si trova una comoda e ampia cantina ciclabile di pertinenza. Nota importante per la gestione futura: all'interno del condominio non sono previsti né deliberati lavori di manutenzione straordinaria. L'immobile è in classe energetica G e sono in corso le verifiche catastali e urbanistiche.\n\nNota: Alcune foto possono essere generato con l'uso dell'intelligenza artificiale al solo scopo illustrativo.\n\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n\n \n\nRiferimento\t03/RV0994\nProposta\tImmobile residenziale\nLocalità\tBologna (BO)\nContratto\tVendita\nPrezzo\t€ 210000\nTipologia\tTrilocale\nStato\tBuono (restaurato 6-20 anni)\nStabile\tAbitazione tipo civile\nSuperficie\t60mq\nClasse energetica\tG\nRiscaldamento\tAutonomo\nCam. Matrimoniali\t2\nCamere Singole\tNessuna\nNum. Bagni\t1\nAscensore\tSi\nPiano\tQuarto piano\nSpese condominio\t€ 70 /mese\n1 / 2\n❮\n❯\nPlanimetria\nPlanimetria\n\nImmobile trattato da\nAlex Cavallo\n\nPer richiedere informazioni o concordare una visita a questa proprietà, si prega di riempire i seguenti campi. Verrete a breve ricontattati dal nostro incaricato.\n\nNome e cognome (richiesti)\n\nIndirizzo email (richiesto)\n\nNumero di telefono (richiesto)\n\nTesto del messaggio\n\nAcconsento al trattamento dei dati personali secondo le condizioni espresse nell'informativa Privacy.Leggi informativa Privacy\n\n\n\n\nIn caso di invio corretto, vi sarà recapitata una mail di conferma all'indirizzo inserito nella form.\n\nImmobiliare Cavallo\n\nImmobiliare Cavallo\ndi Cavallo Alex\nVia Mezzofanti, 37\n40137 Bologna\nP.IVA: 02429831205\nC.F.: CVLLXA81A14A944B\n\nSocial Links\n\nContatti\nSede agenzia\nTel. 0514071458\ninfo@immobiliarecavallo.it\nOrari ufficio\nLun-Ven 9:00-13:00 14:00-19:00\n\nInformative\n\nPrivacy Policy\n\nCookie Policy\n\nCopyright © 2026 Immobiliare Cavallo | Website edit by NTT Web Agency\nWhatsApp us",
+   "parsed": {
+    "prezzo": "€ 210000",
+    "mq": "60mq",
+    "locali": "tà\tBologna (BO)",
+    "camere": "Singole\tNessuna",
+    "bagni": null,
+    "piano": "Quarto piano",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106895_ridimensiona-diimg_4936_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106876_ridimensiona-diimg_4935_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106903_ridimensiona-diimg_4954_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106900_ridimensiona-diimg_4934_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106895_ridimensiona-diimg_4936_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106876_ridimensiona-diimg_4935_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106895_ridimensiona-diimg_4936.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106876_ridimensiona-diimg_4935.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106903_ridimensiona-diimg_4954.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106900_ridimensiona-diimg_4934.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106895_ridimensiona-diimg_4936.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106876_ridimensiona-diimg_4935.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106865_ridimensiona-diimg_4933.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1014/img/1784106886_ridimensiona-diimg_4931.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://bologna-city.realestatemanage.net/rem/files/1014/img/thumbs/1784106895_ridimensiona-diimg_4936_640x360.jpg"
+  },
+  {
+   "url": "https://www.immobiliarecavallo.it/focus/1024/quadrilocale-in-vendita-con-garage-a-san-lazzaro-di-savena",
+   "title": "QUADRILOCALE IN VENDITA CON GARAGE A SAN LAZZARO DI SAVENA | Immobiliare Cavallo",
+   "h1": "Focus",
+   "h2": [
+    "QUADRILOCALE IN VENDITA CON GARAGE A SAN LAZZARO DI SAVENA",
+    "Immobiliare Cavallo",
+    "Social Links",
+    "Contatti",
+    "Orari ufficio",
+    "Informative"
+   ],
+   "ogTitle": "Focus | Immobiliare Cavallo",
+   "ogImage": "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-2023.png",
+   "ogDesc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "desc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.immobiliarecavallo.it\",\"nextItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"name\":\"Focus\"}},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"position\":2,\"name\":\"Focus\",\"previousItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"name\":\"Home\"}}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"telephone\":\"+390514071458\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/wp-content\\/uploads\\/2023\\/08\\/Immobiliare-Cavallo___logo-web-2023.png\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\",\"width\":2363,\"height\":2363},\"image\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/immobiliarecavallo\",\"https:\\/\\/www.instagram.com\\/immobiliarecavallo\\/\",\"https:\\/\\/www.youtube.com\\/channel\\/UCgPjV85x-jrDFsoGgiDaxvQ\",\"https:\\/\\/it.linkedin.com\\/company\\/immobiliarecavallo\"]},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#webpage\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/\",\"name\":\"Focus | Immobiliare Cavallo\",\"description\":\"Visualizza le informazioni relative ad immobili, propriet\\u00e0, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\"},\"datePublished\":\"2020-07-13T08:52:11+00:00\",\"dateModified\":\"2023-09-18T13:43:07+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"inLanguage\":\"it-IT\",\"publisher\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\"}}]}\n\t\t\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"RealEstateListing\",\n  \"name\": \"QUADRILOCALE IN VENDITA CON GARAGE A SAN LAZZARO DI SAVENA (03/RV0968)\",\n  \"description\": \"Proponiamo in vendita un appartamento circondato dal verde in via Amendola a San Lazzaro di Savena L appartamento si trova in uno stabile costruito negli anni 2000, ad un primo piano con ascensore, si compone di un ingresso sul soggiorno con accesso al terrazzo, cucina abitabile, disimpegno notte con due belle camere e due bagni uno finestrato e uno cieco. La distribuzione attuale permette di ripensare gli spazi, offrendo l opportunit&agrave; di ricavare una comoda terza camera. Dotato di: porta blindata, infissi in legno con doppio vetro, pavimento in ceramica nella zona giorno e parquet nelle camere, inferriate e zanzariere. Il riscaldamento &egrave; autonomo e le spese condominiali sono contenute. L immobile &egrave; pronto per essere gi&agrave; abitato. Completa la propriet&agrave; un ampia cantina e un ampio garage. Nel condominio non sono previsti lavori straordinari. Certificazione energetica E.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza. \n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo e  quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\",\n  \"url\": \"https://www.immobiliarecavallo.it/focus/1024/quadrilocale-in-vendita-con-garage-a-san-lazzaro-di-savena\",\n  \"image\": \"https://bologna-city.realestatemanage.net/rem/files/988/img/1780909315_img_4655.jpg\",\n  \"datePosted\": \"2026-10-28\",\n  \"validThrough\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"380000\",\n    \"priceCurrency\": \"EUR\",\n    \"availability\": \"http://schema.org/InStock\",\n    \"url\": \"https://www.immobiliarecavallo.it/focus/1024/quadrilocale-in-vendita-con-garage-a-san-lazzaro-di-savena\"\n  }\n}\n\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SingleFamilyResidence\",\n  \"name\": \"QUADRILOCALE IN VENDITA CON GARAGE A SAN LAZZARO DI SAVENA (03/RV0968)\",  \n  \"description\": \"Proponiamo in vendita un appartamento circondato dal verde in via Amendola a San Lazzaro di Savena L appartamento si trova in uno stabile costruito negli anni 2000, ad un primo piano con ascensore, si compone di un ingresso sul soggiorno con accesso al terrazzo, cucina abitabile, disimpegno notte con due belle camere e due bagni uno finestrato e uno cieco. La distribuzione attuale permette di ripensare gli spazi, offrendo l opportunit&agrave; di ricavare una comoda terza camera. Dotato di: porta blindata, infissi in legno con doppio vetro, pavimento in ceramica nella zona giorno e parquet nelle camere, inferriate e zanzariere. Il riscaldamento &egrave; autonomo e le spese condominiali sono contenute. L immobile &egrave; pronto per essere gi&agrave; abitato. Completa la propriet&agrave; un ampia cantina e un ampio garage. Nel condominio non sono previsti lavori straordinari. Certificazione energetica E.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza. \n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo e  quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\",\n  0\n  0\n  \"floorSize\": {\n    \"@type\": \"QuantitativeValue\",\n    \"value\": \"135mq\",\n    \"unitCode\": \"MTR\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Via Amendola  17\",\n    \"addressLocality\": \"San Lazzaro di Savena\",\n\t \n    \"addressRegion\": \"BO\",\n    \"addressCountry\": \"ITALIA\"\n  }\n}\n",
+   "imgs": [
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275090_gemini_generated_image_hd07m7hd07m7hd07_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275096_gemini_generated_image_q653ewq653ewq653_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.9800415039062
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1780909315_img_4655_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275100_gemini_generated_image_am5h1mam5h1mam5h_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275090_gemini_generated_image_hd07m7hd07m7hd07_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275096_gemini_generated_image_q653ewq653ewq653_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275090_gemini_generated_image_hd07m7hd07m7hd07.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275096_gemini_generated_image_q653ewq653ewq653.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1780909315_img_4655.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275100_gemini_generated_image_am5h1mam5h1mam5h.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275090_gemini_generated_image_hd07m7hd07m7hd07.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275096_gemini_generated_image_q653ewq653ewq653.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275242_img_4646.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275236_img_4650.jpg"
+   ],
+   "descBlock": "Proponiamo in vendita un appartamento circondato dal verde in via Amendola a San Lazzaro di Savena L'appartamento si trova in uno stabile costruito negli anni 2000, ad un primo piano con ascensore, si compone di un ingresso sul soggiorno con accesso al terrazzo, cucina abitabile, disimpegno notte con due belle camere e due bagni uno finestrato e uno cieco. La distribuzione attuale permette di ripensare gli spazi, offrendo l'opportunità di ricavare una comoda terza camera. Dotato di: porta blindata, infissi in legno con doppio vetro, pavimento in ceramica nella zona giorno e parquet nelle camere, inferriate e zanzariere. Il riscaldamento è autonomo e le spese condominiali sono contenute. L'immobile è pronto per essere già abitato. Completa la proprietà un'ampia cantina e un ampio garage. Nel condominio non sono previsti lavori straordinari. Certificazione energetica E.",
+   "text": "Salta al contenuto\nFacebook\nInstagram\nLinkedin\nYoutube\n\nImmobiliare Cavallo\n\nIl tuo Immobile, il nostro Impegno, il tuo Guadagno\n\nCerca immobili\nChi siamo\nBlog\nServizi \nVendi casa con noi\nContatti\nFocus\nHome\nFocus\nQUADRILOCALE IN VENDITA CON GARAGE A SAN LAZZARO DI SAVENA\nCod. proprietà: 03 / RV0968\n \nPlanimetrie\nVideo\nRichiedi info\n\nProponiamo in vendita un appartamento circondato dal verde in via Amendola a San Lazzaro di Savena L'appartamento si trova in uno stabile costruito negli anni 2000, ad un primo piano con ascensore, si compone di un ingresso sul soggiorno con accesso al terrazzo, cucina abitabile, disimpegno notte con due belle camere e due bagni uno finestrato e uno cieco. La distribuzione attuale permette di ripensare gli spazi, offrendo l'opportunità di ricavare una comoda terza camera. Dotato di: porta blindata, infissi in legno con doppio vetro, pavimento in ceramica nella zona giorno e parquet nelle camere, inferriate e zanzariere. Il riscaldamento è autonomo e le spese condominiali sono contenute. L'immobile è pronto per essere già abitato. Completa la proprietà un'ampia cantina e un ampio garage. Nel condominio non sono previsti lavori straordinari. Certificazione energetica E.\n\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillità e sicurezza.\n\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo e' quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\n\nRiferimento\t03/RV0968\nProposta\tImmobile residenziale\nLocalità\tSan Lazzaro di Savena (BO)\nContratto\tVendita\nPrezzo\t€ 380000\nTipologia\tQuadrilocale\nStato\tBuono (restaurato 6-20 anni)\nStabile\tAbitazione tipo civile\nSuperficie\t135mq\nClasse energetica\tE\nRiscaldamento\tAutonomo\nCam. Matrimoniali\t2\nCamere Singole\tNessuna\nNum. Bagni\t2\nAscensore\tSi\nPiano\tPrimo piano\nSpese condominio\t€ 75 /mese\n1 / 2\n❮\n❯\nPlanimetria\nPlanimetria\n\nImmobile trattato da\nMaurizio Malpensa\n\nPer richiedere informazioni o concordare una visita a questa proprietà, si prega di riempire i seguenti campi. Verrete a breve ricontattati dal nostro incaricato.\n\nNome e cognome (richiesti)\n\nIndirizzo email (richiesto)\n\nNumero di telefono (richiesto)\n\nTesto del messaggio\n\nAcconsento al trattamento dei dati personali secondo le condizioni espresse nell'informativa Privacy.Leggi informativa Privacy\n\n\n\n\nIn caso di invio corretto, vi sarà recapitata una mail di conferma all'indirizzo inserito nella form.\n\nImmobiliare Cavallo\n\nImmobiliare Cavallo\ndi Cavallo Alex\nVia Mezzofanti, 37\n40137 Bologna\nP.IVA: 02429831205\nC.F.: CVLLXA81A14A944B\n\nSocial Links\n\nContatti\nSede agenzia\nTel. 0514071458\ninfo@immobiliarecavallo.it\nOrari ufficio\nLun-Ven 9:00-13:00 14:00-19:00\n\nInformative\n\nPrivacy Policy\n\nCookie Policy\n\nCopyright © 2026 Immobiliare Cavallo | Website edit by NTT Web Agency\nWhatsApp us",
+   "parsed": {
+    "prezzo": "€ 380000",
+    "mq": "135mq",
+    "locali": "tà\tSan Lazzaro di Savena (BO)",
+    "camere": "Singole\tNessuna",
+    "bagni": null,
+    "piano": "Primo piano",
+    "classe_energetica": "E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275090_gemini_generated_image_hd07m7hd07m7hd07_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275096_gemini_generated_image_q653ewq653ewq653_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1780909315_img_4655_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275100_gemini_generated_image_am5h1mam5h1mam5h_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275090_gemini_generated_image_hd07m7hd07m7hd07_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275096_gemini_generated_image_q653ewq653ewq653_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275090_gemini_generated_image_hd07m7hd07m7hd07.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275096_gemini_generated_image_q653ewq653ewq653.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1780909315_img_4655.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275100_gemini_generated_image_am5h1mam5h1mam5h.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275090_gemini_generated_image_hd07m7hd07m7hd07.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275096_gemini_generated_image_q653ewq653ewq653.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275242_img_4646.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/988/img/1779275236_img_4650.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://bologna-city.realestatemanage.net/rem/files/988/img/thumbs/1779275090_gemini_generated_image_hd07m7hd07m7hd07_640x360.jpg"
+  },
+  {
+   "url": "https://www.immobiliarecavallo.it/focus/1061/bilocale-in-vendita-in-zona-bolognina",
+   "title": "BILOCALE IN VENDITA IN ZONA BOLOGNINA | Immobiliare Cavallo",
+   "h1": "Focus",
+   "h2": [
+    "BILOCALE IN VENDITA IN ZONA BOLOGNINA",
+    "Immobiliare Cavallo",
+    "Social Links",
+    "Contatti",
+    "Orari ufficio",
+    "Informative"
+   ],
+   "ogTitle": "Focus | Immobiliare Cavallo",
+   "ogImage": "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-2023.png",
+   "ogDesc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "desc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.immobiliarecavallo.it\",\"nextItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"name\":\"Focus\"}},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"position\":2,\"name\":\"Focus\",\"previousItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"name\":\"Home\"}}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"telephone\":\"+390514071458\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/wp-content\\/uploads\\/2023\\/08\\/Immobiliare-Cavallo___logo-web-2023.png\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\",\"width\":2363,\"height\":2363},\"image\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/immobiliarecavallo\",\"https:\\/\\/www.instagram.com\\/immobiliarecavallo\\/\",\"https:\\/\\/www.youtube.com\\/channel\\/UCgPjV85x-jrDFsoGgiDaxvQ\",\"https:\\/\\/it.linkedin.com\\/company\\/immobiliarecavallo\"]},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#webpage\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/\",\"name\":\"Focus | Immobiliare Cavallo\",\"description\":\"Visualizza le informazioni relative ad immobili, propriet\\u00e0, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\"},\"datePublished\":\"2020-07-13T08:52:11+00:00\",\"dateModified\":\"2023-09-18T13:43:07+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"inLanguage\":\"it-IT\",\"publisher\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\"}}]}\n\t\t\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"RealEstateListing\",\n  \"name\": \"BILOCALE IN VENDITA IN ZONA BOLOGNINA (03/RV0812)\",\n  \"description\": \"Via Fornasini, ottimo investimento, in una delle zone in forte riqualificazione, stabile in pietra vista con zona verde condominiale, silenzioso, terzo piano con ascensore, buone condizioni interne, appartamento bilocale composto da ingresso, soggiorno con parete cottura con accesso al balcone, camera da letto matrimoniale, bagno, ripostiglio e cantina, &egrave; un immobile pronto per essere abitato.\nInfissi in pvc doppio vetro con apertura a vasistas, aria condizionata nella zona giorno, bagno con box doccia, pavimento in palladiana e porte in legno di colore marrone.\nClasse energetica in fase di definizione, riscaldamento centralizzato con contacalorie.\",\n  \"url\": \"https://www.immobiliarecavallo.it/focus/1061/bilocale-in-vendita-in-zona-bolognina\",\n  \"image\": \"https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574476_ridimensiona-diimg_5487.jpg\",\n  \"datePosted\": \"2026-10-22\",\n  \"validThrough\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"170000\",\n    \"priceCurrency\": \"EUR\",\n    \"availability\": \"http://schema.org/InStock\",\n    \"url\": \"https://www.immobiliarecavallo.it/focus/1061/bilocale-in-vendita-in-zona-bolognina\"\n  }\n}\n\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SingleFamilyResidence\",\n  \"name\": \"BILOCALE IN VENDITA IN ZONA BOLOGNINA (03/RV0812)\",  \n  \"description\": \"Via Fornasini, ottimo investimento, in una delle zone in forte riqualificazione, stabile in pietra vista con zona verde condominiale, silenzioso, terzo piano con ascensore, buone condizioni interne, appartamento bilocale composto da ingresso, soggiorno con parete cottura con accesso al balcone, camera da letto matrimoniale, bagno, ripostiglio e cantina, &egrave; un immobile pronto per essere abitato.\nInfissi in pvc doppio vetro con apertura a vasistas, aria condizionata nella zona giorno, bagno con box doccia, pavimento in palladiana e porte in legno di colore marrone.\nClasse energetica in fase di definizione, riscaldamento centralizzato con contacalorie.\",\n  0\n  0\n  \"floorSize\": {\n    \"@type\": \"QuantitativeValue\",\n    \"value\": \"57mq\",\n    \"unitCode\": \"MTR\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Via Fornasini 36\",\n    \"addressLocality\": \"Bologna\",\n\t \n    \"addressRegion\": \"BO\",\n    \"addressCountry\": \"ITALIA\"\n  }\n}\n",
+   "imgs": [
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574357_ridimensiona-diimg_5463_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574358_ridimensiona-diimg_5464_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.9800415039062
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574476_ridimensiona-diimg_5487_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574355_ridimensiona-diimg_5462_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574357_ridimensiona-diimg_5463_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574358_ridimensiona-diimg_5464_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574357_ridimensiona-diimg_5463.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574358_ridimensiona-diimg_5464.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574476_ridimensiona-diimg_5487.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574355_ridimensiona-diimg_5462.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574357_ridimensiona-diimg_5463.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574358_ridimensiona-diimg_5464.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574348_ridimensiona-diimg_5467.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574362_ridimensiona-diimg_5466.jpg"
+   ],
+   "descBlock": "Via Fornasini, ottimo investimento, in una delle zone in forte riqualificazione, stabile in pietra vista con zona verde condominiale, silenzioso, terzo piano con ascensore, buone condizioni interne, appartamento bilocale composto da ingresso, soggiorno con parete cottura con accesso al balcone, camera da letto matrimoniale, bagno, ripostiglio e cantina, è un immobile pronto per essere abitato.",
+   "text": "Salta al contenuto\nFacebook\nInstagram\nLinkedin\nYoutube\n\nImmobiliare Cavallo\n\nIl tuo Immobile, il nostro Impegno, il tuo Guadagno\n\nCerca immobili\nChi siamo\nBlog\nServizi \nVendi casa con noi\nContatti\nFocus\nHome\nFocus\nBILOCALE IN VENDITA IN ZONA BOLOGNINA\nCod. proprietà: 03 / RV0812\n \nRichiedi info\n\nVia Fornasini, ottimo investimento, in una delle zone in forte riqualificazione, stabile in pietra vista con zona verde condominiale, silenzioso, terzo piano con ascensore, buone condizioni interne, appartamento bilocale composto da ingresso, soggiorno con parete cottura con accesso al balcone, camera da letto matrimoniale, bagno, ripostiglio e cantina, è un immobile pronto per essere abitato.\n\nInfissi in pvc doppio vetro con apertura a vasistas, aria condizionata nella zona giorno, bagno con box doccia, pavimento in palladiana e porte in legno di colore marrone.\n\nClasse energetica in fase di definizione, riscaldamento centralizzato con contacalorie.\n\nRiferimento\t03/RV0812\nProposta\tImmobile residenziale\nLocalità\tBologna (BO)\nContratto\tVendita\nPrezzo\t€ 170000\nTipologia\tBilocale\nStato\tBuono (restaurato 6-20 anni)\nStabile\tAbitazione tipo civile\nSuperficie\t57mq\nClasse energetica\tG\nRiscaldamento\tCentralizzato\nCam. Matrimoniali\t1\nCamere Singole\tNessuna\nNum. Bagni\t1\nAscensore\tSi\nPiano\tTerzo piano\nSpese condominio\t€ 182 /mese\n\nImmobile trattato da\nMaurizio Malpensa\n\nPer richiedere informazioni o concordare una visita a questa proprietà, si prega di riempire i seguenti campi. Verrete a breve ricontattati dal nostro incaricato.\n\nNome e cognome (richiesti)\n\nIndirizzo email (richiesto)\n\nNumero di telefono (richiesto)\n\nTesto del messaggio\n\nAcconsento al trattamento dei dati personali secondo le condizioni espresse nell'informativa Privacy.Leggi informativa Privacy\n\n\n\n\nIn caso di invio corretto, vi sarà recapitata una mail di conferma all'indirizzo inserito nella form.\n\nImmobiliare Cavallo\n\nImmobiliare Cavallo\ndi Cavallo Alex\nVia Mezzofanti, 37\n40137 Bologna\nP.IVA: 02429831205\nC.F.: CVLLXA81A14A944B\n\nSocial Links\n\nContatti\nSede agenzia\nTel. 0514071458\ninfo@immobiliarecavallo.it\nOrari ufficio\nLun-Ven 9:00-13:00 14:00-19:00\n\nInformative\n\nPrivacy Policy\n\nCookie Policy\n\nCopyright © 2026 Immobiliare Cavallo | Website edit by NTT Web Agency\nWhatsApp us",
+   "parsed": {
+    "prezzo": "€ 170000",
+    "mq": "57mq",
+    "locali": "tà\tBologna (BO)",
+    "camere": "Singole\tNessuna",
+    "bagni": null,
+    "piano": "Terzo piano",
+    "classe_energetica": "G",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574357_ridimensiona-diimg_5463_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574358_ridimensiona-diimg_5464_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574476_ridimensiona-diimg_5487_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574355_ridimensiona-diimg_5462_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574357_ridimensiona-diimg_5463_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574358_ridimensiona-diimg_5464_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574357_ridimensiona-diimg_5463.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574358_ridimensiona-diimg_5464.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574476_ridimensiona-diimg_5487.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574355_ridimensiona-diimg_5462.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574357_ridimensiona-diimg_5463.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574358_ridimensiona-diimg_5464.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574348_ridimensiona-diimg_5467.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/1022/img/1792574362_ridimensiona-diimg_5466.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://bologna-city.realestatemanage.net/rem/files/1022/img/thumbs/1792574357_ridimensiona-diimg_5463_640x360.jpg"
+  },
+  {
+   "url": "https://www.immobiliarecavallo.it/focus/942/bilocale-in-via-bombelli",
+   "title": "BILOCALE IN VIA BOMBELLI | Immobiliare Cavallo",
+   "h1": "Focus",
+   "h2": [
+    "BILOCALE IN VIA BOMBELLI",
+    "Immobiliare Cavallo",
+    "Social Links",
+    "Contatti",
+    "Orari ufficio",
+    "Informative"
+   ],
+   "ogTitle": "Focus | Immobiliare Cavallo",
+   "ogImage": "https://www.immobiliarecavallo.it/wp-content/uploads/2023/08/Immobiliare-Cavallo___logo-2023.png",
+   "ogDesc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "desc": "Visualizza le informazioni relative ad immobili, proprietà, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.",
+   "ld": "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.immobiliarecavallo.it\",\"nextItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"name\":\"Focus\"}},{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#listItem\",\"position\":2,\"name\":\"Focus\",\"previousItem\":{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it#listItem\",\"name\":\"Home\"}}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"telephone\":\"+390514071458\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/wp-content\\/uploads\\/2023\\/08\\/Immobiliare-Cavallo___logo-web-2023.png\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\",\"width\":2363,\"height\":2363},\"image\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#organizationLogo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/immobiliarecavallo\",\"https:\\/\\/www.instagram.com\\/immobiliarecavallo\\/\",\"https:\\/\\/www.youtube.com\\/channel\\/UCgPjV85x-jrDFsoGgiDaxvQ\",\"https:\\/\\/it.linkedin.com\\/company\\/immobiliarecavallo\"]},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#webpage\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/\",\"name\":\"Focus | Immobiliare Cavallo\",\"description\":\"Visualizza le informazioni relative ad immobili, propriet\\u00e0, appartamenti, in vendita ed affitto, curati e gestiti da Immobiliare Cavallo di Bologna.\",\"inLanguage\":\"it-IT\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/focus\\/#breadcrumblist\"},\"datePublished\":\"2020-07-13T08:52:11+00:00\",\"dateModified\":\"2023-09-18T13:43:07+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#website\",\"url\":\"https:\\/\\/www.immobiliarecavallo.it\\/\",\"name\":\"Immobiliare Cavallo\",\"description\":\"Il tuo Immobile, il nostro Impegno, il tuo Guadagno\",\"inLanguage\":\"it-IT\",\"publisher\":{\"@id\":\"https:\\/\\/www.immobiliarecavallo.it\\/#organization\"}}]}\n\t\t\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"RealEstateListing\",\n  \"name\": \"BILOCALE IN VIA BOMBELLI (03/RV0028)\",\n  \"description\": \"Ci troviamo in una zona ad altissima richiesta di immobili in locazione, a breve distanza dall Aeroporto Marconi, dalle sedi di Ducati e GD e dall Ospedale Maggiore. Inoltre, la vicinanza alla stazione ferroviaria di Borgo Panigale e l imminente completamento dei lavori del tram permetteranno di raggiungere il centro citt&agrave; in tempi ancora pi&ugrave; brevi.\nAll interno di un piccolo fabbricato, nel quale sono stati completamente ristrutturati circa un anno fa tetto e facciate, proponiamo in vendita un appartamento al primo piano senza ascensore.\nL immobile si compone di un soggiorno con angolo cottura, una camera da letto matrimoniale e un bagno finestrato.&nbsp;\nAl piano interrato sono presenti due ampie cantine ciclabili.&nbsp;\nVolendo posto auto a parte&nbsp;\nIl riscaldamento &egrave; autonomo e le spese condominiali sono molto basse.\nE  una casa pronta per essere venduta e abitata da subito, con relazione tecnica integrata che garantisce la corrispondenza catastale e la conformit&agrave; urbanistica.\nL immobile &egrave; in classe energetica F.\nNota: Le foto arredate sono render IA a scopo illustrativo.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza.\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo e  quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\",\n  \"url\": \"https://www.immobiliarecavallo.it/focus/942/bilocale-in-via-bombelli\",\n  \"image\": \"https://bologna-city.realestatemanage.net/rem/files/29/img/1779537301_gemini_generated_image_3xsugm3xsugm3xsu.jpg\",\n  \"datePosted\": \"2026-11-04\",\n  \"validThrough\": \"\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"133000\",\n    \"priceCurrency\": \"EUR\",\n    \"availability\": \"http://schema.org/InStock\",\n    \"url\": \"https://www.immobiliarecavallo.it/focus/942/bilocale-in-via-bombelli\"\n  }\n}\n\n\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SingleFamilyResidence\",\n  \"name\": \"BILOCALE IN VIA BOMBELLI (03/RV0028)\",  \n  \"description\": \"Ci troviamo in una zona ad altissima richiesta di immobili in locazione, a breve distanza dall Aeroporto Marconi, dalle sedi di Ducati e GD e dall Ospedale Maggiore. Inoltre, la vicinanza alla stazione ferroviaria di Borgo Panigale e l imminente completamento dei lavori del tram permetteranno di raggiungere il centro citt&agrave; in tempi ancora pi&ugrave; brevi.\nAll interno di un piccolo fabbricato, nel quale sono stati completamente ristrutturati circa un anno fa tetto e facciate, proponiamo in vendita un appartamento al primo piano senza ascensore.\nL immobile si compone di un soggiorno con angolo cottura, una camera da letto matrimoniale e un bagno finestrato.&nbsp;\nAl piano interrato sono presenti due ampie cantine ciclabili.&nbsp;\nVolendo posto auto a parte&nbsp;\nIl riscaldamento &egrave; autonomo e le spese condominiali sono molto basse.\nE  una casa pronta per essere venduta e abitata da subito, con relazione tecnica integrata che garantisce la corrispondenza catastale e la conformit&agrave; urbanistica.\nL immobile &egrave; in classe energetica F.\nNota: Le foto arredate sono render IA a scopo illustrativo.\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillit&agrave; e sicurezza.\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilit&agrave; di ottenere un mutuo. Il nostro obiettivo e  quello di ottimizzare i tempi della ricerca e dell acquisto della tua prossima casa, cos&igrave; potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\",\n  0\n  0\n  \"floorSize\": {\n    \"@type\": \"QuantitativeValue\",\n    \"value\": \"42mq\",\n    \"unitCode\": \"MTR\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"VIA BOMBELLI 64\",\n    \"addressLocality\": \"Bologna\",\n\t \n    \"addressRegion\": \"BO\",\n    \"addressCountry\": \"ITALIA\"\n  }\n}\n",
+   "imgs": [
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537301_gemini_generated_image_3xsugm3xsugm3xsu_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537323_gemini_generated_image_f26lx4f26lx4f26l_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537332_gemini_generated_image_w7xii6w7xii6w7xi_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537321_gemini_generated_image_e5hnnne5hnnne5hn_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537325_gemini_generated_image_juagymjuagymjuag_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    },
+    {
+     "src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537317_gemini_generated_image_8z0mfw8z0mfw8z0m_640x360.jpg",
+     "w": 640,
+     "h": 360,
+     "rw": 980.97998046875
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537301_gemini_generated_image_3xsugm3xsugm3xsu.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537323_gemini_generated_image_f26lx4f26lx4f26l.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537332_gemini_generated_image_w7xii6w7xii6w7xi.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537321_gemini_generated_image_e5hnnne5hnnne5hn.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537325_gemini_generated_image_juagymjuagymjuag.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537317_gemini_generated_image_8z0mfw8z0mfw8z0m.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537299_gemini_generated_image_1ba8hd1ba8hd1ba8.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537326_gemini_generated_image_stl3fastl3fastl3.jpg"
+   ],
+   "descBlock": "- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo e' quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa!",
+   "text": "Salta al contenuto\nFacebook\nInstagram\nLinkedin\nYoutube\n\nImmobiliare Cavallo\n\nIl tuo Immobile, il nostro Impegno, il tuo Guadagno\n\nCerca immobili\nChi siamo\nBlog\nServizi \nVendi casa con noi\nContatti\nFocus\nHome\nFocus\nBILOCALE IN VIA BOMBELLI\nCod. proprietà: 03 / RV0028\n \nPlanimetrie\nVideo\nRichiedi info\n\nCi troviamo in una zona ad altissima richiesta di immobili in locazione, a breve distanza dall'Aeroporto Marconi, dalle sedi di Ducati e GD e dall'Ospedale Maggiore. Inoltre, la vicinanza alla stazione ferroviaria di Borgo Panigale e l'imminente completamento dei lavori del tram permetteranno di raggiungere il centro città in tempi ancora più brevi.\n\nAll'interno di un piccolo fabbricato, nel quale sono stati completamente ristrutturati circa un anno fa tetto e facciate, proponiamo in vendita un appartamento al primo piano senza ascensore.\n\nL'immobile si compone di un soggiorno con angolo cottura, una camera da letto matrimoniale e un bagno finestrato. \n\nAl piano interrato sono presenti due ampie cantine ciclabili. \n\nVolendo posto auto a parte \n\nIl riscaldamento è autonomo e le spese condominiali sono molto basse.\n\nE' una casa pronta per essere venduta e abitata da subito, con relazione tecnica integrata che garantisce la corrispondenza catastale e la conformità urbanistica.\n\nL'immobile è in classe energetica F.\n\nNota: Le foto arredate sono render IA a scopo illustrativo.\n\nPER MAGGIORI INFORMAZIONI O PER FISSARE UNA VISITA SUL POSTO CON UN NOSTRO CONSULENTE DEDICATO, CONTATTACI AL NUMERO 0514071458 O COMPILA IL MODULO RICHIESTA VISITA.\n\n- Sei interessato a questo immobile ma devi vendere la tua casa? Mettiamo a disposizione dei nostri clienti, agenti qualificati che studiano il mercato immobiliare ogni giorno e per questo sono in grado di realizzare il massimo valore dalla vendita della tua casa, in tutta tranquillità e sicurezza.\n\n- Devi richiedere un mutuo per comprare la tua prossima casa? Affidati ai nostri consulenti finanziari, ti forniranno in tempi brevi una risposta concreta sulla possibilità di ottenere un mutuo. Il nostro obiettivo e' quello di ottimizzare i tempi della ricerca e dell'acquisto della tua prossima casa, così potrai realizzare il prima possibile il tuo desiderio di cambiare casa!\n\nRiferimento\t03/RV0028\nProposta\tImmobile residenziale\nLocalità\tBologna (BO)\nContratto\tVendita\nPrezzo\t€ 133000\nTipologia\tBilocale\nStato\tBuono (restaurato 6-20 anni)\nStabile\tAbitazione tipo civile\nSuperficie\t42mq\nClasse energetica\tF\nRiscaldamento\tAutonomo\nCam. Matrimoniali\t1\nCamere Singole\tNessuna\nNum. Bagni\t1\nAscensore\tNo\nPiano\tPrimo piano\nSpese condominio\t€ 50 /mese\n1 / 1\nPlanimetria\n\nImmobile trattato da\nAlex Cavallo\n\nPer richiedere informazioni o concordare una visita a questa proprietà, si prega di riempire i seguenti campi. Verrete a breve ricontattati dal nostro incaricato.\n\nNome e cognome (richiesti)\n\nIndirizzo email (richiesto)\n\nNumero di telefono (richiesto)\n\nTesto del messaggio\n\nAcconsento al trattamento dei dati personali secondo le condizioni espresse nell'informativa Privacy.Leggi informativa Privacy\n\n\n\n\nIn caso di invio corretto, vi sarà recapitata una mail di conferma all'indirizzo inserito nella form.\n\nImmobiliare Cavallo\n\nImmobiliare Cavallo\ndi Cavallo Alex\nVia Mezzofanti, 37\n40137 Bologna\nP.IVA: 02429831205\nC.F.: CVLLXA81A14A944B\n\nSocial Links\n\nContatti\nSede agenzia\nTel. 0514071458\ninfo@immobiliarecavallo.it\nOrari ufficio\nLun-Ven 9:00-13:00 14:00-19:00\n\nInformative\n\nPrivacy Policy\n\nCookie Policy\n\nCopyright © 2026 Immobiliare Cavallo | Website edit by NTT Web Agency\nWhatsApp us",
+   "parsed": {
+    "prezzo": "€ 133000",
+    "mq": "42mq",
+    "locali": "tà\tBologna (BO)",
+    "camere": "Singole\tNessuna",
+    "bagni": null,
+    "piano": "Primo piano",
+    "classe_energetica": "F",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537301_gemini_generated_image_3xsugm3xsugm3xsu_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537323_gemini_generated_image_f26lx4f26lx4f26l_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537332_gemini_generated_image_w7xii6w7xii6w7xi_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537321_gemini_generated_image_e5hnnne5hnnne5hn_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537325_gemini_generated_image_juagymjuagymjuag_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537317_gemini_generated_image_8z0mfw8z0mfw8z0m_640x360.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537301_gemini_generated_image_3xsugm3xsugm3xsu.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537323_gemini_generated_image_f26lx4f26lx4f26l.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537332_gemini_generated_image_w7xii6w7xii6w7xi.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537321_gemini_generated_image_e5hnnne5hnnne5hn.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537325_gemini_generated_image_juagymjuagymjuag.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537317_gemini_generated_image_8z0mfw8z0mfw8z0m.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537299_gemini_generated_image_1ba8hd1ba8hd1ba8.jpg",
+    "https://bologna-city.realestatemanage.net/rem/files/29/img/1779537326_gemini_generated_image_stl3fastl3fastl3.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://bologna-city.realestatemanage.net/rem/files/29/img/thumbs/1779537301_gemini_generated_image_3xsugm3xsugm3xsu_640x360.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.svg",
+  "src": "https://cdn-cookieyes.com/assets/images/poweredbtcky.svg",
+  "size": 3762
+ }
+}

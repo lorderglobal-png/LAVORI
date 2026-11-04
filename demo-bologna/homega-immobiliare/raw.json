@@ -1,0 +1,791 @@
+{
+ "cfg": {
+  "slug": "homega-immobiliare",
+  "nome": "Homega Immobiliare",
+  "home": "https://www.homegaimmobiliare.it/",
+  "index": [
+   "https://www.homegaimmobiliare.it/immobili"
+  ],
+  "rx": "/properties/[a-z0-9-]+",
+  "n": 6,
+  "contact": "https://www.homegaimmobiliare.it/contatti"
+ },
+ "home": {
+  "title": "Home - Homega immobiliare",
+  "desc": null,
+  "emails": [
+   "info@homegaimmobiliare.it",
+   "homegaimmobiliare@legalmail.it"
+  ],
+  "tels": [
+   "+39051591864"
+  ],
+  "logos": [
+   "https://www.homegaimmobiliare.it/wp-content/uploads/2021/10/homega-immobiliare-logo.png",
+   "https://www.homegaimmobiliare.it/wp-content/uploads/2021/10/homega-immobiliare-logo-bianco-200px.png",
+   "https://www.homegaimmobiliare.it/wp-content/uploads/2021/10/logo_fiaip120x60.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Montserrat"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Montserrat"
+  },
+  "footer": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Montserrat"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Montserrat"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(71, 96, 85)",
+   "font": "Montserrat"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    6
+   ],
+   [
+    "rgb(71, 96, 85)",
+    4
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    222
+   ],
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgb(71, 96, 85)",
+    5
+   ],
+   [
+    "rgb(253, 253, 253)",
+    1
+   ],
+   [
+    "rgb(243, 204, 88)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.1)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.54)",
+    1
+   ],
+   [
+    "rgb(74, 79, 85)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 0, 0)",
+    16
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    8
+   ],
+   [
+    "rgb(71, 96, 85)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    3
+   ],
+   [
+    "rgb(34, 34, 34)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Montserrat",
+    52
+   ],
+   [
+    "\"Crimson Text\"",
+    7
+   ]
+  ],
+  "heads": [
+   "HOMEGA IMMOBILIARE",
+   "PERCHÉ SCEGLIERE HOMEGA?",
+   "A CHI CI RIVOLGIAMO"
+  ],
+  "addr": "Via Giuseppe Giacosa 3 - 40132 Bologna",
+  "final": "https://www.homegaimmobiliare.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.homegaimmobiliare.it/contatti",
+  "emails": [
+   "info@homegaimmobiliare.it",
+   "homegaimmobiliare@legalmail.it"
+  ],
+  "tels": [
+   "+39051591864"
+  ],
+  "addr": "Via Giuseppe Giacosa 3 - 40132 Bologna"
+ },
+ "candidates": [
+  "https://www.homegaimmobiliare.it/properties/attico-quartiere-meridiana",
+  "https://www.homegaimmobiliare.it/properties/bilocale-beverara",
+  "https://www.homegaimmobiliare.it/properties/bilocale-ristrutturato-via-valdossola-25",
+  "https://www.homegaimmobiliare.it/properties/capannone-show-room-parini",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-1",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-2",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-3",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-4",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-5",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-6",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-7",
+  "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-8",
+  "https://www.homegaimmobiliare.it/properties/locale-ristorante-berti-zanardi",
+  "https://www.homegaimmobiliare.it/properties/locazione-bilocale-unicum-2",
+  "https://www.homegaimmobiliare.it/properties/locazione-trilo-colle-bolsenda",
+  "https://www.homegaimmobiliare.it/properties/loft-via-della-guardia",
+  "https://www.homegaimmobiliare.it/properties/trilocale-terrazza-angeletti",
+  "https://www.homegaimmobiliare.it/properties/trilocale-via-francoforte",
+  "https://www.homegaimmobiliare.it/properties/ufficio-direzionale-isonzo",
+  "https://www.homegaimmobiliare.it/properties/ufficio-isonzo-secondo",
+  "https://www.homegaimmobiliare.it/properties/ufficio-parini-primo",
+  "https://www.homegaimmobiliare.it/properties/ufficio-parini-secondo",
+  "https://www.homegaimmobiliare.it/properties/villa-premium-b-granarolo",
+  "https://www.homegaimmobiliare.it/properties/villa-zola-predosa"
+ ],
+ "listings": [
+  {
+   "url": "https://www.homegaimmobiliare.it/properties/attico-quartiere-meridiana",
+   "title": "Attico quartiere Meridiana - Homega immobiliare",
+   "h1": "Attico quartiere Meridiana",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "PRENDI UN APPUNTAMENTO CON NOI"
+   ],
+   "ogTitle": "Attico quartiere Meridiana - Homega immobiliare",
+   "ogImage": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg",
+   "ogDesc": "Nel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico posto al sesto ed ultimo piano, servito da ascensore.L’appartamento si distingue per la generosità degli ambienti e per gli spazi esterni, che rappresentano un valore aggiunto sempre più raro sul mercato immobiliare.L’ingresso si apre sulla zona living che beneficia di un accesso diretto all'ampia loggia abitabile, attrezzata con superfici vetrate scorrevoli, climatizzazione e fioriere in muratura, perfetta per vivere momenti di relax e convivialità in ogni stagione.La cucina è abitabile e ben separata dalla zona giorno. La zona notte, invece, è composta da tre ampie camere da letto, ciascuna dotata di balcone o terrazzo; la camera master, in posizione centrale è attrezzata con una comoda cabina armadio.Dal disimpegno notte si accede ai due bagni, finestrati, di cui uno con doccia e l'altro con vasca. Completano la proprietà una cantina e un ampio garage, con apertura automatizzata, acquistabile separatamente al prezzo di € 40.000. La residenza beneficia di un impianto di climatizzazione canalizzato che garantisce un ottimo comfort abitativo. L'esclusività dell'ultimo piano, la tranquillità, gli spaziosi ambienti interni ed esterni sono alcune delle caratteristiche che contraddistinguono questo immobile, rendendolo la soluzione ideale per chi è alla ricerca di esclusività in un contesto residenziale moderno ed elegante.Una proposta immobiliare di rara reperibilità in una delle realtà residenziali più apprezzate della zona.",
+   "desc": "Nel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico posto al sesto ed ultimo piano, servito da ascensore.L’appartamento si distingue per la generosità degli ambienti e per gli spazi esterni, che rappresentano un valore aggiunto sempre più raro sul mercato immobiliare.L’ingresso si apre sulla zona living che beneficia di un accesso diretto all'ampia loggia abitabile, attrezzata con superfici vetrate scorrevoli, climatizzazione e fioriere in muratura, perfetta per vivere momenti di relax e convivialità in ogni stagione.La cucina è abitabile e ben separata dalla zona giorno. La zona notte, invece, è composta da tre ampie camere da letto, ciascuna dotata di balcone o terrazzo; la camera master, in posizione centrale è attrezzata con una comoda cabina armadio.Dal disimpegno notte si accede ai due bagni, finestrati, di cui uno con doccia e l'altro con vasca. Completano la proprietà una cantina e un ampio garage, con apertura automatizzata, acquistabile separatamente al prezzo di € 40.000. La residenza beneficia di un impianto di climatizzazione canalizzato che garantisce un ottimo comfort abitativo. L'esclusività dell'ultimo piano, la tranquillità, gli spaziosi ambienti interni ed esterni sono alcune delle caratteristiche che contraddistinguono questo immobile, rendendolo la soluzione ideale per chi è alla ricerca di esclusività in un contesto residenziale moderno ed elegante.Una proposta immobiliare di rara reperibilità in una delle realtà residenziali più apprezzate della zona.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana\",\"name\":\"Attico quartiere Meridiana - Homega immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/8M9A8076-HDR.jpg\",\"datePublished\":\"2026-10-30T10:05:30+00:00\",\"description\":\"Nel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico posto al sesto ed ultimo piano, servito da ascensore.L’appartamento si distingue per la generosità degli ambienti e per gli spazi esterni, che rappresentano un valore aggiunto sempre più raro sul mercato immobiliare.L’ingresso si apre sulla zona living che beneficia di un accesso diretto all'ampia loggia abitabile, attrezzata con superfici vetrate scorrevoli, climatizzazione e fioriere in muratura, perfetta per vivere momenti di relax e convivialità in ogni stagione.La cucina è abitabile e ben separata dalla zona giorno. La zona notte, invece, è composta da tre ampie camere da letto, ciascuna dotata di balcone o terrazzo; la camera master, in posizione centrale è attrezzata con una comoda cabina armadio.Dal disimpegno notte si accede ai due bagni, finestrati, di cui uno con doccia e l'altro con vasca. Completano la proprietà una cantina e un ampio garage, con apertura automatizzata, acquistabile separatamente al prezzo di € 40.000. La residenza beneficia di un impianto di climatizzazione canalizzato che garantisce un ottimo comfort abitativo. L'esclusività dell'ultimo piano, la tranquillità, gli spaziosi ambienti interni ed esterni sono alcune delle caratteristiche che contraddistinguono questo immobile, rendendolo la soluzione ideale per chi è alla ricerca di esclusività in un contesto residenziale moderno ed elegante.Una proposta immobiliare di rara reperibilità in una delle realtà residenziali più apprezzate della zona.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana#primaryimage\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/8M9A8076-HDR.jpg\",\"contentUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/8M9A8076-HDR.jpg\",\"width\":800,\"height\":534},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/attico-quartiere-meridiana#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Attico quartiere Meridiana\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/\",\"name\":\"Homega immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.homegaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-23-alle-09.58.21.png",
+     "w": 1856,
+     "h": 1100,
+     "rw": 1030
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-23-alle-09.58.21.png",
+     "w": 1856,
+     "h": 1100,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg",
+     "w": 800,
+     "h": 534,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8055-HDR.jpg",
+     "w": 800,
+     "h": 534,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8082-HDR.jpg",
+     "w": 800,
+     "h": 534,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8061-HDR.jpg",
+     "w": 800,
+     "h": 534,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8055-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8082-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8061-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8177-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/defaults/modalback.jpg"
+   ],
+   "dataSrc": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "descBlock": "Nel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico posto al sesto ed ultimo piano, servito da ascensore.\nL’appartamento si distingue per la generosità degli ambienti e per gli spazi esterni, che rappresentano un valore aggiunto sempre più raro sul mercato immobiliare.\nL’ingresso si apre sulla zona living che beneficia di un accesso diretto all’ampia loggia abitabile, attrezzata con superfici vetrate scorrevoli, climatizzazione e fioriere in muratura, perfetta per vivere momenti di relax e convivialità in ogni stagione.\nLa cucina è abitabile e ben separata dalla zona giorno.\nLa zona notte, invece, è composta da tre ampie camere da letto, ciascuna dotata di balcone o terrazzo; la camera master, in posizione centrale è attrezzata con una comoda cabina armadio.\nDal disimpegno notte si accede ai due bagni, finestrati, di cui uno con doccia e l’altro con vasca.\nCompletano la proprietà una cantina e un ampio garage, con apertura automatizzata, acquistabile separatamente al prezzo di € 40.000.\nLa residenza beneficia di un impianto di climatizzazione canalizzato che garantisce un ottimo comfort abitativo.\nL’esclusività dell’ultimo piano, la tranquillità, gli spaziosi ambienti interni ed esterni sono alcune delle caratteristiche che contraddistinguono questo immobile, rendendolo la soluzione ideale per chi è alla ricerca di esclusività in un contesto residenziale moderno ed elegante.\nUna proposta immobiliare di rara reperibilità in una delle realtà residenziali più apprezzate della zona.",
+   "text": "HOME\n \nCHI SIAMO\n \nSERVIZI\n \nIMMOBILI\n \nCONTATTI\nSee all 19 photos\nHomeAtticoAttico quartiere Meridiana\nVendita Vendita\nAttico quartiere Meridiana\n780.000 €\n Via Isonzo 71, Casalecchio di Reno, Bologna\nShare\nFavorite\nPrint\n\nNel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico posto al sesto ed ultimo piano, servito da ascensore.\nL’appartamento si distingue per la generosità degli ambienti e per gli spazi esterni, che rappresentano un valore aggiunto sempre più raro sul mercato immobiliare.\nL’ingresso si apre sulla zona living che beneficia di un accesso diretto all’ampia loggia abitabile, attrezzata con superfici vetrate scorrevoli, climatizzazione e fioriere in muratura, perfetta per vivere momenti di relax e convivialità in ogni stagione.\nLa cucina è abitabile e ben separata dalla zona giorno.\nLa zona notte, invece, è composta da tre ampie camere da letto, ciascuna dotata di balcone o terrazzo; la camera master, in posizione centrale è attrezzata con una comoda cabina armadio.\nDal disimpegno notte si accede ai due bagni, finestrati, di cui uno con doccia e l’altro con vasca.\nCompletano la proprietà una cantina e un ampio garage, con apertura automatizzata, acquistabile separatamente al prezzo di € 40.000.\nLa residenza beneficia di un impianto di climatizzazione canalizzato che garantisce un ottimo comfort abitativo.\nL’esclusività dell’ultimo piano, la tranquillità, gli spaziosi ambienti interni ed esterni sono alcune delle caratteristiche che contraddistinguono questo immobile, rendendolo la soluzione ideale per chi è alla ricerca di esclusività in un contesto residenziale moderno ed elegante.\nUna proposta immobiliare di rara reperibilità in una delle realtà residenziali più apprezzate della zona.\n\nA4\n\nA3\n\nA2\n\nA1\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\n \nIndirizzo\nCittà: Casalecchio di Reno\nQuartiere: Meridiana\nAddress: Via Isonzo 71, Casalecchio di Reno\nCity: Bologna\nZip: 40033\nCountry: Italia\nOPEN IN GOOGLE MAPS\n \nDettagli\nPrice: 780.000 €\nStato: Abitabile\nTipologia: Attico\nSuperficie commerciale: 164\nPiano: 6\nTotale piani edifico: 6\nNumero stanze: 4\nCamere da letto: 3\nBagni: 2\nCantina: Sì\nImpianto di Riscaldamento: Centralizzato con contacalorie\nImpianto di Raffreddamento: Con pompa di calore caldo/freddo\n \nCaratteristiche\nOther Features\nAscensore\nBalcone\nCantina\nFibra ottica\nImpianto satellitare\nLoggia\nPorta Blindata\nRipostiglio\nTerrazza\nVideocitofono\n \nFloor Plans\nPlanimetria Attico\nContatti\nPRENDI UN APPUNTAMENTO CON NOI\nCONTATTACI\nSEDE\n\nVia Giuseppe Giacosa 3 - 40132 Bologna\n\n+39051591864\n\ninfo@homegaimmobiliare.it\n\nHomega Immobiliare Società Cooperativa | P.IVA/CF: 03549611204 | N° R.E.A. : BO-527883 - Via G. Mazzini, 22 - 40053 - Bazzano (BO) Pec: homegaimmobiliare@legalmail.it\nPrivacy Cookies Termini\nBilocale ristrutturato Via Valdossola\nCompare Listings\nCompare",
+   "parsed": {
+    "prezzo": "780.000 €",
+    "mq": "164",
+    "locali": null,
+    "camere": "3",
+    "bagni": "2",
+    "piano": "6",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-23-alle-09.58.21.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-23-alle-09.58.21.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8055-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8082-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8061-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8055-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8082-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8061-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8177-HDR-800x467.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/defaults/modalback.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/8M9A8076-HDR.jpg"
+  },
+  {
+   "url": "https://www.homegaimmobiliare.it/properties/bilocale-beverara",
+   "title": "Bilocale Beverara - Homega immobiliare",
+   "h1": "Bilocale Beverara",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "SIMILAR LISTINGS",
+    "PRENDI UN APPUNTAMENTO CON NOI"
+   ],
+   "ogTitle": "Bilocale Beverara - Homega immobiliare",
+   "ogImage": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg",
+   "ogDesc": "Nel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37, proponiamo in vendita un bilocale di nuova costruzione, posto al primo piano, completamente arredato e con una grande terrazza abitabile. L'appartamento è composto da ampia zona living con angolo cottura e adiacente terrazza di 22 mq, disimpegno notte attrezzato con attacchi lavanderia, camera da letto matrimoniale e bagno cieco. Pronta consegna. Per info contattare il numero 338/2287555",
+   "desc": "Nel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37, proponiamo in vendita un bilocale di nuova costruzione, posto al primo piano, completamente arredato e con una grande terrazza abitabile. L'appartamento è composto da ampia zona living con angolo cottura e adiacente terrazza di 22 mq, disimpegno notte attrezzato con attacchi lavanderia, camera da letto matrimoniale e bagno cieco. Pronta consegna. Per info contattare il numero 338/2287555",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara\",\"name\":\"Bilocale Beverara - Homega immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG_5821.jpeg\",\"datePublished\":\"2026-10-06T09:20:30+00:00\",\"dateModified\":\"2026-10-06T09:21:47+00:00\",\"description\":\"Nel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37, proponiamo in vendita un bilocale di nuova costruzione, posto al primo piano, completamente arredato e con una grande terrazza abitabile. L'appartamento è composto da ampia zona living con angolo cottura e adiacente terrazza di 22 mq, disimpegno notte attrezzato con attacchi lavanderia, camera da letto matrimoniale e bagno cieco. Pronta consegna. Per info contattare il numero 338\\/2287555\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara#primaryimage\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG_5821.jpeg\",\"contentUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG_5821.jpeg\",\"width\":640,\"height\":480},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-beverara#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bilocale Beverara\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/\",\"name\":\"Homega immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.homegaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-09-28-alle-11.12.42.png",
+     "w": 640,
+     "h": 606,
+     "rw": 1030
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-09-28-alle-11.12.42.png",
+     "w": 640,
+     "h": 606,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-06-alle-10.42.27.png",
+     "w": 640,
+     "h": 596,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-06-alle-10.42.27.png",
+     "w": 640,
+     "h": 596,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5779.jpeg",
+     "w": 483,
+     "h": 640,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5935-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5785-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5791.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5955-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png"
+   ],
+   "dataSrc": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "descBlock": "Nel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37, proponiamo in vendita un bilocale di nuova costruzione, posto al primo piano, completamente arredato e con una grande terrazza abitabile. L’appartamento è composto da ampia zona living con angolo cottura e adiacente terrazza di 22 mq, disimpegno notte attrezzato con attacchi lavanderia, camera da letto matrimoniale e bagno cieco. Pronta consegna. Per info contattare il numero 338/2287555",
+   "text": "HOME\n \nCHI SIAMO\n \nSERVIZI\n \nIMMOBILI\n \nCONTATTI\nSee all 20 photos\nHomeBilocaleBilocale Beverara\nVendita Vendita\nBilocale Beverara\n318.000 €\n Via della Beverara 37 Bologna, Bologna\nShare\nFavorite\nPrint\n\nNel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37, proponiamo in vendita un bilocale di nuova costruzione, posto al primo piano, completamente arredato e con una grande terrazza abitabile. L’appartamento è composto da ampia zona living con angolo cottura e adiacente terrazza di 22 mq, disimpegno notte attrezzato con attacchi lavanderia, camera da letto matrimoniale e bagno cieco. Pronta consegna. Per info contattare il numero 338/2287555\n\n6,84 kWh/m²a | Your energy class is A4\n\nA4\n\nA3\n\nA2\n\nA1\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\n \nIndirizzo\nCittà: Bologna\nQuartiere: Noce Pescarola\nAddress: Via della Beverara 37 Bologna\nCity: Bologna\nZip: 40131\nCountry: Italia\nOPEN IN GOOGLE MAPS\n \nDettagli\nPrice: 318.000 €\nStato: Nuovo\nTipologia: Bilocale\nSuperficie commerciale: 71\nPiano: 1\nTotale piani edifico: 9\nNumero stanze: 2\nCamere da letto: 1\nBagni: 1\nClasse energetica: A4\nImpianto di Riscaldamento: Autonomo\nImpianto di Raffreddamento: Con pompa di calore caldo/freddo\nArredamento: Arredato\n \nCaratteristiche\nOther Features\nArmadi a muro\nAscensore\nFibra ottica\nImpianto satellitare\nPorta Blindata\nTerrazza\nVideocitofono\n \nFloor Plans\nPlanimetria appartamento\nPlanimetria progetto\nSIMILAR LISTINGS\n 15\nBologna\nLocazione\nLocazione bilocale Unicum\n1.400 €\nNell’edificio più innovativo della città, denominato Unicum, a pochi passi dal centr [more]\n1 1 72 m2\nDETAILS\nContatti\nPRENDI UN APPUNTAMENTO CON NOI\nCONTATTACI\nSEDE\n\nVia Giuseppe Giacosa 3 - 40132 Bologna\n\n+39051591864\n\ninfo@homegaimmobiliare.it\n\nHomega Immobiliare Società Cooperativa | P.IVA/CF: 03549611204 | N° R.E.A. : BO-527883 - Via G. Mazzini, 22 - 40053 - Bazzano (BO) Pec: homegaimmobiliare@legalmail.it\nPrivacy Cookies Termini\nTrilocale Via Francoforte\nBilocale ristrutturato Via Valdossola\nCompare Listings\nCompare",
+   "parsed": {
+    "prezzo": "318.000 €",
+    "mq": "71",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": "1",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-09-28-alle-11.12.42.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-09-28-alle-11.12.42.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-06-alle-10.42.27.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Screenshot-2026-10-06-alle-10.42.27.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5779.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5935-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5785-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5791.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5955-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_5821.jpeg"
+  },
+  {
+   "url": "https://www.homegaimmobiliare.it/properties/bilocale-ristrutturato-via-valdossola-25",
+   "title": "Bilocale ristrutturato Via Valdossola - Homega immobiliare",
+   "h1": "Bilocale ristrutturato Via Valdossola",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "SIMILAR LISTINGS",
+    "PRENDI UN APPUNTAMENTO CON NOI"
+   ],
+   "ogTitle": "Bilocale ristrutturato Via Valdossola - Homega immobiliare",
+   "ogImage": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6052.jpeg",
+   "ogDesc": "La residenza è stata completamente ristrutturata con materiali di pregio, circa due anni fa, ed è dotata di impianto di climatizzazione estiva autonomo. L'impianto di riscaldamento è centralizzato con contabilizzazione individuale. All'ultimo piano dell'edificio gode di grande luminosità e risulta essere particolarmente silenzioso grazie all'affaccio interno. Al piano terra è presente l'area cortiliva con accesso carraio da Via delle Tofane dove si trovano i posti auto condominiali e un piccolo garage di mq 11 di proprietà esclusiva.Posizione particolarmente comoda ai mezzi di trasporto pubblico, ai negozi di vicinato e alle principali vie di collegamento verso il centro città e Asse Attrezzato Sud-Ovest, che consente di raggiungere agevolmente tangenziale e autostrada. Ideale per professionisti. Contratto a canone Libero 4 anni più 4Garanzie: 3 mensilità deposito cauzionale 3 mensilità fideiussione. Per info contattare il 338/7065169",
+   "desc": "La residenza è stata completamente ristrutturata con materiali di pregio, circa due anni fa, ed è dotata di impianto di climatizzazione estiva autonomo. L'impianto di riscaldamento è centralizzato con contabilizzazione individuale. All'ultimo piano dell'edificio gode di grande luminosità e risulta essere particolarmente silenzioso grazie all'affaccio interno. Al piano terra è presente l'area cortiliva con accesso carraio da Via delle Tofane dove si trovano i posti auto condominiali e un piccolo garage di mq 11 di proprietà esclusiva.Posizione particolarmente comoda ai mezzi di trasporto pubblico, ai negozi di vicinato e alle principali vie di collegamento verso il centro città e Asse Attrezzato Sud-Ovest, che consente di raggiungere agevolmente tangenziale e autostrada. Ideale per professionisti. Contratto a canone Libero 4 anni più 4Garanzie: 3 mensilità deposito cauzionale 3 mensilità fideiussione. Per info contattare il 338/7065169",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25\",\"name\":\"Bilocale ristrutturato Via Valdossola - Homega immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG_6052.jpeg\",\"datePublished\":\"2026-10-26T15:56:19+00:00\",\"dateModified\":\"2026-10-26T15:58:45+00:00\",\"description\":\"La residenza è stata completamente ristrutturata con materiali di pregio, circa due anni fa, ed è dotata di impianto di climatizzazione estiva autonomo. L'impianto di riscaldamento è centralizzato con contabilizzazione individuale. All'ultimo piano dell'edificio gode di grande luminosità e risulta essere particolarmente silenzioso grazie all'affaccio interno. Al piano terra è presente l'area cortiliva con accesso carraio da Via delle Tofane dove si trovano i posti auto condominiali e un piccolo garage di mq 11 di proprietà esclusiva.Posizione particolarmente comoda ai mezzi di trasporto pubblico, ai negozi di vicinato e alle principali vie di collegamento verso il centro città e Asse Attrezzato Sud-Ovest, che consente di raggiungere agevolmente tangenziale e autostrada. Ideale per professionisti. Contratto a canone Libero 4 anni più 4Garanzie: 3 mensilità deposito cauzionale 3 mensilità fideiussione. Per info contattare il 338\\/7065169\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25#primaryimage\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG_6052.jpeg\",\"contentUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/10\\/IMG_6052.jpeg\",\"width\":800,\"height\":556},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/bilocale-ristrutturato-via-valdossola-25#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bilocale ristrutturato Via Valdossola\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/\",\"name\":\"Homega immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.homegaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.png",
+     "w": 1390,
+     "h": 1160,
+     "rw": 1030
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.png",
+     "w": 1390,
+     "h": 1160,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6061.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6055.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6056.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6054.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6052.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6059-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6058-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6062-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6061-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png"
+   ],
+   "dataSrc": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "descBlock": "La residenza è stata completamente ristrutturata con materiali di pregio, circa due anni fa, ed è dotata di impianto di climatizzazione estiva autonomo. L’impianto di riscaldamento è centralizzato con contabilizzazione individuale. All’ultimo piano dell’edificio gode di grande luminosità e risulta essere particolarmente silenzioso grazie all’affaccio interno. Al piano terra è presente l’area cortiliva con accesso carraio da Via delle Tofane dove si trovano i posti auto condominiali e un piccolo garage di mq 11 di proprietà esclusiva.Posizione particolarmente comoda ai mezzi di trasporto pubblico, ai negozi di vicinato e alle principali vie di collegamento verso il centro città e Asse Attrezzato Sud-Ovest, che consente di raggiungere agevolmente tangenziale e autostrada. Ideale per professionisti. Contratto a canone Libero 4 anni più 4\nGaranzie: 3 mensilità deposito cauzionale 3 mensilità fideiussione. Per info contattare il 338/7065169",
+   "text": "HOME\n \nCHI SIAMO\n \nSERVIZI\n \nIMMOBILI\n \nCONTATTI\nSee all 18 photos\nHomeTrilocaleBilocale ristrutturato Via Valdossola\nVendita Usato\nBilocale ristrutturato Via Valdossola\n1.500 €\n via valdossola 25 bologna, Bologna\nShare\nFavorite\nPrint\n\nLa residenza è stata completamente ristrutturata con materiali di pregio, circa due anni fa, ed è dotata di impianto di climatizzazione estiva autonomo. L’impianto di riscaldamento è centralizzato con contabilizzazione individuale. All’ultimo piano dell’edificio gode di grande luminosità e risulta essere particolarmente silenzioso grazie all’affaccio interno. Al piano terra è presente l’area cortiliva con accesso carraio da Via delle Tofane dove si trovano i posti auto condominiali e un piccolo garage di mq 11 di proprietà esclusiva.Posizione particolarmente comoda ai mezzi di trasporto pubblico, ai negozi di vicinato e alle principali vie di collegamento verso il centro città e Asse Attrezzato Sud-Ovest, che consente di raggiungere agevolmente tangenziale e autostrada. Ideale per professionisti. Contratto a canone Libero 4 anni più 4\nGaranzie: 3 mensilità deposito cauzionale 3 mensilità fideiussione. Per info contattare il 338/7065169\n\nA4\n\nA3\n\nA2\n\nA1\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\n \nIndirizzo\nCittà: Bologna\nQuartiere: Costa - Saragozza\nAddress: via valdossola 25 bologna\nCity: Bologna\nZip: 40134\nCountry: Italia\nOPEN IN GOOGLE MAPS\n \nDettagli\nPrice: 1.500 €\nStato: Ristrutturato\nTipologia: Bilocale\nSuperficie commerciale: 57\nPiano: 4\nTotale piani edifico: 4\nNumero stanze: 2\nCamere da letto: 1\nBagni: 1\nImpianto di Riscaldamento: Centralizzato\nImpianto di Raffreddamento: Con pompa di calore solo freddo\nArredamento: Arredato\nGarages: Sì\nGarage N°: 1\n \nCaratteristiche\nOther Features\nArmadi a muro\nAscensore\nBalcone\nFibra ottica\nImpianto satellitare\nPorta Blindata\n \nFloor Plans\nPlanimetria appartamento\nSIMILAR LISTINGS\n 10\nBologna\nUsato\nTrilocale Via Francoforte\n255.000 €\nIn Via Francoforte 13, proponiamo in vendita un ampio trilocale composto da: ingresso, sog [more]\n2 1\nDETAILS\nContatti\nPRENDI UN APPUNTAMENTO CON NOI\nCONTATTACI\nSEDE\n\nVia Giuseppe Giacosa 3 - 40132 Bologna\n\n+39051591864\n\ninfo@homegaimmobiliare.it\n\nHomega Immobiliare Società Cooperativa | P.IVA/CF: 03549611204 | N° R.E.A. : BO-527883 - Via G. Mazzini, 22 - 40053 - Bazzano (BO) Pec: homegaimmobiliare@legalmail.it\nPrivacy Cookies Termini\nBilocale Beverara\nAttico quartiere Meridiana\nCompare Listings\nCompare",
+   "parsed": {
+    "prezzo": "1.500 €",
+    "mq": "57",
+    "locali": null,
+    "camere": "1",
+    "bagni": "1",
+    "piano": "4",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6052.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/Planimetria-1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6061.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6055.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6056.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6054.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6052.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6059-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6058-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6062-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6061-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/10/IMG_6052.jpeg"
+  },
+  {
+   "url": "https://www.homegaimmobiliare.it/properties/capannone-show-room-parini",
+   "title": "Capannone show room Parini - Homega immobiliare",
+   "h1": "Capannone show room Parini",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "PRENDI UN APPUNTAMENTO CON NOI"
+   ],
+   "ogTitle": "Capannone show room Parini - Homega immobiliare",
+   "ogImage": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3582.jpeg",
+   "ogDesc": "Nella zona industriale di Casalecchio di Reno e precisamente in Via Parini 7, proponiamo in locazione grande open space di 725 mq ad uso industriale, posto al piano terra di un edificio di 2 piani a destinazione uffici. La proprietà, circondata da un'ampia area cortiliva caratterizzata da verde condominiale e numerosi posti auto, vanta la presenza di 2 ingressi carrabili indipendenti. Gli interni si presentano in buono stato conservativo: sono presenti alcune pareti in cartongesso, amovibili, che delimitano alcune aree, fra le quali una cucina abitabile completa di elettrodomestici, oltre ad un impianto di riscaldamento centralizzato con contabilizzazione individuale. Sono presenti un impianto di allarme ed una predisposizione di un impianto per la climatizzazione estiva. Locale idoneo alla destinazione produttiva o come show room di abbigliamento, ultima attività svolta. E' richiesto un deposito cauzionale pari a 3 mensilità oltre ad una fidejussione pari a 6 mensilità del canone mensile.",
+   "desc": "Nella zona industriale di Casalecchio di Reno e precisamente in Via Parini 7, proponiamo in locazione grande open space di 725 mq ad uso industriale, posto al piano terra di un edificio di 2 piani a destinazione uffici. La proprietà, circondata da un'ampia area cortiliva caratterizzata da verde condominiale e numerosi posti auto, vanta la presenza di 2 ingressi carrabili indipendenti. Gli interni si presentano in buono stato conservativo: sono presenti alcune pareti in cartongesso, amovibili, che delimitano alcune aree, fra le quali una cucina abitabile completa di elettrodomestici, oltre ad un impianto di riscaldamento centralizzato con contabilizzazione individuale. Sono presenti un impianto di allarme ed una predisposizione di un impianto per la climatizzazione estiva. Locale idoneo alla destinazione produttiva o come show room di abbigliamento, ultima attività svolta. E' richiesto un deposito cauzionale pari a 3 mensilità oltre ad una fidejussione pari a 6 mensilità del canone mensile.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini\",\"name\":\"Capannone show room Parini - Homega immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/03\\/IMG_3582.jpeg\",\"datePublished\":\"2026-03-27T10:00:49+00:00\",\"dateModified\":\"2026-03-30T07:49:20+00:00\",\"description\":\"Nella zona industriale di Casalecchio di Reno e precisamente in Via Parini 7, proponiamo in locazione grande open space di 725 mq ad uso industriale, posto al piano terra di un edificio di 2 piani a destinazione uffici. La proprietà, circondata da un'ampia area cortiliva caratterizzata da verde condominiale e numerosi posti auto, vanta la presenza di 2 ingressi carrabili indipendenti. Gli interni si presentano in buono stato conservativo: sono presenti alcune pareti in cartongesso, amovibili, che delimitano alcune aree, fra le quali una cucina abitabile completa di elettrodomestici, oltre ad un impianto di riscaldamento centralizzato con contabilizzazione individuale. Sono presenti un impianto di allarme ed una predisposizione di un impianto per la climatizzazione estiva. Locale idoneo alla destinazione produttiva o come show room di abbigliamento, ultima attività svolta. E' richiesto un deposito cauzionale pari a 3 mensilità oltre ad una fidejussione pari a 6 mensilità del canone mensile.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini#primaryimage\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/03\\/IMG_3582.jpeg\",\"contentUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2026\\/03\\/IMG_3582.jpeg\",\"width\":640,\"height\":401},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/capannone-show-room-parini#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Capannone show room Parini\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/\",\"name\":\"Homega immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.homegaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/Screenshot-2026-03-24-alle-10.46.59.png",
+     "w": 640,
+     "h": 535,
+     "rw": 1030
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/Screenshot-2026-03-24-alle-10.46.59.png",
+     "w": 640,
+     "h": 535,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3615.jpeg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3631.jpeg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3624.jpeg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3583.jpeg",
+     "w": 640,
+     "h": 480,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3582.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3696.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3615-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3631-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3624-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/defaults/modalback.jpg"
+   ],
+   "dataSrc": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "descBlock": "Nella zona industriale di Casalecchio di Reno e precisamente in Via Parini 7, proponiamo in locazione grande open space di 725 mq ad uso industriale, posto al piano terra di un edificio di 2 piani a destinazione uffici. La proprietà, circondata da un’ampia area cortiliva caratterizzata da verde condominiale e numerosi posti auto, vanta la presenza di 2 ingressi carrabili indipendenti. Gli interni si presentano in buono stato conservativo: sono presenti alcune pareti in cartongesso, amovibili, che delimitano alcune aree, fra le quali una cucina abitabile completa di elettrodomestici, oltre ad un impianto di riscaldamento centralizzato con contabilizzazione individuale. Sono presenti un impianto di allarme ed una predisposizione di un impianto per la climatizzazione estiva. Locale idoneo alla destinazione produttiva o come show room di abbigliamento, ultima attività svolta. E’ richiesto un deposito cauzionale pari a 3 mensilità oltre ad una fidejussione pari a 6 mensilità del canone mensile.",
+   "text": "HOME\n \nCHI SIAMO\n \nSERVIZI\n \nIMMOBILI\n \nCONTATTI\nSee all 16 photos\nHomeCapannoneCapannone show room Parini\nVendita Usato\nCapannone show room Parini\n3.800 €\n Via Parini 7 Casalecchio di Reno\nShare\nFavorite\nPrint\n\nNella zona industriale di Casalecchio di Reno e precisamente in Via Parini 7, proponiamo in locazione grande open space di 725 mq ad uso industriale, posto al piano terra di un edificio di 2 piani a destinazione uffici. La proprietà, circondata da un’ampia area cortiliva caratterizzata da verde condominiale e numerosi posti auto, vanta la presenza di 2 ingressi carrabili indipendenti. Gli interni si presentano in buono stato conservativo: sono presenti alcune pareti in cartongesso, amovibili, che delimitano alcune aree, fra le quali una cucina abitabile completa di elettrodomestici, oltre ad un impianto di riscaldamento centralizzato con contabilizzazione individuale. Sono presenti un impianto di allarme ed una predisposizione di un impianto per la climatizzazione estiva. Locale idoneo alla destinazione produttiva o come show room di abbigliamento, ultima attività svolta. E’ richiesto un deposito cauzionale pari a 3 mensilità oltre ad una fidejussione pari a 6 mensilità del canone mensile.\n\nA4\n\nA3\n\nA2\n\nA1\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\n \nIndirizzo\nCittà: Casalecchio di Reno\nQuartiere:\nAddress: Via Parini 7 Casalecchio di Reno\nZip: 40033\nCountry: Italia\nOPEN IN GOOGLE MAPS\n \nDettagli\nPrice: 3.800 €\nStato: Abitabile\nTipologia: Magazzino\nSuperficie commerciale: 725\nPiano: Terra\nTotale piani edifico: 2\nNumero stanze: 7\nBagni: 2\nTipologia Posto Auto: scoperto\nImpianto di Riscaldamento: Centralizzato\nImpianto di Raffreddamento: Presente o Assente o Predisposizione > Autonomo\n \nFloor Plans\nPlanimetria\nContatti\nPRENDI UN APPUNTAMENTO CON NOI\nCONTATTACI\nSEDE\n\nVia Giuseppe Giacosa 3 - 40132 Bologna\n\n+39051591864\n\ninfo@homegaimmobiliare.it\n\nHomega Immobiliare Società Cooperativa | P.IVA/CF: 03549611204 | N° R.E.A. : BO-527883 - Via G. Mazzini, 22 - 40053 - Bazzano (BO) Pec: homegaimmobiliare@legalmail.it\nPrivacy Cookies Termini\nUfficio Isonzo secondo\nUfficio Parini secondo\nCompare Listings\nCompare",
+   "parsed": {
+    "prezzo": "3.800 €",
+    "mq": "725",
+    "locali": null,
+    "camere": null,
+    "bagni": "2",
+    "piano": "Terra",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3582.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/Screenshot-2026-03-24-alle-10.46.59.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/Screenshot-2026-03-24-alle-10.46.59.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3615.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3631.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3624.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3583.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3582.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3696.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3615-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3631-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3624-640x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/defaults/modalback.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.homegaimmobiliare.it/wp-content/uploads/2026/03/IMG_3582.jpeg"
+  },
+  {
+   "url": "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-1",
+   "title": "Colle Bolsenda 5.1 - Homega immobiliare",
+   "h1": "Colle Bolsenda 5.1",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "SIMILAR LISTINGS",
+    "PRENDI UN APPUNTAMENTO CON NOI"
+   ],
+   "ogTitle": "Colle Bolsenda 5.1 - Homega immobiliare",
+   "ogImage": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg",
+   "ogDesc": "Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, zona living con cucina a vista, 2 disimpegni, 3 camere da letto e 2 bagni. Completano la proprietà un ampio giardino privato con area porticata ed un box auto con annessa cantina collegati direttamente alla residenza. Disponibili posti auto scoperti. Consegna maggio 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.          ",
+   "desc": "Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, zona living con cucina a vista, 2 disimpegni, 3 camere da letto e 2 bagni. Completano la proprietà un ampio giardino privato con area porticata ed un box auto con annessa cantina collegati direttamente alla residenza. Disponibili posti auto scoperti. Consegna maggio 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.          ",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1\",\"name\":\"Colle Bolsenda 5.1 - Homega immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2024\\/07\\/IMG_4608.jpeg\",\"datePublished\":\"2024-07-18T12:57:18+00:00\",\"dateModified\":\"2025-09-08T09:29:27+00:00\",\"description\":\"Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, zona living con cucina a vista, 2 disimpegni, 3 camere da letto e 2 bagni. Completano la proprietà un ampio giardino privato con area porticata ed un box auto con annessa cantina collegati direttamente alla residenza. Disponibili posti auto scoperti. Consegna maggio 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.          \",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1#primaryimage\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2024\\/07\\/IMG_4608.jpeg\",\"contentUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2024\\/07\\/IMG_4608.jpeg\",\"width\":800,\"height\":600},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-1#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Colle Bolsenda 5.1\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/\",\"name\":\"Homega immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.homegaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.1.png",
+     "w": 1724,
+     "h": 1100,
+     "rw": 1030
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.1.png",
+     "w": 1724,
+     "h": 1100,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4541.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4531-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4534-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png"
+   ],
+   "dataSrc": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "descBlock": "Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, zona living con cucina a vista, 2 disimpegni, 3 camere da letto e 2 bagni. Completano la proprietà un ampio giardino privato con area porticata ed un box auto con annessa cantina collegati direttamente alla residenza. Disponibili posti auto scoperti. Consegna settembre 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.",
+   "text": "HOME\n \nCHI SIAMO\n \nSERVIZI\n \nIMMOBILI\n \nCONTATTI\nVENDUTO\nSee all 18 photos\nHomeColle Bolsenda 5.1\nVendita Vendita\nColle Bolsenda 5.1\n512.000 €\n Via Bolsenda 1 Casalecchio di Reno, Bologna\nShare\nFavorite\nPrint\n\nVicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, zona living con cucina a vista, 2 disimpegni, 3 camere da letto e 2 bagni. Completano la proprietà un ampio giardino privato con area porticata ed un box auto con annessa cantina collegati direttamente alla residenza. Disponibili posti auto scoperti. Consegna settembre 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.\n\nYour energy class is A4\n\nA4\n\nA3\n\nA2\n\nA1\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\n \nIndirizzo\nCittà: Casalecchio di Reno\nQuartiere: San Biagio\nAddress: Via Bolsenda 1 Casalecchio di Reno\nCity: Bologna\nZip: 40033\nCountry: Italia\nOPEN IN GOOGLE MAPS\n \nDettagli\nPrice: 512.000 €\nStato: Nuovo\nTipologia: Quadrilocale\nSuperficie commerciale: 127\nPiano: Terra\nTotale piani edifico: 2\nNumero stanze: 4\nCamere da letto: 3\nBagni: 2\nCantina: Sì\nClasse energetica: A4\nImpianto di Riscaldamento: Autonomo\nImpianto di Raffreddamento: Presente o Assente o Predisposizione > Autonomo\nGarages: Sì\nGarage N°: 1\n \nCaratteristiche\nOther Features\nAscensore\nFibra ottica\nGiardino privato\nImpianto satellitare\nLoggia\nPorta Blindata\nVideocitofono\n \nFloor Plans\nPlanimetria\nSIMILAR LISTINGS\n 20\nBologna\nUsato\nAttico quartiere Meridiana\n780.000 €\nNel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico [more]\n3 2 164 m2\nDETAILS\n 19\nBologna\nLocazione\nBilocale ristrutturato Via Valdossola\n1.500 €\nLa residenza è stata completamente ristrutturata con materiali di pregio, circa due anni f [more]\n1 1 57 m2\nDETAILS\n 21\nBologna\nUsato\nBilocale Beverara\n318.000 €\nNel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37 [more]\n1 1 71 m2\nDETAILS\n 10\nBologna\nUsato\nTrilocale Via Francoforte\n255.000 €\nIn Via Francoforte 13, proponiamo in vendita un ampio trilocale composto da: ingresso, sog [more]\n2 1\nDETAILS\nContatti\nPRENDI UN APPUNTAMENTO CON NOI\nCONTATTACI\nSEDE\n\nVia Giuseppe Giacosa 3 - 40132 Bologna\n\n+39051591864\n\ninfo@homegaimmobiliare.it\n\nHomega Immobiliare Società Cooperativa | P.IVA/CF: 03549611204 | N° R.E.A. : BO-527883 - Via G. Mazzini, 22 - 40053 - Bazzano (BO) Pec: homegaimmobiliare@legalmail.it\nPrivacy Cookies Termini\nVilla al grezzo Granarolo\nColle Bolsenda 5.2\nCompare Listings\nCompare",
+   "parsed": {
+    "prezzo": "512.000 €",
+    "mq": "127",
+    "locali": null,
+    "camere": "3",
+    "bagni": "2",
+    "piano": "Terra",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4541.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4531-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4534-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4608.jpeg"
+  },
+  {
+   "url": "https://www.homegaimmobiliare.it/properties/colle-bolsenda-5-2",
+   "title": "Colle Bolsenda 5.2 - Homega immobiliare",
+   "h1": "Colle Bolsenda 5.2",
+   "h2": [
+    "Login",
+    "Register",
+    "Reset Password",
+    "SIMILAR LISTINGS",
+    "PRENDI UN APPUNTAMENTO CON NOI"
+   ],
+   "ogTitle": "Colle Bolsenda 5.2 - Homega immobiliare",
+   "ogImage": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4607.jpeg",
+   "ogDesc": "Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, ampia zona living con grande cucina a vista, 2 disimpegni, 3 camere da letto, di cui 2 matrimoniali, 2 bagni e un locale lavanderia. Completano la proprietà un ampio giardino privato con area porticata e una cantina. Disponibili posti auto scoperti e box auto. Consegna maggio 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.",
+   "desc": "Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, ampia zona living con grande cucina a vista, 2 disimpegni, 3 camere da letto, di cui 2 matrimoniali, 2 bagni e un locale lavanderia. Completano la proprietà un ampio giardino privato con area porticata e una cantina. Disponibili posti auto scoperti e box auto. Consegna maggio 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.",
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2\",\"name\":\"Colle Bolsenda 5.2 - Homega immobiliare\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2024\\/07\\/IMG_4607.jpeg\",\"datePublished\":\"2024-07-18T13:01:59+00:00\",\"dateModified\":\"2025-05-06T14:11:13+00:00\",\"description\":\"Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, ampia zona living con grande cucina a vista, 2 disimpegni, 3 camere da letto, di cui 2 matrimoniali, 2 bagni e un locale lavanderia. Completano la proprietà un ampio giardino privato con area porticata e una cantina. Disponibili posti auto scoperti e box auto. Consegna maggio 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2#primaryimage\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2024\\/07\\/IMG_4607.jpeg\",\"contentUrl\":\"https:\\/\\/www.homegaimmobiliare.it\\/wp-content\\/uploads\\/2024\\/07\\/IMG_4607.jpeg\",\"width\":800,\"height\":582},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\\/colle-bolsenda-5-2#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proprietà\",\"item\":\"https:\\/\\/www.homegaimmobiliare.it\\/properties\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Colle Bolsenda 5.2\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.homegaimmobiliare.it\\/#website\",\"url\":\"https:\\/\\/www.homegaimmobiliare.it\\/\",\"name\":\"Homega immobiliare\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.homegaimmobiliare.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}",
+   "imgs": [
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.2.png",
+     "w": 1723,
+     "h": 1100,
+     "rw": 1030
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.2.png",
+     "w": 1723,
+     "h": 1100,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528-1.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533-1.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4541-1.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    },
+    {
+     "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4551-1.jpeg",
+     "w": 800,
+     "h": 600,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4607.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4531-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4534-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png"
+   ],
+   "dataSrc": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "descBlock": "Vicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, ampia zona living con grande cucina a vista, 2 disimpegni, 3 camere da letto, di cui 2 matrimoniali, 2 bagni e un locale lavanderia. Completano la proprietà un ampio giardino privato con area porticata e una cantina. Disponibili posti auto scoperti e box auto. Consegna settembre 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.",
+   "text": "HOME\n \nCHI SIAMO\n \nSERVIZI\n \nIMMOBILI\n \nCONTATTI\nSee all 18 photos\nHomeColle Bolsenda 5.2\nVendita Vendita\nColle Bolsenda 5.2\n599.000 €\n Via Bolsenda 1 Casalecchio di Reno, Bologna\nShare\nFavorite\nPrint\n\nVicino al centro di Casalecchio di Reno a pochi minuti da Bologna, Colle Bolsenda è la soluzione ideale per chi è alla ricerca di un luogo magico in cui vivere. Le residenze Colle Bolsenda sono l’essenza di un grande sforzo progettuale che intende soddisfare le esigenze di famiglie e investitori. Alte prestazioni energetiche, materiali di pregio, linee architettoniche essenziali e ricercate, spazi interni luminosi, caratterizzano le residenze che si distinguono per gusto, raffinatezza ed efficienza. La residenza, posta al piano terra, è composta da: ingresso, ampia zona living con grande cucina a vista, 2 disimpegni, 3 camere da letto, di cui 2 matrimoniali, 2 bagni e un locale lavanderia. Completano la proprietà un ampio giardino privato con area porticata e una cantina. Disponibili posti auto scoperti e box auto. Consegna settembre 2026. Colle Bolsenda: un’occasione per pochi! Contattaci per maggiori informazioni.\n\nYour energy class is A4\n\nA4\n\nA3\n\nA2\n\nA1\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\n \nIndirizzo\nCittà: Casalecchio di Reno\nQuartiere: San Biagio\nAddress: Via Bolsenda 1 Casalecchio di Reno\nCity: Bologna\nZip: 40033\nCountry: Italia\nOPEN IN GOOGLE MAPS\n \nDettagli\nPrice: 599.000 €\nStato: Nuovo\nTipologia: Quadrilocale\nSuperficie commerciale: 171\nPiano: Terra\nTotale piani edifico: 2\nNumero stanze: 4\nCamere da letto: 3\nBagni: 3\nCantina: Sì\nClasse energetica: A4\nImpianto di Riscaldamento: Autonomo\nImpianto di Raffreddamento: Presente o Assente o Predisposizione > Autonomo\nGarage N°: 0\n \nCaratteristiche\nOther Features\nAscensore\nFibra ottica\nGiardino privato\nImpianto satellitare\nLoggia\nPorta Blindata\nVideocitofono\n \nFloor Plans\nPlanimetria\nSIMILAR LISTINGS\n 20\nBologna\nUsato\nAttico quartiere Meridiana\n780.000 €\nNel prestigioso quartiere residenziale Meridiana, proponiamo in vendita un elegante attico [more]\n3 2 164 m2\nDETAILS\n 19\nBologna\nLocazione\nBilocale ristrutturato Via Valdossola\n1.500 €\nLa residenza è stata completamente ristrutturata con materiali di pregio, circa due anni f [more]\n1 1 57 m2\nDETAILS\n 21\nBologna\nUsato\nBilocale Beverara\n318.000 €\nNel prestigioso edificio residenziale denominato Terrazza Angeletti, Via della Beverara 37 [more]\n1 1 71 m2\nDETAILS\n 10\nBologna\nUsato\nTrilocale Via Francoforte\n255.000 €\nIn Via Francoforte 13, proponiamo in vendita un ampio trilocale composto da: ingresso, sog [more]\n2 1\nDETAILS\nContatti\nPRENDI UN APPUNTAMENTO CON NOI\nCONTATTACI\nSEDE\n\nVia Giuseppe Giacosa 3 - 40132 Bologna\n\n+39051591864\n\ninfo@homegaimmobiliare.it\n\nHomega Immobiliare Società Cooperativa | P.IVA/CF: 03549611204 | N° R.E.A. : BO-527883 - Via G. Mazzini, 22 - 40053 - Bazzano (BO) Pec: homegaimmobiliare@legalmail.it\nPrivacy Cookies Termini\nColle Bolsenda 5.1\nColle Bolsenda 5.3\nCompare Listings\nCompare",
+   "parsed": {
+    "prezzo": "599.000 €",
+    "mq": "171",
+    "locali": null,
+    "camere": "3",
+    "bagni": "3",
+    "piano": "Terra",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4607.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.2.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/5.2.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528-1.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533-1.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4541-1.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4551-1.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4607.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4528-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4531-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4533-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4534-1-800x467.jpeg",
+    "https://www.homegaimmobiliare.it/wp-content/themes/wpresidence/img/default-user_1.png",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-36x36.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg",
+    "https://www.homegaimmobiliare.it/wp-content/uploads/2021/11/homega-immobiliare-favicon-300x300.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.homegaimmobiliare.it/wp-content/uploads/2024/07/IMG_4607.jpeg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.homegaimmobiliare.it/wp-content/uploads/2021/10/homega-immobiliare-logo.png",
+  "size": 8863
+ }
+}

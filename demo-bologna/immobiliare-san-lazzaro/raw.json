@@ -1,0 +1,879 @@
+{
+ "cfg": {
+  "slug": "immobiliare-san-lazzaro",
+  "nome": "Immobiliare San Lazzaro",
+  "home": "https://www.immobiliaresanlazzaro.it/",
+  "index": [
+   "https://www.immobiliaresanlazzaro.it/immobili/"
+  ],
+  "rx": "/immobile/[a-z0-9-]+",
+  "n": 6,
+  "contact": "https://www.immobiliaresanlazzaro.it/contatti/"
+ },
+ "home": {
+  "title": "Home - Immobiliare San Lazzaro",
+  "desc": null,
+  "emails": [
+   "ufficio@immobiliaresanlazzaro.it"
+  ],
+  "tels": [
+   "//051%206275567",
+   "//0516275567",
+   "+39%20051%206275567",
+   "+39%20051%206271468"
+  ],
+  "logos": [
+   "https://www.immobiliaresanlazzaro.it//wp-content/uploads/logo-immobiliare-san-lazzaro.png"
+  ],
+  "svgLogo": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"18px\" height=\"18px\" viewBox=\"0 0 459 459\" style=\"enable-background:new 0 0 459 459;\" xml:space=\"preserve\">\n\t<path d=\"M91.8,198.9c35.7,71.4,96.9,130.05,168.3,168.3L316.2,311.1c7.649-7.649,17.85-10.199,25.5-5.1    c28.05,10.2,58.649,15.3,91.8,15.3c15.3,0,25.5,10.2,25.5,25.5v86.7c0,15.3-10.2,25.5-25.5,25.5C193.8,459,0,265.2,0,25.5    C0,10.2,10.2,0,25.5,0h89.25c15.3,0,25.5,10.2,25.5,25.5c0,30.6,5.1,61.2,15.3,91.8c2.55,7.65,0,17.85-5.1,25.5L91.8,198.9z\"></path>\n</svg>",
+  "body": {
+   "bg": "rgb(247, 247, 247)",
+   "color": "rgb(128, 128, 128)",
+   "font": "Poppins, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(128, 128, 128)",
+   "font": "Poppins, sans-serif"
+  },
+  "footer": {
+   "bg": "rgb(48, 48, 48)",
+   "color": "rgb(128, 128, 128)",
+   "font": "Poppins, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Poppins, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(68, 68, 68)",
+   "font": "Poppins, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    12
+   ],
+   [
+    "rgb(146, 25, 26)",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.25)",
+    1
+   ],
+   [
+    "rgb(48, 48, 48)",
+    1
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    438
+   ],
+   [
+    "rgb(255, 255, 255)",
+    15
+   ],
+   [
+    "rgb(48, 48, 48)",
+    3
+   ],
+   [
+    "rgb(146, 25, 26)",
+    2
+   ],
+   [
+    "rgb(231, 234, 239)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    1
+   ],
+   [
+    "rgb(134, 23, 24)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.25)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(26, 26, 26)",
+    14
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(146, 25, 26)",
+    3
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(68, 68, 68)",
+    29
+   ],
+   [
+    "rgb(146, 25, 26)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    11
+   ],
+   [
+    "rgb(128, 128, 128)",
+    7
+   ],
+   [
+    "rgb(222, 222, 222)",
+    5
+   ],
+   [
+    "rgb(255, 0, 0)",
+    1
+   ],
+   [
+    "rgb(48, 48, 48)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Poppins, sans-serif",
+    125
+   ]
+  ],
+  "heads": [
+   "Trova la casa dei tuoi sogni",
+   "VETRINA IMMOBILIARE",
+   "SERVIZI PER LE PERSONE"
+  ],
+  "addr": null,
+  "final": "https://www.immobiliaresanlazzaro.it/"
+ },
+ "home_png": true,
+ "contact": {
+  "url": "https://www.immobiliaresanlazzaro.it/contatti/",
+  "emails": [
+   "ufficio@immobiliaresanlazzaro.it"
+  ],
+  "tels": [
+   "//051%206275567",
+   "0516275567",
+   "+39%20051%206275567",
+   "+39%20051%206271468"
+  ],
+  "addr": "Via Caselle, 13 - 40068 - San Lazzaro di Savena (BO)"
+ },
+ "candidates": [
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-bolognina-2/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-bolognina-3/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-cicogna/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-bolognina/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-8/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-10/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-11/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-12/",
+  "https://www.immobiliaresanlazzaro.it/immobile/villa-a-schiera-san-lazzaro-centro-3/",
+  "https://www.immobiliaresanlazzaro.it/immobile/villa-a-schiera-san-lazzaro-centro-4/",
+  "https://www.immobiliaresanlazzaro.it/immobile/villa-a-schiera-san-lazzaro-centro-5/",
+  "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/",
+   "title": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "h1": "Appartamento San Lazzaro di Savena",
+   "h2": [
+    "Appartamento San Lazzaro di Savena",
+    "Vendita a 480.000 €",
+    "Immobili Simili",
+    "Appartamento Murri/Giardini Margherita",
+    "Appartamento Mazzini/S. Orsola",
+    "Appartamento Pianoro"
+   ],
+   "ogTitle": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "ogImage": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg",
+   "ogDesc": "Vendita a 480.000 € Vivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento in questione è un bellissimo duplex. Al primo piano troviamo ingresso su ampia...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/\",\"url\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/\",\"name\":\"Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro\",\"isPartOf\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/#primaryimage\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/#primaryimage\"},\"thumbnailUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg\",\"datePublished\":\"2026-10-07T16:00:00+00:00\",\"dateModified\":\"2026-10-26T23:00:03+00:00\",\"breadcrumb\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/#primaryimage\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg\",\"width\":1920,\"height\":1080,\"caption\":\"Appartamento in Vendita a San Lazzaro di Savena\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-13/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.immobiliaresanlazzaro.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https://www.immobiliaresanlazzaro.it/immobile/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento San Lazzaro di Savena\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"name\":\"Immobiliare San Lazzaro\",\"description\":\"Agenzia Immobiliare a San Lazzaro\",\"publisher\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.immobiliaresanlazzaro.it/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\",\"name\":\"Immobiliare San Lazzaro\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"width\":234,\"height\":77,\"caption\":\"Immobiliare San Lazzaro\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/ImmobiliareSanLazzaro/\"]}]}",
+   "imgs": [
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-2-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-4-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-6-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-8-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-10-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-8-1240x720.jpg"
+   ],
+   "dataSrc": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-14.jpg"
+   ],
+   "descBlock": "Vivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento in questione è un bellissimo duplex. Al primo piano troviamo ingresso su ampia zona giorno con cucina a vista e un terrazzo coperto di 30 metri quadri. Zona notte con due ampie camere matrimoniale , di cui una di 22 metri e 2 bagni entrambi finestrati. Tramite una scala dalla zona giorno passiamo al secondo piano dove troviamo una zona che può essere utilizzata come aria svago, uno studio un eventuale terza camera con un altro ulteriore terrazzo di 20 metri . Tutti gli impianti compresi i pannelli solari e la pompa di calore sono autonomi. Volendo disponibilità di garage o posto auto.\nNon perdere questa occasione!! UN APPARTAMENTO DI NUOVE COSTRUZIONE CON AMBIENTI COSI AMPI E TERRAZZE DI QUESTO GENERE E’ RARO DA TROVARE.. Se devi vendere valutiamo il tuo immobile gratuitamente. Per ulteriori informazioni telefonare al referente Giacomo tel. 334-9761844 scrivere a ufficio@immobiliaresanlazzaro.it Se vuoi far parte del nostro team immobiliare invia il curriculum a ufficio@immobiliaresanlazzaro.it\nQuesta proposta immobiliare è in collaborazione con l’agenzia immobiliare Kapitalre",
+   "text": "HOME\nCHI SIAMO\nIMMOBILI\nVALUTAZIONE IMMOBILE\nLAVORA CON NOI\nCONTATTI\nHome\nChi siamo\nImmobili\nValutazione immobile\nLavora con noi\nContatti\n051 6275567\nAppartamento San Lazzaro di Savena\nHomeBOSan Lazzaro di SavenaSan Lazzaro di Savena\nAppartamento San Lazzaro di Savena\n\n, San Lazzaro di Savena, BO\n\nVendita\n\n€480,000\n\nMostra tutte le foto (9)\n\nID Immobile:\n\n SLR\n\nCamere da letto\n2\nBagni\n2\nArea\n145\nmq\nDescrizione\nVendita a 480.000 €\n\nVivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento in questione è un bellissimo duplex. Al primo piano troviamo ingresso su ampia zona giorno con cucina a vista e un terrazzo coperto di 30 metri quadri. Zona notte con due ampie camere matrimoniale , di cui una di 22 metri e 2 bagni entrambi finestrati. Tramite una scala dalla zona giorno passiamo al secondo piano dove troviamo una zona che può essere utilizzata come aria svago, uno studio un eventuale terza camera con un altro ulteriore terrazzo di 20 metri . Tutti gli impianti compresi i pannelli solari e la pompa di calore sono autonomi. Volendo disponibilità di garage o posto auto.\nNon perdere questa occasione!! UN APPARTAMENTO DI NUOVE COSTRUZIONE CON AMBIENTI COSI AMPI E TERRAZZE DI QUESTO GENERE E’ RARO DA TROVARE.. Se devi vendere valutiamo il tuo immobile gratuitamente. Per ulteriori informazioni telefonare al referente Giacomo tel. 334-9761844 scrivere a ufficio@immobiliaresanlazzaro.it Se vuoi far parte del nostro team immobiliare invia il curriculum a ufficio@immobiliaresanlazzaro.it\nQuesta proposta immobiliare è in collaborazione con l’agenzia immobiliare Kapitalre\n\nDettagli aggiuntivi\nPiano:\nUltimo\nTotale Piani:\n1\nCamere da letto:\n2\nBagni:\n2\nVani:\n5\nGarage:\n0\nPosto auto:\n-\nCantina:\n-\nAnno costruzione:\n0\nInfissi esterni:\n-\nInfissi interni:\n-\nClimatizzazione:\n-\nTipo riscaldamento:\n-\nCertificazione:\n-\nStato arredamento:\n-\nSpese condominio:\n0 €\nTerrazzo:\nSI\nSottotetto:\nSI\nCaratteristiche\nTerrazzo\nImmobili Simili\nVendita\nAppartamento Murri/Giardini Margherita\n\n€380,000\n\n3\n1\n110\nmq\nVendita\nAppartamento Mazzini/S. Orsola\n\n€360,000\n\n2\n1\n81\nmq\nVendita\nAppartamento Pianoro\n\n€339,500\n\n2\n2\n108\nmq\nPaolo Cavicchi\n\nUfficio:  051 6275567\n\nCellulare:  339 7759182\n\nEmail:  ufficio@immobiliaresanlazzaro.it\n\nNome\n\nEmail\n\nTelefono\n\nMessaggio\n\n WhatsApp\n Chiama Ora\n Invia messaggio\n\nV. Caselle , 13 - 40068 San Lazzaro di Savena (BO)\n\n+39 051 6275567\n\n+39 051 6271468\n\n+39 339 7759182\n\nufficio@immobiliaresanlazzaro.it\n\nRea BO-524774 - P.IVA / Cod. Fiscale 03509001206 - Cap Sociale: € 10.000 i.v.\n\nPower by Sitesolutions",
+   "parsed": {
+    "prezzo": "€480,000",
+    "mq": "Descrizione",
+    "locali": "5",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "Ultimo",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-10-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR-14.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155078_SLR.jpg"
+  },
+  {
+   "url": "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/",
+   "title": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "h1": "Appartamento San Lazzaro di Savena",
+   "h2": [
+    "Appartamento San Lazzaro di Savena",
+    "Vendita a 399.000 €",
+    "Immobili Simili",
+    "Villa Campeggio",
+    "Villa a Schiera San Lazzaro Centro",
+    "Appartamento Navile"
+   ],
+   "ogTitle": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "ogImage": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg",
+   "ogDesc": "Vendita a 399.000 € Vivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento in questione è un bellissimo appartamento al piano terra, troviamo ingresso su ampia...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/\",\"url\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/\",\"name\":\"Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro\",\"isPartOf\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/#primaryimage\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/#primaryimage\"},\"thumbnailUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg\",\"datePublished\":\"2026-10-07T15:49:00+00:00\",\"dateModified\":\"2026-10-26T23:00:03+00:00\",\"breadcrumb\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/#primaryimage\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg\",\"width\":1920,\"height\":1200,\"caption\":\"Appartamento in Vendita a San Lazzaro di Savena\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-14/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.immobiliaresanlazzaro.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https://www.immobiliaresanlazzaro.it/immobile/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento San Lazzaro di Savena\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"name\":\"Immobiliare San Lazzaro\",\"description\":\"Agenzia Immobiliare a San Lazzaro\",\"publisher\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.immobiliaresanlazzaro.it/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\",\"name\":\"Immobiliare San Lazzaro\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"width\":234,\"height\":77,\"caption\":\"Immobiliare San Lazzaro\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/ImmobiliareSanLazzaro/\"]}]}",
+   "imgs": [
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-2-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-4-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-6-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-8-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-10-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-8-1240x720.jpg"
+   ],
+   "dataSrc": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-14.jpg"
+   ],
+   "descBlock": "Vivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento in questione è un bellissimo appartamento al piano terra, troviamo ingresso su ampia zona giorno con cucina a vista e un giardino privato di 90 metri quadri. Zona notte con due ampie camere matrimoniali , di cui una di 22 metri e 2 bagni entrambi finestrati. Tutti gli impianti compresi i pannelli solari e la pompa di calore sono autonomi. Volendo disponibilità di garage o posto auto.\nNon perdere questa occasione!! UN APPARTAMENTO DI NUOVE COSTRUZIONE CON AMBIENTI COSI AMPI E GIARDINI DI QUESTO GENERE E’ RARO DA TROVARE.. Se devi vendere valutiamo il tuo immobile gratuitamente. Per ulteriori informazioni telefonare al referente Giacomo tel. 334-9761844 scrivere a ufficio@immobiliaresanlazzaro.it Se vuoi far parte del nostro team immobiliare invia il curriculum a ufficio@immobiliaresanlazzaro.it Questa proposta immobiliare è in collaborazione con l’agenzia immobiliare Kapitalre",
+   "text": "HOME\nCHI SIAMO\nIMMOBILI\nVALUTAZIONE IMMOBILE\nLAVORA CON NOI\nCONTATTI\nHome\nChi siamo\nImmobili\nValutazione immobile\nLavora con noi\nContatti\n051 6275567\nAppartamento San Lazzaro di Savena\nHomeBOSan Lazzaro di SavenaSan Lazzaro di Savena\nAppartamento San Lazzaro di Savena\n\n, San Lazzaro di Savena, BO\n\nVendita\n\n€399,000\n\nMostra tutte le foto (10)\n\nID Immobile:\n\n SLR\n\nCamere da letto\n2\nBagni\n2\nArea\n122\nmq\nDescrizione\nVendita a 399.000 €\n\nVivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento in questione è un bellissimo appartamento al piano terra, troviamo ingresso su ampia zona giorno con cucina a vista e un giardino privato di 90 metri quadri. Zona notte con due ampie camere matrimoniali , di cui una di 22 metri e 2 bagni entrambi finestrati. Tutti gli impianti compresi i pannelli solari e la pompa di calore sono autonomi. Volendo disponibilità di garage o posto auto.\nNon perdere questa occasione!! UN APPARTAMENTO DI NUOVE COSTRUZIONE CON AMBIENTI COSI AMPI E GIARDINI DI QUESTO GENERE E’ RARO DA TROVARE.. Se devi vendere valutiamo il tuo immobile gratuitamente. Per ulteriori informazioni telefonare al referente Giacomo tel. 334-9761844 scrivere a ufficio@immobiliaresanlazzaro.it Se vuoi far parte del nostro team immobiliare invia il curriculum a ufficio@immobiliaresanlazzaro.it Questa proposta immobiliare è in collaborazione con l’agenzia immobiliare Kapitalre\n\nDettagli aggiuntivi\nPiano:\nPiano Terra\nTotale Piani:\n1\nGiardino:\nSI\nCamere da letto:\n2\nBagni:\n2\nVani:\n4\nGarage:\n0\nPosto auto:\n-\nCantina:\n-\nAnno costruzione:\n0\nInfissi esterni:\n-\nInfissi interni:\n-\nClimatizzazione:\n-\nTipo riscaldamento:\n-\nCertificazione:\n-\nStato arredamento:\n-\nSpese condominio:\n0 €\nCaratteristiche\nGiardino\nImmobili Simili\nVendita\nVilla Campeggio\n\n€199,000\n\n5\n3\n300\nmq\n1\nVendita\nVilla a Schiera San Lazzaro Centro\n\n€890,000\n\n4\n3\n187\nmq\n1\nVendita\nAppartamento Navile\n\n€590,000\n\n3\n2\n168\nmq\n1\nPaolo Cavicchi\n\nUfficio:  051 6275567\n\nCellulare:  339 7759182\n\nEmail:  ufficio@immobiliaresanlazzaro.it\n\nNome\n\nEmail\n\nTelefono\n\nMessaggio\n\n WhatsApp\n Chiama Ora\n Invia messaggio\n\nV. Caselle , 13 - 40068 San Lazzaro di Savena (BO)\n\n+39 051 6275567\n\n+39 051 6271468\n\n+39 339 7759182\n\nufficio@immobiliaresanlazzaro.it\n\nRea BO-524774 - P.IVA / Cod. Fiscale 03509001206 - Cap Sociale: € 10.000 i.v.\n\nPower by Sitesolutions",
+   "parsed": {
+    "prezzo": "€399,000",
+    "mq": "Descrizione",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "Piano Terra",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-10-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR-14.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155077_SLR.jpg"
+  },
+  {
+   "url": "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/",
+   "title": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "h1": "Appartamento San Lazzaro di Savena",
+   "h2": [
+    "Appartamento San Lazzaro di Savena",
+    "Vendita a 416.000 €",
+    "Immobili Simili",
+    "Appartamento San Lazzaro di Savena",
+    "Villa a Schiera San Lazzaro Centro",
+    "Appartamento Navile"
+   ],
+   "ogTitle": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "ogImage": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg",
+   "ogDesc": "Vendita a 416.000 € Vivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento di testa è composto da un ampia zona giorno di ben oltre 30...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/\",\"url\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/\",\"name\":\"Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro\",\"isPartOf\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/#primaryimage\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/#primaryimage\"},\"thumbnailUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg\",\"datePublished\":\"2026-10-07T15:45:00+00:00\",\"dateModified\":\"2026-10-26T23:00:04+00:00\",\"breadcrumb\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/#primaryimage\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg\",\"width\":1920,\"height\":1350,\"caption\":\"Appartamento in Vendita a San Lazzaro di Savena\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-15/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.immobiliaresanlazzaro.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https://www.immobiliaresanlazzaro.it/immobile/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento San Lazzaro di Savena\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"name\":\"Immobiliare San Lazzaro\",\"description\":\"Agenzia Immobiliare a San Lazzaro\",\"publisher\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.immobiliaresanlazzaro.it/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\",\"name\":\"Immobiliare San Lazzaro\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"width\":234,\"height\":77,\"caption\":\"Immobiliare San Lazzaro\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/ImmobiliareSanLazzaro/\"]}]}",
+   "imgs": [
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-2-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-4-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-6-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-8-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-10-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-8-1240x720.jpg"
+   ],
+   "dataSrc": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-14.jpg"
+   ],
+   "descBlock": "Vivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento di testa è composto da un ampia zona giorno di ben oltre 30 metri con accesso tramite ad una grande vetrata ad un primo giardino di 15 metri ideale per pranzare con possibilità di verandarlo, una bella cucina a vista , 2 ampie camere matrimoniali e due bagni e un ulteriore giardino di oltre 200 metri. Tutti gli impianti compresi i pannelli solari e la pompa di calore sono autonomi. Volendo disponibilità di garage o posto auto.\nNon perdere questa occasione!! UN APPARTAMENTO DI NUOVE COSTRUZIONE CON AMBIENTI COSI AMPI E GIARDINI DI QUESTO GENERE E’ RARO DA TROVARE.. Se devi vendere valutiamo il tuo immobile gratuitamente. Per ulteriori informazioni telefonare al referente Giacomo tel. 334-9761844 scrivere a ufficio@immobiliaresanlazzaro.it Se vuoi far parte del nostro team immobiliare invia il curriculum a ufficio@immobiliaresanlazzaro.it Questa proposta immobiliare è in collaborazione con l’agenzia immobiliare Kapitalre.",
+   "text": "HOME\nCHI SIAMO\nIMMOBILI\nVALUTAZIONE IMMOBILE\nLAVORA CON NOI\nCONTATTI\nHome\nChi siamo\nImmobili\nValutazione immobile\nLavora con noi\nContatti\n051 6275567\nAppartamento San Lazzaro di Savena\nHomeBOSan Lazzaro di SavenaSan Lazzaro di Savena\nAppartamento San Lazzaro di Savena\n\n, San Lazzaro di Savena, BO\n\nVendita\n\n€416,000\n\nMostra tutte le foto (8)\n\nID Immobile:\n\n SLR\n\nCamere da letto\n2\nBagni\n2\nArea\n122\nmq\nDescrizione\nVendita a 416.000 €\n\nVivere qua ti sembrerà di stare in vacanza. Proponiamo in complesso residenziale attorniato dal verde ma comodo ai principali servizi palazzine quadrifamiliari con appartamenti di varie metrature e tipologie, caratterizzati da ampie terrazze abitabili o giardini privati. L’appartamento di testa è composto da un ampia zona giorno di ben oltre 30 metri con accesso tramite ad una grande vetrata ad un primo giardino di 15 metri ideale per pranzare con possibilità di verandarlo, una bella cucina a vista , 2 ampie camere matrimoniali e due bagni e un ulteriore giardino di oltre 200 metri. Tutti gli impianti compresi i pannelli solari e la pompa di calore sono autonomi. Volendo disponibilità di garage o posto auto.\nNon perdere questa occasione!! UN APPARTAMENTO DI NUOVE COSTRUZIONE CON AMBIENTI COSI AMPI E GIARDINI DI QUESTO GENERE E’ RARO DA TROVARE.. Se devi vendere valutiamo il tuo immobile gratuitamente. Per ulteriori informazioni telefonare al referente Giacomo tel. 334-9761844 scrivere a ufficio@immobiliaresanlazzaro.it Se vuoi far parte del nostro team immobiliare invia il curriculum a ufficio@immobiliaresanlazzaro.it Questa proposta immobiliare è in collaborazione con l’agenzia immobiliare Kapitalre.\n\nDettagli aggiuntivi\nPiano:\nPiano Terra\nTotale Piani:\n1\nGiardino:\nSI\nCamere da letto:\n2\nBagni:\n2\nVani:\n4\nGarage:\n0\nPosto auto:\n-\nCantina:\n-\nAnno costruzione:\n0\nInfissi esterni:\n-\nInfissi interni:\n-\nClimatizzazione:\n-\nTipo riscaldamento:\n-\nCertificazione:\n-\nStato arredamento:\n-\nSpese condominio:\n0 €\nCaratteristiche\nGiardino\nImmobili Simili\nVendita\nAppartamento San Lazzaro di Savena\n\n€519,000\n\n5\n4\n221\nmq\n1\nVendita\nVilla a Schiera San Lazzaro Centro\n\n€890,000\n\n4\n3\n187\nmq\n1\nVendita\nAppartamento Navile\n\n€540,000\n\n3\n2\n148\nmq\n1\nPaolo Cavicchi\n\nUfficio:  051 6275567\n\nCellulare:  339 7759182\n\nEmail:  ufficio@immobiliaresanlazzaro.it\n\nNome\n\nEmail\n\nTelefono\n\nMessaggio\n\n WhatsApp\n Chiama Ora\n Invia messaggio\n\nV. Caselle , 13 - 40068 San Lazzaro di Savena (BO)\n\n+39 051 6275567\n\n+39 051 6271468\n\n+39 339 7759182\n\nufficio@immobiliaresanlazzaro.it\n\nRea BO-524774 - P.IVA / Cod. Fiscale 03509001206 - Cap Sociale: € 10.000 i.v.\n\nPower by Sitesolutions",
+   "parsed": {
+    "prezzo": "€416,000",
+    "mq": "Descrizione",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "2",
+    "piano": "Piano Terra",
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-10-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR-14.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155076_SLR.jpg"
+  },
+  {
+   "url": "https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/",
+   "title": "Appartamento S. Vitale/Massarenti - Immobiliare San Lazzaro",
+   "h1": "Appartamento S. Vitale/Massarenti",
+   "h2": [
+    "Appartamento S. Vitale/Massarenti",
+    "Vendita a 299.000 €",
+    "Immobili Simili",
+    "Appartamento Navile",
+    "Villa a Schiera San Lazzaro Centro",
+    "Appartamento Murri/Giardini Margherita"
+   ],
+   "ogTitle": "Appartamento S. Vitale/Massarenti - Immobiliare San Lazzaro",
+   "ogImage": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg",
+   "ogDesc": "Vendita a 299.000 € APPARTAMENTO CON OTTANTA METRI DI TERRAZZO Bologna tra le zone più ricercate ( quartiere Massarenti quasi di fronte all’ospedale Sant’Orsola) proponiamo appartamento con rarissime caratteristiche. L’appartamento si trova all’interno di una elegante palazzina con ascensore ed è composto da ingresso arredabile sala con ampie porte finestre che danno su una magnifica...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/\",\"url\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/\",\"name\":\"Appartamento S. Vitale/Massarenti - Immobiliare San Lazzaro\",\"isPartOf\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/#primaryimage\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/#primaryimage\"},\"thumbnailUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg\",\"datePublished\":\"2026-10-28T08:32:00+00:00\",\"dateModified\":\"2026-10-28T08:32:00+00:00\",\"breadcrumb\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/#primaryimage\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg\",\"width\":1600,\"height\":1200,\"caption\":\"Appartamento in Vendita a Bologna\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-s-vitale-massarenti-2/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.immobiliaresanlazzaro.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https://www.immobiliaresanlazzaro.it/immobile/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento S. Vitale/Massarenti\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"name\":\"Immobiliare San Lazzaro\",\"description\":\"Agenzia Immobiliare a San Lazzaro\",\"publisher\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.immobiliaresanlazzaro.it/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\",\"name\":\"Immobiliare San Lazzaro\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"width\":234,\"height\":77,\"caption\":\"Immobiliare San Lazzaro\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/ImmobiliareSanLazzaro/\"]}]}",
+   "imgs": [
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-2-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-4-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-6-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-8-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-10-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-8-1240x720.jpg"
+   ],
+   "dataSrc": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-14.jpg"
+   ],
+   "descBlock": "APPARTAMENTO CON OTTANTA METRI DI TERRAZZO\nBologna tra le zone più ricercate ( quartiere Massarenti quasi di fronte all’ospedale Sant’Orsola) proponiamo appartamento con rarissime caratteristiche. L’appartamento si trova all’interno di una elegante palazzina con ascensore ed è composto da ingresso arredabile sala con ampie porte finestre che danno su una magnifica terrazza ( esposta a sud est ) di circa 80 mq….quasi introvabile a Bologna. In terrazza potete mangiare fare feste barbecue prendere il sole rilassarvi a leggere e addobbarla con tutti i fiori che preferite. Continuando la descrizione abbiamo una cucina abitabile separata dalla sala ( se piace l’openspace si può fare un unico grande ambiente. Zona notte con due camere matrimoniali dotate di ampie finestre e vista sul verde. Bagno e ripostiglio. Completa la proprietà una cantina ciclabile e volendo un garage. L’ascensore arriva direttamente al piano cantina e garage. Non farti scappare questa rara opportunità!! Uscendo di casa puoi trovare tutti ma proprio tutti i servizi che una città come Bologna può offrire. Se devi vendere per acquistare pensiamo a tutto noi!! Per ulteriori informazioni o fissare una visita telefonare al referente Giacomo Tel.3349761844 oppure mandare una mail a ufficio@immobiliaresanlazzaro.it",
+   "text": "HOME\nCHI SIAMO\nIMMOBILI\nVALUTAZIONE IMMOBILE\nLAVORA CON NOI\nCONTATTI\nHome\nChi siamo\nImmobili\nValutazione immobile\nLavora con noi\nContatti\n051 6275567\nAppartamento S. Vitale/Massarenti\nHomeBOBolognaS. Vitale/Massarenti\nAppartamento S. Vitale/Massarenti\n\nvia massarenti, Bologna, BO\n\nVendita\n\n€299,000\n\nMostra tutte le foto (9)\n\nID Immobile:\n\n SLRMASSA\n\nCamere da letto\n2\nBagni\n1\nGarage\n1\nAnno di costruzione\n1975\nArea\n114\nmq\nDescrizione\nVendita a 299.000 €\n\nAPPARTAMENTO CON OTTANTA METRI DI TERRAZZO\nBologna tra le zone più ricercate ( quartiere Massarenti quasi di fronte all’ospedale Sant’Orsola) proponiamo appartamento con rarissime caratteristiche. L’appartamento si trova all’interno di una elegante palazzina con ascensore ed è composto da ingresso arredabile sala con ampie porte finestre che danno su una magnifica terrazza ( esposta a sud est ) di circa 80 mq….quasi introvabile a Bologna. In terrazza potete mangiare fare feste barbecue prendere il sole rilassarvi a leggere e addobbarla con tutti i fiori che preferite. Continuando la descrizione abbiamo una cucina abitabile separata dalla sala ( se piace l’openspace si può fare un unico grande ambiente. Zona notte con due camere matrimoniali dotate di ampie finestre e vista sul verde. Bagno e ripostiglio. Completa la proprietà una cantina ciclabile e volendo un garage. L’ascensore arriva direttamente al piano cantina e garage. Non farti scappare questa rara opportunità!! Uscendo di casa puoi trovare tutti ma proprio tutti i servizi che una città come Bologna può offrire. Se devi vendere per acquistare pensiamo a tutto noi!! Per ulteriori informazioni o fissare una visita telefonare al referente Giacomo Tel.3349761844 oppure mandare una mail a ufficio@immobiliaresanlazzaro.it\n\nDettagli aggiuntivi\nPiano:\n1\nTotale Piani:\n5\nAscensore:\nSI\nCamere da letto:\n2\nBagni:\n1\nVani:\n4\nGarage:\n1\nPosto auto:\n-\nCantina:\nCantina ciclabile\nAnno costruzione:\n1975\nInfissi esterni:\nLegno vetro singolo\nInfissi interni:\n-\nClimatizzazione:\nAssente\nTipo riscaldamento:\nCentralizzato\nCertificazione:\nClasse F\nStato arredamento:\n-\nSpese condominio:\n125 €\nAccesso disabili:\nSI\nBalcone:\nSI\nTerrazzo:\nSI\nCancello Elettrico:\nSI\nCaratteristiche\nAccesso disabili\nAscensore\nBalcone\nTerrazzo\nImmobili Simili\nVendita\nAppartamento Navile\n\n€530,000\n\n3\n2\n171\nmq\n1\nVendita\nVilla a Schiera San Lazzaro Centro\n\n€890,000\n\n4\n3\n187\nmq\n1\nVendita\nAppartamento Murri/Giardini Margherita\n\n€380,000\n\n3\n1\n110\nmq\nPaolo Cavicchi\n\nUfficio:  051 6275567\n\nCellulare:  339 7759182\n\nEmail:  ufficio@immobiliaresanlazzaro.it\n\nNome\n\nEmail\n\nTelefono\n\nMessaggio\n\n WhatsApp\n Chiama Ora\n Invia messaggio\n\nV. Caselle , 13 - 40068 San Lazzaro di Savena (BO)\n\n+39 051 6275567\n\n+39 051 6271468\n\n+39 339 7759182\n\nufficio@immobiliaresanlazzaro.it\n\nRea BO-524774 - P.IVA / Cod. Fiscale 03509001206 - Cap Sociale: € 10.000 i.v.\n\nPower by Sitesolutions",
+   "parsed": {
+    "prezzo": "€299,000",
+    "mq": "Descrizione",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "1",
+    "classe_energetica": "F",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-10-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-2-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-4-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-8-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA-14.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155106_SLRMASSA.jpg"
+  },
+  {
+   "url": "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/",
+   "title": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "h1": "Appartamento San Lazzaro di Savena",
+   "h2": [
+    "Appartamento San Lazzaro di Savena",
+    "Vendita a 284.000 €",
+    "Immobili Simili",
+    "Appartamento Bolognina",
+    "Villa Croara",
+    "Appartamento Toscana/S. Ruffillo"
+   ],
+   "ogTitle": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "ogImage": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg",
+   "ogDesc": "Vendita a 284.000 € GIARDINO PRIVATO!! San Lazzaro nella nuova zona residenziale di Via Speranza proponiamo in piccola ed elegante palazzina un appartamento bilocale al piano terra. L’immobile è composto da ingresso su soggiorno con angolo cottura con ampia porta finestra che da sul giardino privato di oltre 100 mq. disimpegno notte con comodo vano...",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/\",\"url\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/\",\"name\":\"Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro\",\"isPartOf\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/#primaryimage\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/#primaryimage\"},\"thumbnailUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg\",\"datePublished\":\"2026-10-22T09:50:00+00:00\",\"dateModified\":\"2026-10-22T09:50:00+00:00\",\"breadcrumb\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/#primaryimage\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg\",\"width\":1920,\"height\":1280,\"caption\":\"Appartamento in Vendita a San Lazzaro di Savena\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-17/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.immobiliaresanlazzaro.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https://www.immobiliaresanlazzaro.it/immobile/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento San Lazzaro di Savena\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"name\":\"Immobiliare San Lazzaro\",\"description\":\"Agenzia Immobiliare a San Lazzaro\",\"publisher\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.immobiliaresanlazzaro.it/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\",\"name\":\"Immobiliare San Lazzaro\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"width\":234,\"height\":77,\"caption\":\"Immobiliare San Lazzaro\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/ImmobiliareSanLazzaro/\"]}]}",
+   "imgs": [
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-6-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-14-1000x720.jpg",
+     "w": 1000,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-2-900x720.jpg",
+     "w": 900,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-10-736x720.jpg",
+     "w": 736,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-12-736x720.jpg",
+     "w": 736,
+     "h": 720,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-2-900x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-8.jpg"
+   ],
+   "dataSrc": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-14.jpg"
+   ],
+   "descBlock": "GIARDINO PRIVATO!!\nSan Lazzaro nella nuova zona residenziale di Via Speranza proponiamo in piccola ed elegante palazzina un appartamento bilocale al piano terra. L’immobile è composto da ingresso su soggiorno con angolo cottura con ampia porta finestra che da sul giardino privato di oltre 100 mq. disimpegno notte con comodo vano ad uso lavanderia e ripostiglio. Camera matrimoniale con accesso al giardino e bagno. Dal giardino si accede ad un vano un vano uso deposito/ripostiglio dove stivare lettini da sole barbecue ecc….Volendo completa la proprietà un comodo garage. L’edificio sarà nella massima classe energetica con bassi consumi e spese irrisorie. Se dovesse interessare affrettatevi perchè in zona è l’ultimo bilocale con giardino rimasto. Possibilità di usufruire del sisma bonus. In caso dobbiate vendere il vostro immobile pensiamo a tutto noi!! Per ulteriori informazioni potete telefonare al referente Paolo Cavicchi 339.7759182",
+   "text": "HOME\nCHI SIAMO\nIMMOBILI\nVALUTAZIONE IMMOBILE\nLAVORA CON NOI\nCONTATTI\nHome\nChi siamo\nImmobili\nValutazione immobile\nLavora con noi\nContatti\n051 6275567\nAppartamento San Lazzaro di Savena\nHomeBOSan Lazzaro di SavenaSan Lazzaro di Savena\nAppartamento San Lazzaro di Savena\n\nVIA SPERANZA, San Lazzaro di Savena, BO\n\nVendita\n\n€284,000\n\nMostra tutte le foto (9)\n\nID Immobile:\n\n SLP\n\nCamere da letto\n1\nBagni\n1\nAnno di costruzione\n2027\nArea\n68\nmq\nDescrizione\nVendita a 284.000 €\n\nGIARDINO PRIVATO!!\nSan Lazzaro nella nuova zona residenziale di Via Speranza proponiamo in piccola ed elegante palazzina un appartamento bilocale al piano terra. L’immobile è composto da ingresso su soggiorno con angolo cottura con ampia porta finestra che da sul giardino privato di oltre 100 mq. disimpegno notte con comodo vano ad uso lavanderia e ripostiglio. Camera matrimoniale con accesso al giardino e bagno. Dal giardino si accede ad un vano un vano uso deposito/ripostiglio dove stivare lettini da sole barbecue ecc….Volendo completa la proprietà un comodo garage. L’edificio sarà nella massima classe energetica con bassi consumi e spese irrisorie. Se dovesse interessare affrettatevi perchè in zona è l’ultimo bilocale con giardino rimasto. Possibilità di usufruire del sisma bonus. In caso dobbiate vendere il vostro immobile pensiamo a tutto noi!! Per ulteriori informazioni potete telefonare al referente Paolo Cavicchi 339.7759182\n\nDettagli aggiuntivi\nPiano:\nPiano Terra\nTotale Piani:\n2\nAscensore:\nSI\nGiardino:\nSI\nCamere da letto:\n1\nBagni:\n1\nVani:\n2\nGarage:\n0\nPosto auto:\n-\nCantina:\nCantina ciclabile\nAnno costruzione:\n2027\nInfissi esterni:\nPVC doppi vetri\nInfissi interni:\n-\nClimatizzazione:\nCentralizzato\nTipo riscaldamento:\nCentralizzato\nCertificazione:\nClasse A4\nStato arredamento:\nNon arredato\nSpese condominio:\n0 €\nAccesso disabili:\nSI\nPorta Blindata:\nSI\nCancello Elettrico:\nSI\nCaratteristiche\nAccesso disabili\nAscensore\nGiardino\nImmobili Simili\nVendita\nAppartamento Bolognina\n\n€475,000\n\n3\n2\n123\nmq\n1\nVendita\nVilla Croara\n\n€890,000\n\n6\n5\n650\nmq\n1\nVendita\nAppartamento Toscana/S. Ruffillo\n\n€290,000\n\n3\n1\n102\nmq\n1\nPaolo Cavicchi\n\nUfficio:  051 6275567\n\nCellulare:  339 7759182\n\nEmail:  ufficio@immobiliaresanlazzaro.it\n\nNome\n\nEmail\n\nTelefono\n\nMessaggio\n\n WhatsApp\n Chiama Ora\n Invia messaggio\n\nV. Caselle , 13 - 40068 San Lazzaro di Savena (BO)\n\n+39 051 6275567\n\n+39 051 6271468\n\n+39 339 7759182\n\nufficio@immobiliaresanlazzaro.it\n\nRea BO-524774 - P.IVA / Cod. Fiscale 03509001206 - Cap Sociale: € 10.000 i.v.\n\nPower by Sitesolutions",
+   "parsed": {
+    "prezzo": "€284,000",
+    "mq": "Descrizione",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "1",
+    "piano": "Piano Terra",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-14-1000x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-2-900x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-10-736x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-12-736x720.jpg",
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-2-900x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-6-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP-14.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155100_SLP.jpg"
+  },
+  {
+   "url": "https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/",
+   "title": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "h1": "Appartamento San Lazzaro di Savena",
+   "h2": [
+    "Appartamento San Lazzaro di Savena",
+    "Vendita a 360.000 €",
+    "Immobili Simili",
+    "Appartamento Toscana/S. Ruffillo",
+    "Appartamento San Lazzaro di Savena",
+    "Villa Unifamiliare Pianoro"
+   ],
+   "ogTitle": "Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro",
+   "ogImage": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg",
+   "ogDesc": "Vendita a 360.000 € Fronte parco San Lazzaro ottima opportunità. Fronte parco Europa nella zona più bella di Via Speranza proponiamo appartamento in elegante condominio in costruzione. L’appartamento è composto da ingresso su soggiorno due camere da letto un bagno e terrazza abitabile. Volendo un ampio e comodo garage. Massima classe energetica con bassissimi consumi....",
+   "desc": null,
+   "ld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/\",\"url\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/\",\"name\":\"Appartamento San Lazzaro di Savena - Immobiliare San Lazzaro\",\"isPartOf\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/#primaryimage\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/#primaryimage\"},\"thumbnailUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg\",\"datePublished\":\"2026-10-09T08:36:00+00:00\",\"dateModified\":\"2026-10-09T08:36:00+00:00\",\"breadcrumb\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/#primaryimage\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg\",\"width\":1667,\"height\":1055,\"caption\":\"Appartamento in Vendita a San Lazzaro di Savena\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.immobiliaresanlazzaro.it/immobile/appartamento-san-lazzaro-di-savena-16/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.immobiliaresanlazzaro.it/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Immobili\",\"item\":\"https://www.immobiliaresanlazzaro.it/immobile/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento San Lazzaro di Savena\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#website\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"name\":\"Immobiliare San Lazzaro\",\"description\":\"Agenzia Immobiliare a San Lazzaro\",\"publisher\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.immobiliaresanlazzaro.it/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"it-IT\"},{\"@type\":\"Organization\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#organization\",\"name\":\"Immobiliare San Lazzaro\",\"url\":\"https://www.immobiliaresanlazzaro.it/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\",\"url\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"contentUrl\":\"https://www.immobiliaresanlazzaro.it/wp-content/uploads/logo-immobiliare-san-lazzaro.png\",\"width\":234,\"height\":77,\"caption\":\"Immobiliare San Lazzaro\"},\"image\":{\"@id\":\"https://www.immobiliaresanlazzaro.it/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/ImmobiliareSanLazzaro/\"]}]}",
+   "imgs": [
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-12-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-14-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-16-1240x720.jpg",
+     "w": 1240,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-4-1024x720.jpg",
+     "w": 1024,
+     "h": 720,
+     "rw": 0
+    },
+    {
+     "src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-18-1019x720.jpg",
+     "w": 1019,
+     "h": 720,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-4-1024x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-8.jpg"
+   ],
+   "dataSrc": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-14.jpg"
+   ],
+   "descBlock": "Fronte parco\nSan Lazzaro ottima opportunità. Fronte parco Europa nella zona più bella di Via Speranza proponiamo appartamento in elegante condominio in costruzione. L’appartamento è composto da ingresso su soggiorno due camere da letto un bagno e terrazza abitabile. Volendo un ampio e comodo garage. Massima classe energetica con bassissimi consumi. Tutti gli impianti sono autonomi alimentati dal sistema fotovoltaico ( non avrai più pensieri di gas o di luce ). Consegna dell’immobile prevista estate 2027. Per ulteriori informazioni potete telefonare al numero 051/6275567. Se dovete vendere organizziamo tutto noi!!",
+   "text": "HOME\nCHI SIAMO\nIMMOBILI\nVALUTAZIONE IMMOBILE\nLAVORA CON NOI\nCONTATTI\nHome\nChi siamo\nImmobili\nValutazione immobile\nLavora con noi\nContatti\n051 6275567\nAppartamento San Lazzaro di Savena\nHomeBOSan Lazzaro di SavenaSan Lazzaro di Savena\nAppartamento San Lazzaro di Savena\n\nVIA SPERANZA, San Lazzaro di Savena, BO\n\nVendita\n\n€360,000\n\nMostra tutte le foto (10)\n\nID Immobile:\n\n SLP\n\nCamere da letto\n2\nBagni\n1\nGarage\n1\nAnno di costruzione\n2027\nArea\n80\nmq\nDescrizione\nVendita a 360.000 €\n\nFronte parco\nSan Lazzaro ottima opportunità. Fronte parco Europa nella zona più bella di Via Speranza proponiamo appartamento in elegante condominio in costruzione. L’appartamento è composto da ingresso su soggiorno due camere da letto un bagno e terrazza abitabile. Volendo un ampio e comodo garage. Massima classe energetica con bassissimi consumi. Tutti gli impianti sono autonomi alimentati dal sistema fotovoltaico ( non avrai più pensieri di gas o di luce ). Consegna dell’immobile prevista estate 2027. Per ulteriori informazioni potete telefonare al numero 051/6275567. Se dovete vendere organizziamo tutto noi!!\n\nDettagli aggiuntivi\nPiano:\n1\nTotale Piani:\n3\nAscensore:\nSI\nCamere da letto:\n2\nBagni:\n1\nVani:\n3\nGarage:\n1\nPosto auto:\n-\nCantina:\n-\nAnno costruzione:\n2027\nInfissi esterni:\n-\nInfissi interni:\n-\nClimatizzazione:\n-\nTipo riscaldamento:\n-\nCertificazione:\nClasse A4\nStato arredamento:\nNon arredato\nSpese condominio:\n0 €\nAccesso disabili:\nSI\nBalcone:\nSI\nGiardino Condominiale:\nSI\nPorta Blindata:\nSI\nCancello Elettrico:\nSI\nCaratteristiche\nAccesso disabili\nAscensore\nBalcone\nImmobili Simili\nVendita\nAppartamento Toscana/S. Ruffillo\n\n€290,000\n\n3\n1\n102\nmq\n1\nVendita\nAppartamento San Lazzaro di Savena\n\n€559,000\n\n3\n2\n168\nmq\nVendita\nVilla Unifamiliare Pianoro\n\n€990,000\n\n4\n3\n477\nmq\n2\nPaolo Cavicchi\n\nUfficio:  051 6275567\n\nCellulare:  339 7759182\n\nEmail:  ufficio@immobiliaresanlazzaro.it\n\nNome\n\nEmail\n\nTelefono\n\nMessaggio\n\n WhatsApp\n Chiama Ora\n Invia messaggio\n\nV. Caselle , 13 - 40068 San Lazzaro di Savena (BO)\n\n+39 051 6275567\n\n+39 051 6271468\n\n+39 339 7759182\n\nufficio@immobiliaresanlazzaro.it\n\nRea BO-524774 - P.IVA / Cod. Fiscale 03509001206 - Cap Sociale: € 10.000 i.v.\n\nPower by Sitesolutions",
+   "parsed": {
+    "prezzo": "€360,000",
+    "mq": "Descrizione",
+    "locali": "3",
+    "camere": "2",
+    "bagni": "1",
+    "piano": "1",
+    "classe_energetica": "A4",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-12-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-14-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-16-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-4-1024x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-18-1019x720.jpg",
+    "https://www.immobiliaresanlazzaro.it//wp-content/uploads/panoramic-aerial-shot-of-buildings-and-streets-of-2023-11-27-05-19-36-utc-copia.webp",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-1240x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-4-1024x720.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-2.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-4.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-6.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-8.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-10.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-12.jpg",
+    "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP-14.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.immobiliaresanlazzaro.it/wp-content/uploads/photo_155081_SLP.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.immobiliaresanlazzaro.it//wp-content/uploads/logo-immobiliare-san-lazzaro.png",
+  "size": 11318
+ }
+}

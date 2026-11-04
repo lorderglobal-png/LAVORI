@@ -1,0 +1,727 @@
+{
+ "cfg": {
+  "slug": "loi-immobiliare",
+  "nome": "Loi Immobiliare",
+  "home": "https://www.loiimmobiliare.it/",
+  "index": [
+   "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/all_houses"
+  ],
+  "rx": "/view/[0-9]+-[a-z]+/[0-9]+/",
+  "n": 6
+ },
+ "home": {
+  "title": "Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna",
+  "desc": "Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna",
+  "emails": [
+   "agenziauno@loiimmobiliare.it",
+   "agenziadue@loiimmobiliare.it"
+  ],
+  "tels": [
+   "+390516130092",
+   "+390516133368"
+  ],
+  "logos": [
+   "https://www.loiimmobiliare.it/images/logo.png",
+   "https://www.loiimmobiliare.it/images/logo_ico.png",
+   "https://www.loiimmobiliare.it/images/logo_euro_ico.png",
+   "https://www.loiimmobiliare.it/images/logo_staff_ico.png",
+   "https://acconsento.click/logo.png",
+   "https://www.loiimmobiliare.it/images/iconamenu2.png"
+  ],
+  "svgLogo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M764.288 214.592 512 466.88 259.712 214.592a31.936 31.936 0 0 0-45.12 45.12L466.752 512 214.528 764.224a31.936 31.936 0 1 0 45.12 45.184L512 557.184l252.288 252.288a31.936 31.936 0 0 0 45.12-45.12L557.12 512.064l252.288-252.352a31.936 31.936 0 1 0-45.12-45.184z\"></path></svg>",
+  "body": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(34, 34, 34)",
+   "font": "\"PT Sans\""
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "Poppins, -apple-system"
+  },
+  "footer": {
+   "bg": "rgb(255, 255, 255)",
+   "color": "rgb(44, 62, 80)",
+   "font": "Poppins, -apple-system"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(0, 0, 0)",
+   "font": "\"PT Sans\""
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "\"PT Sans\""
+  },
+  "btnBg": [
+   [
+    "rgb(187, 156, 87)",
+    5
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    3
+   ],
+   [
+    "rgb(13, 148, 136)",
+    2
+   ],
+   [
+    "rgb(0, 95, 147)",
+    1
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    193
+   ],
+   [
+    "rgb(255, 255, 255)",
+    11
+   ],
+   [
+    "rgb(187, 156, 87)",
+    4
+   ],
+   [
+    "rgb(255, 191, 24)",
+    4
+   ],
+   [
+    "rgb(186, 156, 87)",
+    4
+   ],
+   [
+    "rgb(51, 51, 51)",
+    3
+   ],
+   [
+    "rgb(246, 246, 246)",
+    2
+   ],
+   [
+    "rgb(13, 148, 136)",
+    2
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 0, 0)",
+    11
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 0, 0)",
+    16
+   ],
+   [
+    "rgb(255, 255, 255)",
+    11
+   ],
+   [
+    "rgb(34, 34, 34)",
+    4
+   ],
+   [
+    "rgb(119, 119, 119)",
+    1
+   ],
+   [
+    "rgb(187, 156, 87)",
+    1
+   ],
+   [
+    "rgb(96, 98, 102)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"PT Sans\"",
+    56
+   ],
+   [
+    "Poppins, -apple-system",
+    6
+   ]
+  ],
+  "heads": [
+   "Benvenuto nel sito Loi Immobiliare"
+  ],
+  "addr": "via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare",
+  "final": "https://www.loiimmobiliare.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/389/q-re-funivia-vista-parco-%E2%80%93-ultimo-piano-con-ascensore",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/388/zola-predosa-collinare-villa-indipendente",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/387/q-re-lido-zona-verde-e-tranquilla",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/332/bologna-ad-ze-piazza-dei-martiri-ampia-metratura",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/47-commerciale/370/bologna-via-della-pietra-%E2%80%93-negozio-con-5-vetrine-e-grande-visibilita%E2%80%99",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/375/recente-costruzione-%E2%80%93-casalecchio-centro-%E2%80%93-giardino-privato",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/384/nuova-costruzione-q-re-garibaldi",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/383/nuova-costruzione-q-re-garibaldi",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/379/q-re-ceretolo-3-camere-in-piccola-palazzina-ultimo-piano",
+  "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/378/q-re-garibaldi-3-camere-terrazzo"
+ ],
+ "listings": [
+  {
+   "url": "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/389/q-re-funivia-vista-parco-%E2%80%93-ultimo-piano-con-ascensore",
+   "title": "Tutte le proposte| | Residenziale | Q.RE FUNIVIA - VISTA PARCO – ULTIMO",
+   "h1": null,
+   "h2": [
+    "",
+    ""
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Tutte le proposte| | Residenziale | Q.RE FUNIVIA - VISTA PARCO – ULTIMO PIANO CON ASCENSORE",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4BAEDFE5-2913-591B-F34D-0A20CA98B55B_img_9609-copia_1024_768_2_.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/342A4EB2-9CE8-BEF7-34BD-3D3BBA4EDBDA_img_9613-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/6E306538-2CDF-C856-4CFB-B094D4F1B857_img_9615-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CE9A315D-749F-E9A1-84AD-28A6F6901B33_img_6272-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/427624EB-01AD-778D-CE09-9217D440AB40_img_9618-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4BAEDFE5-2913-591B-F34D-0A20CA98B55B_img_9609-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CE9A315D-749F-E9A1-84AD-28A6F6901B33_img_6272-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/585E1F36-3022-AE53-A29E-00D4DB73D11B_img_6267-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4BAEDFE5-2913-591B-F34D-0A20CA98B55B_img_9609-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CE9A315D-749F-E9A1-84AD-28A6F6901B33_img_6272-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/585E1F36-3022-AE53-A29E-00D4DB73D11B_img_6267-copia_1024_768_2_.jpeg"
+   ],
+   "descBlock": "Le principali caratteristiche dell'unità abitativa sono: l'esposizione verso il parco, la luminosità, le generose dimensione dei locali con ottima disposizione (prima zona giorno e poi zona notte), l'ascensore e la comodità dei servizi.",
+   "text": "Agenzia Uno - via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare.it    -    Agenzia Due - via Mazzini, 35 - Casalecchio di Reno (BO) - Tel. 051.6133368 - agenziadue@loiimmobiliare.it\n\n HOME\nIMMOBILI\nDAL 1990 ... CHI SIAMO\nVALUTAZIONI\nTEAM\nHomeImmobiliTutte le proposteResidenzialeQ.RE FUNIVIA - VISTA PARCO – U\nQ.RE FUNIVIA - VISTA PARCO – ULTIMO PIANO CON ASCENSORE\n365.000,00 EUR\n  \n Italia, EMILIA ROMAGNA, BOLOGNA, VIA MARABINI.\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIn evidenza: Trilocale Tipologia: Trilocale ID Proprietà: 353 Contratto: casa in vendita Mq Commerciali: 95 Classe Energetica: G Giardino: CONDOMINIALE Condizioni: Buono Piano: ultimo Cucina: abitabile Disponibilità: libero al rogito Riscaldamento: centralizzato\nDescrizione\nPosizione\n Ambienti: 3  Bagni: 1  Camere: 2  Anno: 1967  Garage: 1  Superfice: 95 Mq\n\nRif. BA39 - Q.RE FUNIVIA : In zona verde e tranquilla disponiamo di un appartamento in ottime condizioni all’ULTIMO PIANO con ascensore e VISTA PANORAMICA verso il PARCO.\n\nL'abitazione con ottima disposizione dei locali è composta da ingresso, sala, cucina abitabile, disimpegno notte, due camere matrimoniali, bagno, balcone. Completano la proprietà una cantina ed un garage.\n\nZona comoda a tutti i servizi (negozi, mezzi di trasporto, asse attrezzato e tangenziale, scuole), direttamente collegato ad ampio parco pubblico con percorso ciclo-pedonale che arriva in centro a Bologna.\n\nLe principali caratteristiche dell'unità abitativa sono: l'esposizione verso il parco, la luminosità, le generose dimensione dei locali con ottima disposizione (prima zona giorno e poi zona notte), l'ascensore e la comodità dei servizi.\n\nPer maggiori informazioni o visite all'immobile potete contattarci in ufficio 051.613.33.68 o via email: agenziadue@loiimmobiliare.it\n\nLOI IMMOBILIARE - Via Mazzini 35 - Casalecchio di Reno (Bo)\n\nLOI IMMOBILIARE - Via Porrettana 446/4 - Casalecchio di Reno (Bo)\n\nGESTIONE PERMUTE - www.loiimmobiliare.it\n\nCaratteristiche\nEsterni:\nBalconePorta blindata\nInterni:\nAscensoreCantina\n\n\n\n\n\n\n\nInvia richiesta\n Back\nPlease past text to modal\n\nLoi Immobiliare ... dal 1990\n\nAgenzia Uno - Via Porrettana, 446/4\nCasalecchio di Reno (Bologna)\n\nTel. 051.6130092\nagenziauno@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\n\n\n\n\nSitemap\n\n\n\nAgenzia Due - via Mazzini, 35\nCasalecchio di Reno (Bologna)\n\nTel. 051.6133368\nagenziadue@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\nCompila qui sotto, richiamiamo noi.\nScrivi il tuo nome *\nTelefono *\nConsenso privacy indicazioni UE 679/2016 *\nAccetto\nreCAPTCHA *\nInvia\nCopyright © 2026 Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna. Tutti i diritti riservati.\nJoomla! è un software libero rilasciato sotto licenza GNU/GPL.\n\nStudio Casalecchio di Reno s.n.c. di Loi Massimiliano & C. - P.IVA n. 00587911207 - C.F. 02543070375 – Iscr. R.E.A. n. 332416 C.C.I.A.A. di Bologna – Iscr. Registro Imprese n. 02543070375 C.C.I.A.A. di Bologna",
+   "parsed": {
+    "prezzo": null,
+    "mq": "95",
+    "locali": null,
+    "camere": "2  Anno: 1967  Garage: 1  Supe",
+    "bagni": "1  Camere: 2  Anno: 1967  Gara",
+    "piano": "ultimo Cucina: abitabile Dispo",
+    "classe_energetica": "G Giardino: CONDOMINIALE Condi",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4BAEDFE5-2913-591B-F34D-0A20CA98B55B_img_9609-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/342A4EB2-9CE8-BEF7-34BD-3D3BBA4EDBDA_img_9613-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/6E306538-2CDF-C856-4CFB-B094D4F1B857_img_9615-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CE9A315D-749F-E9A1-84AD-28A6F6901B33_img_6272-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/427624EB-01AD-778D-CE09-9217D440AB40_img_9618-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4BAEDFE5-2913-591B-F34D-0A20CA98B55B_img_9609-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CE9A315D-749F-E9A1-84AD-28A6F6901B33_img_6272-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/585E1F36-3022-AE53-A29E-00D4DB73D11B_img_6267-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4BAEDFE5-2913-591B-F34D-0A20CA98B55B_img_9609-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CE9A315D-749F-E9A1-84AD-28A6F6901B33_img_6272-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/585E1F36-3022-AE53-A29E-00D4DB73D11B_img_6267-copia_1024_768_2_.jpeg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28D627D8-8FE1-A310-5B84-B0E5384AE3DD_img_6266-copia_1024_768_2_.jpeg"
+  },
+  {
+   "url": "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/388/zola-predosa-collinare-villa-indipendente",
+   "title": "Tutte le proposte| | Residenziale | ZOLA PREDOSA COLLINARE - VILLA",
+   "h1": null,
+   "h2": [
+    "",
+    ""
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Tutte le proposte| | Residenziale | ZOLA PREDOSA COLLINARE - VILLA INDIPENDENTE",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7CB7C577-89AF-97D6-5160-0CA134DE122B_img_5826-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/33279C70-B360-C05B-2858-9AF9A97CC611_img_5815-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B4230A2B-E660-61C3-2E74-71F3D23675FE_img_9289-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/9E88C83B-DC8E-0D41-C3D5-80BDD360C3AD_img_9293-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/19C128B1-384E-BE81-57C5-B616C3E4E0DB_img_9294-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1FB98D58-E068-D589-33F5-6A9126D916FA_img_5825-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7CB7C577-89AF-97D6-5160-0CA134DE122B_img_5826-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/33279C70-B360-C05B-2858-9AF9A97CC611_img_5815-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1FB98D58-E068-D589-33F5-6A9126D916FA_img_5825-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/39C890B6-BEB3-F353-2FE0-59B094F204BF_img_5829-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A2173250-EB13-9170-D61D-3EDE793D080A_img_5817-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CF564FB0-5535-01A6-CFDC-E5713C899ACF_img_5820-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4D211CD5-42F2-F983-4620-730C3C76A9F8_img_5821-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B58C8C86-0E0D-A2D5-8CAF-59EA48F3E664_img_5824-copia.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Agenzia Uno - via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare.it    -    Agenzia Due - via Mazzini, 35 - Casalecchio di Reno (BO) - Tel. 051.6133368 - agenziadue@loiimmobiliare.it\n\n HOME\nIMMOBILI\nDAL 1990 ... CHI SIAMO\nVALUTAZIONI\nTEAM\nHomeImmobiliTutte le proposteResidenzialeZOLA PREDOSA COLLINARE - VILLA I\nZOLA PREDOSA COLLINARE - VILLA INDIPENDENTE\n595.000,00 EUR\n  \n Italia, EMILIA ROMAGNA, ZOLA PREDOSA, 40069, VIA PREDOSA.\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\ncasa in vendita\nVilla Indipendente\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIn evidenza: Villa Indipendente Tipologia: Casa indipendente ID Proprietà: 352 Contratto: casa in vendita Mq Commerciali: 216 Classe Energetica: G Giardino: PRIVATO Condizioni: Abitabile Piano: su più livelli Cucina: semiabitabile Disponibilità: libero al rogito Riscaldamento: autonomo Planimetria: Scarica\nDescrizione\nPosizione\n Ambienti: 5  Bagni: 2  Camere: 4  Anno: 1970  Garage: 1  Superfice: 216 Mq\n\nRif. ZV2 – ZOLA PREDOSA – In posizione COLLINARE ed ESCLUSIVA, comoda ai servizi, proponiamo una VILLA INDIPENDENTE in un contesto composto principalmente da Villette o Case indipendenti.\n\nL’abitazione è disposta su due piani, al P.T. ingresso, sala con camino, soggiorno, cucina, due camere, bagno, balcone e terrazzo abitabile; al piano seminterrato tavernetta con camino, due camere, bagno, cantina. Completano la proprietà un ampio giardino ed un garage.\n\nL'esclusività dell'unità abitativa è l'indipendenza, la vicinanza dei servizi, l'ampia area verde ed il contesto.\n\nAdatta ad un nucleo familiare che cerca la riservatezza, il verde ed i servizi, a 500 metri sono presenti scuole materne, elementari e medie, parrocchia, banche e attività commerciali.\n\nPer maggior informazioni o visite all'immobile potete contattarci in ufficio allo 051-6133368 oppure 0516130092 in alternativa vi invitiamo a mandare una mail: agenziadue@loiimmobiliare.it - agenziauno@loiimmobiliare.it\n\nReferenti per le visite : LOI ANDREA – LOI MASSIMILIANO\n\nLOI IMMOBILIARE - via Mazzini 35 - Casalecchio di Reno (Bo)\nLOI IMMOBILIARE - via Porrettana 446/4 - Casalecchio di Reno (Bo)\n\nGESTIONE PERMUTE - www.loiimmobiliare.it\n\nCaratteristiche\nEsterni:\nBalconeCancello elettricoIngr. IndipendentePorta blindataTerrazzo\nInterni:\nAllarmeCaminoCantinaTaverna\n\n\n\n\n\n\n\nInvia richiesta\n Back\nPlease past text to modal\n\nLoi Immobiliare ... dal 1990\n\nAgenzia Uno - Via Porrettana, 446/4\nCasalecchio di Reno (Bologna)\n\nTel. 051.6130092\nagenziauno@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\n\n\n\n\nSitemap\n\n\n\nAgenzia Due - via Mazzini, 35\nCasalecchio di Reno (Bologna)\n\nTel. 051.6133368\nagenziadue@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\nCompila qui sotto, richiamiamo noi.\nScrivi il tuo nome *\nTelefono *\nConsenso privacy indicazioni UE 679/2016 *\nAccetto\nreCAPTCHA *\nInvia\nCopyright © 2026 Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna. Tutti i diritti riservati.\nJoomla! è un software libero rilasciato sotto licenza GNU/GPL.\n\nStudio Casalecchio di Reno s.n.c. di Loi Massimiliano & C. - P.IVA n. 00587911207 - C.F. 02543070375 – Iscr. R.E.A. n. 332416 C.C.I.A.A. di Bologna – Iscr. Registro Imprese n. 02543070375 C.C.I.A.A. di Bologna\n\nInformativa\n\nUtilizziamo cookie o tecnologie simili, come specificato nella cookie policy per dare una risposta più moderna ed efficace alla navigazione del sito e alle vostre preferenze. I tuoi dati personali sono utilizzati per la personalizzazione degli annunci. Cookie e identificatori di annunci mobile vengono usati per la pubblicità personalizzata e non personalizzata.\n\nI cookies non obbligatori sono disattivati ma potrai modificare questa scelta in qualsiasi momento, oltre ad avere certezza delle nostre politiche privacy e cookies, cliccando sull'immagine del lucchetto.\n\nUtilizza la X per chiudere questa informativa e continuare senza accettare\n\nPer maggiori informazioni su come vengono trattati i tuoi dati con i servizi di Google, consulta la Privacy Policy di Google\n\nScopri di più su chi siamo, come puoi contattarci o come trattiamo i tuoi dati personali nella nostra privacy policy\n\nAccetta tutti\nAccetta solo necessari\nOPZIONI...",
+   "parsed": {
+    "prezzo": null,
+    "mq": "216",
+    "locali": null,
+    "camere": "4  Anno: 1970  Garage: 1  Supe",
+    "bagni": "2  Camere: 4  Anno: 1970  Gara",
+    "piano": "su più livelli Cucina: semiabi",
+    "classe_energetica": "G Giardino: PRIVATO Condizioni",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7CB7C577-89AF-97D6-5160-0CA134DE122B_img_5826-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/33279C70-B360-C05B-2858-9AF9A97CC611_img_5815-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B4230A2B-E660-61C3-2E74-71F3D23675FE_img_9289-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/9E88C83B-DC8E-0D41-C3D5-80BDD360C3AD_img_9293-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/19C128B1-384E-BE81-57C5-B616C3E4E0DB_img_9294-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1FB98D58-E068-D589-33F5-6A9126D916FA_img_5825-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7CB7C577-89AF-97D6-5160-0CA134DE122B_img_5826-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/33279C70-B360-C05B-2858-9AF9A97CC611_img_5815-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1FB98D58-E068-D589-33F5-6A9126D916FA_img_5825-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/39C890B6-BEB3-F353-2FE0-59B094F204BF_img_5829-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A2173250-EB13-9170-D61D-3EDE793D080A_img_5817-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CF564FB0-5535-01A6-CFDC-E5713C899ACF_img_5820-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4D211CD5-42F2-F983-4620-730C3C76A9F8_img_5821-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B58C8C86-0E0D-A2D5-8CAF-59EA48F3E664_img_5824-copia.jpeg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7CB7C577-89AF-97D6-5160-0CA134DE122B_img_5826-copia_1024_768_2_.jpeg"
+  },
+  {
+   "url": "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/387/q-re-lido-zona-verde-e-tranquilla",
+   "title": "Tutte le proposte| | Residenziale | Q.RE LIDO - ZONA VERDE E TRANQUILLA",
+   "h1": null,
+   "h2": [
+    "",
+    ""
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Tutte le proposte| | Residenziale | Q.RE LIDO - ZONA VERDE E TRANQUILLA",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A0992AD6-1664-0DCE-6578-2EFA8FE57642_img_5990-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/39BDE6E2-FDDD-36AC-0D08-77E4BE41B072_img_9496-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/FD4DD84D-895B-0F3B-3CAD-DD941030B840_img_9500-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/D6EA061B-810B-940A-C157-9E57BFE1B1FD_img_9487-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/8CB2838E-E3FB-0A66-9899-99D2987D6F85_img_9498-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A0992AD6-1664-0DCE-6578-2EFA8FE57642_img_5990-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8CE8E07-6874-C191-6000-28A36E954C41_img_5987-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/34CED9BC-5826-28ED-DADD-7515FEE72512_img_5970-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/D9D62AD6-C805-5A0A-C993-931F90DD3D07_img_5988-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/697CA0EC-E85A-8DAD-6550-C97D420227A8_img_5969-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/D868DACC-6D73-CA34-AE8B-E35CD122B556_planim.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia_1024_768_2_.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Agenzia Uno - via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare.it    -    Agenzia Due - via Mazzini, 35 - Casalecchio di Reno (BO) - Tel. 051.6133368 - agenziadue@loiimmobiliare.it\n\n HOME\nIMMOBILI\nDAL 1990 ... CHI SIAMO\nVALUTAZIONI\nTEAM\nHomeImmobiliTutte le proposteResidenzialeQ.RE LIDO - ZONA VERDE E TRANQUI\nQ.RE LIDO - ZONA VERDE E TRANQUILLA\n260.000,00 EUR\n  \n Italia, EMILIA ROMAGNA, CASALECCHIO DI RENO, 40033, VIA TRIESTE.\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIn evidenza: Trilocale Tipologia: Trilocale ID Proprietà: 351 Contratto: casa in vendita Mq Commerciali: 90 Classe Energetica: G Giardino: CONDOMINIALE Condizioni: Abitabile Piano: 1 Cucina: semiabitabile Disponibilità: libero Riscaldamento: centralizzato\nDescrizione\nPosizione\n Ambienti: 3  Bagni: 1  Camere: 2  Anno: 1971  Garage: 1  Superfice: 90 Mq\n\nRif. CA304 - CASALECCHIO DI RENO - Q.re Lido - In zona verde e tranquilla con esposizione verso il Parco della Chiusa del Reno, disponiamo di un appartamento al primo piano con ascensore composto da ingresso, sala, cucina semi-abitabile, balcone, disimpegno notte con due camere matrimoniali, bagno. Completano la proprietà una cantina ed un garage.\n\nL'unità abitativa ha un'ottima disposizione degli ambienti moderna e razionale con una netta separazione tra la zona giorno e la zona notte ed inoltre un'esposizione verso l'ampio giardino condominiale.\n\nLe principali caratteristiche dell'abitazione sono la luminosità, il contesto verde e tranquillo, il piano comodo con ascensore, la comodità dei servizi.\n\nPer ulteriori informazioni o visite all'immobile potete contattarci in ufficio allo 051.613.33.68 oppure mandare una mail a: agenziadue@loiimmobiliare.it\n\nLOI IMMOBILIARE - VIA MAZZINI 35 - CASALECCHIO DI RENO (BO)\nLOI IMMOBILIARE - VIA PORRETTANA 446/4 - CASALECCHIO DI RENO (BO)\n\nGESTIONE PERMUTE - www.loiimmobiliare.it\n\nCaratteristiche\nEsterni:\nBalconeInferriatePorta blindataPosto auto\nInterni:\nAria condizionataAscensoreCantina\n\n\n\n\n\n\n\nInvia richiesta\n Back\nPlease past text to modal\n\nLoi Immobiliare ... dal 1990\n\nAgenzia Uno - Via Porrettana, 446/4\nCasalecchio di Reno (Bologna)\n\nTel. 051.6130092\nagenziauno@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\n\n\n\n\nSitemap\n\n\n\nAgenzia Due - via Mazzini, 35\nCasalecchio di Reno (Bologna)\n\nTel. 051.6133368\nagenziadue@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\nCompila qui sotto, richiamiamo noi.\nScrivi il tuo nome *\nTelefono *\nConsenso privacy indicazioni UE 679/2016 *\nAccetto\nreCAPTCHA *\nInvia\nCopyright © 2026 Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna. Tutti i diritti riservati.\nJoomla! è un software libero rilasciato sotto licenza GNU/GPL.\n\nStudio Casalecchio di Reno s.n.c. di Loi Massimiliano & C. - P.IVA n. 00587911207 - C.F. 02543070375 – Iscr. R.E.A. n. 332416 C.C.I.A.A. di Bologna – Iscr. Registro Imprese n. 02543070375 C.C.I.A.A. di Bologna\n\nInformativa\n\nUtilizziamo cookie o tecnologie simili, come specificato nella cookie policy per dare una risposta più moderna ed efficace alla navigazione del sito e alle vostre preferenze. I tuoi dati personali sono utilizzati per la personalizzazione degli annunci. Cookie e identificatori di annunci mobile vengono usati per la pubblicità personalizzata e non personalizzata.\n\nI cookies non obbligatori sono disattivati ma potrai modificare questa scelta in qualsiasi momento, oltre ad avere certezza delle nostre politiche privacy e cookies, cliccando sull'immagine del lucchetto.\n\nUtilizza la X per chiudere questa informativa e continuare senza accettare\n\nPer maggiori informazioni su come vengono trattati i tuoi dati con i servizi di Google, consulta la Privacy Policy di Google\n\nScopri di più su chi siamo, come puoi contattarci o come trattiamo i tuoi dati personali nella nostra privacy policy\n\nAccetta tutti\nAccetta solo necessari\nOPZIONI...",
+   "parsed": {
+    "prezzo": null,
+    "mq": "90",
+    "locali": null,
+    "camere": "2  Anno: 1971  Garage: 1  Supe",
+    "bagni": "1  Camere: 2  Anno: 1971  Gara",
+    "piano": "1 Cucina: semiabitabile Dispon",
+    "classe_energetica": "G Giardino: CONDOMINIALE Condi",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A0992AD6-1664-0DCE-6578-2EFA8FE57642_img_5990-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/39BDE6E2-FDDD-36AC-0D08-77E4BE41B072_img_9496-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/FD4DD84D-895B-0F3B-3CAD-DD941030B840_img_9500-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/D6EA061B-810B-940A-C157-9E57BFE1B1FD_img_9487-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/8CB2838E-E3FB-0A66-9899-99D2987D6F85_img_9498-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A0992AD6-1664-0DCE-6578-2EFA8FE57642_img_5990-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8CE8E07-6874-C191-6000-28A36E954C41_img_5987-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/34CED9BC-5826-28ED-DADD-7515FEE72512_img_5970-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/D9D62AD6-C805-5A0A-C993-931F90DD3D07_img_5988-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/697CA0EC-E85A-8DAD-6550-C97D420227A8_img_5969-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/D868DACC-6D73-CA34-AE8B-E35CD122B556_planim.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia_1024_768_2_.jpeg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A8D718C2-D3F1-B644-EEFD-BEA55A9C1C01_img_5989-copia_1024_768_2_.jpeg"
+  },
+  {
+   "url": "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/332/bologna-ad-ze-piazza-dei-martiri-ampia-metratura",
+   "title": "Tutte le proposte| | Residenziale | BOLOGNA - AD.ZE PIAZZA DEI MARTIRI -",
+   "h1": null,
+   "h2": [
+    "",
+    ""
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Tutte le proposte| | Residenziale | BOLOGNA - AD.ZE PIAZZA DEI MARTIRI - AMPIA METRATURA",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia_1024_768_2_.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/9E8E605B-34F9-0557-820D-A7914BB09223_img_6551-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B9FA758C-BBC3-DB05-5917-188CDF9FEF6C_img_6554-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/EDD01408-0254-1D0C-92E7-6BDCE1CED7F7_img_6556-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/355B03C4-0EF4-9EDA-F4DB-B50FB8745825_img_1712-copia_1024_768_2_.jpg",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7275B313-3FA1-C466-0C33-1DE1A8D9C0A1_img_6557-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/355B03C4-0EF4-9EDA-F4DB-B50FB8745825_img_1712-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/102F8725-4DC5-F40E-122D-01D906699777_img_1716-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/355B03C4-0EF4-9EDA-F4DB-B50FB8745825_img_1712-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/102F8725-4DC5-F40E-122D-01D906699777_img_1716-copia_1024_768_2_.jpg"
+   ],
+   "descBlock": null,
+   "text": "Agenzia Uno - via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare.it    -    Agenzia Due - via Mazzini, 35 - Casalecchio di Reno (BO) - Tel. 051.6133368 - agenziadue@loiimmobiliare.it\n\n HOME\nIMMOBILI\nDAL 1990 ... CHI SIAMO\nVALUTAZIONI\nTEAM\nHomeImmobiliTutte le proposteResidenzialeBOLOGNA - AD.ZE PIAZZA DEI MARTI\nBOLOGNA - AD.ZE PIAZZA DEI MARTIRI - AMPIA METRATURA\n535.000,00 EUR\n  \n BOLOGNA, EMILIA ROMAGNA, BOLOGNA, VIA CAIROLI.\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\ncasa in vendita\nPrestigioso\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIn evidenza: Prestigioso Tipologia: Cinque o più locali ID Proprietà: 296 Contratto: casa in vendita Mq Commerciali: 145 Classe Energetica: G Condizioni: Abitabile Piano: 2 Cucina: cucinotto Disponibilità: libero al rogito Riscaldamento: centralizzato\nDescrizione\nPosizione\n Ambienti: 5  Bagni: 2  Camere: 3  Anno: 1961  Superfice: 145 Mq\n\nRif.BA53: Bologna - Ad.ze Piazza dei Martiri: Collocato in una via interna nelle adiacenze di Piazza dei Martiri (via Cairoli) Vi proponiamo un appartamento di ampia metratura (mq 145,00) all’interno di un condominio servito da ascensore e posto auto di proprietà.\nL’abitazione espone su due lati, entrambi luminosi, ed è composta da : ingresso, sala, cucina, sala da pranzo, tre camere, due bagni, due ripostigli, balcone interno e cantina ciclabile; completa la proprietà un posto auto coperto privato.\n\n\nLe principali caratteristiche che distinguono l’immobile sono la tranquillità dell'ubicazione (pur essendo collocato nel centro di Bologna) all’interno di un fabbricato, servito da ascensore, degli anni ’60; inoltre la zona comoda per raggiungere velocemente la stazione ferroviaria, l'autostrada e la tangenziale.\n\nPer maggiori informazioni o visite all'immobile potete contattarci in ufficio allo 051.6130092 oppure 051.6133368 ; mail: agenziauno@loiimmobiliare.it - agenziadue@loiimmobiliare.it \n\nLOI IMMOBILIARE - via Porrettana 446/4 - Casalecchio di Reno (Bo)\nLOI IMMOBILIARE - via Mazzini 35 - Casalecchio di Reno (Bo)\n\nGESTIONE PERMUTE - www.loiimmobiliare.it\n\n\n\n\n\n\n\nInvia richiesta\n Back\nPlease past text to modal\n\nLoi Immobiliare ... dal 1990\n\nAgenzia Uno - Via Porrettana, 446/4\nCasalecchio di Reno (Bologna)\n\nTel. 051.6130092\nagenziauno@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\n\n\n\n\nSitemap\n\n\n\nAgenzia Due - via Mazzini, 35\nCasalecchio di Reno (Bologna)\n\nTel. 051.6133368\nagenziadue@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\nCompila qui sotto, richiamiamo noi.\nScrivi il tuo nome *\nTelefono *\nConsenso privacy indicazioni UE 679/2016 *\nAccetto\nreCAPTCHA *\nInvia\nCopyright © 2026 Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna. Tutti i diritti riservati.\nJoomla! è un software libero rilasciato sotto licenza GNU/GPL.\n\nStudio Casalecchio di Reno s.n.c. di Loi Massimiliano & C. - P.IVA n. 00587911207 - C.F. 02543070375 – Iscr. R.E.A. n. 332416 C.C.I.A.A. di Bologna – Iscr. Registro Imprese n. 02543070375 C.C.I.A.A. di Bologna\n\nInformativa\n\nUtilizziamo cookie o tecnologie simili, come specificato nella cookie policy per dare una risposta più moderna ed efficace alla navigazione del sito e alle vostre preferenze. I tuoi dati personali sono utilizzati per la personalizzazione degli annunci. Cookie e identificatori di annunci mobile vengono usati per la pubblicità personalizzata e non personalizzata.\n\nI cookies non obbligatori sono disattivati ma potrai modificare questa scelta in qualsiasi momento, oltre ad avere certezza delle nostre politiche privacy e cookies, cliccando sull'immagine del lucchetto.\n\nUtilizza la X per chiudere questa informativa e continuare senza accettare\n\nPer maggiori informazioni su come vengono trattati i tuoi dati con i servizi di Google, consulta la Privacy Policy di Google\n\nScopri di più su chi siamo, come puoi contattarci o come trattiamo i tuoi dati personali nella nostra privacy policy\n\nAccetta tutti\nAccetta solo necessari\nOPZIONI...",
+   "parsed": {
+    "prezzo": null,
+    "mq": "145",
+    "locali": null,
+    "camere": "3  Anno: 1961  Superfice: 145",
+    "bagni": "2  Camere: 3  Anno: 1961  Supe",
+    "piano": "2 Cucina: cucinotto Disponibil",
+    "classe_energetica": "G Condizioni: Abitabile Piano:",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/9E8E605B-34F9-0557-820D-A7914BB09223_img_6551-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B9FA758C-BBC3-DB05-5917-188CDF9FEF6C_img_6554-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/EDD01408-0254-1D0C-92E7-6BDCE1CED7F7_img_6556-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/355B03C4-0EF4-9EDA-F4DB-B50FB8745825_img_1712-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/7275B313-3FA1-C466-0C33-1DE1A8D9C0A1_img_6557-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/355B03C4-0EF4-9EDA-F4DB-B50FB8745825_img_1712-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/102F8725-4DC5-F40E-122D-01D906699777_img_1716-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/355B03C4-0EF4-9EDA-F4DB-B50FB8745825_img_1712-copia_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/102F8725-4DC5-F40E-122D-01D906699777_img_1716-copia_1024_768_2_.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/1C9B20A6-3539-F9D9-6A7C-F6C9E6E1E099_img_1711-copia_1024_768_2_.jpg"
+  },
+  {
+   "url": "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/47-commerciale/370/bologna-via-della-pietra-%E2%80%93-negozio-con-5-vetrine-e-grande-visibilita%E2%80%99",
+   "title": "Tutte le proposte| | Commerciale | BOLOGNA - VIA DELLA PIETRA – NEGOZIO",
+   "h1": null,
+   "h2": [
+    "",
+    ""
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Tutte le proposte| | Commerciale | BOLOGNA - VIA DELLA PIETRA – NEGOZIO CON 5 VETRINE E GRANDE VISIBILITA’",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 1138
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C4BE6AED-30A8-5871-553B-F2CAC917DCB9_img_5186-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 1138
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B63E8D76-5B65-465A-D1B7-38200CE45CBC_img_8470-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 1138
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/08C89B92-F95D-B1AB-3634-ECA1C97951B3_img_8475-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 1138
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C795B832-E3C3-F6CB-253A-D1944B64B859_img_8468_edit__2-copia_1024_768_2_.jpeg",
+     "w": 1024,
+     "h": 768,
+     "rw": 1138
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/465E8489-92F1-5B71-0D27-0EE0F3654D3F_img_8472-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 1138
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C4BE6AED-30A8-5871-553B-F2CAC917DCB9_img_5186-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C795B832-E3C3-F6CB-253A-D1944B64B859_img_8468_edit__2-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/68C2C4E6-ED16-5934-C93D-B32A0C5F7BA4_img_8469_edit__2-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/9B839E5B-D9A8-9D7F-0BB7-9A753207F7CF_img_8476_edit__2-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CC81B57D-5AA2-0A9C-8720-84FB6E3B32B6_img_5189-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CC4534B9-798B-F5D0-6B31-CC7A46C0DF6F_img_5183-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia_1024_768_2_.jpeg"
+   ],
+   "descBlock": null,
+   "text": "Agenzia Uno - via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare.it    -    Agenzia Due - via Mazzini, 35 - Casalecchio di Reno (BO) - Tel. 051.6133368 - agenziadue@loiimmobiliare.it\n\n HOME\nIMMOBILI\nDAL 1990 ... CHI SIAMO\nVALUTAZIONI\nTEAM\nHomeImmobiliTutte le proposteCommercialeBOLOGNA - VIA DELLA PIETRA – N\nBOLOGNA - VIA DELLA PIETRA – NEGOZIO CON 5 VETRINE E GRANDE VISIBILITA’\n185.000,00 EUR\n  \n Italia, EMILIA ROMAGNA, BOLOGNA, VIA DELLA PIETRA.\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\nCommerciale\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIn evidenza: Commerciale Tipologia: Negozio ID Proprietà: 334 Mq Commerciali: 90 Classe Energetica: C Condizioni: Ottimo Piano: pianoterra Disponibilità: libero al rogito Riscaldamento: autonomo\nDescrizione\nPosizione\n Ambienti: 3  Bagni: 1  Camere: 2  Anno: 2008  Superfice: 90 Mq\n\nRif. BNG1b – BOLOGNA – VIA DELLA PIETRA - Collocato al piano terra di un Palazzo in Pietra a vista di recente costruzione della fine degli anni 2000, nei pressi di Viale Palmiro Togliatti, Vi proponiamo un bellissimo NEGOZIO con 5 vetrine, adatto come ufficio di rappresentanza, studio medico o per ulteriori attività.\n\nPossibilità di collegamento con scala interna alla parte sottostante di ulteriori 175 mq. composta da un ampio magazzino (ad uso ripostiglio) con altezze che variano da 2,40 m. a 2,86 m. o 2,26 m.\n\nL’immobile al piano terra è di 90 mq. con un’altezza di 3,5 m. ed è attualmente diviso in tre ambienti + antibagno e bagno.\n\nLe principali caratteristiche che contraddistinguono l’immobile sono le ottime condizioni interne, la comodità della posizione sul territorio di Bologna (vicinanze all’aeroporto, alla tangenziale ed agli accessi autostradali) il servizio di mezzi pubblici nelle immediate vicinanze, l’eleganza dell’edificio.\n\nPer maggiori informazioni o visite all'immobile potete contattarci in ufficio allo 051.6133368 oppure 051.6130092 in alternativa via email: agenziadue@loiimmobiliare.it - agenziauno@loiimmobiliare.it \n\nLOI IMMOBILIARE - Via Mazzini 35 - Casalecchio di Reno (Bo)\n\nLOI IMMOBILIARE - Via Porrettana 446/4 - Casalecchio di Reno (Bo)\n\nwww.loiimmobiliare.it\n\n\n\n\n\n\n\n Back\nPlease past text to modal\n\nLoi Immobiliare ... dal 1990\n\nAgenzia Uno - Via Porrettana, 446/4\nCasalecchio di Reno (Bologna)\n\nTel. 051.6130092\nagenziauno@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\n\n\n\n\nSitemap\n\n\n\nAgenzia Due - via Mazzini, 35\nCasalecchio di Reno (Bologna)\n\nTel. 051.6133368\nagenziadue@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\nCompila qui sotto, richiamiamo noi.\nScrivi il tuo nome *\nTelefono *\nConsenso privacy indicazioni UE 679/2016 *\nAccetto\nreCAPTCHA *\nInvia\nCopyright © 2026 Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna. Tutti i diritti riservati.\nJoomla! è un software libero rilasciato sotto licenza GNU/GPL.\n\nStudio Casalecchio di Reno s.n.c. di Loi Massimiliano & C. - P.IVA n. 00587911207 - C.F. 02543070375 – Iscr. R.E.A. n. 332416 C.C.I.A.A. di Bologna – Iscr. Registro Imprese n. 02543070375 C.C.I.A.A. di Bologna\n\nInformativa\n\nUtilizziamo cookie o tecnologie simili, come specificato nella cookie policy per dare una risposta più moderna ed efficace alla navigazione del sito e alle vostre preferenze. I tuoi dati personali sono utilizzati per la personalizzazione degli annunci. Cookie e identificatori di annunci mobile vengono usati per la pubblicità personalizzata e non personalizzata.\n\nI cookies non obbligatori sono disattivati ma potrai modificare questa scelta in qualsiasi momento, oltre ad avere certezza delle nostre politiche privacy e cookies, cliccando sull'immagine del lucchetto.\n\nUtilizza la X per chiudere questa informativa e continuare senza accettare\n\nPer maggiori informazioni su come vengono trattati i tuoi dati con i servizi di Google, consulta la Privacy Policy di Google\n\nScopri di più su chi siamo, come puoi contattarci o come trattiamo i tuoi dati personali nella nostra privacy policy\n\nAccetta tutti\nAccetta solo necessari\nOPZIONI...",
+   "parsed": {
+    "prezzo": null,
+    "mq": "334",
+    "locali": null,
+    "camere": "2  Anno: 2008  Superfice: 90 M",
+    "bagni": "1  Camere: 2  Anno: 2008  Supe",
+    "piano": "pianoterra Disponibilità: libe",
+    "classe_energetica": "C Condizioni: Ottimo Piano: pi",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C4BE6AED-30A8-5871-553B-F2CAC917DCB9_img_5186-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/B63E8D76-5B65-465A-D1B7-38200CE45CBC_img_8470-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/08C89B92-F95D-B1AB-3634-ECA1C97951B3_img_8475-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C795B832-E3C3-F6CB-253A-D1944B64B859_img_8468_edit__2-copia_1024_768_2_.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/465E8489-92F1-5B71-0D27-0EE0F3654D3F_img_8472-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C4BE6AED-30A8-5871-553B-F2CAC917DCB9_img_5186-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/C795B832-E3C3-F6CB-253A-D1944B64B859_img_8468_edit__2-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/68C2C4E6-ED16-5934-C93D-B32A0C5F7BA4_img_8469_edit__2-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/9B839E5B-D9A8-9D7F-0BB7-9A753207F7CF_img_8476_edit__2-copia.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CC81B57D-5AA2-0A9C-8720-84FB6E3B32B6_img_5189-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CC4534B9-798B-F5D0-6B31-CC7A46C0DF6F_img_5183-copia.jpeg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia_1024_768_2_.jpeg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/28C62482-CAEB-7247-69D9-B3D2A166345C_img_5187-copia_1024_768_2_.jpeg"
+  },
+  {
+   "url": "https://www.loiimmobiliare.it/theme-features/tutte-le-proposte/293/view/46-residenziale/375/recente-costruzione-%E2%80%93-casalecchio-centro-%E2%80%93-giardino-privato",
+   "title": "Tutte le proposte| | Residenziale | RECENTE COSTRUZIONE – CASALECCHIO",
+   "h1": null,
+   "h2": [
+    "",
+    ""
+   ],
+   "ogTitle": null,
+   "ogImage": null,
+   "ogDesc": null,
+   "desc": "Tutte le proposte| | Residenziale | RECENTE COSTRUZIONE – CASALECCHIO CENTRO – GIARDINO PRIVATO",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CF63B44F-9E0C-0B9C-9292-90BCFB843193_img_8888-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/748B854B-D5B3-7FEE-50EA-26795355F30E_img_8936-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4E69ACC9-4D85-5961-CE1A-30C8E3AFCD39_img_8941-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/BEA2517D-0290-BA38-0F81-9A7A897F5775_img_8947-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/AED2EB81-C5AB-4D65-9BBB-1FDF7E9D2357_img_8891-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    },
+    {
+     "src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A4F45163-55B6-1EF4-E62E-715AD0525B4E_img_8949-copia_1024_768_2_.JPG",
+     "w": 1024,
+     "h": 768,
+     "rw": 831
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/576F28D7-5E6F-1FEA-93E8-C7690B702C73_planimetria-appartamento.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/296F52D5-E1B9-AA7E-8FBD-77AE45BCB3EE_planimetria-autorimessa.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/93D71185-FC0E-DFCE-B639-40CE21D8080E_planimetria-cantina.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/576F28D7-5E6F-1FEA-93E8-C7690B702C73_planimetria-appartamento_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/296F52D5-E1B9-AA7E-8FBD-77AE45BCB3EE_planimetria-autorimessa_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/93D71185-FC0E-DFCE-B639-40CE21D8080E_planimetria-cantina_1024_768_2_.jpg"
+   ],
+   "descBlock": null,
+   "text": "Agenzia Uno - via Porrettana, 446/4 - Casalecchio di Reno (BO) - Tel. 051.6130092 - agenziauno@loiimmobiliare.it    -    Agenzia Due - via Mazzini, 35 - Casalecchio di Reno (BO) - Tel. 051.6133368 - agenziadue@loiimmobiliare.it\n\n HOME\nIMMOBILI\nDAL 1990 ... CHI SIAMO\nVALUTAZIONI\nTEAM\nHomeImmobiliTutte le proposteResidenzialeRECENTE COSTRUZIONE – CASALECC\nRECENTE COSTRUZIONE – CASALECCHIO CENTRO – GIARDINO PRIVATO\n315.000,00 EUR\n  \n Italia, EMILIA ROMAGNA, CASALECCHIO DI RENO, 40033, VIA VERDI.\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\ncasa in vendita\nTrilocale\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIn evidenza: Trilocale Tipologia: Trilocale ID Proprietà: 339 Contratto: casa in vendita Mq Commerciali: 88 Classe Energetica: E Giardino: PRIVATO Condizioni: Ottimo Piano: pianoterra Cucina: semiabitabile Disponibilità: libero al rogito Riscaldamento: autonomo Planimetria: Scarica\nAPE(kWH/m):\nA\n(< 50)\n1\nB\n(51 to 90)\nC\n(91 to 150)\nD\n(151 to 230)\nE\n(231 to 330)\nF\n(331 to 450)\nG\n(> 451)\nDescrizione\nPosizione\n Ambienti: 3  Bagni: 1  Camere: 2  Anno: 2007  Garage: 1  Giardino: 60 Mq  Superfice: 88 Mq\n\nRif. CA31 - Casalecchio di Reno - Q.re CENTRO - In palazzina residenziale di RECENTE COSTRUZIONE, pietra a vista, disponiamo di un appartamento al piano terra, in OTTIME CONDIZIONI, con GIARDINO PRIVATO di 60 mq.,\n\nL’immobile, con disposizione dei locali moderna e razionale, è composto da ingresso, soggiorno pranzo, cucina, disimpegno, camera matrimoniale, camera singola (catastalmente guardaroba) con accesso a terrazzo a loggia coperto, ampio bagno. Completano la proprietà una cantina ciclabile ed un’autorimessa.\n\nRiscaldamento Autonomo. Porta blindata. Inferriate. Impianto di Aria Climatizzata. Infissi con doppio vetro.\n\nLe principali caratteristiche dell'abitazione sono: le ottime condizioni interne, la razionale e moderna disposizione dei locali, l’area cortiliva esterna (su due lati dell’abitazione), il piano comodo con l’abbattimento delle barriere architettoniche, la zona adiacente a tutti i servizi di prima necessità (negozi, scuole, autobus, suburbana, accesso alla tangenziale e autostrada), area di parcheggio condominiale.\n\nPer maggiori informazioni o visite all'immobile potete contattarci in ufficio 051.6133368 oppure email: agenziadue@loiimmobiliare.it\n\nLOI IMMOBILIARE - VIA MAZZINI 35 - CASALECCHIO DI RENO (BO)\n\nLOI IMMOBILIARE - VIA PORRETTANA 446/4 - CASALECCHIO DI RENO (BO)\n\nGESTIONE PERMUTE - www.loiimmobiliare.it\n\nCaratteristiche\nEsterni:\nCancello elettricoInferriatePorta blindataVideocitofono\nInterni:\nAria condizionataAscensoreCantinaLoggia\n\n\n\n\n\n\n\nInvia richiesta\n Back\nPlease past text to modal\n\nLoi Immobiliare ... dal 1990\n\nAgenzia Uno - Via Porrettana, 446/4\nCasalecchio di Reno (Bologna)\n\nTel. 051.6130092\nagenziauno@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\n\n\n\n\nSitemap\n\n\n\nAgenzia Due - via Mazzini, 35\nCasalecchio di Reno (Bologna)\n\nTel. 051.6133368\nagenziadue@loiimmobiliare.it\n\nOrario di apertura\nLunedi-Venerdì: dalle 9.00 - 20.00\nSabato dalle 9.00 alle 13.00\n\nCompila qui sotto, richiamiamo noi.\nScrivi il tuo nome *\nTelefono *\nConsenso privacy indicazioni UE 679/2016 *\nAccetto\nreCAPTCHA *\nInvia\nCopyright © 2026 Loi Immobiliare da oltre 30 anni al vostro servizio. Agenzia immobiliare Casalecchio di Reno Bologna. Tutti i diritti riservati.\nJoomla! è un software libero rilasciato sotto licenza GNU/GPL.\n\nStudio Casalecchio di Reno s.n.c. di Loi Massimiliano & C. - P.IVA n. 00587911207 - C.F. 02543070375 – Iscr. R.E.A. n. 332416 C.C.I.A.A. di Bologna – Iscr. Registro Imprese n. 02543070375 C.C.I.A.A. di Bologna\n\nInformativa\n\nUtilizziamo cookie o tecnologie simili, come specificato nella cookie policy per dare una risposta più moderna ed efficace alla navigazione del sito e alle vostre preferenze. I tuoi dati personali sono utilizzati per la personalizzazione degli annunci. Cookie e identificatori di annunci mobile vengono usati per la pubblicità personalizzata e non personalizzata.\n\nI cookies non obbligatori sono disattivati ma potrai modificare questa scelta in qualsiasi momento, oltre ad avere certezza delle nostre politiche privacy e cookies, cliccando sull'immagine del lucchetto.\n\nUtilizza la X per chiudere questa informativa e continuare senza accettare\n\nPer maggiori informazioni su come vengono trattati i tuoi dati con i servizi di Google, consulta la Privacy Policy di Google\n\nScopri di più su chi siamo, come puoi contattarci o come trattiamo i tuoi dati personali nella nostra privacy policy\n\nAccetta tutti\nAccetta solo necessari\nOPZIONI...",
+   "parsed": {
+    "prezzo": null,
+    "mq": "60",
+    "locali": null,
+    "camere": "2  Anno: 2007  Garage: 1  Giar",
+    "bagni": "1  Camere: 2  Anno: 2007  Gara",
+    "piano": "pianoterra Cucina: semiabitabi",
+    "classe_energetica": "E Giardino: PRIVATO Condizioni",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CF63B44F-9E0C-0B9C-9292-90BCFB843193_img_8888-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/748B854B-D5B3-7FEE-50EA-26795355F30E_img_8936-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/4E69ACC9-4D85-5961-CE1A-30C8E3AFCD39_img_8941-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/BEA2517D-0290-BA38-0F81-9A7A897F5775_img_8947-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/AED2EB81-C5AB-4D65-9BBB-1FDF7E9D2357_img_8891-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/A4F45163-55B6-1EF4-E62E-715AD0525B4E_img_8949-copia_1024_768_2_.JPG",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/576F28D7-5E6F-1FEA-93E8-C7690B702C73_planimetria-appartamento.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/296F52D5-E1B9-AA7E-8FBD-77AE45BCB3EE_planimetria-autorimessa.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/93D71185-FC0E-DFCE-B639-40CE21D8080E_planimetria-cantina.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/576F28D7-5E6F-1FEA-93E8-C7690B702C73_planimetria-appartamento_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/296F52D5-E1B9-AA7E-8FBD-77AE45BCB3EE_planimetria-autorimessa_1024_768_2_.jpg",
+    "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/93D71185-FC0E-DFCE-B639-40CE21D8080E_planimetria-cantina_1024_768_2_.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.loiimmobiliare.it/components/com_realestatemanager/photos/watermark/CF63B44F-9E0C-0B9C-9292-90BCFB843193_img_8888-copia_1024_768_2_.JPG"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.loiimmobiliare.it/images/logo.png",
+  "size": 21189
+ }
+}

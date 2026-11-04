@@ -1,0 +1,767 @@
+{
+ "cfg": {
+  "slug": "abita-bologna",
+  "nome": "Abita Servizi Immobiliari",
+  "home": "https://www.abitabologna.it/",
+  "index": [
+   "https://www.abitabologna.it/status/vendita/",
+   "https://www.abitabologna.it/status/affitto/"
+  ],
+  "rx": "abitabologna[.]it/(immobile|immobili|property|proprieta|annuncio)/[a-z0-9-]+",
+  "n": 6
+ },
+ "home": {
+  "title": "Abita Servizi Immobiliari: vendere, acquistare e affittare casa a Bologna",
+  "desc": "Con oltre 25 anni di esperienza, Abita Servizi Immobiliari è la tua agenzia di riferimento a Bologna per vendere, acquistare e affittare casa.",
+  "emails": [
+   "info@abitabologna.it"
+  ],
+  "tels": [
+   "+390516360725",
+   "+393408675123"
+  ],
+  "logos": [
+   "https://www.abitabologna.it/wp-content/uploads/Logo-abita-neg-1.png",
+   "https://www.abitabologna.it/wp-content/plugins/gtranslate/flags/svg/en.svg",
+   "https://www.abitabologna.it/wp-content/plugins/gtranslate/flags/svg/it.svg"
+  ],
+  "svgLogo": "<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-phone-alt\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z\"></path></svg>",
+  "body": {
+   "bg": "rgb(247, 248, 249)",
+   "color": "rgb(26, 26, 26)",
+   "font": "Lato, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(26, 26, 26)",
+   "font": "Lato, sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(26, 26, 26)",
+   "font": "Lato, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Prompt, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(16, 80, 153)",
+   "font": "Lato, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    16
+   ],
+   [
+    "rgb(15, 46, 81)",
+    3
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    292
+   ],
+   [
+    "rgb(15, 46, 81)",
+    6
+   ],
+   [
+    "rgb(229, 232, 235)",
+    6
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ],
+   [
+    "rgb(16, 80, 153)",
+    3
+   ],
+   [
+    "rgb(242, 243, 245)",
+    1
+   ],
+   [
+    "rgb(6, 23, 42)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(16, 80, 153)",
+    7
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(255, 255, 255)",
+    30
+   ],
+   [
+    "rgb(16, 80, 153)",
+    24
+   ],
+   [
+    "rgb(15, 46, 81)",
+    2
+   ],
+   [
+    "rgb(147, 216, 247)",
+    1
+   ],
+   [
+    "rgb(142, 185, 204)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Lato, sans-serif",
+    79
+   ],
+   [
+    "Prompt, sans-serif",
+    25
+   ]
+  ],
+  "heads": [
+   "LA VOSTRA TRANQUILLITÀ, LA NOSTRA MAGIA",
+   "LA VOSTRA TRANQUILLITÀ, LA NOSTRA MAGIA",
+   "COSA STAI CERCANDO?",
+   "VENDI CASA OLTRE LE ASPETTATIVE",
+   "I NOSTRI SERVIZI",
+   "DICONO DI NOI",
+   "RICHIEDI UNA CONSULENZA",
+   "Iniziamo subito!"
+  ],
+  "addr": "Via L. Bassi Veratti, 25/b 40135 – Bologna",
+  "final": "https://www.abitabologna.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61084/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61131/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c60538/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61122/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61133/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61108/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61110/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61134/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61132/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61113/",
+  "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c60387/",
+  "https://www.abitabologna.it/immobili/in-vendita-a-bologna-rif-ab1c61130/",
+  "https://www.abitabologna.it/immobili/appartamento-in-affitto-a-bologna-rif-ab1c60832/",
+  "https://www.abitabologna.it/immobili/appartamento-in-affitto-a-bologna-rif-ab1c60904/",
+  "https://www.abitabologna.it/immobili/appartamento-in-affitto-a-bologna-rif-ab1c56842/",
+  "https://www.abitabologna.it/immobili/appartamento-in-affitto-a-bologna-rif-ab1c61125/"
+ ],
+ "listings": [
+  {
+   "url": "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61084/",
+   "title": "Appartamento in Vendita a Bologna - Rif. AB1C61084 - Abita Servizi Immobiliari | Bologna e provincia",
+   "h1": "APPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084",
+   "h2": [
+    "PANORAMICA",
+    "DESCRIZIONE",
+    "INDIRIZZO",
+    "DETTAGLI",
+    "CARATTERISTICHE",
+    "CLASSE ENERGETICA"
+   ],
+   "ogTitle": "Appartamento in Vendita a Bologna - Rif. AB1C61084 - Abita Servizi Immobiliari | Bologna e provincia",
+   "ogImage": "https://www.abitabologna.it/wp-content/uploads/abit_1554639.jpg",
+   "ogDesc": "Piacevole bilocale posto al piano rialzato di gradevole condominio situato in un tranquillo interno delle Via Emilia Levante, di metri 58 così’ composto: ingresso/disimpegno, soggiorno, ampio cucinotto, spazioso bagno recentemente rivisto, grande camera matrimoniale con accesso ad un terrazzino; l’immobile ha il riscaldamento centralizzato, è climatizzato e completamente arredato (compresi gli elettrodomestici). Volendo potrebbe essere […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/\",\"url\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/\",\"name\":\"Appartamento in Vendita a Bologna - Rif. AB1C61084 - Abita Servizi Immobiliari | Bologna e provincia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1554639.jpg\",\"datePublished\":\"2026-10-29T11:33:00+00:00\",\"dateModified\":\"2026-11-04T12:33:26+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/#primaryimage\",\"url\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1554639.jpg\",\"contentUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1554639.jpg\",\"width\":1200,\"height\":900},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61084\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.abitabologna.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Propriet&#224;\",\"item\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61084\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\",\"url\":\"https:\\/\\/www.abitabologna.it\\/\",\"name\":\"Abita Servizi Immobiliari | Bologna e provincia\",\"description\":\"Servizi Immobiliari\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.abitabologna.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}\n{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"RealEstateListing\",\n    \"inLanguage\": \"it-IT\",\n    \"name\": \"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61084\",\n    \"description\": \"Piacevole bilocale posto al piano rialzato di gradevole condominio situato in un tranquillo interno delle Via Emilia Levante, di metri 58 cos&#236;' composto: ingresso/disimpegno, soggiorno, ampio cucinotto, spazioso bagno recentemente rivisto, grande camera matrimoniale con accesso ad un terrazzino; l'immobile ha il riscaldamento centralizzato, &#232; climatizzato e completamente arredato (compresi gli elettrodomestici). Volendo potrebbe essere disponibile un posto auto all'interno del vano condominiale. Libero da subito. &#8364; 1.000\",\n    \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61084/\",\n    \"image\": [\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554639.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554658.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554616.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554693.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554669.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554673.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554686.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554632.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554653.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554677.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554683.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155465557.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554698.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554645.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554628.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1554697.jpg\"\n    ],\n    \"numberOfBedrooms\": 1,\n    \"numberOfBathroomsTotal\": 1,\n    \"floorSize\": {\n        \"@type\": \"QuantitativeValue\",\n        \"value\": 58,\n        \"unitText\": \"SQM\"\n    },\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Via Emilia Levante\",\n        \"addressLocality\": \"Bologna\",\n        \"postalCode\": \"40100\",\n        \"addressCountry\": \"Italy\"\n    },\n    \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 44.482377,\n        \"longitude\": 11.380879\n    },\n    \"offers\": {\n        \"@type\": \"Offer\",\n        \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61084/\",\n        \"priceCurrency\": \"USD\",\n        \"price\": 1000,\n        \"priceValidUntil\": \"2026-12-31\",\n        \"availability\": \"https://schema.org/InStock\",\n        \"seller\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Abita Servizi Immobiliari\",\n            \"url\": \"https://www.abitabologna.it/agency/admin62/\",\n            \"telephone\": \"+390516360725\"\n        }\n    }\n}",
+   "imgs": [
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1554639.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1554658.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1554616.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1554693.jpg",
+     "w": 900,
+     "h": 1200,
+     "rw": 900
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1554669.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1554673.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554639-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "descBlock": "Piacevole bilocale posto al piano rialzato di gradevole condominio situato in un tranquillo interno delle Via Emilia Levante, di metri 58 così’ composto: ingresso/disimpegno, soggiorno, ampio cucinotto, spazioso bagno recentemente rivisto, grande camera matrimoniale con accesso ad un terrazzino; l’immobile ha il riscaldamento centralizzato, è climatizzato e completamente arredato (compresi gli elettrodomestici). Volendo potrebbe essere disponibile un posto auto all’interno del vano condominiale. Libero da subito. € 1.000",
+   "text": "051 6360725\ninfo@abitabologna.it\nHOME\nVENDI CASA A BOLOGNA\nIMMOBILI\nSERVIZI\nCHI SIAMO\nCONTATTI\nHome\nAppartamento\nAppartamento in Vendita a Bologna – Rif. AB1C61084\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084\nVia Emilia Levante, Bologna\nVENDITA\n€ 1.000\nPANORAMICA\nAppartamento\nTipologia\n1\nCamera\n1\nBagno\n58 m²\nSuperficie\nDESCRIZIONE\n\nPiacevole bilocale posto al piano rialzato di gradevole condominio situato in un tranquillo interno delle Via Emilia Levante, di metri 58 così’ composto: ingresso/disimpegno, soggiorno, ampio cucinotto, spazioso bagno recentemente rivisto, grande camera matrimoniale con accesso ad un terrazzino; l’immobile ha il riscaldamento centralizzato, è climatizzato e completamente arredato (compresi gli elettrodomestici). Volendo potrebbe essere disponibile un posto auto all’interno del vano condominiale. Libero da subito. € 1.000\n\nINDIRIZZO\n Apri su Google Maps\nIndirizzo:\nVia Emilia Levante\nCittà:\nBologna\nCAP:\n40100\nZona:\nMazzini\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nDETTAGLI\nPrezzo\n€ 1.000\nSuperficie\n58 m²\nCamera\n1\nLocali\n2\nBagno\n1\nTipologia\nAppartamento\nContratto\nVendita\nCARATTERISTICHE\nAscensore\nBuono stato di conservazione\nImmobile libero\nCLASSE ENERGETICA\nClasse Energetica:\nF\nCALCOLO MUTUO\n€ 4,64\nMensile\n Acconto\n€ 200,00\n Ammontare del prestito\n€ 800,00\n Rata mensile\n€ 4,64\nImporto totale\n€\nAcconto\n%\nTasso d'interesse\n%\nDurata del mutuo\nALTRE PROPOSTE\nVENDITA\n€ 255.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131\nVia S. Donato, Bologna\n2\n1\n74\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 235.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538\nVia Pellizza da Volpedo, Bologna\n2\n1\n83\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122\nVia VIZZANI, Bologna\n1\n1\n84\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 278.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61108\nVia Enrico de Nicola, Bologna\n3\n2\n107\nm²\nAPPARTAMENTO\nDETTAGLI\nInviando questo modulo accetto l'informativa privacy\nINVIA\nCHIAMA\n\nDa oltre 25 anni, la nostra agenzia tutta al femminile si occupa di compravendite e locazioni residenziali a Bologna e provincia.\n\nMENÙ\nHome\nVendi casa a Bologna e provincia\nTutte le proposte\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nSERVIZI\nServizi per la vendita a Bologna\nServizi per l’acquisto a Bologna\nServizi per l’affitto a Bologna\nIl nostro Open House\nCONTATTI\nVia L. Bassi Veratti, 25/b\n40135 - Bologna\n051 6360725\n340 8675123\ninfo@abitabologna.it\nSEGUICI SUI SOCIAL\nFacebook-f\n \nInstagram\n\n©2025 Abita S.r.l. Tutti i diritti riservati | P.IVA:02294651209\n| Informativa Privacy | Cookie Policy | Made with Love by Naytes",
+   "parsed": {
+    "prezzo": "€ 1.000",
+    "mq": "DESCRIZIONE",
+    "locali": "2",
+    "camere": "1",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": "Classe Energetica:",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554639.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554639.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554658.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554616.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554693.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554669.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554673.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1554639-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://www.abitabologna.it/wp-content/uploads/abit_1554639.jpg"
+  },
+  {
+   "url": "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61131/",
+   "title": "Appartamento in Vendita a Bologna - Rif. AB1C61131 - Abita Servizi Immobiliari | Bologna e provincia",
+   "h1": "APPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131",
+   "h2": [
+    "PANORAMICA",
+    "DESCRIZIONE",
+    "INDIRIZZO",
+    "DETTAGLI",
+    "CARATTERISTICHE",
+    "CALCOLO MUTUO"
+   ],
+   "ogTitle": "Appartamento in Vendita a Bologna - Rif. AB1C61131 - Abita Servizi Immobiliari | Bologna e provincia",
+   "ogImage": "https://www.abitabologna.it/wp-content/uploads/abit_1559346.jpg",
+   "ogDesc": "3 Locali San Donato Nel primo tratto della via San Donato, a pochi minuti a piedi dal centro storico, vicino al polo Ospedaliero Sant’Orsola e al polo fieristico, in zona servitissima, proponiamo in vendita un luminoso trilocale, posto al quinto e ultimo piano di un edificio ben tenuto con ascensore (del quale è quasi ultimata […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/\",\"url\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/\",\"name\":\"Appartamento in Vendita a Bologna - Rif. AB1C61131 - Abita Servizi Immobiliari | Bologna e provincia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1559346.jpg\",\"datePublished\":\"2026-10-29T11:33:00+00:00\",\"dateModified\":\"2026-11-04T12:33:40+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/#primaryimage\",\"url\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1559346.jpg\",\"contentUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1559346.jpg\",\"width\":1200,\"height\":800},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61131\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.abitabologna.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Propriet&#224;\",\"item\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61131\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\",\"url\":\"https:\\/\\/www.abitabologna.it\\/\",\"name\":\"Abita Servizi Immobiliari | Bologna e provincia\",\"description\":\"Servizi Immobiliari\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.abitabologna.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}\n{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"RealEstateListing\",\n    \"inLanguage\": \"it-IT\",\n    \"name\": \"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61131\",\n    \"description\": \"3 Locali San Donato Nel primo tratto della via San Donato, a pochi minuti a piedi dal centro storico, vicino al polo Ospedaliero Sant'Orsola e al polo fieristico, in zona servitissima, proponiamo in vendita un luminoso trilocale, posto al quinto e ultimo piano di un edificio ben tenuto con ascensore (del quale &#232; quasi ultimata l'installazione), di mq 74, dai piacevolissimi affacci a ovest verso le colline e il centro storico, in perfetto stato interno e abitabile fin da subito grazie ad una recentissima ristrutturazione, attualmente cos&#236; composto: ingresso arredabile, cucina abitabile con balcone, prima ampia camera attualmente adibita a salotto, seconda ampia camera matrimoniale con angolo ripostiglio/lavanderia, bagno finestrato con doccia, Completa la propriet&#224; una comoda cantina. Il riscaldamento &#232; autonomo, &#232; presente l'aria condizionata, gli infissi sono in pvc con vetrocamera, porta blindata, bagno e cucina nuovi, spese condominiali contenute. L'immobile &#232; libero a rogito - volendo viene consegnato comprensivo di alcuni arredi. E' ideale per chi cerca un appartamento pronto da abitare e anche per investimento &#8364; 255.000,00\",\n    \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61131/\",\n    \"image\": [\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559346.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15593.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559385.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559370.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559353.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559375.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559386.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559316.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155937763.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559320.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559343.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559358.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559348.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559328.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559377.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559315.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559318.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155934832.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559362.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559332.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559381.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559338.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559398.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155933280.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559376.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559352.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559335.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559387.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559327.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559388.jpg\"\n    ],\n    \"numberOfBedrooms\": 2,\n    \"numberOfBathroomsTotal\": 1,\n    \"floorSize\": {\n        \"@type\": \"QuantitativeValue\",\n        \"value\": 74,\n        \"unitText\": \"SQM\"\n    },\n    \"yearBuilt\": 1950,\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Via S. Donato\",\n        \"addressLocality\": \"Bologna\",\n        \"postalCode\": \"40100\",\n        \"addressCountry\": \"Italy\"\n    },\n    \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 44.503131,\n        \"longitude\": 11.363182\n    },\n    \"offers\": {\n        \"@type\": \"Offer\",\n        \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61131/\",\n        \"priceCurrency\": \"USD\",\n        \"price\": 255000,\n        \"priceValidUntil\": \"2026-12-31\",\n        \"availability\": \"https://schema.org/InStock\",\n        \"seller\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Abita Servizi Immobiliari\",\n            \"url\": \"https://www.abitabologna.it/agency/admin62/\",\n            \"telephone\": \"+390516360725\"\n        }\n    }\n}",
+   "imgs": [
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1559388.jpg",
+     "w": 878,
+     "h": 1200,
+     "rw": 878
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1559346.jpg",
+     "w": 1200,
+     "h": 800,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15593.jpg",
+     "w": 1200,
+     "h": 800,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1559385.jpg",
+     "w": 1200,
+     "h": 800,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1559370.jpg",
+     "w": 1200,
+     "h": 800,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1559353.jpg",
+     "w": 1200,
+     "h": 800,
+     "rw": 1050
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559346-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "descBlock": "3 Locali San Donato Nel primo tratto della via San Donato, a pochi minuti a piedi dal centro storico, vicino al polo Ospedaliero Sant’Orsola e al polo fieristico, in zona servitissima, proponiamo in vendita un luminoso trilocale, posto al quinto e ultimo piano di un edificio ben tenuto con ascensore (del quale è quasi ultimata l’installazione), di mq 74, dai piacevolissimi affacci a ovest verso le colline e il centro storico, in perfetto stato interno e abitabile fin da subito grazie ad una recentissima ristrutturazione, attualmente così composto: ingresso arredabile, cucina abitabile con balcone, prima ampia camera attualmente adibita a salotto, seconda ampia camera matrimoniale con angolo ripostiglio/lavanderia, bagno finestrato con doccia, Completa la proprietà una comoda cantina. Il riscaldamento è autonomo, è presente l’aria condizionata, gli infissi sono in pvc con vetrocamera, porta blindata, bagno e cucina nuovi, spese condominiali contenute. L’immobile è libero a rogito – volendo viene consegnato comprensivo di alcuni arredi. E’ ideale per chi cerca un appartamento pronto da abitare e anche per investimento € 255.000,00",
+   "text": "051 6360725\ninfo@abitabologna.it\nHOME\nVENDI CASA A BOLOGNA\nIMMOBILI\nSERVIZI\nCHI SIAMO\nCONTATTI\nHome\nAppartamento\nAppartamento in Vendita a Bologna – Rif. AB1C61131\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131\nVia S. Donato, Bologna\nVENDITA\n€ 255.000\nPANORAMICA\nAppartamento\nTipologia\n2\nCamere\n1\nBagno\n74 m²\nSuperficie\nDESCRIZIONE\n\n3 Locali San Donato Nel primo tratto della via San Donato, a pochi minuti a piedi dal centro storico, vicino al polo Ospedaliero Sant’Orsola e al polo fieristico, in zona servitissima, proponiamo in vendita un luminoso trilocale, posto al quinto e ultimo piano di un edificio ben tenuto con ascensore (del quale è quasi ultimata l’installazione), di mq 74, dai piacevolissimi affacci a ovest verso le colline e il centro storico, in perfetto stato interno e abitabile fin da subito grazie ad una recentissima ristrutturazione, attualmente così composto: ingresso arredabile, cucina abitabile con balcone, prima ampia camera attualmente adibita a salotto, seconda ampia camera matrimoniale con angolo ripostiglio/lavanderia, bagno finestrato con doccia, Completa la proprietà una comoda cantina. Il riscaldamento è autonomo, è presente l’aria condizionata, gli infissi sono in pvc con vetrocamera, porta blindata, bagno e cucina nuovi, spese condominiali contenute. L’immobile è libero a rogito – volendo viene consegnato comprensivo di alcuni arredi. E’ ideale per chi cerca un appartamento pronto da abitare e anche per investimento € 255.000,00\n\nINDIRIZZO\n Apri su Google Maps\nIndirizzo:\nVia S. Donato\nCittà:\nBologna\nCAP:\n40100\nZona:\nS. Donato\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nDETTAGLI\nPrezzo\n€ 255.000\nSuperficie\n74 m²\nCamere\n2\nLocali\n3\nBagno\n1\nAnno di costruzione\n1950\nTipologia\nAppartamento\nContratto\nVendita\nCARATTERISTICHE\n5° piano\nAscensore\nBuono stato di conservazione\nImmobile non libero\npiani dell'edificio: 5\nCALCOLO MUTUO\n€ 1.183,12\nMensile\n Acconto\n€ 51.000,00\n Ammontare del prestito\n€ 204.000,00\n Rata mensile\n€ 1.183,12\nImporto totale\n€\nAcconto\n%\nTasso d'interesse\n%\nDurata del mutuo\nALTRE PROPOSTE\nVENDITA\n€ 1.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084\nVia Emilia Levante, Bologna\n1\n1\n58\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 235.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538\nVia Pellizza da Volpedo, Bologna\n2\n1\n83\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122\nVia VIZZANI, Bologna\n1\n1\n84\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61133\nVia misa, Bologna\n3\n2\n1\nm²\nAPPARTAMENTO\nDETTAGLI\nInviando questo modulo accetto l'informativa privacy\nINVIA\nCHIAMA\n\nDa oltre 25 anni, la nostra agenzia tutta al femminile si occupa di compravendite e locazioni residenziali a Bologna e provincia.\n\nMENÙ\nHome\nVendi casa a Bologna e provincia\nTutte le proposte\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nSERVIZI\nServizi per la vendita a Bologna\nServizi per l’acquisto a Bologna\nServizi per l’affitto a Bologna\nIl nostro Open House\nCONTATTI\nVia L. Bassi Veratti, 25/b\n40135 - Bologna\n051 6360725\n340 8675123\ninfo@abitabologna.it\nSEGUICI SUI SOCIAL\nFacebook-f\n \nInstagram\n\n©2025 Abita S.r.l. Tutti i diritti riservati | P.IVA:02294651209\n| Informativa Privacy | Cookie Policy | Made with Love by Naytes",
+   "parsed": {
+    "prezzo": "€ 255.000",
+    "mq": "DESCRIZIONE",
+    "locali": "3",
+    "camere": "1",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559346.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559388.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559346.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15593.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559385.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559370.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559353.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1559346-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://www.abitabologna.it/wp-content/uploads/abit_1559346.jpg"
+  },
+  {
+   "url": "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c60538/",
+   "title": "Appartamento in Vendita a Bologna - Rif. AB1C60538 - Abita Servizi Immobiliari | Bologna e provincia",
+   "h1": "APPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538",
+   "h2": [
+    "PANORAMICA",
+    "DESCRIZIONE",
+    "INDIRIZZO",
+    "DETTAGLI",
+    "CARATTERISTICHE",
+    "CLASSE ENERGETICA"
+   ],
+   "ogTitle": "Appartamento in Vendita a Bologna - Rif. AB1C60538 - Abita Servizi Immobiliari | Bologna e provincia",
+   "ogImage": "https://www.abitabologna.it/wp-content/uploads/abit_15000.jpg",
+   "ogDesc": "3 Locali Mazzini – Murri – Via Pellizza da Volpedo In zona servitissima e nelle immediate vicinanze del parco Lunetta Gamberini, disponiamo all’interno di un edificio degli anni ’60 recentemente rinnovato, un appartamento di mq 83, posto al primo piano con ascensore, affacciato su due lati ad angolo, internamente da rivedere e attualmente composto da […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/\",\"url\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/\",\"name\":\"Appartamento in Vendita a Bologna - Rif. AB1C60538 - Abita Servizi Immobiliari | Bologna e provincia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_15000.jpg\",\"datePublished\":\"2026-10-28T11:33:00+00:00\",\"dateModified\":\"2026-11-04T12:33:12+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/#primaryimage\",\"url\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_15000.jpg\",\"contentUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_15000.jpg\",\"width\":1200,\"height\":900},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c60538\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.abitabologna.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Propriet&#224;\",\"item\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in Vendita a Bologna &#8211; Rif. AB1C60538\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\",\"url\":\"https:\\/\\/www.abitabologna.it\\/\",\"name\":\"Abita Servizi Immobiliari | Bologna e provincia\",\"description\":\"Servizi Immobiliari\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.abitabologna.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}\n{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"RealEstateListing\",\n    \"inLanguage\": \"it-IT\",\n    \"name\": \"Appartamento in Vendita a Bologna &#8211; Rif. AB1C60538\",\n    \"description\": \"3 Locali Mazzini - Murri - Via Pellizza da Volpedo In zona servitissima e nelle immediate vicinanze del parco Lunetta Gamberini, disponiamo all'interno di  un edificio degli anni '60 recentemente rinnovato, un appartamento di mq 83, posto al primo piano con ascensore, affacciato su due lati ad angolo, internamente da rivedere e attualmente composto da ingresso/corridoio, tinello con balcone, cucinotto separato, due camere matrimoniali, bagno finestrato con vasca, ampio ripostiglio. Completa la propriet&#224; una cantina al piano interrato. L'immobile &#232; libero a rogito. Nell'ipotesi di una ristrutturazione offre ottime potenzialit&#224; per una diversa distribuzione degli spazi. Euro 235000\",\n    \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c60538/\",\n    \"image\": [\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15000.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500036.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_150009766.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500097.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500093.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500017.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500046.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500042.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500034.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_150009496.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500085.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500089.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500055.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500060.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500018.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500013.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500047.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500016.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500066.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_150006020.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500081.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500094.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500041.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500031.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500082.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500044.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_150008929.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_150004129.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_150006076.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1500052.jpg\"\n    ],\n    \"numberOfBedrooms\": 2,\n    \"numberOfBathroomsTotal\": 1,\n    \"floorSize\": {\n        \"@type\": \"QuantitativeValue\",\n        \"value\": 83,\n        \"unitText\": \"SQM\"\n    },\n    \"yearBuilt\": 1960,\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Via Pellizza da Volpedo\",\n        \"addressLocality\": \"Bologna\",\n        \"postalCode\": \"40100\",\n        \"addressCountry\": \"Italy\"\n    },\n    \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 44.481004,\n        \"longitude\": 11.374808\n    },\n    \"offers\": {\n        \"@type\": \"Offer\",\n        \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c60538/\",\n        \"priceCurrency\": \"USD\",\n        \"price\": 235000,\n        \"priceValidUntil\": \"2026-12-31\",\n        \"availability\": \"https://schema.org/InStock\",\n        \"seller\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Abita Servizi Immobiliari\",\n            \"url\": \"https://www.abitabologna.it/agency/admin62/\",\n            \"telephone\": \"+390516360725\"\n        }\n    }\n}",
+   "imgs": [
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1500052.jpg",
+     "w": 1200,
+     "h": 1092,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15000.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1500036.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_150009766.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1500097.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1500093.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_15000-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "descBlock": "3 Locali Mazzini – Murri – Via Pellizza da Volpedo In zona servitissima e nelle immediate vicinanze del parco Lunetta Gamberini, disponiamo all’interno di un edificio degli anni ’60 recentemente rinnovato, un appartamento di mq 83, posto al primo piano con ascensore, affacciato su due lati ad angolo, internamente da rivedere e attualmente composto da ingresso/corridoio, tinello con balcone, cucinotto separato, due camere matrimoniali, bagno finestrato con vasca, ampio ripostiglio. Completa la proprietà una cantina al piano interrato. L’immobile è libero a rogito. Nell’ipotesi di una ristrutturazione offre ottime potenzialità per una diversa distribuzione degli spazi. Euro 235000",
+   "text": "051 6360725\ninfo@abitabologna.it\nHOME\nVENDI CASA A BOLOGNA\nIMMOBILI\nSERVIZI\nCHI SIAMO\nCONTATTI\nHome\nAppartamento\nAppartamento in Vendita a Bologna – Rif. AB1C60538\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538\nVia Pellizza da Volpedo, Bologna\nVENDITA\n€ 235.000\nPANORAMICA\nAppartamento\nTipologia\n2\nCamere\n1\nBagno\n83 m²\nSuperficie\nDESCRIZIONE\n\n3 Locali Mazzini – Murri – Via Pellizza da Volpedo In zona servitissima e nelle immediate vicinanze del parco Lunetta Gamberini, disponiamo all’interno di un edificio degli anni ’60 recentemente rinnovato, un appartamento di mq 83, posto al primo piano con ascensore, affacciato su due lati ad angolo, internamente da rivedere e attualmente composto da ingresso/corridoio, tinello con balcone, cucinotto separato, due camere matrimoniali, bagno finestrato con vasca, ampio ripostiglio. Completa la proprietà una cantina al piano interrato. L’immobile è libero a rogito. Nell’ipotesi di una ristrutturazione offre ottime potenzialità per una diversa distribuzione degli spazi. Euro 235000\n\nINDIRIZZO\n Apri su Google Maps\nIndirizzo:\nVia Pellizza da Volpedo\nCittà:\nBologna\nCAP:\n40100\nZona:\nMazzini\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nDETTAGLI\nPrezzo\n€ 235.000\nSuperficie\n83 m²\nCamere\n2\nLocali\n3\nBagno\n1\nAnno di costruzione\n1960\nTipologia\nAppartamento\nContratto\nVendita\nRiscaldamento\nCentrale\nCARATTERISTICHE\n1° piano\nAscensore\nDa restrutturare\nGiardino condiviso\nImmobile libero\npiani dell'edificio: 4\nCLASSE ENERGETICA\nClasse Energetica:\nG\nCALCOLO MUTUO\n€ 1.090,32\nMensile\n Acconto\n€ 47.000,00\n Ammontare del prestito\n€ 188.000,00\n Rata mensile\n€ 1.090,32\nImporto totale\n€\nAcconto\n%\nTasso d'interesse\n%\nDurata del mutuo\nALTRE PROPOSTE\nVENDITA\n€ 1.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084\nVia Emilia Levante, Bologna\n1\n1\n58\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 255.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131\nVia S. Donato, Bologna\n2\n1\n74\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122\nVia VIZZANI, Bologna\n1\n1\n84\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61133\nVia misa, Bologna\n3\n2\n1\nm²\nAPPARTAMENTO\nDETTAGLI\nInviando questo modulo accetto l'informativa privacy\nINVIA\nCHIAMA\n\nDa oltre 25 anni, la nostra agenzia tutta al femminile si occupa di compravendite e locazioni residenziali a Bologna e provincia.\n\nMENÙ\nHome\nVendi casa a Bologna e provincia\nTutte le proposte\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nSERVIZI\nServizi per la vendita a Bologna\nServizi per l’acquisto a Bologna\nServizi per l’affitto a Bologna\nIl nostro Open House\nCONTATTI\nVia L. Bassi Veratti, 25/b\n40135 - Bologna\n051 6360725\n340 8675123\ninfo@abitabologna.it\nSEGUICI SUI SOCIAL\nFacebook-f\n \nInstagram\n\n©2025 Abita S.r.l. Tutti i diritti riservati | P.IVA:02294651209\n| Informativa Privacy | Cookie Policy | Made with Love by Naytes",
+   "parsed": {
+    "prezzo": "€ 235.000",
+    "mq": "DESCRIZIONE",
+    "locali": "3",
+    "camere": "1",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": "Classe Energetica:",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_15000.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1500052.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15000.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1500036.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_150009766.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1500097.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1500093.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15000-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://www.abitabologna.it/wp-content/uploads/abit_15000.jpg"
+  },
+  {
+   "url": "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61122/",
+   "title": "Appartamento in Vendita a Bologna - Rif. AB1C61122 - Abita Servizi Immobiliari | Bologna e provincia",
+   "h1": "APPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122",
+   "h2": [
+    "PANORAMICA",
+    "DESCRIZIONE",
+    "INDIRIZZO",
+    "DETTAGLI",
+    "CARATTERISTICHE",
+    "CALCOLO MUTUO"
+   ],
+   "ogTitle": "Appartamento in Vendita a Bologna - Rif. AB1C61122 - Abita Servizi Immobiliari | Bologna e provincia",
+   "ogImage": "https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpeg",
+   "ogDesc": "Affittasi luminoso e piacevolissimo ampio trilocale di mq. 84 molto ben tenuto, situato nelle immediate vicinanze del complesso del Sant’Orsola, completamente arredato e disponibile da subito, composto da ampio ingresso, zona giorno con angolo cottura e accesso a balcone, 2 camere matrimoniali (una con cabina armadio), comodo bagno finestrato con doccia, cantina al vano interrato. […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/\",\"url\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/\",\"name\":\"Appartamento in Vendita a Bologna - Rif. AB1C61122 - Abita Servizi Immobiliari | Bologna e provincia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1558476.jpeg\",\"datePublished\":\"2026-10-23T10:33:00+00:00\",\"dateModified\":\"2026-11-04T12:33:36+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/#primaryimage\",\"url\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1558476.jpeg\",\"contentUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1558476.jpeg\",\"width\":1200,\"height\":900},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61122\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.abitabologna.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Propriet&#224;\",\"item\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61122\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\",\"url\":\"https:\\/\\/www.abitabologna.it\\/\",\"name\":\"Abita Servizi Immobiliari | Bologna e provincia\",\"description\":\"Servizi Immobiliari\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.abitabologna.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}\n{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"RealEstateListing\",\n    \"inLanguage\": \"it-IT\",\n    \"name\": \"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61122\",\n    \"description\": \"Affittasi luminoso e piacevolissimo ampio trilocale di mq. 84 molto ben tenuto, situato nelle immediate vicinanze del complesso del Sant'Orsola, completamente arredato e disponibile da subito, composto da ampio ingresso, zona giorno con angolo cottura e accesso a balcone, 2 camere matrimoniali (una con cabina armadio), comodo bagno finestrato con doccia, cantina al vano interrato. l'appartamento &#232; climatizzato, ha impianti a norma e riscaldamento autonomo. L'appartamento si trova al 4&#176; e ultimo piano piano s/a di gradevole palazzina situata in posizione interna e tranquilla. &#8364; 1.200\",\n    \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61122/\",\n    \"image\": [\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558414.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558495.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558451.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155847744.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558464.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558455.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558416.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558493.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558460.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558499.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558488.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155847619.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558411.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558477.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558480.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15584.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558482.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558472.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558490.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558473.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15584.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558449.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558462.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558416.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558446.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558466.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155847629.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558467.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558442.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558411.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558442.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558453.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558467.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155844744.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558452.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1558471.jpg\"\n    ],\n    \"numberOfBedrooms\": 1,\n    \"numberOfBathroomsTotal\": 1,\n    \"floorSize\": {\n        \"@type\": \"QuantitativeValue\",\n        \"value\": 84,\n        \"unitText\": \"SQM\"\n    },\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Via VIZZANI\",\n        \"addressLocality\": \"Bologna\",\n        \"postalCode\": \"40100\",\n        \"addressCountry\": \"Italy\"\n    },\n    \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 44.489762,\n        \"longitude\": 11.370555\n    },\n    \"offers\": {\n        \"@type\": \"Offer\",\n        \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61122/\",\n        \"priceCurrency\": \"USD\",\n        \"price\": 1200,\n        \"priceValidUntil\": \"2026-12-31\",\n        \"availability\": \"https://schema.org/InStock\",\n        \"seller\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Abita Servizi Immobiliari\",\n            \"url\": \"https://www.abitabologna.it/agency/admin62/\",\n            \"telephone\": \"+390516360725\"\n        }\n    }\n}",
+   "imgs": [
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpeg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1558414.jpeg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1558495.jpeg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1558451.jpeg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_155847744.jpeg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1558464.jpeg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558476-1170x785.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "descBlock": "Affittasi luminoso e piacevolissimo ampio trilocale di mq. 84 molto ben tenuto, situato nelle immediate vicinanze del complesso del Sant’Orsola, completamente arredato e disponibile da subito, composto da ampio ingresso, zona giorno con angolo cottura e accesso a balcone, 2 camere matrimoniali (una con cabina armadio), comodo bagno finestrato con doccia, cantina al vano interrato. l’appartamento è climatizzato, ha impianti a norma e riscaldamento autonomo. L’appartamento si trova al 4° e ultimo piano piano s/a di gradevole palazzina situata in posizione interna e tranquilla. € 1.200",
+   "text": "051 6360725\ninfo@abitabologna.it\nHOME\nVENDI CASA A BOLOGNA\nIMMOBILI\nSERVIZI\nCHI SIAMO\nCONTATTI\nHome\nAppartamento\nAppartamento in Vendita a Bologna – Rif. AB1C61122\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122\nVia VIZZANI, Bologna\nVENDITA\n€ 1.200\nPANORAMICA\nAppartamento\nTipologia\n1\nCamera\n1\nBagno\n84 m²\nSuperficie\nDESCRIZIONE\n\nAffittasi luminoso e piacevolissimo ampio trilocale di mq. 84 molto ben tenuto, situato nelle immediate vicinanze del complesso del Sant’Orsola, completamente arredato e disponibile da subito, composto da ampio ingresso, zona giorno con angolo cottura e accesso a balcone, 2 camere matrimoniali (una con cabina armadio), comodo bagno finestrato con doccia, cantina al vano interrato. l’appartamento è climatizzato, ha impianti a norma e riscaldamento autonomo. L’appartamento si trova al 4° e ultimo piano piano s/a di gradevole palazzina situata in posizione interna e tranquilla. € 1.200\n\nINDIRIZZO\n Apri su Google Maps\nIndirizzo:\nVia VIZZANI\nCittà:\nBologna\nCAP:\n40100\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nDETTAGLI\nPrezzo\n€ 1.200\nSuperficie\n84 m²\nCamera\n1\nLocali\n3\nBagno\n1\nTipologia\nAppartamento\nContratto\nVendita\nRiscaldamento\nIndependente\nCARATTERISTICHE\nBuono stato di conservazione\nImmobile libero\nCALCOLO MUTUO\n€ 5,57\nMensile\n Acconto\n€ 240,00\n Ammontare del prestito\n€ 960,00\n Rata mensile\n€ 5,57\nImporto totale\n€\nAcconto\n%\nTasso d'interesse\n%\nDurata del mutuo\nALTRE PROPOSTE\nVENDITA\n€ 1.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084\nVia Emilia Levante, Bologna\n1\n1\n58\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 255.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131\nVia S. Donato, Bologna\n2\n1\n74\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 235.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538\nVia Pellizza da Volpedo, Bologna\n2\n1\n83\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61133\nVia misa, Bologna\n3\n2\n1\nm²\nAPPARTAMENTO\nDETTAGLI\nInviando questo modulo accetto l'informativa privacy\nINVIA\nCHIAMA\n\nDa oltre 25 anni, la nostra agenzia tutta al femminile si occupa di compravendite e locazioni residenziali a Bologna e provincia.\n\nMENÙ\nHome\nVendi casa a Bologna e provincia\nTutte le proposte\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nSERVIZI\nServizi per la vendita a Bologna\nServizi per l’acquisto a Bologna\nServizi per l’affitto a Bologna\nIl nostro Open House\nCONTATTI\nVia L. Bassi Veratti, 25/b\n40135 - Bologna\n051 6360725\n340 8675123\ninfo@abitabologna.it\nSEGUICI SUI SOCIAL\nFacebook-f\n \nInstagram\n\n©2025 Abita S.r.l. Tutti i diritti riservati | P.IVA:02294651209\n| Informativa Privacy | Cookie Policy | Made with Love by Naytes",
+   "parsed": {
+    "prezzo": "€ 1.200",
+    "mq": "DESCRIZIONE",
+    "locali": "3",
+    "camere": "1",
+    "bagni": "1",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558414.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558495.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558451.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_155847744.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558464.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1558476-1170x785.jpeg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://www.abitabologna.it/wp-content/uploads/abit_1558476.jpeg"
+  },
+  {
+   "url": "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61133/",
+   "title": "Appartamento in Vendita a Bologna - Rif. AB1C61133 - Abita Servizi Immobiliari | Bologna e provincia",
+   "h1": "APPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61133",
+   "h2": [
+    "PANORAMICA",
+    "DESCRIZIONE",
+    "INDIRIZZO",
+    "DETTAGLI",
+    "CARATTERISTICHE",
+    "CALCOLO MUTUO"
+   ],
+   "ogTitle": "Appartamento in Vendita a Bologna - Rif. AB1C61133 - Abita Servizi Immobiliari | Bologna e provincia",
+   "ogImage": "https://www.abitabologna.it/wp-content/uploads/abit_15595_21.jpg",
+   "ogDesc": "4 locali Fossolo Affitto – Via Misa In condominio ben tenuto, nel verde , comodo appartamento per studenti ampio e silenzioso, al secondo piano con ascensore, completamente arredato composto da: ingresso, cucina abitabile, tre grandi camere, due bagni, tre balconi. Riscaldamento centralizzato, aria condizionata, euro 1200 al mese",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/\",\"url\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/\",\"name\":\"Appartamento in Vendita a Bologna - Rif. AB1C61133 - Abita Servizi Immobiliari | Bologna e provincia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_15595_21.jpg\",\"datePublished\":\"2026-10-22T10:33:00+00:00\",\"dateModified\":\"2026-11-04T12:33:41+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/#primaryimage\",\"url\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_15595_21.jpg\",\"contentUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_15595_21.jpg\",\"width\":1200,\"height\":933},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61133\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.abitabologna.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Propriet&#224;\",\"item\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61133\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\",\"url\":\"https:\\/\\/www.abitabologna.it\\/\",\"name\":\"Abita Servizi Immobiliari | Bologna e provincia\",\"description\":\"Servizi Immobiliari\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.abitabologna.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}\n{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"RealEstateListing\",\n    \"inLanguage\": \"it-IT\",\n    \"name\": \"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61133\",\n    \"description\": \"4 locali Fossolo Affitto - Via Misa In condominio ben tenuto, nel verde , comodo appartamento per studenti ampio e silenzioso, al secondo piano con ascensore, completamente arredato composto da: ingresso, cucina abitabile, tre grandi camere, due bagni, tre balconi. Riscaldamento centralizzato, aria condizionata, euro 1200 al mese\",\n    \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61133/\",\n    \"image\": [\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_21.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_9.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_11.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_10.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_8.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_20.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_6.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_7.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_5.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_4.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_3.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_1.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559516.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_18.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1559571.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_15.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_16.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_2.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15595_14.jpg\"\n    ],\n    \"numberOfBedrooms\": 3,\n    \"numberOfBathroomsTotal\": 2,\n    \"floorSize\": {\n        \"@type\": \"QuantitativeValue\",\n        \"value\": 1,\n        \"unitText\": \"SQM\"\n    },\n    \"yearBuilt\": 1970,\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Via misa\",\n        \"addressLocality\": \"Bologna\",\n        \"postalCode\": \"40100\",\n        \"addressCountry\": \"Italy\"\n    },\n    \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 44.484352,\n        \"longitude\": 11.383361\n    },\n    \"offers\": {\n        \"@type\": \"Offer\",\n        \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61133/\",\n        \"priceCurrency\": \"USD\",\n        \"price\": 1200,\n        \"priceValidUntil\": \"2026-12-31\",\n        \"availability\": \"https://schema.org/InStock\",\n        \"seller\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Abita Servizi Immobiliari\",\n            \"url\": \"https://www.abitabologna.it/agency/admin62/\",\n            \"telephone\": \"+390516360725\"\n        }\n    }\n}",
+   "imgs": [
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_20.jpg",
+     "w": 1200,
+     "h": 1157,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_21.jpg",
+     "w": 1200,
+     "h": 933,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_9.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_11.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_10.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_8.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_21-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "descBlock": "4 locali Fossolo Affitto – Via Misa In condominio ben tenuto, nel verde , comodo appartamento per studenti ampio e silenzioso, al secondo piano con ascensore, completamente arredato composto da: ingresso, cucina abitabile, tre grandi camere, due bagni, tre balconi. Riscaldamento centralizzato, aria condizionata, euro 1200 al mese",
+   "text": "051 6360725\ninfo@abitabologna.it\nHOME\nVENDI CASA A BOLOGNA\nIMMOBILI\nSERVIZI\nCHI SIAMO\nCONTATTI\nHome\nAppartamento\nAppartamento in Vendita a Bologna – Rif. AB1C61133\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61133\nVia misa, Bologna\nVENDITA\n€ 1.200\nPANORAMICA\nAppartamento\nTipologia\n3\nCamere\n2\nBagni\n1 m²\nSuperficie\nDESCRIZIONE\n\n4 locali Fossolo Affitto – Via Misa In condominio ben tenuto, nel verde , comodo appartamento per studenti ampio e silenzioso, al secondo piano con ascensore, completamente arredato composto da: ingresso, cucina abitabile, tre grandi camere, due bagni, tre balconi. Riscaldamento centralizzato, aria condizionata, euro 1200 al mese\n\nINDIRIZZO\n Apri su Google Maps\nIndirizzo:\nVia misa\nCittà:\nBologna\nCAP:\n40100\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nDETTAGLI\nPrezzo\n€ 1.200\nSuperficie\n1 m²\nCamere\n3\nLocali\n4\nBagni\n2\nAnno di costruzione\n1970\nTipologia\nAppartamento\nContratto\nVendita\nCARATTERISTICHE\n2° piano\nAscensore\nBuono stato di conservazione\nGiardino condiviso\nCALCOLO MUTUO\n€ 5,57\nMensile\n Acconto\n€ 240,00\n Ammontare del prestito\n€ 960,00\n Rata mensile\n€ 5,57\nImporto totale\n€\nAcconto\n%\nTasso d'interesse\n%\nDurata del mutuo\nALTRE PROPOSTE\nVENDITA\n€ 1.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084\nVia Emilia Levante, Bologna\n1\n1\n58\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 255.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131\nVia S. Donato, Bologna\n2\n1\n74\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 235.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538\nVia Pellizza da Volpedo, Bologna\n2\n1\n83\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122\nVia VIZZANI, Bologna\n1\n1\n84\nm²\nAPPARTAMENTO\nDETTAGLI\nInviando questo modulo accetto l'informativa privacy\nINVIA\nCHIAMA\n\nDa oltre 25 anni, la nostra agenzia tutta al femminile si occupa di compravendite e locazioni residenziali a Bologna e provincia.\n\nMENÙ\nHome\nVendi casa a Bologna e provincia\nTutte le proposte\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nSERVIZI\nServizi per la vendita a Bologna\nServizi per l’acquisto a Bologna\nServizi per l’affitto a Bologna\nIl nostro Open House\nCONTATTI\nVia L. Bassi Veratti, 25/b\n40135 - Bologna\n051 6360725\n340 8675123\ninfo@abitabologna.it\nSEGUICI SUI SOCIAL\nFacebook-f\n \nInstagram\n\n©2025 Abita S.r.l. Tutti i diritti riservati | P.IVA:02294651209\n| Informativa Privacy | Cookie Policy | Made with Love by Naytes",
+   "parsed": {
+    "prezzo": "€ 1.200",
+    "mq": "DESCRIZIONE",
+    "locali": "4",
+    "camere": "2",
+    "bagni": "1 m²",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_21.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_20.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_21.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_9.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_11.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_10.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_8.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15595_21-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://www.abitabologna.it/wp-content/uploads/abit_15595_21.jpg"
+  },
+  {
+   "url": "https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61108/",
+   "title": "Appartamento in Vendita a Bologna - Rif. AB1C61108 - Abita Servizi Immobiliari | Bologna e provincia",
+   "h1": "APPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61108",
+   "h2": [
+    "PANORAMICA",
+    "DESCRIZIONE",
+    "INDIRIZZO",
+    "DETTAGLI",
+    "CARATTERISTICHE",
+    "CLASSE ENERGETICA"
+   ],
+   "ogTitle": "Appartamento in Vendita a Bologna - Rif. AB1C61108 - Abita Servizi Immobiliari | Bologna e provincia",
+   "ogImage": "https://www.abitabologna.it/wp-content/uploads/abit_1557088.jpg",
+   "ogDesc": "Casteldebole – Via Enrico De Nicola. In zona servitissima, nel cuore del quartiere Casteldebole e in un contesto ricco di aree verdi, proponiamo in vendita un ampio appartamento di 107 mq, perfetto per famiglie alla ricerca di spazio e comfort. La posizione è particolarmente comoda: la stazione ferroviaria e le scuole sono raggiungibili a piedi […]",
+   "desc": null,
+   "ld": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/\",\"url\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/\",\"name\":\"Appartamento in Vendita a Bologna - Rif. AB1C61108 - Abita Servizi Immobiliari | Bologna e provincia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1557088.jpg\",\"datePublished\":\"2026-10-22T10:33:00+00:00\",\"dateModified\":\"2026-11-04T12:33:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/#breadcrumb\"},\"inLanguage\":\"it-IT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"it-IT\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/#primaryimage\",\"url\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1557088.jpg\",\"contentUrl\":\"https:\\/\\/www.abitabologna.it\\/wp-content\\/uploads\\/abit_1557088.jpg\",\"width\":1200,\"height\":900},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/appartamento-in-vendita-a-bologna-rif-ab1c61108\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.abitabologna.it\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Propriet&#224;\",\"item\":\"https:\\/\\/www.abitabologna.it\\/immobili\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61108\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.abitabologna.it\\/#website\",\"url\":\"https:\\/\\/www.abitabologna.it\\/\",\"name\":\"Abita Servizi Immobiliari | Bologna e provincia\",\"description\":\"Servizi Immobiliari\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.abitabologna.it\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"it-IT\"}]}\n{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"RealEstateListing\",\n    \"inLanguage\": \"it-IT\",\n    \"name\": \"Appartamento in Vendita a Bologna &#8211; Rif. AB1C61108\",\n    \"description\": \"Casteldebole &#8211; Via Enrico De Nicola. In zona servitissima, nel cuore del quartiere Casteldebole e in un contesto ricco di aree verdi, proponiamo in vendita un ampio appartamento di 107 mq, perfetto per famiglie alla ricerca di spazio e comfort. La posizione &#232; particolarmente comoda: la stazione ferroviaria e le scuole sono raggiungibili a piedi in circa 5 minuti, mentre il centro commerciale e il supermercato si trovano sotto casa. Nelle immediate vicinanze &#232; presente anche la fermata dell&#8217;autobus della linea 19, che attraversa la citt&#224; e collega comodamente con il centro. L'immobile &#232; posto al dodicesimo piano di un condominio anni &#8217;80 di quindici piani, in ordine e servito da due ascensori. Gli ambienti sono cos&#236; disposti: ingresso su ampia zona giorno open space con cucina a vista, veranda, disimpegno, tre camere da letto, antibagno e due bagni. Il piano alto e la doppia esposizione contribuiscono a garantire privacy ed una piacevole luminosit&#224; agli ambienti. L'appartamento &#232; dotato di infissi in alluminio anodizzato con doppio vetro, porta blindata, pavimentazione in ceramica e riscaldamento autonomo. Completano la propriet&#224; una cantina e un posto auto coperto di propriet&#224;, incluso nel prezzo. Il condominio dispone inoltre di posti auto non assegnati ad uso condominiale e di un giardino comune con area giochi, ideale per le famiglie con bambini. Le spese condominiali ammontano a circa 90 euro mensili. L&#8217;appartamento &#232; libero da subito. Una soluzione ideale per chi desidera vivere in un quartiere verde e ben collegato, con scuole, trasporti e principali servizi a portata di mano, in un contesto adatto alle esigenze di una famiglia. Euro 278.000,00\",\n    \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61108/\",\n    \"image\": [\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557088.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557069.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557033.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15570.png\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557082.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557031.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557045.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557028.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_155702797.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15570.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557053.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557074.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557027.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557038.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557036.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557089.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557022.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557092.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557080.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557056.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557044.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557062.jpg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557056.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_15570.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557047.jpeg\",\n        \"https://www.abitabologna.it/wp-content/uploads/abit_1557057.jpeg\"\n    ],\n    \"numberOfBedrooms\": 3,\n    \"numberOfBathroomsTotal\": 2,\n    \"floorSize\": {\n        \"@type\": \"QuantitativeValue\",\n        \"value\": 107,\n        \"unitText\": \"SQM\"\n    },\n    \"yearBuilt\": 1980,\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Via Enrico de Nicola\",\n        \"addressLocality\": \"Bologna\",\n        \"postalCode\": \"40100\",\n        \"addressCountry\": \"Italy\"\n    },\n    \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 44.503787,\n        \"longitude\": 11.278296\n    },\n    \"offers\": {\n        \"@type\": \"Offer\",\n        \"url\": \"https://www.abitabologna.it/immobili/appartamento-in-vendita-a-bologna-rif-ab1c61108/\",\n        \"priceCurrency\": \"USD\",\n        \"price\": 278000,\n        \"priceValidUntil\": \"2026-12-31\",\n        \"availability\": \"https://schema.org/InStock\",\n        \"seller\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Abita Servizi Immobiliari\",\n            \"url\": \"https://www.abitabologna.it/agency/admin62/\",\n            \"telephone\": \"+390516360725\"\n        }\n    }\n}",
+   "imgs": [
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1557088.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1557069.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1557033.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_15570.png",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1557082.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    },
+    {
+     "src": "https://www.abitabologna.it/wp-content/uploads/abit_1557031.jpg",
+     "w": 1200,
+     "h": 900,
+     "rw": 1050
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557088-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "descBlock": "Per attivare il trascinamento con la tastiera, premi Alt + Invio. Nello stato di trascinamento con la tastiera, utilizza i tasti Freccia per spostare l'indicatore. Per completare il trascinamento, premi il tasto Invio. Per annullare, premi Esc.",
+   "text": "051 6360725\ninfo@abitabologna.it\nHOME\nVENDI CASA A BOLOGNA\nIMMOBILI\nSERVIZI\nCHI SIAMO\nCONTATTI\nHome\nAppartamento\nAppartamento in Vendita a Bologna – Rif. AB1C61108\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61108\nVia Enrico de Nicola, Bologna\nVENDITA\n€ 278.000\nPANORAMICA\nAppartamento\nTipologia\n3\nCamere\n2\nBagni\n107 m²\nSuperficie\nDESCRIZIONE\n\nCasteldebole – Via Enrico De Nicola. In zona servitissima, nel cuore del quartiere Casteldebole e in un contesto ricco di aree verdi, proponiamo in vendita un ampio appartamento di 107 mq, perfetto per famiglie alla ricerca di spazio e comfort. La posizione è particolarmente comoda: la stazione ferroviaria e le scuole sono raggiungibili a piedi in circa 5 minuti, mentre il centro commerciale e il supermercato si trovano sotto casa. Nelle immediate vicinanze è presente anche la fermata dell’autobus della linea 19, che attraversa la città e collega comodamente con il centro. L’immobile è posto al dodicesimo piano di un condominio anni ’80 di quindici piani, in ordine e servito da due ascensori. Gli ambienti sono così disposti: ingresso su ampia zona giorno open space con cucina a vista, veranda, disimpegno, tre camere da letto, antibagno e due bagni. Il piano alto e la doppia esposizione contribuiscono a garantire privacy ed una piacevole luminosità agli ambienti. L’appartamento è dotato di infissi in alluminio anodizzato con doppio vetro, porta blindata, pavimentazione in ceramica e riscaldamento autonomo. Completano la proprietà una cantina e un posto auto coperto di proprietà, incluso nel prezzo. Il condominio dispone inoltre di posti auto non assegnati ad uso condominiale e di un giardino comune con area giochi, ideale per le famiglie con bambini. Le spese condominiali ammontano a circa 90 euro mensili. L’appartamento è libero da subito. Una soluzione ideale per chi desidera vivere in un quartiere verde e ben collegato, con scuole, trasporti e principali servizi a portata di mano, in un contesto adatto alle esigenze di una famiglia. Euro 278.000,00\n\nINDIRIZZO\n Apri su Google Maps\nIndirizzo:\nVia Enrico de Nicola\nCittà:\nBologna\nCAP:\n40100\nMappa\nSatellite\nScorciatoie da tastiera\nDati mappa ©2026 Google\nTermini\nSegnala un errore nella mappa\nDETTAGLI\nPrezzo\n€ 278.000\nSuperficie\n107 m²\nCamere\n3\nLocali\n5\nBagni\n2\nAnno di costruzione\n1980\nTipologia\nAppartamento\nContratto\nVendita\nRiscaldamento\nIndependente\nCARATTERISTICHE\n12° piano\nAscensore\nBuono stato di conservazione\nGiardino condiviso\nImmobile libero\npiani dell'edificio: 15\nCLASSE ENERGETICA\nClasse Energetica:\nG\nCALCOLO MUTUO\n€ 1.289,83\nMensile\n Acconto\n€ 55.600,00\n Ammontare del prestito\n€ 222.400,00\n Rata mensile\n€ 1.289,83\nImporto totale\n€\nAcconto\n%\nTasso d'interesse\n%\nDurata del mutuo\nALTRE PROPOSTE\nVENDITA\n€ 1.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61084\nVia Emilia Levante, Bologna\n1\n1\n58\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 255.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61131\nVia S. Donato, Bologna\n2\n1\n74\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 235.000\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C60538\nVia Pellizza da Volpedo, Bologna\n2\n1\n83\nm²\nAPPARTAMENTO\nDETTAGLI\nVENDITA\n€ 1.200\nAPPARTAMENTO IN VENDITA A BOLOGNA – RIF. AB1C61122\nVia VIZZANI, Bologna\n1\n1\n84\nm²\nAPPARTAMENTO\nDETTAGLI\nInviando questo modulo accetto l'informativa privacy\nINVIA\nCHIAMA\n\nDa oltre 25 anni, la nostra agenzia tutta al femminile si occupa di compravendite e locazioni residenziali a Bologna e provincia.\n\nMENÙ\nHome\nVendi casa a Bologna e provincia\nTutte le proposte\nImmobili in vendita\nImmobili in affitto\nChi siamo\nContatti\nSERVIZI\nServizi per la vendita a Bologna\nServizi per l’acquisto a Bologna\nServizi per l’affitto a Bologna\nIl nostro Open House\nCONTATTI\nVia L. Bassi Veratti, 25/b\n40135 - Bologna\n051 6360725\n340 8675123\ninfo@abitabologna.it\nSEGUICI SUI SOCIAL\nFacebook-f\n \nInstagram\n\n©2025 Abita S.r.l. Tutti i diritti riservati | P.IVA:02294651209\n| Informativa Privacy | Cookie Policy | Made with Love by Naytes",
+   "parsed": {
+    "prezzo": "€ 278.000",
+    "mq": "DESCRIZIONE",
+    "locali": "5",
+    "camere": "2",
+    "bagni": "107 m²",
+    "piano": null,
+    "classe_energetica": "Classe Energetica:",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557088.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557088.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557069.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557033.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_15570.png",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557082.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557031.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/abit_1557088-1170x785.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/favicon-abita.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-32x32.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-192x192.jpg",
+    "https://www.abitabologna.it/wp-content/uploads/2025/07/cropped-favicon-abita-180x180.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://www.abitabologna.it/wp-content/uploads/abit_1557088.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.abitabologna.it/wp-content/uploads/Logo-abita-neg-1.png",
+  "size": 9996
+ }
+}

@@ -1,0 +1,681 @@
+{
+ "cfg": {
+  "slug": "gruppo-immobiliare-macchelli",
+  "nome": "Gruppo Immobiliare Macchelli",
+  "home": "https://www.macchelli.it/",
+  "index": [
+   "https://www.macchelli.it/ita/immobili-recenti"
+  ],
+  "rx": "/ita/immobile/[0-9]+-",
+  "n": 6
+ },
+ "home": {
+  "title": "Gruppo Immobiliare Macchelli",
+  "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+  "emails": [
+   "bazzano@macchelli.it",
+   "zola@macchelli.it",
+   "casalecchio@macchelli.it"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.macchelli.it/img/logo.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(1, 22, 49)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Nunito, sans-serif"
+  },
+  "header": null,
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Nunito, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(255, 255, 255)",
+   "font": "Nunito, sans-serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "Nunito, sans-serif"
+  },
+  "btnBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    7
+   ],
+   [
+    "rgb(234, 239, 242)",
+    4
+   ],
+   [
+    "rgb(0, 158, 223)",
+    3
+   ],
+   [
+    "rgb(45, 65, 86)",
+    2
+   ]
+  ],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    139
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(1, 22, 49)",
+    5
+   ],
+   [
+    "rgb(240, 244, 247)",
+    3
+   ],
+   [
+    "rgb(0, 158, 223)",
+    2
+   ],
+   [
+    "rgb(145, 158, 166)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.15)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.3)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(0, 158, 223)",
+    3
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 0, 238)",
+    11
+   ],
+   [
+    "rgb(255, 255, 255)",
+    11
+   ],
+   [
+    "rgb(45, 65, 86)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "Nunito, sans-serif",
+    39
+   ],
+   [
+    "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    2
+   ]
+  ],
+  "heads": [
+   "DA OLTRE 50 ANNI Per chi cerca e vende casa",
+   "Trova il tuo immobile"
+  ],
+  "addr": null,
+  "final": "https://www.macchelli.it/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.macchelli.it/ita/immobile/5831-appartamento-3-camere-in-vendita-a-valsamoggia-bazzano",
+  "https://www.macchelli.it/ita/immobile/5815-appartamento-3-camere-in-vendita-a-zola-predosa-ponte-ronca",
+  "https://www.macchelli.it/ita/immobile/5832-villetta-a-schiera-in-vendita-a-casalecchio-di-reno-lido",
+  "https://www.macchelli.it/ita/immobile/5813-appartamento-2-camere-in-vendita-a-monte-san-pietro-calderino",
+  "https://www.macchelli.it/ita/immobile/5811-appartamento-2-camere-in-vendita-a-casalecchio-di-reno-garibaldi",
+  "https://www.macchelli.it/ita/immobile/5810-appartamento-2-camere-in-vendita-a-zola-predosa",
+  "https://www.macchelli.it/ita/immobile/5808-capannone-artigianale-in-affitto-a-valsamoggia-bazzano",
+  "https://www.macchelli.it/ita/immobile/5807-capannone-artigianale-in-vendita-a-valsamoggia-monteveglio",
+  "https://www.macchelli.it/ita/immobile/5832-VILLETTA-A-SCHIERA-in-vendita-a-Casalecchio-di-Reno-Lido",
+  "https://www.macchelli.it/ita/immobile/5831-APPARTAMENTO-3-camere-in-vendita-a-Valsamoggia-Bazzano",
+  "https://www.macchelli.it/ita/immobile/5815-APPARTAMENTO-3-camere-in-vendita-a-Zola-Predosa-Ponte-Ronca",
+  "https://www.macchelli.it/ita/immobile/5813-APPARTAMENTO-2-camere-in-vendita-a-Monte-San-Pietro-Calderino",
+  "https://www.macchelli.it/ita/immobile/5811-APPARTAMENTO-2-camere-in-vendita-a-Casalecchio-di-Reno-Garibaldi",
+  "https://www.macchelli.it/ita/immobile/5810-APPARTAMENTO-2-camere-in-vendita-a-Zola-Predosa",
+  "https://www.macchelli.it/ita/immobile/5808-CAPANNONE-Artigianale-in-affitto-a-Valsamoggia-Bazzano",
+  "https://www.macchelli.it/ita/immobile/5807-CAPANNONE-Artigianale-in-vendita-a-Valsamoggia-Monteveglio"
+ ],
+ "listings": [
+  {
+   "url": "https://www.macchelli.it/ita/immobile/5831-appartamento-3-camere-in-vendita-a-valsamoggia-bazzano",
+   "title": "Codice B198 APPARTAMENTO, 3 camere in vendita a Valsamoggia | Gruppo Immobiliare Macchelli",
+   "h1": "Rif. B198\nAPPARTAMENTO, 3 camere in vendita a Valsamoggia\n€ 269.000",
+   "h2": [
+    "APPARTAMENTO, 3 camere in vendita a Valsamoggia\n\t\t    € 269.000",
+    "Agenzia di riferimento",
+    "Richiedi informazioni",
+    "Sede VALSAMOGGIA - BAZZANO",
+    "",
+    "filiale ZOLA PREDOSA"
+   ],
+   "ogTitle": "APPARTAMENTO, 3 camere in vendita a Valsamoggia | Gruppo Immobiliare Macchelli",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg",
+   "ogDesc": "RIF. B198 VALSAMOGGIA (Loc. BAZZANO) In zona centrale, splendido APPARTAMENTO in classe energetica 'A2'  di generose dimensioni completamente RISTRUTTURATO a NUOVO nel 2025. Situato al 1° piano di una palazzina di sole quattro unità, composto da: ampio salone, cucina abitabile, entrambi dotati di accesso ad un ampio BALCONE,  3 CAMERE da letto, una dotata di secondo BALCONE e una di CABINA ARMADIO, 2 BAGNI.\nL'immobile è dotato di cappotto termico interno, infissi triplo vetro, zanzariere e tapparelle elettriche, sistema di climatizzazione autonomo caldo/freddo con pompa di calore e riscaldamento a pavimento.\nAl piano terra CANTINA, GARAGE e POSTO AUTO assegnato.\nA.P. Energetica classe 'A2' Eptot 58.89 kWh/mq/anno.\nNOSTRA ESCLUSIVA - € 269.000 - Uff. di Bazzano tel. 051832830 email bazzano@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.",
+   "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy2Njgy5O2M61MTtp0ZDo1cMjky0OTtlbeHQ6banBn2O3Y65MTt31OjE70Y29tccDox0/450/0/52929.jpg",
+     "w": 344,
+     "h": 450,
+     "rw": 0
+    },
+    {
+     "src": "https://www.macchelli.it//img/errormod.png",
+     "w": 20,
+     "h": 20,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy0NjgycO2M63MTtpdZDo1cMjkw1NztlceHQ68anBn0O3Y6cMTt33OjE7dY29tccDox1/r/0/52907.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgybO2M63MTtp4ZDo19MjkzbMTtl0eHQ6banBn6O3Y6bMTt33OjE74Y29t9cDoxb/r/0/52931.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy0O2M64MTtp1ZDo11Mjg5aNjtl4eHQ62anBn7O3Y60MTt34OjE71Y29t1cDoxa/r/0/52896.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M61MTtpcZDo17Mjkx5OTtl1eHQ62anBn2O3Y67MTt31OjE7cY29t7cDox5/r/0/52919.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgyfO2M62MTtpcZDo11MjkybNDtl1eHQ65anBn6O3Y6fMTt32OjE7cY29t1cDoxb/r/0/52924.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy0NjgycO2M63MTtpdZDo1cMjkw1NztlceHQ68anBn0O3Y6cMTt33OjE7dY29tccDox1/r/0/52907.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgybO2M63MTtp4ZDo19MjkzbMTtl0eHQ6banBn6O3Y6bMTt33OjE74Y29t9cDoxb/r/0/52931.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy0O2M64MTtp1ZDo11Mjg5aNjtl4eHQ62anBn7O3Y60MTt34OjE71Y29t1cDoxa/r/0/52896.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M61MTtpcZDo17Mjkx5OTtl1eHQ62anBn2O3Y67MTt31OjE7cY29t7cDox5/r/0/52919.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgyfO2M62MTtpcZDo11MjkybNDtl1eHQ65anBn6O3Y6fMTt32OjE7cY29t1cDoxb/r/0/52924.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNjgy7O2M6aMTtp1ZDo18Mjkx3MTtlbeHQ6fanBncO3Y67MTt3aOjE71Y29t8cDox3/r/0/52911.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy3O2M68MTtp2ZDo13MjkwfNTtl0eHQ68anBnfO3Y63MTt38OjE72Y29t3cDoxf/r/0/52905.jpg"
+   ],
+   "descBlock": "filiale CASALECCHIO di RENO\n\t\t                            Via Bazzanese n° 6/3Casalecchio di Reno, 40033\n\t\t                            P.IVA: 01937761201",
+   "text": "HOME\nIMMOBILI\n \nCHI SIAMO\nSERVIZI\n \nCONTATTI\nRif. B198\nAPPARTAMENTO, 3 camere in vendita a Valsamoggia\n€ 269.000\nPrevious\nNext\nPrevious\nNext\n Descrizione  Caratteristiche  Planimetrie  Mappa\n\nRIF. B198 VALSAMOGGIA (Loc. BAZZANO) In zona centrale, splendido APPARTAMENTO in classe energetica \"A2\" di generose dimensioni completamente RISTRUTTURATO a NUOVO nel 2025. Situato al 1° piano di una palazzina di sole quattro unità, composto da: ampio salone, cucina abitabile, entrambi dotati di accesso ad un ampio BALCONE, 3 CAMERE da letto, una dotata di secondo BALCONE e una di CABINA ARMADIO, 2 BAGNI.\nL'immobile è dotato di cappotto termico interno, infissi triplo vetro, zanzariere e tapparelle elettriche, sistema di climatizzazione autonomo caldo/freddo con pompa di calore e riscaldamento a pavimento.\nAl piano terra CANTINA, GARAGE e POSTO AUTO assegnato.\nA.P. Energetica classe \"A2\" Eptot 58.89 kWh/mq/anno.\nNOSTRA ESCLUSIVA - € 269.000 - Uff. di Bazzano tel. 051832830 email bazzano@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.\n\nAgenzia di riferimento\nSede VALSAMOGGIA\n 0039/051832830\nbazzano@macchelli.it\nRichiedi informazioni\n\n   dichiaro di aver preso visione e compreso l'informativa sulla privacy\n\nConsulenza e Valutazione gratuita del tuo immobile\nInserisci la tua richiesta\nLavora con noi\nSede VALSAMOGGIA\nSede VALSAMOGGIA - BAZZANO\nVia Circonvallazione Nord, 96\nValsamoggia, 40053\nP.IVA: 01937761201\n \n 0039/051832830\n 051/830705\n bazzano@macchelli.it\n CONTATTA L'AGENZIA\n VISUALIZZA GLI IMMOBILI\nfiliale ZOLA PREDOSA\nfiliale CASALECCHIO di RENO\nPRIVACY POLICY | COOKIE POLICY | REVOCA CONSENSI\n© 2022 . Created by SSD - Powered by AGIM\n \n🍪 Questo sito utilizza i cookie\nUtilizziamo i cookie per finalità tecniche e, con il tuo consenso, anche per altre finalità come specificato nella cookie policy. Puoi acconsentire all’utilizzo di tali tecnologie utilizzando il pulsante “Accetta”. Chiudendo questa informativa, continui senza accettare. Gestisci consensi\n\tAccetta tutto\nRifiuta tutto",
+   "parsed": {
+    "prezzo": "€ 269.000",
+    "mq": null,
+    "locali": null,
+    "camere": "3",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": "e",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgycO2M63MTtpdZDo1cMjkw1NztlceHQ68anBn0O3Y6cMTt33OjE7dY29tccDox1/r/0/52907.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgybO2M63MTtp4ZDo19MjkzbMTtl0eHQ6banBn6O3Y6bMTt33OjE74Y29t9cDoxb/r/0/52931.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy0O2M64MTtp1ZDo11Mjg5aNjtl4eHQ62anBn7O3Y60MTt34OjE71Y29t1cDoxa/r/0/52896.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M61MTtpcZDo17Mjkx5OTtl1eHQ62anBn2O3Y67MTt31OjE7cY29t7cDox5/r/0/52919.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgyfO2M62MTtpcZDo11MjkybNDtl1eHQ65anBn6O3Y6fMTt32OjE7cY29t1cDoxb/r/0/52924.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgycO2M63MTtpdZDo1cMjkw1NztlceHQ68anBn0O3Y6cMTt33OjE7dY29tccDox1/r/0/52907.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgybO2M63MTtp4ZDo19MjkzbMTtl0eHQ6banBn6O3Y6bMTt33OjE74Y29t9cDoxb/r/0/52931.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy0O2M64MTtp1ZDo11Mjg5aNjtl4eHQ62anBn7O3Y60MTt34OjE71Y29t1cDoxa/r/0/52896.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M61MTtpcZDo17Mjkx5OTtl1eHQ62anBn2O3Y67MTt31OjE7cY29t7cDox5/r/0/52919.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgyfO2M62MTtpcZDo11MjkybNDtl1eHQ65anBn6O3Y6fMTt32OjE7cY29t1cDoxb/r/0/52924.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNjgy7O2M6aMTtp1ZDo18Mjkx3MTtlbeHQ6fanBncO3Y67MTt3aOjE71Y29t8cDox3/r/0/52911.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy3O2M68MTtp2ZDo13MjkwfNTtl0eHQ68anBnfO3Y63MTt38OjE72Y29t3cDoxf/r/0/52905.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy2Njgy7O2M63MTtp7ZDo14Mjkz6MDtl0eHQ64anBn2O3Y67MTt33OjE77Y29t4cDox6/r/0/52930.jpg"
+  },
+  {
+   "url": "https://www.macchelli.it/ita/immobile/5815-appartamento-3-camere-in-vendita-a-zola-predosa-ponte-ronca",
+   "title": "Codice Z192 APPARTAMENTO, 3 camere in vendita a Zola Predosa | Gruppo Immobiliare Macchelli",
+   "h1": "Rif. Z192\nAPPARTAMENTO, 3 camere in vendita a Zola Predosa\n€ 298.000",
+   "h2": [
+    "APPARTAMENTO, 3 camere in vendita a Zola Predosa\n\t\t    € 298.000",
+    "Agenzia di riferimento",
+    "Richiedi informazioni",
+    "Sede VALSAMOGGIA - BAZZANO",
+    "",
+    "filiale ZOLA PREDOSA"
+   ],
+   "ogTitle": "APPARTAMENTO, 3 camere in vendita a Zola Predosa | Gruppo Immobiliare Macchelli",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg",
+   "ogDesc": "RIF. Z192 ZOLA PREDOSA (PONTE RONCA) In piccola palazzina situata in zona ben servita da mezzi pubblici, negozi e scuole, proponiamo in vendita elegante APPARTAMENTO al primo piano. L'immobile, luminoso e spazioso è stato ristrutturato internamente nel 2014 e le superfici sono ben distribuite in: ampia sala, cucina abitabile con BALCONE, 3 CAMERE da letto e 2 BAGNI. Completano la proprietà GARAGE e CANTINA. Riscaldamento autonomo.  A.P.E Energetica 'In fase di certificazione'  - NOSTRA ESCLUSIVA - € 298.000 Ufficio di Zola Predosa tel 051/752296 email: zola@macchelli.it \nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione..",
+   "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy3NjgyfO2M60Mjtp2ZDo12Mjc1dMjtl1eHQ6aanBn3O3Y6fMTt30OjE72Y29t2cDoxd/450/0/52752.jpg",
+     "w": 390,
+     "h": 450,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy8NjgyaO2M64Mjtp4ZDo16Mjc12MTtleeHQ6canBn8O3Y6aMTt34OjE74Y29t6cDox2/450/0/52751.jpg",
+     "w": 450,
+     "h": 390,
+     "rw": 0
+    },
+    {
+     "src": "https://www.macchelli.it//img/errormod.png",
+     "w": 20,
+     "h": 20,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy6NjgyeO2M67Mjtp6ZDo1aMjc09ODtleeHQ69anBn6O3Y6eMTt37OjE76Y29tacDox9/r/0/52748.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy1O2M61Mjtp9ZDo1eMjc0eNjtldeHQ64anBn2O3Y61MTt31OjE79Y29tecDoxe/r/0/52746.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy5O2M6fMjtpeZDo1bMjc0dNDtl7eHQ6danBn0O3Y65MTt3fOjE7eY29tbcDoxd/r/0/52744.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy8O2M66MjtpeZDo18Mjcz6MTtl4eHQ6canBn7O3Y68MTt36OjE7eY29t8cDox6/r/0/52731.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy6O2M6bMjtp8ZDo15MjcyeODtlaeHQ62anBn9O3Y66MTt3bOjE78Y29t5cDoxe/r/0/52728.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy6NjgyeO2M67Mjtp6ZDo1aMjc09ODtleeHQ69anBn6O3Y6eMTt37OjE76Y29tacDox9/r/0/52748.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy1O2M61Mjtp9ZDo1eMjc0eNjtldeHQ64anBn2O3Y61MTt31OjE79Y29tecDoxe/r/0/52746.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy5O2M6fMjtpeZDo1bMjc0dNDtl7eHQ6danBn0O3Y65MTt3fOjE7eY29tbcDoxd/r/0/52744.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy8O2M66MjtpeZDo18Mjcz6MTtl4eHQ6canBn7O3Y68MTt36OjE7eY29t8cDox6/r/0/52731.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy6O2M6bMjtp8ZDo15MjcyeODtlaeHQ62anBn9O3Y66MTt3bOjE78Y29t5cDoxe/r/0/52728.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNjgy5O2M6cMjtp0ZDo16Mjc1aMDtl8eHQ65anBncO3Y65MTt3cOjE70Y29t6cDoxa/r/0/52750.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NjgyfO2M64Mjtp9ZDo11MjczbMztl9eHQ69anBn4O3Y6fMTt34OjE79Y29t1cDoxb/r/0/52733.jpg"
+   ],
+   "descBlock": "filiale CASALECCHIO di RENO\n\t\t                            Via Bazzanese n° 6/3Casalecchio di Reno, 40033\n\t\t                            P.IVA: 01937761201",
+   "text": "HOME\nIMMOBILI\n \nCHI SIAMO\nSERVIZI\n \nCONTATTI\nRif. Z192\nAPPARTAMENTO, 3 camere in vendita a Zola Predosa\n€ 298.000\nPrevious\nNext\nPrevious\nNext\n Descrizione  Caratteristiche  Planimetrie  Mappa\n\nRIF. Z192 ZOLA PREDOSA (PONTE RONCA) In piccola palazzina situata in zona ben servita da mezzi pubblici, negozi e scuole, proponiamo in vendita elegante APPARTAMENTO al primo piano. L'immobile, luminoso e spazioso è stato ristrutturato internamente nel 2014 e le superfici sono ben distribuite in: ampia sala, cucina abitabile con BALCONE, 3 CAMERE da letto e 2 BAGNI. Completano la proprietà GARAGE e CANTINA. Riscaldamento autonomo. A.P.E Energetica \"In fase di certificazione\" - NOSTRA ESCLUSIVA - € 298.000 Ufficio di Zola Predosa tel 051/752296 email: zola@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione..\n\nAgenzia di riferimento\nfiliale ZOLA PREDOSA\n 0039/051752296\nzola@macchelli.it\nRichiedi informazioni\n\n   dichiaro di aver preso visione e compreso l'informativa sulla privacy\n\nConsulenza e Valutazione gratuita del tuo immobile\nInserisci la tua richiesta\nLavora con noi\nSede VALSAMOGGIA\nSede VALSAMOGGIA - BAZZANO\nVia Circonvallazione Nord, 96\nValsamoggia, 40053\nP.IVA: 01937761201\n \n 0039/051832830\n 051/830705\n bazzano@macchelli.it\n CONTATTA L'AGENZIA\n VISUALIZZA GLI IMMOBILI\nfiliale ZOLA PREDOSA\nfiliale CASALECCHIO di RENO\nPRIVACY POLICY | COOKIE POLICY | REVOCA CONSENSI\n© 2022 . Created by SSD - Powered by AGIM\n ",
+   "parsed": {
+    "prezzo": "€ 298.000",
+    "mq": null,
+    "locali": null,
+    "camere": "3",
+    "bagni": "2",
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NjgyaO2M64Mjtp4ZDo16Mjc12MTtleeHQ6canBn8O3Y6aMTt34OjE74Y29t6cDox2/450/0/52751.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgyeO2M67Mjtp6ZDo1aMjc09ODtleeHQ69anBn6O3Y6eMTt37OjE76Y29tacDox9/r/0/52748.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy1O2M61Mjtp9ZDo1eMjc0eNjtldeHQ64anBn2O3Y61MTt31OjE79Y29tecDoxe/r/0/52746.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy5O2M6fMjtpeZDo1bMjc0dNDtl7eHQ6danBn0O3Y65MTt3fOjE7eY29tbcDoxd/r/0/52744.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy8O2M66MjtpeZDo18Mjcz6MTtl4eHQ6canBn7O3Y68MTt36OjE7eY29t8cDox6/r/0/52731.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy6O2M6bMjtp8ZDo15MjcyeODtlaeHQ62anBn9O3Y66MTt3bOjE78Y29t5cDoxe/r/0/52728.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6NjgyeO2M67Mjtp6ZDo1aMjc09ODtleeHQ69anBn6O3Y6eMTt37OjE76Y29tacDox9/r/0/52748.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy1O2M61Mjtp9ZDo1eMjc0eNjtldeHQ64anBn2O3Y61MTt31OjE79Y29tecDoxe/r/0/52746.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy5O2M6fMjtpeZDo1bMjc0dNDtl7eHQ6danBn0O3Y65MTt3fOjE7eY29tbcDoxd/r/0/52744.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7Njgy8O2M66MjtpeZDo18Mjcz6MTtl4eHQ6canBn7O3Y68MTt36OjE7eY29t8cDox6/r/0/52731.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy6O2M6bMjtp8ZDo15MjcyeODtlaeHQ62anBn9O3Y66MTt3bOjE78Y29t5cDoxe/r/0/52728.jpg",
+    "https://static3.agimonline.com/images/4ZzoycNjgy5O2M6cMjtp0ZDo16Mjc1aMDtl8eHQ65anBncO3Y65MTt3cOjE70Y29t6cDoxa/r/0/52750.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NjgyfO2M64Mjtp9ZDo11MjczbMztl9eHQ69anBn4O3Y6fMTt34OjE79Y29t1cDoxb/r/0/52733.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M6eMjtp8ZDo12Mjcz8OTtl5eHQ66anBn0O3Y6aMTt3eOjE78Y29t2cDox8/r/0/52739.jpg"
+  },
+  {
+   "url": "https://www.macchelli.it/ita/immobile/5832-villetta-a-schiera-in-vendita-a-casalecchio-di-reno-lido",
+   "title": "Codice C214 VILLETTA A SCHIERA in vendita a Casalecchio di Reno | Gruppo Immobiliare Macchelli",
+   "h1": "Rif. C214\nVILLETTA A SCHIERA in vendita a Casalecchio di Reno\n€ 795.000",
+   "h2": [
+    "VILLETTA A SCHIERA in vendita a Casalecchio di Reno\n\t\t    € 795.000",
+    "Agenzia di riferimento",
+    "Richiedi informazioni",
+    "Sede VALSAMOGGIA - BAZZANO",
+    "",
+    "filiale ZOLA PREDOSA"
+   ],
+   "ogTitle": "VILLETTA A SCHIERA in vendita a Casalecchio di Reno | Gruppo Immobiliare Macchelli",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg",
+   "ogDesc": "RIF. C214 CASALECCHIO DI RENO (LIDO) In zona residenziale tranquilla, verde e ben servita, proponiamo AMPIA VILLETTA A SCHIERA in CLASSE ENERGETICA 'A1', disposta su 3 LIVELLI e inserita all'interno di una corte residenziale. L'immobile, caratterizzato da generose metrature e spazi ben distribuiti, è così composto: al piano terra - ingresso indipendente, GIARDINO PRIVATO, veranda, ampio soggiorno, cucina abitabile, sala da pranzo, bagno e ripostiglio. Al piano 1° - 4 CAMERE (2 matrimoniali e 2 singole) e bagno. Al piano seminterrato - ampia TAVERNA con camino, GARAGE DOPPIO con colonnina per ricarica auto elettriche, cantina, locale tecnico e ulteriori vani accessori. La proprietà è stata interessata da importanti interventi di riqualificazione energetica, tra cui cappotto termico, impianto fotovoltaico con batterie di accumulo, infissi in PVC con doppio vetro, caldaia di recente sostituzione e impianto di climatizzazione. Completano le dotazioni le inferriate al piano terra e il bagno del primo piano recentemente ristrutturato. A.P.E. Classe 'A1'. - € 795.000 Ufficio di Casalecchio tel. 051/575573 e-mail:casalecchio@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.",
+   "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy0Njgy1O2M6cMTtpcZDo11Mjk41NDtl1eHQ66anBn0O3Y61MTt3cOjE7cY29t1cDox1/450/0/52984.jpg",
+     "w": 450,
+     "h": 370,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy8Njgy1O2M69MTtpfZDo15Mjk4cNTtl7eHQ65anBn8O3Y61MTt39OjE7fY29t5cDoxc/450/0/52985.jpg",
+     "w": 450,
+     "h": 347,
+     "rw": 0
+    },
+    {
+     "src": "https://www.macchelli.it//img/errormod.png",
+     "w": 20,
+     "h": 20,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy3NjgycO2M67Mztp6ZDo1cMjk2dODtl1eHQ66anBn3O3Y6cMTt37OjE76Y29tccDoxd/r/0/52968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy9O2M6cMztp2ZDo1cMjk35NDtldeHQ6eanBn2O3Y69MTt3cOjE72Y29tccDox5/r/0/52974.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy3O2M68MztpfZDo1cMjk2dNjtl7eHQ62anBnfO3Y63MTt38OjE7fY29tccDoxd/r/0/52966.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy9O2M64Mztp5ZDo16Mjk33NTtl8eHQ66anBn1O3Y69MTt34OjE75Y29t6cDox3/r/0/52975.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy0O2M64Mztp4ZDo17Mjk1cNTtl6eHQ62anBnfO3Y60MTt34OjE74Y29t7cDoxc/r/0/52955.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy3NjgycO2M67Mztp6ZDo1cMjk2dODtl1eHQ66anBn3O3Y6cMTt37OjE76Y29tccDoxd/r/0/52968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy9O2M6cMztp2ZDo1cMjk35NDtldeHQ6eanBn2O3Y69MTt3cOjE72Y29tccDox5/r/0/52974.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy3O2M68MztpfZDo1cMjk2dNjtl7eHQ62anBnfO3Y63MTt38OjE7fY29tccDoxd/r/0/52966.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy9O2M64Mztp5ZDo16Mjk33NTtl8eHQ66anBn1O3Y69MTt34OjE75Y29t6cDox3/r/0/52975.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy0O2M64Mztp4ZDo17Mjk1cNTtl6eHQ62anBnfO3Y60MTt34OjE74Y29t7cDoxc/r/0/52955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNjgy7O2M66MztpeZDo1dMjk11Nztl5eHQ61anBneO3Y67MTt36OjE7eY29tdcDox1/r/0/52957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NjgybO2M61Mztp4ZDo18Mjk29Mjtl8eHQ61anBn8O3Y6bMTt31OjE74Y29t8cDox9/r/0/52962.jpg"
+   ],
+   "descBlock": "filiale CASALECCHIO di RENO\n\t\t                            Via Bazzanese n° 6/3Casalecchio di Reno, 40033\n\t\t                            P.IVA: 01937761201",
+   "text": "HOME\nIMMOBILI\n \nCHI SIAMO\nSERVIZI\n \nCONTATTI\nRif. C214\nVILLETTA A SCHIERA in vendita a Casalecchio di Reno\n€ 795.000\nPrevious\nNext\nPrevious\nNext\n Descrizione  Caratteristiche  Planimetrie  Mappa\n\nRIF. C214 CASALECCHIO DI RENO (LIDO) In zona residenziale tranquilla, verde e ben servita, proponiamo AMPIA VILLETTA A SCHIERA in CLASSE ENERGETICA \"A1\", disposta su 3 LIVELLI e inserita all'interno di una corte residenziale. L'immobile, caratterizzato da generose metrature e spazi ben distribuiti, è così composto: al piano terra - ingresso indipendente, GIARDINO PRIVATO, veranda, ampio soggiorno, cucina abitabile, sala da pranzo, bagno e ripostiglio. Al piano 1° - 4 CAMERE (2 matrimoniali e 2 singole) e bagno. Al piano seminterrato - ampia TAVERNA con camino, GARAGE DOPPIO con colonnina per ricarica auto elettriche, cantina, locale tecnico e ulteriori vani accessori. La proprietà è stata interessata da importanti interventi di riqualificazione energetica, tra cui cappotto termico, impianto fotovoltaico con batterie di accumulo, infissi in PVC con doppio vetro, caldaia di recente sostituzione e impianto di climatizzazione. Completano le dotazioni le inferriate al piano terra e il bagno del primo piano recentemente ristrutturato. A.P.E. Classe \"A1\". - € 795.000 Ufficio di Casalecchio tel. 051/575573 e-mail:casalecchio@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.\n\nAgenzia di riferimento\nfiliale CASALECCHIO di RENO\n 39/051575573\ncasalecchio@macchelli.it\nRichiedi informazioni\n\n   dichiaro di aver preso visione e compreso l'informativa sulla privacy\n\nConsulenza e Valutazione gratuita del tuo immobile\nInserisci la tua richiesta\nLavora con noi\nSede VALSAMOGGIA\nSede VALSAMOGGIA - BAZZANO\nVia Circonvallazione Nord, 96\nValsamoggia, 40053\nP.IVA: 01937761201\n \n 0039/051832830\n 051/830705\n bazzano@macchelli.it\n CONTATTA L'AGENZIA\n VISUALIZZA GLI IMMOBILI\nfiliale ZOLA PREDOSA\nfiliale CASALECCHIO di RENO\nPRIVACY POLICY | COOKIE POLICY | REVOCA CONSENSI\n© 2022 . Created by SSD - Powered by AGIM\n ",
+   "parsed": {
+    "prezzo": "€ 795.000",
+    "mq": null,
+    "locali": null,
+    "camere": "4",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "E",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy1O2M6cMTtpcZDo11Mjk41NDtl1eHQ66anBn0O3Y61MTt3cOjE7cY29t1cDox1/450/0/52984.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8Njgy1O2M69MTtpfZDo15Mjk4cNTtl7eHQ65anBn8O3Y61MTt39OjE7fY29t5cDoxc/450/0/52985.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NjgycO2M67Mztp6ZDo1cMjk2dODtl1eHQ66anBn3O3Y6cMTt37OjE76Y29tccDoxd/r/0/52968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy9O2M6cMztp2ZDo1cMjk35NDtldeHQ6eanBn2O3Y69MTt3cOjE72Y29tccDox5/r/0/52974.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy3O2M68MztpfZDo1cMjk2dNjtl7eHQ62anBnfO3Y63MTt38OjE7fY29tccDoxd/r/0/52966.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy9O2M64Mztp5ZDo16Mjk33NTtl8eHQ66anBn1O3Y69MTt34OjE75Y29t6cDox3/r/0/52975.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy0O2M64Mztp4ZDo17Mjk1cNTtl6eHQ62anBnfO3Y60MTt34OjE74Y29t7cDoxc/r/0/52955.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3NjgycO2M67Mztp6ZDo1cMjk2dODtl1eHQ66anBn3O3Y6cMTt37OjE76Y29tccDoxd/r/0/52968.jpg",
+    "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy9O2M6cMztp2ZDo1cMjk35NDtldeHQ6eanBn2O3Y69MTt3cOjE72Y29tccDox5/r/0/52974.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy3O2M68MztpfZDo1cMjk2dNjtl7eHQ62anBnfO3Y63MTt38OjE7fY29tccDoxd/r/0/52966.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy9O2M64Mztp5ZDo16Mjk33NTtl8eHQ66anBn1O3Y69MTt34OjE75Y29t6cDox3/r/0/52975.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy0O2M64Mztp4ZDo17Mjk1cNTtl6eHQ62anBnfO3Y60MTt34OjE74Y29t7cDoxc/r/0/52955.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNjgy7O2M66MztpeZDo1dMjk11Nztl5eHQ61anBneO3Y67MTt36OjE7eY29tdcDox1/r/0/52957.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NjgybO2M61Mztp4ZDo18Mjk29Mjtl8eHQ61anBn8O3Y6bMTt31OjE74Y29t8cDox9/r/0/52962.jpg"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy3Njgy1O2M6fMztpeZDo17Mjk34Nztl7eHQ62anBn3O3Y61MTt3fOjE7eY29t7cDox4/r/0/52977.jpg"
+  },
+  {
+   "url": "https://www.macchelli.it/ita/immobile/5813-appartamento-2-camere-in-vendita-a-monte-san-pietro-calderino",
+   "title": "Codice Z130 APPARTAMENTO, 2 camere in vendita a Monte San Pietro | Gruppo Immobiliare Macchelli",
+   "h1": "Rif. Z130\nAPPARTAMENTO, 2 camere in vendita a Monte San Pietro\n€ 216.000",
+   "h2": [
+    "APPARTAMENTO, 2 camere in vendita a Monte San Pietro\n\t\t    € 216.000",
+    "Agenzia di riferimento",
+    "Richiedi informazioni",
+    "Sede VALSAMOGGIA - BAZZANO",
+    "",
+    "filiale ZOLA PREDOSA"
+   ],
+   "ogTitle": "APPARTAMENTO, 2 camere in vendita a Monte San Pietro | Gruppo Immobiliare Macchelli",
+   "ogImage": "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg",
+   "ogDesc": "RIF. Z130 MONTE SAN PIETRO (CALDERINO): In palazzina già dotata di CAPPOTTO TERMICO ed ASCENSORE, situata in zona comoda a tutti i servizi, proponiamo in vendita APPARTAMENTO LIBERO al 3° piano e composto da: soggiorno con cucina a vista, BALCONE, 2 CAMERE MATRIMONIALI, bagno, CANTINA ed AMPIO GARAGE. L'immobile è dotato di recenti infissi doppio vetro, porta blindata ed aria condizionata, riscaldamento già dotato di conta calorie. \nA.P.E. 'in fase di certificazione'. - NOSTRA ESCLUSIVA - € 216.000.00 Ufficio di Zola Predosa tel. 051/752296 e-mail: zola@macchelli.it \nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.",
+   "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy6Njgy7O2M62MTtp9ZDo19Mjg09NTtlfeHQ63anBn6O3Y67MTt32OjE79Y29t9cDox9/450/0/52845.jpg",
+     "w": 450,
+     "h": 403,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy0NjgyfO2M68MTtpcZDo15Mjg00NDtleeHQ64anBn0O3Y6fMTt38OjE7cY29t5cDox0/450/0/52844.jpg",
+     "w": 386,
+     "h": 450,
+     "rw": 0
+    },
+    {
+     "src": "https://static3.agimonline.com/images/4Zzoy6NjgydO2M68MTtp4ZDo17Mjg03Mztl9eHQ6fanBn6O3Y6dMTt38OjE74Y29t7cDox3/450/0/52843.jpg",
+     "w": 385,
+     "h": 450,
+     "rw": 0
+    },
+    {
+     "src": "https://www.macchelli.it//img/errormod.png",
+     "w": 20,
+     "h": 20,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy1NjgybO2M6bMjtpcZDo1aMjcw9MDtlaeHQ65anBn1O3Y6bMTt3bOjE7cY29tacDox9/b/0/52700.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy1O2M68MjtpaZDo14MjY4fOTtldeHQ62anBn1O3Y61MTt38OjE7aY29t4cDoxf/b/0/52689.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNjgyeO2M65Mjtp6ZDo13MjY48ODtlbeHQ65anBndO3Y6eMTt35OjE76Y29t3cDox8/b/0/52688.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNjgy8O2M65MjtpcZDo18MjY4bNjtl8eHQ68anBnaO3Y68MTt35OjE7cY29t8cDoxb/b/0/52686.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy5O2M63Mjtp6ZDo1dMjcwbMjtl5eHQ67anBn9O3Y65MTt33OjE76Y29tdcDoxb/b/0/52702.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy1NjgybO2M6bMjtpcZDo1aMjcw9MDtlaeHQ65anBn1O3Y6bMTt3bOjE7cY29tacDox9/b/0/52700.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy1O2M68MjtpaZDo14MjY4fOTtldeHQ62anBn1O3Y61MTt38OjE7aY29t4cDoxf/b/0/52689.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNjgyeO2M65Mjtp6ZDo13MjY48ODtlbeHQ65anBndO3Y6eMTt35OjE76Y29t3cDox8/b/0/52688.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNjgy8O2M65MjtpcZDo18MjY4bNjtl8eHQ68anBnaO3Y68MTt35OjE7cY29t8cDoxb/b/0/52686.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy5O2M63Mjtp6ZDo1dMjcwbMjtl5eHQ67anBn9O3Y65MTt33OjE76Y29tdcDoxb/b/0/52702.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mjtp0ZDo16MjY5fMjtlceHQ6danBn0O3Y6bMTt34OjE70Y29t6cDoxf/b/0/52692.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy1O2M6eMjtpcZDo16MjY53Mztl2eHQ68anBn2O3Y61MTt3eOjE7cY29t6cDox3/b/0/52693.jpg"
+   ],
+   "descBlock": "filiale CASALECCHIO di RENO\n\t\t                            Via Bazzanese n° 6/3Casalecchio di Reno, 40033\n\t\t                            P.IVA: 01937761201",
+   "text": "HOME\nIMMOBILI\n \nCHI SIAMO\nSERVIZI\n \nCONTATTI\nRif. Z130\nAPPARTAMENTO, 2 camere in vendita a Monte San Pietro\n€ 216.000\nPrevious\nNext\nPrevious\nNext\n Descrizione  Caratteristiche  Planimetrie  Mappa\n\nRIF. Z130 MONTE SAN PIETRO (CALDERINO): In palazzina già dotata di CAPPOTTO TERMICO ed ASCENSORE, situata in zona comoda a tutti i servizi, proponiamo in vendita APPARTAMENTO LIBERO al 3° piano e composto da: soggiorno con cucina a vista, BALCONE, 2 CAMERE MATRIMONIALI, bagno, CANTINA ed AMPIO GARAGE. L'immobile è dotato di recenti infissi doppio vetro, porta blindata ed aria condizionata, riscaldamento già dotato di conta calorie.\nA.P.E. \"in fase di certificazione\". - NOSTRA ESCLUSIVA - € 216.000.00 Ufficio di Zola Predosa tel. 051/752296 e-mail: zola@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.\n\nAgenzia di riferimento\nfiliale ZOLA PREDOSA\n 0039/051752296\nzola@macchelli.it\nRichiedi informazioni\n\n   dichiaro di aver preso visione e compreso l'informativa sulla privacy\n\nConsulenza e Valutazione gratuita del tuo immobile\nInserisci la tua richiesta\nLavora con noi\nSede VALSAMOGGIA\nSede VALSAMOGGIA - BAZZANO\nVia Circonvallazione Nord, 96\nValsamoggia, 40053\nP.IVA: 01937761201\n \n 0039/051832830\n 051/830705\n bazzano@macchelli.it\n CONTATTA L'AGENZIA\n VISUALIZZA GLI IMMOBILI\nfiliale ZOLA PREDOSA\nfiliale CASALECCHIO di RENO\nPRIVACY POLICY | COOKIE POLICY | REVOCA CONSENSI\n© 2022 . Created by SSD - Powered by AGIM\n \n🍪 Questo sito utilizza i cookie\nUtilizziamo i cookie per finalità tecniche e, con il tuo consenso, anche per altre finalità come specificato nella cookie policy. Puoi acconsentire all’utilizzo di tali tecnologie utilizzando il pulsante “Accetta”. Chiudendo questa informativa, continui senza accettare. Gestisci consensi\n\tAccetta tutto\nRifiuta tutto",
+   "parsed": {
+    "prezzo": "€ 216.000",
+    "mq": null,
+    "locali": null,
+    "camere": "2",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6Njgy7O2M62MTtp9ZDo19Mjg09NTtlfeHQ63anBn6O3Y67MTt32OjE79Y29t9cDox9/450/0/52845.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NjgybO2M6bMjtpcZDo1aMjcw9MDtlaeHQ65anBn1O3Y6bMTt3bOjE7cY29tacDox9/b/0/52700.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy1O2M68MjtpaZDo14MjY4fOTtldeHQ62anBn1O3Y61MTt38OjE7aY29t4cDoxf/b/0/52689.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNjgyeO2M65Mjtp6ZDo13MjY48ODtlbeHQ65anBndO3Y6eMTt35OjE76Y29t3cDox8/b/0/52688.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNjgy8O2M65MjtpcZDo18MjY4bNjtl8eHQ68anBnaO3Y68MTt35OjE7cY29t8cDoxb/b/0/52686.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy5O2M63Mjtp6ZDo1dMjcwbMjtl5eHQ67anBn9O3Y65MTt33OjE76Y29tdcDoxb/b/0/52702.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1NjgybO2M6bMjtpcZDo1aMjcw9MDtlaeHQ65anBn1O3Y6bMTt3bOjE7cY29tacDox9/b/0/52700.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy1O2M68MjtpaZDo14MjY4fOTtldeHQ62anBn1O3Y61MTt38OjE7aY29t4cDoxf/b/0/52689.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNjgyeO2M65Mjtp6ZDo13MjY48ODtlbeHQ65anBndO3Y6eMTt35OjE76Y29t3cDox8/b/0/52688.jpg",
+    "https://static3.agimonline.com/images/4ZzoyaNjgy8O2M65MjtpcZDo18MjY4bNjtl8eHQ68anBnaO3Y68MTt35OjE7cY29t8cDoxb/b/0/52686.jpg",
+    "https://static3.agimonline.com/images/4Zzoy9Njgy5O2M63Mjtp6ZDo1dMjcwbMjtl5eHQ67anBn9O3Y65MTt33OjE76Y29tdcDoxb/b/0/52702.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mjtp0ZDo16MjY5fMjtlceHQ6danBn0O3Y6bMTt34OjE70Y29t6cDoxf/b/0/52692.jpg",
+    "https://static3.agimonline.com/images/4Zzoy2Njgy1O2M6eMjtpcZDo16MjY53Mztl2eHQ68anBn2O3Y61MTt3eOjE7cY29t6cDox3/b/0/52693.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4ZzoyfNjgyfO2M6eMjtp9ZDo17MjY5eNDtldeHQ65anBnfO3Y6fMTt3eOjE79Y29t7cDoxe/b/0/52694.jpg"
+  },
+  {
+   "url": "https://www.macchelli.it/ita/immobile/5811-appartamento-2-camere-in-vendita-a-casalecchio-di-reno-garibaldi",
+   "title": "Codice C144 APPARTAMENTO, 2 camere in vendita a Casalecchio di Reno | Gruppo Immobiliare Macchelli",
+   "h1": "Rif. C144\nAPPARTAMENTO, 2 camere in vendita a Casalecchio di Reno\n€ 225.000",
+   "h2": [
+    "APPARTAMENTO, 2 camere in vendita a Casalecchio di Reno\n\t\t    € 225.000",
+    "Agenzia di riferimento",
+    "Richiedi informazioni",
+    "Sede VALSAMOGGIA - BAZZANO",
+    "",
+    "filiale ZOLA PREDOSA"
+   ],
+   "ogTitle": "APPARTAMENTO, 2 camere in vendita a Casalecchio di Reno | Gruppo Immobiliare Macchelli",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy7NjgydO2M62MztpfZDo11MjU5fMTtldeHQ6bcG5n7O3Y6dMTt32OjE7fY29t1cDoxf/b/0/52591.png",
+   "ogDesc": "Rif. C144 CASALECCHIO (GARIBALDI) In palazzina situata in zona centrale, proponiamo in vendita APPARTAMENTO al piano rialzato composto da: soggiorno con cucina a vista, 2 BALCONI, 2 CAMERE MATRIMONIALI, bagno, ripostiglio e GARAGE. Riscaldamento centralizzato già dotato di contacalorie. LIBERO.\nA.P.E. 'F' EPtot 203,30 kWh/mq/anno - NOSTRA ESCLUSIVA - € 225.000.00 Ufficio di Casalecchio tel. 051/575573 e-mail: casalecchio@macchelli.it \nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.",
+   "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoycNjgydO2M6cMztpdZDo14MjY48MztlfeHQ6canBncO3Y6dMTt3cOjE7dY29t4cDox8/450/0/52683.jpg",
+     "w": 450,
+     "h": 318,
+     "rw": 0
+    },
+    {
+     "src": "https://www.macchelli.it//img/errormod.png",
+     "w": 20,
+     "h": 20,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy8NjgydO2M69Mztp2ZDo13MjY46Mjtl6eHQ66anBn8O3Y6dMTt39OjE72Y29t3cDox6/r/0/52682.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgydO2M62MztpfZDo11MjU5fMTtldeHQ6bcG5n7O3Y6dMTt32OjE7fY29t1cDoxf/b/0/52591.png",
+    "https://static3.agimonline.com/images/4Zzoy0NjgycO2M6aMztp3ZDo14MjU56Mjtl1eHQ61cG5n0O3Y6cMTt3aOjE73Y29t4cDox6/b/0/52592.png",
+    "https://static3.agimonline.com/images/4Zzoy8Njgy4O2M6eMztpbZDo16MjY3fOTtl8eHQ6danBn8O3Y64MTt3eOjE7bY29t6cDoxf/r/0/52679.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNjgybO2M6dMztpcZDo13MjY32NTtl1eHQ65anBnbO3Y6bMTt3dOjE7cY29t3cDox2/r/0/52675.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NjgycO2M63MztpdZDo1bMjU5bMDtl1eHQ6ecG5n4O3Y6cMTt33OjE7dY29tbcDoxb/b/0/52590.png"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy8NjgydO2M69Mztp2ZDo13MjY46Mjtl6eHQ66anBn8O3Y6dMTt39OjE72Y29t3cDox6/r/0/52682.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8Njgy4O2M6eMztpbZDo16MjY3fOTtl8eHQ6danBn8O3Y64MTt3eOjE7bY29t6cDoxf/r/0/52679.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNjgybO2M6dMztpcZDo13MjY32NTtl1eHQ65anBnbO3Y6bMTt3dOjE7cY29t3cDox2/r/0/52675.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy1O2M66Mztp3ZDo16MjY31MDtl9eHQ6aanBnfO3Y61MTt36OjE73Y29t6cDox1/r/0/52670.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNjgy5O2M68Mztp8ZDo14MjY3bNDtlaeHQ69anBneO3Y65MTt38OjE78Y29t4cDoxb/r/0/52674.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNjgy6O2M6dMztp9ZDo10MjY38ODtl3eHQ6banBndO3Y66MTt3dOjE79Y29t0cDox8/r/0/52678.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6Njgy4O2M64Mztp4ZDo19MjY37MTtl8eHQ6banBn6O3Y64MTt34OjE74Y29t9cDox7/b/0/52671.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgyfO2M6eMztp5ZDo10MjU57Mztl3eHQ68anBn7O3Y6fMTt3eOjE75Y29t0cDox7/r/0/52593.jpg"
+   ],
+   "descBlock": "filiale CASALECCHIO di RENO\n\t\t                            Via Bazzanese n° 6/3Casalecchio di Reno, 40033\n\t\t                            P.IVA: 01937761201",
+   "text": "HOME\nIMMOBILI\n \nCHI SIAMO\nSERVIZI\n \nCONTATTI\nRif. C144\nAPPARTAMENTO, 2 camere in vendita a Casalecchio di Reno\n€ 225.000\nPrevious\nNext\nPrevious\nNext\n Descrizione  Caratteristiche  Planimetrie  Mappa\n\nRif. C144 CASALECCHIO (GARIBALDI) In palazzina situata in zona centrale, proponiamo in vendita APPARTAMENTO al piano rialzato composto da: soggiorno con cucina a vista, 2 BALCONI, 2 CAMERE MATRIMONIALI, bagno, ripostiglio e GARAGE. Riscaldamento centralizzato già dotato di contacalorie. LIBERO.\nA.P.E. \"F\" EPtot 203,30 kWh/mq/anno - NOSTRA ESCLUSIVA - € 225.000.00 Ufficio di Casalecchio tel. 051/575573 e-mail: casalecchio@macchelli.it\nIMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.\n\nAgenzia di riferimento\nfiliale CASALECCHIO di RENO\n 39/051575573\ncasalecchio@macchelli.it\nRichiedi informazioni\n\n   dichiaro di aver preso visione e compreso l'informativa sulla privacy\n\nConsulenza e Valutazione gratuita del tuo immobile\nInserisci la tua richiesta\nLavora con noi\nSede VALSAMOGGIA\nSede VALSAMOGGIA - BAZZANO\nVia Circonvallazione Nord, 96\nValsamoggia, 40053\nP.IVA: 01937761201\n \n 0039/051832830\n 051/830705\n bazzano@macchelli.it\n CONTATTA L'AGENZIA\n VISUALIZZA GLI IMMOBILI\nfiliale ZOLA PREDOSA\nfiliale CASALECCHIO di RENO\nPRIVACY POLICY | COOKIE POLICY | REVOCA CONSENSI\n© 2022 . Created by SSD - Powered by AGIM\n \n🍪 Questo sito utilizza i cookie\nUtilizziamo i cookie per finalità tecniche e, con il tuo consenso, anche per altre finalità come specificato nella cookie policy. Puoi acconsentire all’utilizzo di tali tecnologie utilizzando il pulsante “Accetta”. Chiudendo questa informativa, continui senza accettare. Gestisci consensi\n\tAccetta tutto\nRifiuta tutto",
+   "parsed": {
+    "prezzo": "€ 225.000",
+    "mq": null,
+    "locali": null,
+    "camere": "2",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": null,
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy7NjgydO2M62MztpfZDo11MjU5fMTtldeHQ6bcG5n7O3Y6dMTt32OjE7fY29t1cDoxf/b/0/52591.png",
+    "https://static3.agimonline.com/images/4ZzoycNjgydO2M6cMztpdZDo14MjY48MztlfeHQ6canBncO3Y6dMTt3cOjE7dY29t4cDox8/450/0/52683.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8NjgydO2M69Mztp2ZDo13MjY46Mjtl6eHQ66anBn8O3Y6dMTt39OjE72Y29t3cDox6/r/0/52682.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgydO2M62MztpfZDo11MjU5fMTtldeHQ6bcG5n7O3Y6dMTt32OjE7fY29t1cDoxf/b/0/52591.png",
+    "https://static3.agimonline.com/images/4Zzoy0NjgycO2M6aMztp3ZDo14MjU56Mjtl1eHQ61cG5n0O3Y6cMTt3aOjE73Y29t4cDox6/b/0/52592.png",
+    "https://static3.agimonline.com/images/4Zzoy8Njgy4O2M6eMztpbZDo16MjY3fOTtl8eHQ6danBn8O3Y64MTt3eOjE7bY29t6cDoxf/r/0/52679.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNjgybO2M6dMztpcZDo13MjY32NTtl1eHQ65anBnbO3Y6bMTt3dOjE7cY29t3cDox2/r/0/52675.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4NjgycO2M63MztpdZDo1bMjU5bMDtl1eHQ6ecG5n4O3Y6cMTt33OjE7dY29tbcDoxb/b/0/52590.png",
+    "https://static3.agimonline.com/images/4Zzoy8NjgydO2M69Mztp2ZDo13MjY46Mjtl6eHQ66anBn8O3Y6dMTt39OjE72Y29t3cDox6/r/0/52682.jpg",
+    "https://static3.agimonline.com/images/4Zzoy8Njgy4O2M6eMztpbZDo16MjY3fOTtl8eHQ6danBn8O3Y64MTt3eOjE7bY29t6cDoxf/r/0/52679.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNjgybO2M6dMztpcZDo13MjY32NTtl1eHQ65anBnbO3Y6bMTt3dOjE7cY29t3cDox2/r/0/52675.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy1O2M66Mztp3ZDo16MjY31MDtl9eHQ6aanBnfO3Y61MTt36OjE73Y29t6cDox1/r/0/52670.jpg",
+    "https://static3.agimonline.com/images/4ZzoyeNjgy5O2M68Mztp8ZDo14MjY3bNDtlaeHQ69anBneO3Y65MTt38OjE78Y29t4cDoxb/r/0/52674.jpg",
+    "https://static3.agimonline.com/images/4ZzoydNjgy6O2M6dMztp9ZDo10MjY38ODtl3eHQ6banBndO3Y66MTt3dOjE79Y29t0cDox8/r/0/52678.jpg",
+    "https://static3.agimonline.com/images/4Zzoy6Njgy4O2M64Mztp4ZDo19MjY37MTtl8eHQ6banBn6O3Y64MTt34OjE74Y29t9cDox7/b/0/52671.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgyfO2M6eMztp5ZDo10MjU57Mztl3eHQ68anBn7O3Y6fMTt3eOjE75Y29t0cDox7/r/0/52593.jpg"
+   ],
+   "foto": "foto-5.png",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy7NjgydO2M62MztpfZDo11MjU5fMTtldeHQ6bcG5n7O3Y6dMTt32OjE7fY29t1cDoxf/b/0/52591.png"
+  },
+  {
+   "url": "https://www.macchelli.it/ita/immobile/5810-appartamento-2-camere-in-vendita-a-zola-predosa",
+   "title": "Codice Z103 APPARTAMENTO, 2 camere in vendita a Zola Predosa | Gruppo Immobiliare Macchelli",
+   "h1": "Rif. Z103\nAPPARTAMENTO, 2 camere in vendita a Zola Predosa\n€ 245.000",
+   "h2": [
+    "APPARTAMENTO, 2 camere in vendita a Zola Predosa\n\t\t    € 245.000",
+    "Agenzia di riferimento",
+    "Richiedi informazioni",
+    "Sede VALSAMOGGIA - BAZZANO",
+    "",
+    "filiale ZOLA PREDOSA"
+   ],
+   "ogTitle": "APPARTAMENTO, 2 camere in vendita a Zola Predosa | Gruppo Immobiliare Macchelli",
+   "ogImage": "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg",
+   "ogDesc": "Rif. Z103 ZOLA PREDOSA (VIA CAVALCANTI) In palazzina già dotata di CAPPOTTO TERMICO e situata in zona comoda a tutti i servizi, proponiamo in vendita APPARTAMENTO al 2° piano in classe energetica 'A'. L'immobile è composto da sala e cucinotto con BALCONE, 2 CAMERE MATRIMONIALI, bagno, CANTINA. Già dotato di riscaldamento centralizzato con conta calorie e centrale termica nuova, climatizzatore, infissi doppio vetro nuovi e porta blindata.  A.P.E. 'A' 67,81 kWh/mq/anno' - NOSTRA ESCLUSIVA - € 245.000,00 Ufficio di Zola Predosa tel. 051/752296 e-mail: zola@macchelli.it IMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.",
+   "desc": "Agenzia immobiliare bazzano, Appartamenti zola, Casa crespellano, Casa casalecchio, Appartamenti casalecchio, Appartamenti bologna provincia, Casa bazzano",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://static3.agimonline.com/images/4ZzoyfNjgy4O2M6bMjtpcZDo19MjYw9NDtl2eHQ6eanBnfO3Y64MTt3bOjE7cY29t9cDox9/450/0/52604.jpg",
+     "w": 432,
+     "h": 450,
+     "rw": 0
+    },
+    {
+     "src": "https://www.macchelli.it//img/errormod.png",
+     "w": 20,
+     "h": 20,
+     "rw": 0
+    }
+   ],
+   "bgs": [
+    "https://static3.agimonline.com/images/4Zzoy5Njgy8O2M66MjtpaZDo1aMjY4aNTtl8eHQ61cG5n5O3Y68MTt36OjE7aY29tacDoxa/b/0/52685.png",
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M64Mjtp4ZDo1eMjY2cMjtl3eHQ68cG5n0O3Y6aMTt34OjE74Y29tecDoxc/b/0/52662.png",
+    "https://static3.agimonline.com/images/4ZzoyeNjgydO2M69MjtpfZDo15MjY29MztlbeHQ63cG5neO3Y6dMTt39OjE7fY29t5cDox9/b/0/52663.png",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy2O2M68MztpcZDo16MjYy8Mztl3eHQ6canBn5O3Y62MTt38OjE7cY29t6cDox8/r/0/52623.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgyaO2M64Mztp5ZDo19MjYy2NTtl3eHQ68anBn7O3Y6aMTt34OjE75Y29t9cDox2/r/0/52625.jpg"
+   ],
+   "dataSrc": [
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy2O2M68MztpcZDo16MjYy8Mztl3eHQ6canBn5O3Y62MTt38OjE7cY29t6cDox8/r/0/52623.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgyaO2M64Mztp5ZDo19MjYy2NTtl3eHQ68anBn7O3Y6aMTt34OjE75Y29t9cDox2/r/0/52625.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNjgyfO2M64Mztp7ZDo1bMjYw5Nztl5eHQ6danBnbO3Y6fMTt34OjE77Y29tbcDox5/r/0/52607.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy0O2M60Mjtp5ZDo1aMjY22Nztl9eHQ61anBn1O3Y60MTt30OjE75Y29tacDox2/r/0/52667.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4Njgy9O2M68Mztp7ZDo1fMjYwdODtl5eHQ6eanBn4O3Y69MTt38OjE77Y29tfcDoxd/r/0/52608.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy7O2M6cMztp2ZDo1bMjYyeNztl4eHQ63anBn0O3Y67MTt3cOjE72Y29tbcDoxe/r/0/52627.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy1O2M67Mztp1ZDo10MjYxcMTtl7eHQ64anBn5O3Y61MTt37OjE71Y29t0cDoxc/r/0/52611.jpg"
+   ],
+   "descBlock": "filiale CASALECCHIO di RENO\n\t\t                            Via Bazzanese n° 6/3Casalecchio di Reno, 40033\n\t\t                            P.IVA: 01937761201",
+   "text": "HOME\nIMMOBILI\n \nCHI SIAMO\nSERVIZI\n \nCONTATTI\nRif. Z103\nAPPARTAMENTO, 2 camere in vendita a Zola Predosa\n€ 245.000\nPrevious\nNext\nPrevious\nNext\n Descrizione  Caratteristiche  Planimetrie  Mappa\n\nRif. Z103 ZOLA PREDOSA (VIA CAVALCANTI) In palazzina già dotata di CAPPOTTO TERMICO e situata in zona comoda a tutti i servizi, proponiamo in vendita APPARTAMENTO al 2° piano in classe energetica \"A\". L'immobile è composto da sala e cucinotto con BALCONE, 2 CAMERE MATRIMONIALI, bagno, CANTINA. Già dotato di riscaldamento centralizzato con conta calorie e centrale termica nuova, climatizzatore, infissi doppio vetro nuovi e porta blindata. A.P.E. \"A\" 67,81 kWh/mq/anno\" - NOSTRA ESCLUSIVA - € 245.000,00 Ufficio di Zola Predosa tel. 051/752296 e-mail: zola@macchelli.it IMPORTANTE: le caratteristiche tecniche, la disposizione interna e gli accessori indicati, potrebbero, in alcuni casi essere diversi dall’effettivo stato di fatto dell’immobile. A causa delle difformità dei dati pubblicati dai vari portali, l’Agenzia Immobiliare declina ogni responsabilità per eventuali involontari incoerenze. Si precisa che le descrizioni sopra riportate non rappresentano alcun impegno contrattuale. Per garantire la privacy, l’indirizzo può non rispecchiare esattamente l’ubicazione dell’immobile ed è utile al solo fine di fornire un riferimento generico per la su localizzazione ed un ausilio alla consultazione.\n\nAgenzia di riferimento\nfiliale ZOLA PREDOSA\n 0039/051752296\nzola@macchelli.it\nRichiedi informazioni\n\n   dichiaro di aver preso visione e compreso l'informativa sulla privacy\n\nConsulenza e Valutazione gratuita del tuo immobile\nInserisci la tua richiesta\nLavora con noi\nSede VALSAMOGGIA\nSede VALSAMOGGIA - BAZZANO\nVia Circonvallazione Nord, 96\nValsamoggia, 40053\nP.IVA: 01937761201\n \n 0039/051832830\n 051/830705\n bazzano@macchelli.it\n CONTATTA L'AGENZIA\n VISUALIZZA GLI IMMOBILI\nfiliale ZOLA PREDOSA\nfiliale CASALECCHIO di RENO\nPRIVACY POLICY | COOKIE POLICY | REVOCA CONSENSI\n© 2022 . Created by SSD - Powered by AGIM\n \n🍪 Questo sito utilizza i cookie\nUtilizziamo i cookie per finalità tecniche e, con il tuo consenso, anche per altre finalità come specificato nella cookie policy. Puoi acconsentire all’utilizzo di tali tecnologie utilizzando il pulsante “Accetta”. Chiudendo questa informativa, continui senza accettare. Gestisci consensi\n\tAccetta tutto\nRifiuta tutto",
+   "parsed": {
+    "prezzo": "€ 245.000",
+    "mq": null,
+    "locali": null,
+    "camere": "2",
+    "bagni": null,
+    "piano": null,
+    "classe_energetica": "e",
+    "tipo": "vendita"
+   },
+   "photos": [
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg",
+    "https://static3.agimonline.com/images/4ZzoyfNjgy4O2M6bMjtpcZDo19MjYw9NDtl2eHQ6eanBnfO3Y64MTt3bOjE7cY29t9cDox9/450/0/52604.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy8O2M66MjtpaZDo1aMjY4aNTtl8eHQ61cG5n5O3Y68MTt36OjE7aY29tacDoxa/b/0/52685.png",
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgyaO2M64Mjtp4ZDo1eMjY2cMjtl3eHQ68cG5n0O3Y6aMTt34OjE74Y29tecDoxc/b/0/52662.png",
+    "https://static3.agimonline.com/images/4ZzoyeNjgydO2M69MjtpfZDo15MjY29MztlbeHQ63cG5neO3Y6dMTt39OjE7fY29t5cDox9/b/0/52663.png",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy2O2M68MztpcZDo16MjYy8Mztl3eHQ6canBn5O3Y62MTt38OjE7cY29t6cDox8/r/0/52623.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgyaO2M64Mztp5ZDo19MjYy2NTtl3eHQ68anBn7O3Y6aMTt34OjE75Y29t9cDox2/r/0/52625.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy2O2M68MztpcZDo16MjYy8Mztl3eHQ6canBn5O3Y62MTt38OjE7cY29t6cDox8/r/0/52623.jpg",
+    "https://static3.agimonline.com/images/4Zzoy7NjgyaO2M64Mztp5ZDo19MjYy2NTtl3eHQ68anBn7O3Y6aMTt34OjE75Y29t9cDox2/r/0/52625.jpg",
+    "https://static3.agimonline.com/images/4ZzoybNjgyfO2M64Mztp7ZDo1bMjYw5Nztl5eHQ6danBnbO3Y6fMTt34OjE77Y29tbcDox5/r/0/52607.jpg",
+    "https://static3.agimonline.com/images/4Zzoy1Njgy0O2M60Mjtp5ZDo1aMjY22Nztl9eHQ61anBn1O3Y60MTt30OjE75Y29tacDox2/r/0/52667.jpg",
+    "https://static3.agimonline.com/images/4Zzoy4Njgy9O2M68Mztp7ZDo1fMjYwdODtl5eHQ6eanBn4O3Y69MTt38OjE77Y29tfcDoxd/r/0/52608.jpg",
+    "https://static3.agimonline.com/images/4Zzoy0Njgy7O2M6cMztp2ZDo1bMjYyeNztl4eHQ63anBn0O3Y67MTt3cOjE72Y29tbcDoxe/r/0/52627.jpg",
+    "https://static3.agimonline.com/images/4Zzoy5Njgy1O2M67Mztp1ZDo10MjYxcMTtl7eHQ64anBn5O3Y61MTt37OjE71Y29t0cDoxc/r/0/52611.jpg"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://static3.agimonline.com/images/4Zzoy0NjgybO2M64Mztp6ZDo1dMjYweNTtl1eHQ68anBn0O3Y6bMTt34OjE76Y29tdcDoxe/r/0/52605.jpg"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.macchelli.it/img/logo.png",
+  "size": 53599
+ }
+}

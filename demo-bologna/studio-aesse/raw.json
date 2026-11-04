@@ -1,0 +1,651 @@
+{
+ "cfg": {
+  "slug": "studio-aesse",
+  "nome": "Studio Aesse Immobiliare",
+  "home": "https://www.studioaesse.com/",
+  "index": [
+   "https://www.studioaesse.com/elenco_immobili_f.asp?idm=939&idcat=R"
+  ],
+  "rx": "/immobile-[a-z0-9-]+_[a-z]+_[a-z]+_[0-9]+[.]html",
+  "n": 6
+ },
+ "home": {
+  "title": "Studio Aesse immobiliare - agenzia immobiliare a Bologna",
+  "desc": "L'agenzia immobiliare Studio Aesse si occupa della vendita e dell'affitto di immobili nella provincia di Bologna",
+  "emails": [
+   "info@studioaesse.com"
+  ],
+  "tels": [],
+  "logos": [
+   "https://www.studioaesse.com/images/logo2.png"
+  ],
+  "svgLogo": null,
+  "body": {
+   "bg": "rgb(0, 56, 128)",
+   "color": "rgb(136, 136, 136)",
+   "font": "\"Open Sans Condensed\", Helvetica, Arial, sans-serif"
+  },
+  "header": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(136, 136, 136)",
+   "font": "Arial, Helvetica, Geneva, sans-serif"
+  },
+  "footer": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(51, 51, 51)",
+   "font": "\"Open Sans Condensed\", Helvetica, Arial, sans-serif"
+  },
+  "h1": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(54, 54, 54)",
+   "font": "Rokkitt, serif"
+  },
+  "a": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "color": "rgb(54, 54, 54)",
+   "font": "Arial"
+  },
+  "btnBg": [],
+  "allBg": [
+   [
+    "rgba(0, 0, 0, 0)",
+    45
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(0, 56, 128)",
+    1
+   ]
+  ],
+  "headColor": [
+   [
+    "rgb(0, 56, 128)",
+    5
+   ],
+   [
+    "rgb(156, 157, 160)",
+    1
+   ]
+  ],
+  "linkColor": [
+   [
+    "rgb(0, 33, 113)",
+    13
+   ],
+   [
+    "rgb(0, 56, 128)",
+    5
+   ],
+   [
+    "rgb(0, 136, 204)",
+    2
+   ],
+   [
+    "rgb(54, 54, 54)",
+    1
+   ],
+   [
+    "rgb(1, 202, 62)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Open Sans Condensed\", Helvetica, Arial, sans-serif",
+    25
+   ],
+   [
+    "\"Open Sans Condensed\", sans-serif",
+    13
+   ],
+   [
+    "Arial, Helvetica, Geneva, sans-serif",
+    6
+   ],
+   [
+    "\"Open Sans Condensed\", cursive",
+    6
+   ],
+   [
+    "\"Open Sans Condensed\", serif",
+    6
+   ],
+   [
+    "Arial",
+    1
+   ]
+  ],
+  "heads": [
+   "STUDIO AESSE"
+  ],
+  "addr": null,
+  "final": "https://www.studioaesse.com/"
+ },
+ "home_png": true,
+ "candidates": [
+  "https://www.studioaesse.com/immobile-bologna-murri_affitto_appartamento_265002.html",
+  "https://www.studioaesse.com/immobile-bologna-murri_affitto_stanza_264937.html",
+  "https://www.studioaesse.com/immobile-bologna-saffi_affitto_appartamento_264936.html",
+  "https://www.studioaesse.com/immobile-bologna-centro-storico_affitto_appartamento_264935.html",
+  "https://www.studioaesse.com/immobile-bologna-centro-storico_affitto_appartamento_264923.html",
+  "https://www.studioaesse.com/immobile-bologna-saffi_affitto_appartamento_264878.html",
+  "https://www.studioaesse.com/immobile-bologna-centro-storico_affitto_appartamento_264876.html",
+  "https://www.studioaesse.com/immobile-bologna-murri_affitto_stanza_264875.html",
+  "https://www.studioaesse.com/immobile-bologna-murri_affitto_appartamento_264776.html"
+ ],
+ "listings": [
+  {
+   "url": "https://www.studioaesse.com/immobile-bologna-murri_affitto_appartamento_265002.html",
+   "title": "appartamento in affitto a bologna rif:25GN",
+   "h1": null,
+   "h2": [
+    "RIF: 25GN - APPARTAMENTO IN AFFITTO A BOLOGNA",
+    "DESCRIZIONE",
+    "VISUALIZZA SULLA MAPPA",
+    "STUDIO AESSE",
+    "DOVE SIAMO",
+    "MENÙ"
+   ],
+   "ogTitle": "appartamento in affitto -  Bologna - Murri - 920 euro",
+   "ogImage": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+   "ogDesc": "AFFITTASI APPARTAMENTO IN VIA GANDINO (Giardini Margherita) da DICEMBRE2026/GENNAIO 2027 parzialmente arredato (cucina completa come da foto, armadio camera, lavastoviglie, lavatrice e asciugatrice) composto da ingresso, ampia cucina abitabile, sala/soggiorno, camera da letto, bagno (mq. 77) cantina e lavanderia mq. 12, posto auto riservato in cortile. Riscaldamento centralizzato, aria condizionata, inferriate, porta blindata.€ 920 mensili canone agevolato 6+2 cedolare secca -",
+   "desc": "Studio aesse Presenta l'immobile: 25GN. caratteristiche:  Immobile residenziale, condizioni: ristrutturato,3locali,77 mq,1 bagni,1 camere,posto auto esclusivo,con balcone,con terrazzo,con cantina, giardino: comune, cucina: abitabile, riscaldamento: centralizzato, con condizionatore",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/2_6ae8655edfa70.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/5_6ae8656322d24.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/6_6ae86566380f9.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/IMG_3567_6aea1cb6a8cbf.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.studioaesse.com/0162/00265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+    "https://www.studioaesse.com/0162/00265002/IMG_7931-mi-puoi-togliere-il-letto-e-rendere-pi-luminosa-qu_6aea1ce9b24d3.jpg"
+   ],
+   "descBlock": "AFFITTASI APPARTAMENTO IN VIA GANDINO (Giardini Margherita) da DICEMBRE2026/GENNAIO 2027 parzialmente arredato (cucina completa come da foto, armadio camera, lavastoviglie, lavatrice e asciugatrice) composto da ingresso, ampia cucina abitabile, sala/soggiorno, camera da letto, bagno (mq. 77) cantina e lavanderia mq. 12, posto auto riservato in cortile. Riscaldamento centralizzato, aria condizionata, inferriate, porta blindata.€ 920 mensili canone agevolato 6+2 cedolare secca -",
+   "text": "HOME\nDOVE SIAMO\nRESIDENZIALE \nCOMMERCIALE \nLA NOSTRA REALTA'\nCONTATTI\nSLIDE SHOW\nRIF: 25GN - APPARTAMENTO IN AFFITTO A BOLOGNA\nMURRI\n€. 920\nSuperficie:\nMq. 77\nCondizioni:\nristrutturato\nDisponibilità:\nlibero\nServizi:\n1\nNum. Vani:\n3\nNum. Camere:\n1\nBalcone:\nNO\nTerrazzo:\nSI\nCantina:\nSI\nPiano:\npiano rialzato\nSpese cond. mensili:\n120\nAscensore:\nSI\nCucina:\nabitabile\nRiscaldamento:\ncentralizzato\nCondizionatore:\nSI\nBox Auto:\nposto auto esclusivo\nGiardino:\ncomune\nClasse Energetica\nF\nDESCRIZIONE\n\nAFFITTASI APPARTAMENTO IN VIA GANDINO (Giardini Margherita) da DICEMBRE2026/GENNAIO 2027 parzialmente arredato (cucina completa come da foto, armadio camera, lavastoviglie, lavatrice e asciugatrice) composto da ingresso, ampia cucina abitabile, sala/soggiorno, camera da letto, bagno (mq. 77) cantina e lavanderia mq. 12, posto auto riservato in cortile. Riscaldamento centralizzato, aria condizionata, inferriate, porta blindata.€ 920 mensili canone agevolato 6+2 cedolare secca -\n\nSTAMPA\nRICHIEDI INFORMAZIONI\nVISUALIZZA SULLA MAPPA\nSTUDIO AESSE\n\n2015 © Studio aesse\n\nP. IVA: 02616521205\n\nPowered By: 1clickimmobiliare.it - Kiwi Gestionale Immobiliare\n\nPrivacy Policy\n\nDOVE SIAMO\n\nVia D'Azeglio 23 Bologna\n\nTel:0512960619\n\ninfo@studioaesse.com\n\nPagina Facebook\n\nMENÙ\nHome\nDove siamo\nResidenziale\nCommerciale\nLa nostra realta'\nContatti\nSCARICA LE APP\n ",
+   "parsed": {
+    "prezzo": "€.",
+    "mq": "Mq. 77",
+    "locali": "3",
+    "camere": "1",
+    "bagni": null,
+    "piano": "piano rialzato",
+    "classe_energetica": "F",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/2_6ae8655edfa70.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/5_6ae8656322d24.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/6_6ae86566380f9.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/265002/IMG_3567_6aea1cb6a8cbf.JPG",
+    "https://www.studioaesse.com/0162/00265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg",
+    "https://www.studioaesse.com/0162/00265002/IMG_7931-mi-puoi-togliere-il-letto-e-rendere-pi-luminosa-qu_6aea1ce9b24d3.jpg"
+   ],
+   "foto": "foto-1.jpg",
+   "foto_src": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/265002/4-ti-chiedo-di-mettere-le-sedie-attorno-al-tavolo-re-puoi-togliere-il-mobile-color-legno-a-sinistra_6ae86560dbfb2.jpg"
+  },
+  {
+   "url": "https://www.studioaesse.com/immobile-bologna-murri_affitto_stanza_264937.html",
+   "title": "stanza in affitto a bologna rif:OR4_1",
+   "h1": null,
+   "h2": [
+    "RIF: OR4_1 - STANZA IN AFFITTO A BOLOGNA",
+    "DESCRIZIONE",
+    "VISUALIZZA SULLA MAPPA",
+    "STUDIO AESSE",
+    "DOVE SIAMO",
+    "MENÙ"
+   ],
+   "ogTitle": "stanza in affitto -  Bologna - Murri - 600 euro",
+   "ogImage": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264937/1__18__6ae8ca0091ab9.JPG",
+   "ogDesc": "PIAZZA TRENTO TRIESTE - Disponibile dal 15 Novembre 2026. Nuova realizzazione: splendido appartamento composto da ingresso, cucina abitabile nuova con terrazzo, 4 camere da letto (3 matrimoniali, 1 a 1 piazza e mezzo con terrazzo), due bagni, ripostiglio con zona lavanderia.<br/>Contratti individuali di 10 mesi fino a Settembre 2027. Prezzo € 600 al mese per camera + € 100 di spese (luce, acqua, gas, tassa rifiuti, condominio, wi-fi) salvo conguaglio.<br/>",
+   "desc": "Studio aesse Presenta l'immobile: OR4_1. caratteristiche:  Immobile residenziale, condizioni: ristrutturato,1locali,20 mq,2 bagni,4 camere,nessuno,con balcone,con terrazzo,con cantina, giardino: nessuno, cucina: abitabile, riscaldamento: centralizzato, con condizionatore",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/1__18__6ae8ca0091ab9.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/1__18__6ae8ca0091ab9.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/balcone_2_6adb306573717.jpg",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/corridoio_6adb306893741.jpg",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/d33cc932-704a-4be9-88ef-b2f3efc7dd76_6adb306acea67.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/DA_PUBBLICARE_6adb306be2b39.jpg",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.studioaesse.com/0162/00264937/balcone_2_6adb306573717.jpg",
+    "https://www.studioaesse.com/0162/00264937/corridoio_6adb306893741.jpg",
+    "https://www.studioaesse.com/0162/00264937/DA_PUBBLICARE_6adb306be2b39.jpg",
+    "https://www.studioaesse.com/0162/00264937/esterno_6adb306e8374f.jpg",
+    "https://www.studioaesse.com/0162/00264937/terrazzo_6adb308e8497f.jpg"
+   ],
+   "descBlock": "PIAZZA TRENTO TRIESTE - Disponibile dal 15 Novembre 2026. Nuova realizzazione: splendido appartamento composto da ingresso, cucina abitabile nuova con terrazzo, 4 camere da letto (3 matrimoniali, 1 a 1 piazza e mezzo con terrazzo), due bagni, ripostiglio con zona lavanderia.\nContratti individuali di 10 mesi fino a Settembre 2027. Prezzo € 600 al mese per camera + € 100 di spese (luce, acqua, gas, tassa rifiuti, condominio, wi-fi) salvo conguaglio.",
+   "text": "HOME\nDOVE SIAMO\nRESIDENZIALE \nCOMMERCIALE \nLA NOSTRA REALTA'\nCONTATTI\nSLIDE SHOW\nRIF: OR4_1 - STANZA IN AFFITTO A BOLOGNA\nMURRI\n€. 600\nSuperficie:\nMq. 20\nCondizioni:\nristrutturato\nDisponibilità:\nlibero\nServizi:\n2\nNum. Vani:\n1\nNum. Camere:\n4\nBalcone:\nSI\nTerrazzo:\nSI\nCantina:\nNO\nPiano:\n1\nPiani Totali:\n6\nSpese cond. mensili:\n100\nAscensore:\nSI\nCucina:\nabitabile\nRiscaldamento:\ncentralizzato\nCondizionatore:\nSI\nBox Auto:\nnessuno\nGiardino:\nnessuno\nClasse Energetica\nE\nDESCRIZIONE\n\nPIAZZA TRENTO TRIESTE - Disponibile dal 15 Novembre 2026. Nuova realizzazione: splendido appartamento composto da ingresso, cucina abitabile nuova con terrazzo, 4 camere da letto (3 matrimoniali, 1 a 1 piazza e mezzo con terrazzo), due bagni, ripostiglio con zona lavanderia.\nContratti individuali di 10 mesi fino a Settembre 2027. Prezzo € 600 al mese per camera + € 100 di spese (luce, acqua, gas, tassa rifiuti, condominio, wi-fi) salvo conguaglio.\n\n\nSTAMPA\nRICHIEDI INFORMAZIONI\nVISUALIZZA SULLA MAPPA\nSTUDIO AESSE\n\n2015 © Studio aesse\n\nP. IVA: 02616521205\n\nPowered By: 1clickimmobiliare.it - Kiwi Gestionale Immobiliare\n\nPrivacy Policy\n\nDOVE SIAMO\n\nVia D'Azeglio 23 Bologna\n\nTel:0512960619\n\ninfo@studioaesse.com\n\nPagina Facebook\n\nMENÙ\nHome\nDove siamo\nResidenziale\nCommerciale\nLa nostra realta'\nContatti\nSCARICA LE APP\n ",
+   "parsed": {
+    "prezzo": "€.",
+    "mq": "Mq. 20",
+    "locali": "1",
+    "camere": "4",
+    "bagni": null,
+    "piano": "1",
+    "classe_energetica": "E",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264937/1__18__6ae8ca0091ab9.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/1__18__6ae8ca0091ab9.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/1__18__6ae8ca0091ab9.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/balcone_2_6adb306573717.jpg",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/corridoio_6adb306893741.jpg",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/d33cc932-704a-4be9-88ef-b2f3efc7dd76_6adb306acea67.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264937/DA_PUBBLICARE_6adb306be2b39.jpg",
+    "https://www.studioaesse.com/0162/00264937/balcone_2_6adb306573717.jpg",
+    "https://www.studioaesse.com/0162/00264937/corridoio_6adb306893741.jpg",
+    "https://www.studioaesse.com/0162/00264937/DA_PUBBLICARE_6adb306be2b39.jpg",
+    "https://www.studioaesse.com/0162/00264937/esterno_6adb306e8374f.jpg",
+    "https://www.studioaesse.com/0162/00264937/terrazzo_6adb308e8497f.jpg"
+   ],
+   "foto": "foto-2.jpg",
+   "foto_src": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264937/1__18__6ae8ca0091ab9.JPG"
+  },
+  {
+   "url": "https://www.studioaesse.com/immobile-bologna-saffi_affitto_appartamento_264936.html",
+   "title": "appartamento in affitto a bologna rif:MARZ9_1",
+   "h1": null,
+   "h2": [
+    "RIF: MARZ9_1 - APPARTAMENTO IN AFFITTO A BOLOGNA",
+    "DESCRIZIONE",
+    "VISUALIZZA SULLA MAPPA",
+    "STUDIO AESSE",
+    "DOVE SIAMO",
+    "MENÙ"
+   ],
+   "ogTitle": "appartamento in affitto -  Bologna - Saffi - 950 euro",
+   "ogImage": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264936/IMG_2889_6adb3701ca357.JPG",
+   "ogDesc": "ZONA OSPEDALE MAGGIORE -- VIA MARZABOTTO -- IN AFFITTO appartamento con 3 ampie camere matrimoniali, tinello con balcone, cucinotto, bagno, ingresso spazioso, ripostiglio e cantina. Arredato di solo cucina nuova. Contratto canone agevolato in cedolare secca  € 950 mensili -- riscaldamento autonomo caldaia nuova --  no nucleo familiare solo  lavoratori/lavoratrici o studenti .",
+   "desc": "Studio aesse Presenta l'immobile: MARZ9_1. caratteristiche:  Immobile residenziale, condizioni: ottimo,5locali,100 mq,1 bagni,3 camere,nessuno,con balcone,con terrazzo,con cantina, giardino: comune, cucina: semiabitabile, riscaldamento: autonomo, con condizionatore",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2889_6adb3701ca357.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2889_6adb3701ca357.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2888_6adb36fe9e6fa.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2890_6adb3704ed4b9.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2891_6adb3708a5507.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2892_6adb370c09fb0.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "ZONA OSPEDALE MAGGIORE -- VIA MARZABOTTO -- IN AFFITTO appartamento con 3 ampie camere matrimoniali, tinello con balcone, cucinotto, bagno, ingresso spazioso, ripostiglio e cantina. Arredato di solo cucina nuova. Contratto canone agevolato in cedolare secca € 950 mensili -- riscaldamento autonomo caldaia nuova -- no nucleo familiare solo lavoratori/lavoratrici o studenti .",
+   "text": "HOME\nDOVE SIAMO\nRESIDENZIALE \nCOMMERCIALE \nLA NOSTRA REALTA'\nCONTATTI\nSLIDE SHOW\nRIF: MARZ9_1 - APPARTAMENTO IN AFFITTO A BOLOGNA\nSAFFI\n€. 950\nSuperficie:\nMq. 100\nCondizioni:\nottimo\nDisponibilità:\nlibero\nServizi:\n1\nNum. Vani:\n5\nNum. Camere:\n3\nBalcone:\nSI\nTerrazzo:\nNO\nCantina:\nSI\nPiano:\n2\nPiani Totali:\n4\nSpese cond. mensili:\n60\nAscensore:\nSI\nCucina:\nsemiabitabile\nRiscaldamento:\nautonomo\nCondizionatore:\nSI\nBox Auto:\nnessuno\nGiardino:\ncomune\nClasse Energetica\nC\nDESCRIZIONE\n\nZONA OSPEDALE MAGGIORE -- VIA MARZABOTTO -- IN AFFITTO appartamento con 3 ampie camere matrimoniali, tinello con balcone, cucinotto, bagno, ingresso spazioso, ripostiglio e cantina. Arredato di solo cucina nuova. Contratto canone agevolato in cedolare secca € 950 mensili -- riscaldamento autonomo caldaia nuova -- no nucleo familiare solo lavoratori/lavoratrici o studenti .\n\nSTAMPA\nRICHIEDI INFORMAZIONI\nVISUALIZZA SULLA MAPPA\nSTUDIO AESSE\n\n2015 © Studio aesse\n\nP. IVA: 02616521205\n\nPowered By: 1clickimmobiliare.it - Kiwi Gestionale Immobiliare\n\nPrivacy Policy\n\nDOVE SIAMO\n\nVia D'Azeglio 23 Bologna\n\nTel:0512960619\n\ninfo@studioaesse.com\n\nPagina Facebook\n\nMENÙ\nHome\nDove siamo\nResidenziale\nCommerciale\nLa nostra realta'\nContatti\nSCARICA LE APP\n ",
+   "parsed": {
+    "prezzo": "€.",
+    "mq": "Mq. 100",
+    "locali": "5",
+    "camere": "3",
+    "bagni": null,
+    "piano": "2",
+    "classe_energetica": "C",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264936/IMG_2889_6adb3701ca357.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2889_6adb3701ca357.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2889_6adb3701ca357.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2888_6adb36fe9e6fa.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2890_6adb3704ed4b9.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2891_6adb3708a5507.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264936/IMG_2892_6adb370c09fb0.JPG"
+   ],
+   "foto": "foto-3.jpg",
+   "foto_src": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264936/IMG_2889_6adb3701ca357.JPG"
+  },
+  {
+   "url": "https://www.studioaesse.com/immobile-bologna-centro-storico_affitto_appartamento_264935.html",
+   "title": "appartamento in affitto a bologna rif:10MRG_1",
+   "h1": null,
+   "h2": [
+    "RIF: 10MRG_1 - APPARTAMENTO IN AFFITTO A BOLOGNA",
+    "DESCRIZIONE",
+    "VISUALIZZA SULLA MAPPA",
+    "STUDIO AESSE",
+    "DOVE SIAMO",
+    "MENÙ"
+   ],
+   "ogTitle": "appartamento in affitto -  Bologna - Centro Storico - 2200 euro",
+   "ogImage": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264935/IMG_2273_6adb32a81f68a.JPG",
+   "ogDesc": "CENTRO STORICO MERCATO DELLE ERBE  - APPARTAMENTO APPENA RISTRUTTURATO E ARREDATO DI CUCINA NUOVA - IDEALE PER 4/5 PERSONE -  L'appartamento di ampie dimensioni, composto da ingresso, Cucina di 25 mq con terrazza,  5 camere da letto grandi, tutte con balcone, 3 bagni tutti nuovi,  lavanderia separata, cantina. Appartamento ideale per un gruppo di 5 studenti o lavoratori. Prezzo mensile: € 2.200 + € 250 di spese condominiali (che comprendono il riscaldamento) - DISPONIBILE DAL 1 DICEMBRE 2026.",
+   "desc": "Studio aesse Presenta l'immobile: 10MRG_1. caratteristiche:  Immobile residenziale, condizioni: ristrutturato,5locali,180 mq,3 bagni,4 camere,nessuno,con balcone,con cantina, giardino: nessuno, cucina: abitabile, riscaldamento: centralizzato",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2273_6adb32a81f68a.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2273_6adb32a81f68a.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2261_6adb3280bb316.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2262_6adb328528279.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2263_6adb32890bca4.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2264_6adb328d11b83.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [
+    "https://www.studioaesse.com/0162/00264935/Immagine_6adb32f0cf919.jpg"
+   ],
+   "descBlock": "CENTRO STORICO MERCATO DELLE ERBE - APPARTAMENTO APPENA RISTRUTTURATO E ARREDATO DI CUCINA NUOVA - IDEALE PER 4/5 PERSONE - L'appartamento di ampie dimensioni, composto da ingresso, Cucina di 25 mq con terrazza, 5 camere da letto grandi, tutte con balcone, 3 bagni tutti nuovi, lavanderia separata, cantina. Appartamento ideale per un gruppo di 5 studenti o lavoratori. Prezzo mensile: € 2.200 + € 250 di spese condominiali (che comprendono il riscaldamento) - DISPONIBILE DAL 1 DICEMBRE 2026.",
+   "text": "HOME\nDOVE SIAMO\nRESIDENZIALE \nCOMMERCIALE \nLA NOSTRA REALTA'\nCONTATTI\nSLIDE SHOW\nRIF: 10MRG_1 - APPARTAMENTO IN AFFITTO A BOLOGNA\nCENTRO STORICO\n€. 2.200\nSuperficie:\nMq. 180\nCondizioni:\nristrutturato\nDisponibilità:\nlibero\nServizi:\n3\nNum. Vani:\n5\nNum. Camere:\n4\nBalcone:\nSI\nCantina:\nNO\nPiano:\nultimo\nPiani Totali:\n8\nSpese cond. mensili:\n250\nAscensore:\nSI\nCucina:\nabitabile\nRiscaldamento:\ncentralizzato\nCondizionatore:\nNO\nBox Auto:\nnessuno\nGiardino:\nnessuno\nClasse Energetica\nG\nDESCRIZIONE\n\nCENTRO STORICO MERCATO DELLE ERBE - APPARTAMENTO APPENA RISTRUTTURATO E ARREDATO DI CUCINA NUOVA - IDEALE PER 4/5 PERSONE - L'appartamento di ampie dimensioni, composto da ingresso, Cucina di 25 mq con terrazza, 5 camere da letto grandi, tutte con balcone, 3 bagni tutti nuovi, lavanderia separata, cantina. Appartamento ideale per un gruppo di 5 studenti o lavoratori. Prezzo mensile: € 2.200 + € 250 di spese condominiali (che comprendono il riscaldamento) - DISPONIBILE DAL 1 DICEMBRE 2026.\n\nSTAMPA\nRICHIEDI INFORMAZIONI\nVISUALIZZA SULLA MAPPA\nSTUDIO AESSE\n\n2015 © Studio aesse\n\nP. IVA: 02616521205\n\nPowered By: 1clickimmobiliare.it - Kiwi Gestionale Immobiliare\n\nPrivacy Policy\n\nDOVE SIAMO\n\nVia D'Azeglio 23 Bologna\n\nTel:0512960619\n\ninfo@studioaesse.com\n\nPagina Facebook\n\nMENÙ\nHome\nDove siamo\nResidenziale\nCommerciale\nLa nostra realta'\nContatti\nSCARICA LE APP\n ",
+   "parsed": {
+    "prezzo": "€.",
+    "mq": "Mq. 180",
+    "locali": "5",
+    "camere": "4",
+    "bagni": "3",
+    "piano": "ultimo",
+    "classe_energetica": "G",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264935/IMG_2273_6adb32a81f68a.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2273_6adb32a81f68a.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2273_6adb32a81f68a.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2261_6adb3280bb316.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2262_6adb328528279.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2263_6adb32890bca4.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264935/IMG_2264_6adb328d11b83.JPG",
+    "https://www.studioaesse.com/0162/00264935/Immagine_6adb32f0cf919.jpg"
+   ],
+   "foto": "foto-4.jpg",
+   "foto_src": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264935/IMG_2273_6adb32a81f68a.JPG"
+  },
+  {
+   "url": "https://www.studioaesse.com/immobile-bologna-centro-storico_affitto_appartamento_264923.html",
+   "title": "appartamento in affitto a bologna rif:12_1",
+   "h1": null,
+   "h2": [
+    "RIF: 12_1 - APPARTAMENTO IN AFFITTO A BOLOGNA",
+    "DESCRIZIONE",
+    "VISUALIZZA SULLA MAPPA",
+    "STUDIO AESSE",
+    "DOVE SIAMO",
+    "MENÙ"
+   ],
+   "ogTitle": "appartamento in affitto -  Bologna - Centro Storico - 900 euro",
+   "ogImage": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264923/YHXF0729_6adb62b6f3b8e.JPG",
+   "ogDesc": "CENTRO VIA ORFEO IN AFFITTO -- appartamento posto all'ultimo piano con ascensore contratto di locazione a  canone agevolato 3+2 e cedolare secca -- Composto da ingresso su soggiorno con balcone e angolo cottura, camera da letto, bagno e cantina. Arredato di cucina € 900 mensili. Riscaldamento autonomo e aria condizionata.",
+   "desc": "Studio aesse Presenta l'immobile: 12_1. caratteristiche:  Immobile residenziale, condizioni: ottimo,2locali,50 mq,1 bagni,1 camere,nessuno,con balcone,con cantina, giardino: nessuno, cucina: angolo cottura, riscaldamento: autonomo, con condizionatore",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/YHXF0729_6adb62b6f3b8e.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/YHXF0729_6adb62b6f3b8e.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/GATY9897_6adb62ab63311.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/GWRW2787_6adb62ac8b1cb.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/HLTO0029_6adb62ad98ec3.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/IPQW3792_6adb62ae9b96b.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "CENTRO VIA ORFEO IN AFFITTO -- appartamento posto all'ultimo piano con ascensore contratto di locazione a canone agevolato 3+2 e cedolare secca -- Composto da ingresso su soggiorno con balcone e angolo cottura, camera da letto, bagno e cantina. Arredato di cucina € 900 mensili. Riscaldamento autonomo e aria condizionata.",
+   "text": "HOME\nDOVE SIAMO\nRESIDENZIALE \nCOMMERCIALE \nLA NOSTRA REALTA'\nCONTATTI\nSLIDE SHOW\nRIF: 12_1 - APPARTAMENTO IN AFFITTO A BOLOGNA\nCENTRO STORICO\n€. 900\nSuperficie:\nMq. 50\nCondizioni:\nottimo\nDisponibilità:\nlibero\nServizi:\n1\nNum. Vani:\n2\nNum. Camere:\n1\nBalcone:\nSI\nCantina:\nSI\nPiano:\n4\nPiani Totali:\n4\nSpese cond. mensili:\n50\nCucina:\nangolo cottura\nRiscaldamento:\nautonomo\nCondizionatore:\nSI\nBox Auto:\nnessuno\nGiardino:\nnessuno\nClasse Energetica\nF\nDESCRIZIONE\n\nCENTRO VIA ORFEO IN AFFITTO -- appartamento posto all'ultimo piano con ascensore contratto di locazione a canone agevolato 3+2 e cedolare secca -- Composto da ingresso su soggiorno con balcone e angolo cottura, camera da letto, bagno e cantina. Arredato di cucina € 900 mensili. Riscaldamento autonomo e aria condizionata.\n\nSTAMPA\nRICHIEDI INFORMAZIONI\nVISUALIZZA SULLA MAPPA\nSTUDIO AESSE\n\n2015 © Studio aesse\n\nP. IVA: 02616521205\n\nPowered By: 1clickimmobiliare.it - Kiwi Gestionale Immobiliare\n\nPrivacy Policy\n\nDOVE SIAMO\n\nVia D'Azeglio 23 Bologna\n\nTel:0512960619\n\ninfo@studioaesse.com\n\nPagina Facebook\n\nMENÙ\nHome\nDove siamo\nResidenziale\nCommerciale\nLa nostra realta'\nContatti\nSCARICA LE APP\n ",
+   "parsed": {
+    "prezzo": "€.",
+    "mq": "Mq. 50",
+    "locali": "2",
+    "camere": "1",
+    "bagni": null,
+    "piano": "4",
+    "classe_energetica": "F",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264923/YHXF0729_6adb62b6f3b8e.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/YHXF0729_6adb62b6f3b8e.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/YHXF0729_6adb62b6f3b8e.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/GATY9897_6adb62ab63311.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/GWRW2787_6adb62ac8b1cb.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/HLTO0029_6adb62ad98ec3.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264923/IPQW3792_6adb62ae9b96b.JPG"
+   ],
+   "foto": "foto-5.jpg",
+   "foto_src": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264923/YHXF0729_6adb62b6f3b8e.JPG"
+  },
+  {
+   "url": "https://www.studioaesse.com/immobile-bologna-saffi_affitto_appartamento_264878.html",
+   "title": "appartamento in affitto a bologna rif:MARZ9",
+   "h1": null,
+   "h2": [
+    "RIF: MARZ9 - APPARTAMENTO IN AFFITTO A BOLOGNA",
+    "DESCRIZIONE",
+    "VISUALIZZA SULLA MAPPA",
+    "STUDIO AESSE",
+    "DOVE SIAMO",
+    "MENÙ"
+   ],
+   "ogTitle": "appartamento in affitto -  Bologna - Saffi - 950 euro",
+   "ogImage": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264878/IMG_2889_6adb3701ca357.JPG",
+   "ogDesc": "ZONA OSPEDALE MAGGIORE -- VIA MARZABOTTO -- IN AFFITTO appartamento con 3 ampie camere matrimoniali, tinello con balcone, cucinotto, bagno, ingresso spazioso, ripostiglio e cantina. Arredato di solo cucina nuova. Contratto canone agevolato in cedolare secca  € 950 mensili -- riscaldamento autonomo caldaia nuova --  no nucleo familiare solo  lavoratori/lavoratrici o studenti .",
+   "desc": "Studio aesse Presenta l'immobile: MARZ9. caratteristiche:  Immobile residenziale, condizioni: ottimo,5locali,100 mq,1 bagni,3 camere,nessuno,con balcone,con terrazzo,con cantina, giardino: comune, cucina: semiabitabile, riscaldamento: autonomo, con condizionatore",
+   "ld": "",
+   "imgs": [
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2889_6adb3701ca357.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2889_6adb3701ca357.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 1170
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2888_6adb36fe9e6fa.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2890_6adb3704ed4b9.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2891_6adb3708a5507.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    },
+    {
+     "src": "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2892_6adb370c09fb0.JPG",
+     "w": 1170,
+     "h": 877,
+     "rw": 0
+    }
+   ],
+   "bgs": [],
+   "dataSrc": [],
+   "descBlock": "ZONA OSPEDALE MAGGIORE -- VIA MARZABOTTO -- IN AFFITTO appartamento con 3 ampie camere matrimoniali, tinello con balcone, cucinotto, bagno, ingresso spazioso, ripostiglio e cantina. Arredato di solo cucina nuova. Contratto canone agevolato in cedolare secca € 950 mensili -- riscaldamento autonomo caldaia nuova -- no nucleo familiare solo lavoratori/lavoratrici o studenti .",
+   "text": "HOME\nDOVE SIAMO\nRESIDENZIALE \nCOMMERCIALE \nLA NOSTRA REALTA'\nCONTATTI\nSLIDE SHOW\nRIF: MARZ9 - APPARTAMENTO IN AFFITTO A BOLOGNA\nSAFFI\n€. 950\nSuperficie:\nMq. 100\nCondizioni:\nottimo\nDisponibilità:\nlibero\nServizi:\n1\nNum. Vani:\n5\nNum. Camere:\n3\nBalcone:\nSI\nTerrazzo:\nNO\nCantina:\nSI\nPiano:\n2\nPiani Totali:\n4\nSpese cond. mensili:\n60\nAscensore:\nSI\nCucina:\nsemiabitabile\nRiscaldamento:\nautonomo\nCondizionatore:\nSI\nBox Auto:\nnessuno\nGiardino:\ncomune\nClasse Energetica\nC\nDESCRIZIONE\n\nZONA OSPEDALE MAGGIORE -- VIA MARZABOTTO -- IN AFFITTO appartamento con 3 ampie camere matrimoniali, tinello con balcone, cucinotto, bagno, ingresso spazioso, ripostiglio e cantina. Arredato di solo cucina nuova. Contratto canone agevolato in cedolare secca € 950 mensili -- riscaldamento autonomo caldaia nuova -- no nucleo familiare solo lavoratori/lavoratrici o studenti .\n\nSTAMPA\nRICHIEDI INFORMAZIONI\nVISUALIZZA SULLA MAPPA\nSTUDIO AESSE\n\n2015 © Studio aesse\n\nP. IVA: 02616521205\n\nPowered By: 1clickimmobiliare.it - Kiwi Gestionale Immobiliare\n\nPrivacy Policy\n\nDOVE SIAMO\n\nVia D'Azeglio 23 Bologna\n\nTel:0512960619\n\ninfo@studioaesse.com\n\nPagina Facebook\n\nMENÙ\nHome\nDove siamo\nResidenziale\nCommerciale\nLa nostra realta'\nContatti\nSCARICA LE APP\n ",
+   "parsed": {
+    "prezzo": "€.",
+    "mq": "Mq. 100",
+    "locali": "5",
+    "camere": "3",
+    "bagni": null,
+    "piano": "2",
+    "classe_energetica": "C",
+    "tipo": "affitto"
+   },
+   "photos": [
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264878/IMG_2889_6adb3701ca357.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2889_6adb3701ca357.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2889_6adb3701ca357.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2888_6adb36fe9e6fa.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2890_6adb3704ed4b9.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2891_6adb3708a5507.JPG",
+    "https://getimage.kiwiimmobiliare.it/photo/k/none/rc-F2F2F2/1170/877/162/264878/IMG_2892_6adb370c09fb0.JPG"
+   ],
+   "foto": "foto-6.jpg",
+   "foto_src": "https://getimage.kiwiimmobiliare.it/photo/k/none/f/800/600/162/264878/IMG_2889_6adb3701ca357.JPG"
+  }
+ ],
+ "logo": {
+  "file": "logo.png",
+  "src": "https://www.studioaesse.com/images/logo2.png",
+  "size": 32863
+ }
+}
